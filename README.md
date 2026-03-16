@@ -2,6 +2,8 @@
 
 **Language: English** | [繁體中文](README-zh-TW.md)
 
+> **[Read the full text in a single page (EN)](FULL-TEXT-en.md)** | **[全文閱讀（中文）](FULL-TEXT-zh-TW.md)**
+
 ---
 
 ## Abstract

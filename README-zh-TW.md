@@ -2,6 +2,8 @@
 
 **語言：繁體中文** | [English](README.md)
 
+> **[全文閱讀（中文）](FULL-TEXT-zh-TW.md)** | **[Read full text in English](FULL-TEXT-en.md)**
+
 ---
 
 ## 摘要
