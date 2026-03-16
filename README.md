@@ -2,7 +2,14 @@
 
 **Language: English** | [繁體中文](README-zh-TW.md)
 
-> **[Read the full text in a single page (EN)](FULL-TEXT-en.md)** | **[全文閱讀（中文）](FULL-TEXT-zh-TW.md)**
+---
+
+## Read the Full Analysis
+
+| Language | Document |
+|----------|----------|
+| English | **[Full Text (EN)](docs/full-text-en.md)** |
+| 繁體中文 | **[全文閱讀（ZH-TW）](docs/full-text-zh-TW.md)** |
 
 ---
 
@@ -14,26 +21,26 @@ Employing a systems engineering methodology grounded in interdependency analysis
 
 ---
 
-## Table of Contents
+## Chapters Overview
 
-The analysis comprises twelve core chapters and one supplementary chapter. Each chapter is available in English (EN) and Traditional Chinese (ZH-TW).
+The analysis comprises twelve core chapters and one supplementary chapter.
 
-| Ch. | Domain | Description | EN | ZH-TW |
-|:---:|--------|-------------|:--:|:-----:|
-| 00 | Executive Summary | Analytical framework, structural risk overview, twelve-domain summary, core strategic principles, and methodology. | [EN](chapters/en/00-executive-summary.md) | [ZH-TW](chapters/zh-TW/00-executive-summary.md) |
-| 01 | Geostrategic Position | First Island Chain node value, Bashi Channel control, strategic waterways, and Taiwan's role as a regional public good. | [EN](chapters/en/01-geostrategic-position.md) | [ZH-TW](chapters/zh-TW/01-geostrategic-position.md) |
-| 02 | Semiconductor Leverage | Advanced node irreplaceability, geographic concentration of fabs, talent bottlenecks, and strategic interdependence networks. | [EN](chapters/en/02-semiconductor-leverage.md) | [ZH-TW](chapters/zh-TW/02-semiconductor-leverage.md) |
-| 03 | Asymmetric Defense | Cost-exchange ratio logic, submarine denial, unmanned systems, precision strike, and indigenous mass production. | [EN](chapters/en/03-asymmetric-defense.md) | [ZH-TW](chapters/zh-TW/03-asymmetric-defense.md) |
-| 04 | Electromagnetic Spectrum Warfare | Spectrum dominance, anti-jamming communications, electronic countermeasure systems, and EW as the opening move of modern conflict. | [EN](chapters/en/04-electromagnetic-warfare.md) | [ZH-TW](chapters/zh-TW/04-electromagnetic-warfare.md) |
-| 05 | Communications Resilience | Submarine cable vulnerability, LEO satellite backup, high-frequency radio, and community-level mesh networks. | [EN](chapters/en/05-communications-resilience.md) | [ZH-TW](chapters/zh-TW/05-communications-resilience.md) |
-| 06 | Financial Resilience | Sanctions defense, cross-border payment backup, digital asset strategies, and blockchain-based data preservation. | [EN](chapters/en/06-financial-resilience.md) | [ZH-TW](chapters/zh-TW/06-financial-resilience.md) |
-| 07 | Energy Structure | Import dependence, dangerously low LNG reserves, distributed microgrids, and renewable energy transition. | [EN](chapters/en/07-energy-structure.md) | [ZH-TW](chapters/zh-TW/07-energy-structure.md) |
-| 08 | Space Capabilities | Indigenous small satellite constellation, space situational awareness, and space-based communications integration. | [EN](chapters/en/08-space-capabilities.md) | [ZH-TW](chapters/zh-TW/08-space-capabilities.md) |
-| 09 | Quantum Security | Post-quantum cryptography migration, quantum key distribution pilots, and long-term data confidentiality protection. | [EN](chapters/en/09-quantum-security.md) | [ZH-TW](chapters/zh-TW/09-quantum-security.md) |
-| 10 | AI & Distributed Computing | Intelligence fusion, autonomous defense, distributed computing architectures, and blockchain-AI integration for resilience. | [EN](chapters/en/10-ai-distributed-computing.md) | [ZH-TW](chapters/zh-TW/10-ai-distributed-computing.md) |
-| 11 | Cognitive Defense | Countering disinformation and deepfake threats, media literacy, institutional transparency, and social trust infrastructure. | [EN](chapters/en/11-cognitive-defense.md) | [ZH-TW](chapters/zh-TW/11-cognitive-defense.md) |
-| 12 | International Linkages | Shifting from seeking protection to building indispensability through technological interdependence, intelligence cooperation, and democratic values. | [EN](chapters/en/12-international-linkages.md) | [ZH-TW](chapters/zh-TW/12-international-linkages.md) |
-| S1 | Food & Water Security | Food self-sufficiency, water resource constraints, semiconductor ultrapure water demands, and critical infrastructure protection. | [EN](chapters/en/S1-food-water-security.md) | [ZH-TW](chapters/zh-TW/S1-food-water-security.md) |
+| Ch. | Domain | Description |
+|:---:|--------|-------------|
+| 00 | Executive Summary | Analytical framework, structural risk overview, twelve-domain summary, core strategic principles, and methodology. |
+| 01 | Geostrategic Position | First Island Chain node value, Bashi Channel control, strategic waterways, and Taiwan's role as a regional public good. |
+| 02 | Semiconductor Leverage | Advanced node irreplaceability, geographic concentration of fabs, talent bottlenecks, and strategic interdependence networks. |
+| 03 | Asymmetric Defense | Cost-exchange ratio logic, submarine denial, unmanned systems, precision strike, and indigenous mass production. |
+| 04 | Electromagnetic Spectrum Warfare | Spectrum dominance, anti-jamming communications, electronic countermeasure systems, and EW as the opening move of modern conflict. |
+| 05 | Communications Resilience | Submarine cable vulnerability, LEO satellite backup, high-frequency radio, and community-level mesh networks. |
+| 06 | Financial Resilience | Sanctions defense, cross-border payment backup, digital asset strategies, and blockchain-based data preservation. |
+| 07 | Energy Structure | Import dependence, dangerously low LNG reserves, distributed microgrids, and renewable energy transition. |
+| 08 | Space Capabilities | Indigenous small satellite constellation, space situational awareness, and space-based communications integration. |
+| 09 | Quantum Security | Post-quantum cryptography migration, quantum key distribution pilots, and long-term data confidentiality protection. |
+| 10 | AI & Distributed Computing | Intelligence fusion, autonomous defense, distributed computing architectures, and blockchain-AI integration for resilience. |
+| 11 | Cognitive Defense | Countering disinformation and deepfake threats, media literacy, institutional transparency, and social trust infrastructure. |
+| 12 | International Linkages | Shifting from seeking protection to building indispensability through technological interdependence, intelligence cooperation, and democratic values. |
+| S1 | Food & Water Security | Food self-sufficiency, water resource constraints, semiconductor ultrapure water demands, and critical infrastructure protection. |
 
 ---
 
@@ -41,25 +48,17 @@ The analysis comprises twelve core chapters and one supplementary chapter. Each 
 
 This project maintains a structured data layer to support reproducibility and verification of all analytical claims.
 
-### Statistics (`data/statistics/`)
+| Resource | Path | Description |
+|----------|------|-------------|
+| Statistics | `data/statistics/` | Per-chapter quantitative data (JSON). Each entry includes metric, value, unit, date, and source URL. |
+| Timelines | `data/timelines/` | Historical event CSVs covering military incidents, semiconductor milestones, and infrastructure events. |
+| Comparisons | `data/comparisons/` | Cross-country comparative data on defense spending, semiconductor market share, and energy dependency. |
+| Bibliography | `references/bibliography.json` | Master bibliography with 100+ annotated references. |
+| Source Registry | `references/source-registry.json` | Centralized registry mapping source IDs to full bibliographic entries. |
+| Per-chapter References | `references/per-chapter/` | Annotated reference lists for each chapter. |
+| Verification Reports | `docs/verification-report-en.md` | Data verification methodology and audit results. |
 
-JSON files containing quantitative data points for each chapter. Every entry includes the metric name, value, unit, date, and source URL. All files conform to the validation schema at `data/schemas/statistics-schema.json`.
-
-### Timelines (`data/timelines/`)
-
-CSV files documenting historical events relevant to the analysis, including military incidents, semiconductor industry milestones, and infrastructure events. Columns: `date`, `event`, `category`, `significance`, `source_id`, `notes`.
-
-### Comparisons (`data/comparisons/`)
-
-CSV files providing cross-country comparative data on defense spending, global semiconductor market share, and energy dependency ratios.
-
-### Bibliography (`references/bibliography.json`)
-
-Master bibliography with 100+ annotated references. Each entry includes: `id`, `type`, `title`, `authors`, `date`, `url`, and `verified` status. Per-chapter reference lists are available in `references/per-chapter/`.
-
-### Source Registry (`references/source-registry.json`)
-
-Centralized registry mapping source IDs used in data files to their full bibliographic entries.
+All statistics files conform to the validation schema at `data/schemas/statistics-schema.json`.
 
 ---
 
@@ -67,37 +66,28 @@ Centralized registry mapping source IDs used in data files to their full bibliog
 
 ```
 taiwan-national-strategy/
-├── chapters/
-│   ├── en/                          # English chapters (00-12, S1)
-│   │   ├── 00-executive-summary.md
-│   │   ├── 01-geostrategic-position.md
-│   │   ├── ...
-│   │   └── 12-international-linkages.md
-│   └── zh-TW/                       # Traditional Chinese chapters (00-12, S1)
-│       ├── 00-executive-summary.md
-│       ├── 01-geostrategic-position.md
-│       ├── ...
-│       ├── 12-international-linkages.md
-│       └── S1-food-water-security.md
+├── docs/
+│   ├── full-text-en.md                 # Full analysis (English)
+│   ├── full-text-zh-TW.md             # 全文分析（繁體中文）
+│   ├── verification-report-en.md       # Data verification report (EN)
+│   └── verification-report-zh-TW.md    # 資料驗證報告（ZH-TW）
 ├── data/
 │   ├── schemas/
-│   │   └── statistics-schema.json   # JSON Schema for data validation
-│   ├── statistics/                  # Per-chapter quantitative data (JSON)
-│   ├── timelines/                   # Historical event timelines (CSV)
-│   └── comparisons/                 # Cross-country comparisons (CSV)
+│   │   └── statistics-schema.json      # JSON Schema for data validation
+│   ├── statistics/                     # Per-chapter quantitative data (JSON)
+│   ├── timelines/                      # Historical event timelines (CSV)
+│   └── comparisons/                    # Cross-country comparisons (CSV)
 ├── references/
-│   ├── bibliography.json            # Master bibliography
-│   ├── source-registry.json         # Source ID registry
-│   └── per-chapter/                 # Per-chapter reference lists
-├── verification/
-│   ├── en/                          # English verification reports
-│   └── zh-TW/                       # Chinese verification reports
+│   ├── bibliography.json               # Master bibliography
+│   ├── source-registry.json            # Source ID registry
+│   └── per-chapter/                    # Per-chapter reference lists
 ├── CHANGELOG.md
 ├── CITATION.cff
 ├── CONTRIBUTING.md
 ├── CONTRIBUTING-zh-TW.md
 ├── LICENSE
-└── README.md
+├── README.md
+└── README-zh-TW.md
 ```
 
 ---

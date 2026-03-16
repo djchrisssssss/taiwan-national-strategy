@@ -1,6 +1,6 @@
 # Taiwan's Multi-Domain National Security Strategy: A Comprehensive Analysis
 
-**Language: English** | [繁體中文](FULL-TEXT-zh-TW.md)
+**Language: English** | [繁體中文全文](full-text-zh-TW.md) | [Back to Home](../README.md)
 
 ## Table of Contents
 

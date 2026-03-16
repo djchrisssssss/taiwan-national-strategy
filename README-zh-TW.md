@@ -2,7 +2,14 @@
 
 **語言：繁體中文** | [English](README.md)
 
-> **[全文閱讀（中文）](FULL-TEXT-zh-TW.md)** | **[Read full text in English](FULL-TEXT-en.md)**
+---
+
+## 閱讀全文
+
+| 語言 | 文件 |
+|------|------|
+| 繁體中文 | **[全文閱讀（ZH-TW）](docs/full-text-zh-TW.md)** |
+| English | **[Full Text (EN)](docs/full-text-en.md)** |
 
 ---
 
@@ -14,26 +21,26 @@
 
 ---
 
-## 目錄
+## 章節總覽
 
-本分析包含十二個核心章節與一個補充章節。每章皆提供繁體中文（ZH-TW）與英文（EN）版本。
+本分析包含十二個核心章節與一個補充章節。
 
-| 章節 | 領域 | 說明 | ZH-TW | EN |
-|:----:|------|------|:-----:|:--:|
-| 00 | 執行摘要 | 分析框架、結構性風險概述、十二域總覽、核心戰略原則與方法論。 | [ZH-TW](chapters/zh-TW/00-executive-summary.md) | [EN](chapters/en/00-executive-summary.md) |
-| 01 | 地緣戰略位置 | 第一島鏈節點價值、巴士海峽控制、戰略水道，以及台灣作為區域公共財的角色定位。 | [ZH-TW](chapters/zh-TW/01-geostrategic-position.md) | [EN](chapters/en/01-geostrategic-position.md) |
-| 02 | 半導體槓桿 | 先進製程的不可替代性、晶圓廠地理集中風險、人才瓶頸與戰略互依網絡建構。 | [ZH-TW](chapters/zh-TW/02-semiconductor-leverage.md) | [EN](chapters/en/02-semiconductor-leverage.md) |
-| 03 | 不對稱防衛 | 成本交換比邏輯、潛艦拒止、無人系統、精準打擊與本土量產能力。 | [ZH-TW](chapters/zh-TW/03-asymmetric-defense.md) | [EN](chapters/en/03-asymmetric-defense.md) |
-| 04 | 電磁頻譜戰 | 頻譜控制權、抗干擾通訊、電子反制系統，以及電子戰作為現代衝突的先行戰場。 | [ZH-TW](chapters/zh-TW/04-electromagnetic-warfare.md) | [EN](chapters/en/04-electromagnetic-warfare.md) |
-| 05 | 通訊韌性 | 海底電纜脆弱性、低軌道衛星備援、高頻無線電與社區級網狀網路。 | [ZH-TW](chapters/zh-TW/05-communications-resilience.md) | [EN](chapters/en/05-communications-resilience.md) |
-| 06 | 金融韌性 | 制裁防禦、跨境支付備援、數位資產策略與區塊鏈數據保存。 | [ZH-TW](chapters/zh-TW/06-financial-resilience.md) | [EN](chapters/en/06-financial-resilience.md) |
-| 07 | 能源結構 | 進口依賴、天然氣儲備嚴重不足、分散式微電網與再生能源轉型。 | [ZH-TW](chapters/zh-TW/07-energy-structure.md) | [EN](chapters/en/07-energy-structure.md) |
-| 08 | 太空能力 | 自主小型衛星星座、太空態勢感知與太空通訊整合。 | [ZH-TW](chapters/zh-TW/08-space-capabilities.md) | [EN](chapters/en/08-space-capabilities.md) |
-| 09 | 量子安全 | 後量子密碼學遷移、量子密鑰分發試驗計畫與長期數據機密性保護。 | [ZH-TW](chapters/zh-TW/09-quantum-security.md) | [EN](chapters/en/09-quantum-security.md) |
-| 10 | 人工智慧與分散式運算 | 情報融合、自主防禦、分散式運算架構與區塊鏈-AI 整合韌性。 | [ZH-TW](chapters/zh-TW/10-ai-distributed-computing.md) | [EN](chapters/en/10-ai-distributed-computing.md) |
-| 11 | 認知防禦 | 反制假訊息與深偽威脅、媒體素養、制度透明度與社會信任基礎設施。 | [ZH-TW](chapters/zh-TW/11-cognitive-defense.md) | [EN](chapters/en/11-cognitive-defense.md) |
-| 12 | 國際連結 | 從尋求保護到建構不可或缺性——透過技術互依、情報合作與民主價值實現戰略轉型。 | [ZH-TW](chapters/zh-TW/12-international-linkages.md) | [EN](chapters/en/12-international-linkages.md) |
-| S1 | 糧食與水資源安全 | 糧食自給率、水資源結構制約、半導體超純水需求與關鍵基礎設施保護。 | [ZH-TW](chapters/zh-TW/S1-food-water-security.md) | [EN](chapters/en/S1-food-water-security.md) |
+| 章節 | 領域 | 說明 |
+|:----:|------|------|
+| 00 | 執行摘要 | 分析框架、結構性風險概述、十二域總覽、核心戰略原則與方法論。 |
+| 01 | 地緣戰略位置 | 第一島鏈節點價值、巴士海峽控制、戰略水道，以及台灣作為區域公共財的角色定位。 |
+| 02 | 半導體槓桿 | 先進製程的不可替代性、晶圓廠地理集中風險、人才瓶頸與戰略互依網絡建構。 |
+| 03 | 不對稱防衛 | 成本交換比邏輯、潛艦拒止、無人系統、精準打擊與本土量產能力。 |
+| 04 | 電磁頻譜戰 | 頻譜控制權、抗干擾通訊、電子反制系統，以及電子戰作為現代衝突的先行戰場。 |
+| 05 | 通訊韌性 | 海底電纜脆弱性、低軌道衛星備援、高頻無線電與社區級網狀網路。 |
+| 06 | 金融韌性 | 制裁防禦、跨境支付備援、數位資產策略與區塊鏈數據保存。 |
+| 07 | 能源結構 | 進口依賴、天然氣儲備嚴重不足、分散式微電網與再生能源轉型。 |
+| 08 | 太空能力 | 自主小型衛星星座、太空態勢感知與太空通訊整合。 |
+| 09 | 量子安全 | 後量子密碼學遷移、量子密鑰分發試驗計畫與長期數據機密性保護。 |
+| 10 | 人工智慧與分散式運算 | 情報融合、自主防禦、分散式運算架構與區塊鏈-AI 整合韌性。 |
+| 11 | 認知防禦 | 反制假訊息與深偽威脅、媒體素養、制度透明度與社會信任基礎設施。 |
+| 12 | 國際連結 | 從尋求保護到建構不可或缺性——透過技術互依、情報合作與民主價值實現戰略轉型。 |
+| S1 | 糧食與水資源安全 | 糧食自給率、水資源結構制約、半導體超純水需求與關鍵基礎設施保護。 |
 
 ---
 
@@ -41,25 +48,17 @@
 
 本專案維護結構化數據層，以支持所有分析論述的可重現性與可驗證性。
 
-### 統計數據 (`data/statistics/`)
+| 資源 | 路徑 | 說明 |
+|------|------|------|
+| 統計數據 | `data/statistics/` | 各章節量化數據（JSON），每筆含指標、數值、單位、日期與來源。 |
+| 時間軸 | `data/timelines/` | 軍事事件、半導體里程碑與基礎設施事件（CSV）。 |
+| 跨國比較 | `data/comparisons/` | 國防支出、半導體市場份額與能源依賴跨國數據（CSV）。 |
+| 參考書目 | `references/bibliography.json` | 100+ 筆註釋式參考文獻。 |
+| 來源登記簿 | `references/source-registry.json` | 來源 ID 對應完整書目條目。 |
+| 章節參考 | `references/per-chapter/` | 各章節獨立參考文獻列表。 |
+| 驗證報告 | `docs/verification-report-zh-TW.md` | 資料驗證方法論與審計結果。 |
 
-各章節的量化數據以 JSON 格式存放，每筆條目包含指標名稱、數值、單位、日期與來源網址。所有檔案均符合 `data/schemas/statistics-schema.json` 驗證綱要。
-
-### 時間軸 (`data/timelines/`)
-
-以 CSV 格式記錄與分析相關的歷史事件，涵蓋軍事事件、半導體產業里程碑與基礎設施事件。欄位包括：`date`、`event`、`category`、`significance`、`source_id`、`notes`。
-
-### 跨國比較 (`data/comparisons/`)
-
-以 CSV 格式提供國防支出、全球半導體市場份額與能源依賴程度的跨國比較數據。
-
-### 參考書目 (`references/bibliography.json`)
-
-主參考書目收錄超過 100 筆註釋式參考文獻。每筆條目包含：`id`、`type`、`title`、`authors`、`date`、`url` 與 `verified` 狀態。各章節獨立參考文獻列表見 `references/per-chapter/`。
-
-### 來源登記簿 (`references/source-registry.json`)
-
-集中式登記簿，將數據檔案中使用的來源 ID 對應至完整書目條目。
+所有統計檔案均符合 `data/schemas/statistics-schema.json` 驗證綱要。
 
 ---
 
@@ -67,37 +66,28 @@
 
 ```
 taiwan-national-strategy/
-├── chapters/
-│   ├── en/                          # 英文章節 (00-12, S1)
-│   │   ├── 00-executive-summary.md
-│   │   ├── 01-geostrategic-position.md
-│   │   ├── ...
-│   │   └── 12-international-linkages.md
-│   └── zh-TW/                       # 繁體中文章節 (00-12, S1)
-│       ├── 00-executive-summary.md
-│       ├── 01-geostrategic-position.md
-│       ├── ...
-│       ├── 12-international-linkages.md
-│       └── S1-food-water-security.md
+├── docs/
+│   ├── full-text-en.md                 # Full analysis (English)
+│   ├── full-text-zh-TW.md             # 全文分析（繁體中文）
+│   ├── verification-report-en.md       # Data verification report (EN)
+│   └── verification-report-zh-TW.md    # 資料驗證報告（ZH-TW）
 ├── data/
 │   ├── schemas/
-│   │   └── statistics-schema.json   # JSON Schema 數據驗證綱要
-│   ├── statistics/                  # 各章節量化數據 (JSON)
-│   ├── timelines/                   # 歷史事件時間軸 (CSV)
-│   └── comparisons/                 # 跨國比較數據 (CSV)
+│   │   └── statistics-schema.json      # JSON Schema 數據驗證綱要
+│   ├── statistics/                     # 各章節量化數據 (JSON)
+│   ├── timelines/                      # 歷史事件時間軸 (CSV)
+│   └── comparisons/                    # 跨國比較數據 (CSV)
 ├── references/
-│   ├── bibliography.json            # 主參考書目
-│   ├── source-registry.json         # 來源 ID 登記簿
-│   └── per-chapter/                 # 各章節參考文獻列表
-├── verification/
-│   ├── en/                          # 英文驗證報告
-│   └── zh-TW/                       # 中文驗證報告
+│   ├── bibliography.json               # 主參考書目
+│   ├── source-registry.json            # 來源 ID 登記簿
+│   └── per-chapter/                    # 各章節參考文獻列表
 ├── CHANGELOG.md
 ├── CITATION.cff
 ├── CONTRIBUTING.md
 ├── CONTRIBUTING-zh-TW.md
 ├── LICENSE
-└── README.md
+├── README.md
+└── README-zh-TW.md
 ```
 
 ---
