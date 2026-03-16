@@ -1,37 +1,32 @@
-# Chapter 9: Quantum Security — References
+# Chapter 8: Space Capabilities — References
 
 ## Primary Sources
 
-1. **[src-060]** Post-Quantum Cryptography Standardization Project — NIST (2024). https://csrc.nist.gov/projects/post-quantum-cryptography. Accessed: 2026-03-16.
-2. **[src-061]** Quantum Threat Timeline Report 2023 — Global Risk Institute (2023). https://globalriskinstitute.org/publication/quantum-threat-timeline-report-2023/. Accessed: 2026-03-16.
+1. **[src-056]** Taiwan Space Agency (TASA) (2024). https://www.tasa.org.tw/en/. Accessed: 2026-03-16.
+2. **[src-057]** COSMIC-2 Program Data — UCAR / NOAA (2024). https://www.cosmic.ucar.edu/what-we-do/cosmic-2/. Accessed: 2026-03-16.
 3. **[src-058]** National Science and Technology Council (NSTC) Taiwan (2024). https://www.nstc.gov.tw/. Accessed: 2026-03-16.
-4. **[src-062]** Academia Sinica / National Taiwan University — Quantum Computing Research (2023). https://www.sinica.edu.tw/en. Accessed: 2026-03-16.
-5. **[src-063]** Integrated Space-to-Ground Quantum Communication Network — USTC. Nature (2021). DOI: 10.1038/s41586-020-03093-8. https://doi.org/10.1038/s41586-020-03093-8. Accessed: 2026-03-16.
-6. **[src-064]** Quantum Economic Development Consortium (QED-C) (2024). https://quantumconsortium.org/. Accessed: 2026-03-16.
-7. **[src-065]** Quantum Computing and Post-Quantum Cryptography Analysis — Hudson Institute (2024). https://www.hudson.org/technology/quantum-computing-and-post-quantum-cryptography. Accessed: 2026-03-16.
-8. **[src-066]** IBM Quantum Roadmap 2025 — IBM Research (2023). https://research.ibm.com/blog/ibm-quantum-roadmap-2025. Accessed: 2026-03-16.
-9. **[src-067]** Commercial National Security Algorithm Suite 2.0 (CNSA 2.0) — NSA (2022). https://media.defense.gov/2022/Sep/07/2003071834/-1/-1/0/CSA_CNSA_2.0_ALGORITHMS_.PDF. Accessed: 2026-03-16.
+4. **[src-059]** The Space Report 2024 — Space Foundation (2024). https://www.spacefoundation.org/2024/07/30/the-space-report-2024/. Accessed: 2026-03-16.
 
 ## Data Points Referenced
 
 | Statistic ID | Metric | Source |
 |---|---|---|
-| ch09-001 | NIST Post-Quantum Cryptography standards finalized | [src-060] |
-| ch09-002 | NIST PQC standardization process duration | [src-060] |
-| ch09-003 | Estimated timeline for cryptographically relevant quantum computer (CRQC) | [src-061] |
-| ch09-004 | Taiwan quantum computing research investment (NSTC program) | [src-058] |
-| ch09-005 | Taiwan's first domestically built superconducting quantum processor qubits | [src-062] |
-| ch09-006 | Global QKD network deployment — longest fiber distance achieved | [src-063] |
-| ch09-007 | Countries with national quantum strategies | [src-064] |
-| ch09-008 | Estimated global cost of post-quantum cryptography migration | [src-065] |
-| ch09-009 | IBM quantum processor qubit count milestone | [src-066] |
-| ch09-010 | NSA CNSA 2.0 post-quantum transition deadline for national security systems | [src-067] |
+| ch08-001 | Taiwan Space Agency (TASA) annual budget | [src-056] |
+| ch08-002 | FORMOSAT-5 remote sensing satellite operational status | [src-056] |
+| ch08-003 | FORMOSAT-7/COSMIC-2 constellation satellites | [src-057] |
+| ch08-004 | Planned FORMOSAT-8 satellite constellation size | [src-056] |
+| ch08-005 | Triton/B5G low-Earth orbit communication satellite program | [src-056] |
+| ch08-006 | Taiwan domestic space industry companies | [src-056] |
+| ch08-007 | Taiwan domestic space industry annual revenue | [src-058] |
+| ch08-008 | Taiwan ground satellite receiving stations | [src-056] |
+| ch08-009 | FORMOSAT-2 operational lifetime achieved | [src-056] |
+| ch08-010 | Global space economy size for context | [src-059] |
 
 ## Notes
 
-- NIST published three PQC standards (FIPS 203, 204, 205) in August 2024. A fourth algorithm (FALCON/FN-DSA) is expected as FIPS 206.
-- The "harvest now, decrypt later" threat means adversaries may already be collecting encrypted Taiwan government and military communications for future quantum decryption.
-- Taiwan's 5-qubit superconducting processor is a foundational milestone; IBM's Condor reached 1,121 qubits and Google's Willow demonstrated 105-qubit error-corrected computation by end of 2024.
-- China's Beijing-Shanghai QKD backbone represents the most advanced national-scale quantum key distribution deployment globally. This is relevant as an adversary capability.
-- The NSA CNSA 2.0 deadline of 2035 for full PQC transition is relevant for Taiwan's defense systems that interoperate with U.S. military equipment and protocols.
-- The sole peer-reviewed academic source in this chapter is the USTC Nature publication (DOI: 10.1038/s41586-020-03093-8) on the integrated quantum communication network.
+- TASA (formerly NSPO) was reorganized as an administrative legal entity in 2023. It serves as the primary source for all Taiwan satellite program data.
+- The third-phase National Space Program (2019-2028) has a total budget of approximately TWD 25.1 billion (~$780 million) over 10 years.
+- FORMOSAT-7/COSMIC-2 is a joint Taiwan-US program; data is maintained by both TASA and UCAR/NOAA COSMIC Program Office.
+- FORMOSAT-8 launch timeline (2025-2026 for first satellite) is subject to revision based on development progress.
+- The Triton/B5G satellite is a technology demonstrator for beyond-5G communications; it is distinct from commercial LEO broadband constellations like Starlink.
+- Taiwan's space industry revenue (<$65M) is tiny relative to the global $570 billion space economy, but strategic value for communications resilience and Earth observation greatly exceeds direct economic contribution.

@@ -1,36 +1,43 @@
-# Chapter 6: Financial Resilience — References
+# Supplement 1: Food Security and Water Resources — References
 
 ## Primary Sources
 
-1. **[src-040]** Central Bank of the Republic of China (Taiwan) — Foreign Exchange Reserves (2024). https://www.cbc.gov.tw/en/cp-495-157937-5a498-2.html. Accessed: 2026-03-16.
-2. **[src-041]** Central Bank of the Republic of China (Taiwan) — CBDC Research (2024). https://www.cbc.gov.tw/en/cp-915-158412-4c5dd-2.html. Accessed: 2026-03-16.
-3. **[src-042]** Financial Supervisory Commission (FSC) Taiwan — Banking Statistics (2024). https://www.fsc.gov.tw/en/. Accessed: 2026-03-16.
-4. **[src-043]** Global Crypto Ownership Data — Triple-A / Chainalysis (2024). https://www.triple-a.io/crypto-ownership-data. Accessed: 2026-03-16.
-5. **[src-044]** Taiwan Stock Exchange (TWSE) — Market Statistics (2024). https://www.twse.com.tw/en/. Accessed: 2026-03-16.
-6. **[src-045]** SWIFT Financial Messaging Network (2024). https://www.swift.com/. Accessed: 2026-03-16.
-7. **[src-046]** Bureau of Foreign Trade — Taiwan Trade Statistics (2024). https://www.trade.gov.tw/english/. Accessed: 2026-03-16.
-8. **[src-047]** Central Bank of ROC (Taiwan) — Payment Systems Data (2024). https://www.cbc.gov.tw/en/cp-864-135422-2f07b-2.html. Accessed: 2026-03-16.
-9. **[src-048]** Monthly Central Bank Gold Holdings Statistics — World Gold Council (2024). https://www.gold.org/goldhub/data/monthly-central-bank-statistics. Accessed: 2026-03-16.
+1. **[src-088]** Taiwan Council of Agriculture — Food Supply and Utilization Annual Report (2023). https://agrstat.coa.gov.tw/sdweb/public/trade/tradereport.aspx. Accessed: 2026-03-16.
+2. **[src-089]** Taiwan Council of Agriculture — Agricultural Statistics (2023). https://agrstat.coa.gov.tw/. Accessed: 2026-03-16.
+3. **[src-090]** USDA Foreign Agricultural Service — Taiwan Commodity Reports (2023). https://fas.usda.gov/data/taiwan. Accessed: 2026-03-16.
+4. **[src-091]** Water Resources Agency (WRA) — Reservoir and Water Resource Data (2024). https://www.wra.gov.tw/en/. Accessed: 2026-03-16.
+5. **[src-092]** Central Weather Administration (CWA) — Climate Statistics (2024). https://www.cwa.gov.tw/V8E/. Accessed: 2026-03-16.
+6. **[src-055]** TSMC ESG Report 2023 — TSMC (2023). https://esg.tsmc.com/en/resources/documents.html. Accessed: 2026-03-16.
+7. **[src-093]** FAO AQUASTAT — Global Water Statistics (2024). https://www.fao.org/aquastat/en/databases/. Accessed: 2026-03-16.
+8. **[src-094]** Agriculture and Food Agency — Grain Reserves (2024). https://www.afa.gov.tw/en/. Accessed: 2026-03-16.
+9. **[src-095]** Taiwan Customs Administration — Trade Data (2023). https://agrstat.coa.gov.tw/. Accessed: 2026-03-16.
 
 ## Data Points Referenced
 
 | Statistic ID | Metric | Source |
 |---|---|---|
-| ch06-001 | Taiwan foreign exchange reserves | [src-040] |
-| ch06-002 | Taiwan foreign reserves as percentage of GDP | [src-040] |
-| ch06-003 | Taiwan CBDC pilot program status | [src-041] |
-| ch06-004 | Taiwan banking sector total assets | [src-042] |
-| ch06-005 | Taiwan cryptocurrency ownership rate among population | [src-043] |
-| ch06-006 | Taiwan stock market (TWSE) total market capitalization | [src-044] |
-| ch06-007 | SWIFT financial messaging dependency — Taiwan bank connections | [src-045] |
-| ch06-008 | Taiwan annual trade volume (goods exports + imports) | [src-046] |
-| ch06-009 | Taiwan national payment system daily transaction volume | [src-047] |
-| ch06-010 | Gold reserves held by Central Bank of Taiwan | [src-048] |
+| S1-001 | Taiwan food self-sufficiency ratio (calorie basis) | [src-088] |
+| S1-002 | Taiwan food self-sufficiency ratio (value basis) | [src-088] |
+| S1-003 | Taiwan rice self-sufficiency rate | [src-089] |
+| S1-004 | Taiwan wheat import dependency | [src-089] |
+| S1-005 | Taiwan soybean import volume (annual) | [src-090] |
+| S1-006 | Taiwan corn (maize) import volume (annual) | [src-090] |
+| S1-007 | Taiwan total reservoir storage capacity | [src-091] |
+| S1-008 | Taiwan average annual rainfall | [src-092] |
+| S1-009 | Taiwan water usage by sector — Agriculture | [src-091] |
+| S1-010 | Taiwan water usage by sector — Industrial | [src-091] |
+| S1-011 | Taiwan water usage by sector — Domestic/Municipal | [src-091] |
+| S1-012 | TSMC daily water consumption (2023) | [src-055] |
+| S1-013 | TSMC process water recycling rate | [src-055] |
+| S1-014 | Taiwan total annual water resource availability | [src-093] |
+| S1-015 | Taiwan grain reserves (rice strategic stockpile) | [src-094] |
 
 ## Notes
 
-- The Central Bank of ROC (Taiwan) publishes monthly foreign exchange reserve data. Taiwan's reserves of ~$577 billion rank 5th globally.
-- CBDC development is in Phase 2 pilot; no firm timeline for full deployment has been announced. The Central Bank is evaluating results and monitoring international CBDC developments.
-- SWIFT connectivity count is based on the FSC domestic bank count and SWIFT BIC directory. All major Taiwan banks are SWIFT-connected.
-- Gold reserves of 422.4 tonnes are confirmed by both the World Gold Council and the Central Bank. Gold provides a sanctions-resistant reserve asset.
-- Cryptocurrency ownership rate is estimated by Triple-A and Chainalysis; the FSC has implemented VASP registration requirements since 2021.
+- Taiwan's calorie-basis food self-sufficiency of ~31% is among the lowest of developed economies. The value-basis figure (~62%) is significantly higher because Taiwan produces high-value fresh products domestically while importing bulk commodities.
+- Rice is the sole major staple achieving self-sufficiency (104%), but per-capita rice consumption has declined from ~100 kg/year in the 1980s to ~43 kg/year, while wheat-based consumption (100% imported) has risen.
+- Import dependency for wheat (99.9%), soybeans (~97%), and corn (~99%) represents a critical vulnerability in any blockade scenario. The 3-month rice strategic reserve is the most substantial food stockpile.
+- Taiwan receives abundant rainfall (~2,500 mm/year, 2.5x global average) but 70-80% runs off rapidly due to steep terrain and short rivers. Effective water capture and storage is the binding constraint.
+- TSMC's water consumption (~220,000 tonnes/day) and its 96.3% recycling rate illustrate the semiconductor-water nexus. During the 2021 drought, emergency water trucking was required to maintain fab operations.
+- Reservoir sedimentation is a chronic problem: designed capacity of 2.09 billion cubic meters has been reduced to approximately 1.7-1.8 billion cubic meters of effective storage.
+- Agriculture consumes ~70% of total water but is the first sector to face rationing during droughts to protect industrial and domestic supply.

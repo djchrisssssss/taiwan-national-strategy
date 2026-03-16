@@ -1,11 +1,11 @@
 {
-  "chapter": "07",
+  "chapter": "05",
   "title": "Energy Security and Infrastructure Vulnerability",
   "last_updated": "2026-03-16",
   "data_note": "Statistics compiled from publicly available sources. Web verification was unavailable at compilation time; URLs point to known authoritative publication pages. Users should verify current figures at listed sources.",
   "statistics": [
     {
-      "id": "ch07-001",
+      "id": "ch05-001",
       "metric": "Taiwan energy import dependency rate",
       "value": 97.7,
       "unit": "percent",
@@ -20,7 +20,7 @@
       "verification_note": "BOE Energy Statistics Data Book; figure has been consistently 97-98% for the past decade"
     },
     {
-      "id": "ch07-002",
+      "id": "ch05-002",
       "metric": "Natural gas (LNG) share of electricity generation",
       "value": 43.4,
       "unit": "percent",
@@ -35,7 +35,7 @@
       "verification_note": "Taipower and BOE publish monthly generation statistics; target mix is official policy"
     },
     {
-      "id": "ch07-003",
+      "id": "ch05-003",
       "metric": "Taiwan LNG strategic reserve storage capacity",
       "value": 11,
       "unit": "days of consumption (approximate operational reserve)",
@@ -50,7 +50,7 @@
       "verification_note": "Storage duration widely cited in energy security analyses; varies seasonally (summer peak demand reduces reserve days)"
     },
     {
-      "id": "ch07-004",
+      "id": "ch05-004",
       "metric": "Taiwan coal strategic reserve",
       "value": 36,
       "unit": "days of consumption (approximate)",
@@ -65,7 +65,7 @@
       "verification_note": "Taipower reports coal stockpile levels; exact reserve days fluctuate seasonally"
     },
     {
-      "id": "ch07-005",
+      "id": "ch05-005",
       "metric": "Taiwan strategic petroleum reserve (SPR)",
       "value": 146,
       "unit": "days of net imports (government + industry combined)",
@@ -80,7 +80,7 @@
       "verification_note": "IEA tracks oil security for non-member associate countries including Taiwan; exact figure depends on methodology"
     },
     {
-      "id": "ch07-006",
+      "id": "ch05-006",
       "metric": "Taiwan offshore wind capacity installed",
       "value": 2.5,
       "unit": "GW (approximate cumulative installed capacity)",
@@ -95,7 +95,7 @@
       "verification_note": "GWEC Global Offshore Wind Report tracks installed capacity; individual project capacities from developer announcements"
     },
     {
-      "id": "ch07-007",
+      "id": "ch05-007",
       "metric": "Taiwan offshore wind target capacity (2035)",
       "value": 20.5,
       "unit": "GW",
@@ -110,7 +110,7 @@
       "verification_note": "Official policy target from BOE; actual deployment is behind original schedule"
     },
     {
-      "id": "ch07-008",
+      "id": "ch05-008",
       "metric": "Taiwan solar PV installed capacity",
       "value": 13.2,
       "unit": "GW (approximate cumulative)",
@@ -125,7 +125,7 @@
       "verification_note": "BOE publishes monthly renewable energy statistics; figure approximate pending final 2024 data"
     },
     {
-      "id": "ch07-009",
+      "id": "ch05-009",
       "metric": "Taiwan total electricity generation capacity",
       "value": 59.5,
       "unit": "GW (installed capacity)",
@@ -140,7 +140,7 @@
       "verification_note": "Taipower publishes system capacity and reserve margin data"
     },
     {
-      "id": "ch07-010",
+      "id": "ch05-010",
       "metric": "Taiwan nuclear power generation (before final phase-out)",
       "value": 6.3,
       "unit": "percent of total electricity generation (2024)",
@@ -155,7 +155,7 @@
       "verification_note": "Nuclear generation percentage from Taipower monthly reports; decommission timeline from Atomic Energy Council"
     },
     {
-      "id": "ch07-011",
+      "id": "ch05-011",
       "metric": "Taiwan electricity consumption by sector - Industrial",
       "value": 55.7,
       "unit": "percent of total electricity consumption",
@@ -170,7 +170,7 @@
       "verification_note": "BOE Energy Statistics Data Book published annually"
     },
     {
-      "id": "ch07-012",
+      "id": "ch05-012",
       "metric": "TSMC electricity consumption as share of Taiwan total",
       "value": 9.0,
       "unit": "percent (estimated, 2024)",
@@ -185,7 +185,7 @@
       "verification_note": "TSMC publishes electricity consumption in ESG reports; share calculation based on Taiwan total from BOE"
     },
     {
-      "id": "ch07-013",
+      "id": "ch05-013",
       "metric": "Taiwan total annual electricity consumption",
       "value": 275,
       "unit": "TWh (approximate)",

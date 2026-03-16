@@ -15,7 +15,7 @@
 
 ## Abstract
 
-Taiwan's national security is fundamentally a systems engineering challenge. In an era of multi-domain competition, security can no longer be measured by the strength of any single defensive line; it must be assessed by the entire system's capacity to continue functioning under multiple, simultaneous, cross-domain pressures. This project presents a comprehensive analytical framework that treats Taiwan's national security as a complex adaptive system composed of twelve interconnected domains -- from geostrategic positioning and semiconductor leverage to cognitive defense and international linkages.
+Taiwan's national security is fundamentally a systems engineering challenge. In an era of multi-domain competition, security can no longer be measured by the strength of any single defensive line; it must be assessed by the entire system's capacity to continue functioning under multiple, simultaneous, cross-domain pressures. This project presents a comprehensive analytical framework that treats Taiwan's national security as a complex adaptive system composed of thirteen interconnected domains -- from geostrategic positioning and semiconductor leverage to cognitive defense and international linkages.
 
 Employing a systems engineering methodology grounded in interdependency analysis, nonlinear risk modeling, and adversary rationality assumptions, this study examines how failures in one domain can cascade into others, identifies structural vulnerabilities arising from geographic concentration, energy dependence, and communications fragility, and proposes policy recommendations organized by short-term (1--2 years), medium-term (3--5 years), and long-term (5--10 years) horizons. The core strategic principles -- antifragile architecture, multi-domain redundancy, and cost-imposition strategy -- aim to ensure that any coercive action against Taiwan faces prohibitively high costs across the political, military, and economic dimensions.
 
@@ -23,24 +23,49 @@ Employing a systems engineering methodology grounded in interdependency analysis
 
 ## Chapters Overview
 
-The analysis comprises twelve core chapters and one supplementary chapter.
+### I. Overview
 
 | Ch. | Domain | Description |
 |:---:|--------|-------------|
-| 00 | Executive Summary | Analytical framework, structural risk overview, twelve-domain summary, core strategic principles, and methodology. |
+| 00 | Executive Summary | Analytical framework, structural risk overview, thirteen-domain summary, core strategic principles, and methodology. |
+
+### II. Strategic Foundation
+
+| Ch. | Domain | Description |
+|:---:|--------|-------------|
 | 01 | Geostrategic Position | First Island Chain node value, Bashi Channel control, strategic waterways, and Taiwan's role as a regional public good. |
 | 02 | Semiconductor Leverage | Advanced node irreplaceability, geographic concentration of fabs, talent bottlenecks, and strategic interdependence networks. |
+
+### III. Military Defense
+
+| Ch. | Domain | Description |
+|:---:|--------|-------------|
 | 03 | Asymmetric Defense | Cost-exchange ratio logic, submarine denial, unmanned systems, precision strike, and indigenous mass production. |
 | 04 | Electromagnetic Spectrum Warfare | Spectrum dominance, anti-jamming communications, electronic countermeasure systems, and EW as the opening move of modern conflict. |
-| 05 | Communications Resilience | Submarine cable vulnerability, LEO satellite backup, high-frequency radio, and community-level mesh networks. |
-| 06 | Financial Resilience | Sanctions defense, cross-border payment backup, digital asset strategies, and blockchain-based data preservation. |
-| 07 | Energy Structure | Import dependence, dangerously low LNG reserves, distributed microgrids, and renewable energy transition. |
-| 08 | Space Capabilities | Indigenous small satellite constellation, space situational awareness, and space-based communications integration. |
-| 09 | Quantum Security | Post-quantum cryptography migration, quantum key distribution pilots, and long-term data confidentiality protection. |
+
+### IV. Critical Infrastructure
+
+| Ch. | Domain | Description |
+|:---:|--------|-------------|
+| 05 | Energy Structure | Import dependence, dangerously low LNG reserves, distributed microgrids, and renewable energy transition. |
+| 06 | Food & Water Security | Food self-sufficiency, water resource constraints, semiconductor ultrapure water demands, and critical infrastructure protection. |
+| 07 | Communications Resilience | Submarine cable vulnerability, LEO satellite backup, high-frequency radio, and community-level mesh networks. |
+| 08 | Financial Resilience | Sanctions defense, cross-border payment backup, digital asset strategies, and blockchain-based data preservation. |
+
+### V. Technology Frontiers
+
+| Ch. | Domain | Description |
+|:---:|--------|-------------|
+| 09 | Space Capabilities | Indigenous small satellite constellation, space situational awareness, and space-based communications integration. |
 | 10 | AI & Distributed Computing | Intelligence fusion, autonomous defense, distributed computing architectures, and blockchain-AI integration for resilience. |
-| 11 | Cognitive Defense | Countering disinformation and deepfake threats, media literacy, institutional transparency, and social trust infrastructure. |
-| 12 | International Linkages | Shifting from seeking protection to building indispensability through technological interdependence, intelligence cooperation, and democratic values. |
-| S1 | Food & Water Security | Food self-sufficiency, water resource constraints, semiconductor ultrapure water demands, and critical infrastructure protection. |
+| 11 | Quantum Security | Post-quantum cryptography migration, quantum key distribution pilots, and long-term data confidentiality protection. |
+
+### VI. Society & International
+
+| Ch. | Domain | Description |
+|:---:|--------|-------------|
+| 12 | Cognitive Defense | Countering disinformation and deepfake threats, media literacy, institutional transparency, and social trust infrastructure. |
+| 13 | International Linkages | Shifting from seeking protection to building indispensability through technological interdependence, intelligence cooperation, and democratic values. |
 
 ---
 

@@ -1,10 +1,10 @@
 {
-  "chapter": "12",
+  "chapter": "13",
   "title": "International Linkages",
   "last_updated": "2026-03-16",
   "statistics": [
     {
-      "id": "ch12-001",
+      "id": "ch13-001",
       "metric": "Taiwan semiconductor exports as share of global semiconductor market",
       "value": 20,
       "unit": "percent of global semiconductor revenue",
@@ -19,7 +19,7 @@
       "verification_note": "SIA World Semiconductor Trade Statistics (WSTS) and TSMC annual revenue reports"
     },
     {
-      "id": "ch12-002",
+      "id": "ch13-002",
       "metric": "TSMC share of global foundry market",
       "value": 61.7,
       "unit": "percent of global foundry revenue",
@@ -34,7 +34,7 @@
       "verification_note": "TrendForce quarterly foundry revenue rankings; consistent with IC Insights and Counterpoint data"
     },
     {
-      "id": "ch12-003",
+      "id": "ch13-003",
       "metric": "Countries maintaining formal diplomatic relations with Taiwan (ROC)",
       "value": 12,
       "unit": "countries",
@@ -49,7 +49,7 @@
       "verification_note": "Taiwan MOFA official allies list; Nauru switch confirmed January 15, 2024"
     },
     {
-      "id": "ch12-004",
+      "id": "ch13-004",
       "metric": "US arms sales to Taiwan approved (2017-2024 total)",
       "value": 23,
       "unit": "USD billion (approximate cumulative 2017-2024)",
@@ -64,7 +64,7 @@
       "verification_note": "DSCA major arms sales notifications are public; compiled by Congressional Research Service in RL30957"
     },
     {
-      "id": "ch12-005",
+      "id": "ch13-005",
       "metric": "Taiwan semiconductor exports to United States",
       "value": 22,
       "unit": "percent of Taiwan semiconductor exports",
@@ -79,7 +79,7 @@
       "verification_note": "Bureau of Foreign Trade export statistics by commodity and destination; cross-referenced with US Census Bureau import data"
     },
     {
-      "id": "ch12-006",
+      "id": "ch13-006",
       "metric": "Five Eyes intelligence partnership - Taiwan informal cooperation",
       "value": "informal but expanding",
       "unit": "partnership status",
@@ -94,7 +94,7 @@
       "verification_note": "CSIS and Brookings analyses of Taiwan's informal intelligence partnerships; Japan NSS 2022 publicly available"
     },
     {
-      "id": "ch12-007",
+      "id": "ch13-007",
       "metric": "Taiwan bilateral investment agreements and economic cooperation agreements",
       "value": 33,
       "unit": "bilateral investment agreements",
@@ -109,7 +109,7 @@
       "verification_note": "Bureau of Foreign Trade treaty database; US-Taiwan Initiative on 21st-Century Trade signed June 1, 2023"
     },
     {
-      "id": "ch12-008",
+      "id": "ch13-008",
       "metric": "TSMC overseas fab investment commitments",
       "value": 65,
       "unit": "USD billion (US fab investments)",
@@ -124,7 +124,7 @@
       "verification_note": "TSMC investor presentations and DSCA notifications; Arizona investment expanded to $65B announced in November 2024"
     },
     {
-      "id": "ch12-009",
+      "id": "ch13-009",
       "metric": "Taiwan-US trade volume (bilateral goods trade)",
       "value": 116,
       "unit": "USD billion",
@@ -139,7 +139,7 @@
       "verification_note": "US Census Bureau foreign trade statistics for Taiwan; consistent with Bureau of Foreign Trade data"
     },
     {
-      "id": "ch12-010",
+      "id": "ch13-010",
       "metric": "Countries conducting Taiwan Strait naval transits (freedom of navigation)",
       "value": 9,
       "unit": "countries (2022-2024)",

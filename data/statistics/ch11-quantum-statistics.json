@@ -1,10 +1,10 @@
 {
-  "chapter": "09",
+  "chapter": "11",
   "title": "Quantum Security",
   "last_updated": "2026-03-16",
   "statistics": [
     {
-      "id": "ch09-001",
+      "id": "ch11-001",
       "metric": "NIST Post-Quantum Cryptography standards finalized",
       "value": 3,
       "unit": "algorithms standardized (FIPS 203, 204, 205)",
@@ -19,7 +19,7 @@
       "verification_note": "NIST official announcement on August 13, 2024; FIPS documents published at csrc.nist.gov"
     },
     {
-      "id": "ch09-002",
+      "id": "ch11-002",
       "metric": "NIST PQC standardization process duration",
       "value": 8,
       "unit": "years (2016-2024)",
@@ -34,7 +34,7 @@
       "verification_note": "NIST PQC project timeline documented at csrc.nist.gov"
     },
     {
-      "id": "ch09-003",
+      "id": "ch11-003",
       "metric": "Estimated timeline for cryptographically relevant quantum computer (CRQC)",
       "value": "2029-2035",
       "unit": "year range (expert consensus)",
@@ -49,7 +49,7 @@
       "verification_note": "GRI Quantum Threat Timeline Report surveys leading quantum computing researchers annually"
     },
     {
-      "id": "ch09-004",
+      "id": "ch11-004",
       "metric": "Taiwan quantum computing research investment (NSTC program)",
       "value": 8.0,
       "unit": "TWD billion (approximately USD 246 million) over 5 years",
@@ -64,7 +64,7 @@
       "verification_note": "NSTC and Executive Yuan announcements on the National Quantum Science and Technology Program"
     },
     {
-      "id": "ch09-005",
+      "id": "ch11-005",
       "metric": "Taiwan's first domestically built superconducting quantum processor qubits",
       "value": 5,
       "unit": "qubits",
@@ -79,7 +79,7 @@
       "verification_note": "Reported by Academia Sinica and covered in Taiwan research institution announcements"
     },
     {
-      "id": "ch09-006",
+      "id": "ch11-006",
       "metric": "Global QKD network deployment - longest fiber distance achieved",
       "value": 2000,
       "unit": "kilometers (Beijing-Shanghai backbone)",
@@ -94,7 +94,7 @@
       "verification_note": "Published in Nature (2021); subsequent expansions documented in Chinese Academy of Sciences publications"
     },
     {
-      "id": "ch09-007",
+      "id": "ch11-007",
       "metric": "Countries with national quantum strategies",
       "value": 30,
       "unit": "countries (approximately)",
@@ -109,7 +109,7 @@
       "verification_note": "QED-C and OECD quantum policy landscape surveys; individual country announcements compiled by qureca.com"
     },
     {
-      "id": "ch09-008",
+      "id": "ch11-008",
       "metric": "Estimated global cost of post-quantum cryptography migration",
       "value": "hundreds of billions",
       "unit": "USD (industry estimates)",
@@ -124,7 +124,7 @@
       "verification_note": "Cost estimates vary widely; Hudson Institute and RAND analyses provide order-of-magnitude assessments"
     },
     {
-      "id": "ch09-009",
+      "id": "ch11-009",
       "metric": "IBM quantum processor qubit count milestone",
       "value": 1121,
       "unit": "qubits (IBM Condor)",
@@ -139,7 +139,7 @@
       "verification_note": "IBM quantum roadmap published on research.ibm.com; Google Willow paper published in Nature"
     },
     {
-      "id": "ch09-010",
+      "id": "ch11-010",
       "metric": "NSA CNSA 2.0 post-quantum transition deadline for national security systems",
       "value": 2035,
       "unit": "year (full transition deadline)",

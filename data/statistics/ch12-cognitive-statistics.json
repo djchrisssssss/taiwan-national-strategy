@@ -1,10 +1,10 @@
 {
-  "chapter": "11",
+  "chapter": "12",
   "title": "Cognitive Defense",
   "last_updated": "2026-03-16",
   "statistics": [
     {
-      "id": "ch11-001",
+      "id": "ch12-001",
       "metric": "Documented Chinese state-sponsored disinformation campaigns targeting Taiwan",
       "value": "thousands of incidents annually",
       "unit": "campaigns/incidents",
@@ -19,7 +19,7 @@
       "verification_note": "DoubleThink Lab China Index and IORG research reports; corroborated by US State Department GEC reports"
     },
     {
-      "id": "ch11-002",
+      "id": "ch12-002",
       "metric": "Taiwan social media penetration rate",
       "value": 89.4,
       "unit": "percent of population",
@@ -34,7 +34,7 @@
       "verification_note": "DataReportal Digital 2024 Taiwan report compiled from platform advertising reach data"
     },
     {
-      "id": "ch11-003",
+      "id": "ch12-003",
       "metric": "LINE messaging app users in Taiwan",
       "value": 21,
       "unit": "million users",
@@ -49,7 +49,7 @@
       "verification_note": "LINE Corporation user statistics for Taiwan market; confirmed by LINE Taiwan press releases"
     },
     {
-      "id": "ch11-004",
+      "id": "ch12-004",
       "metric": "Taiwan fact-checking organizations certified by IFCN",
       "value": 2,
       "unit": "IFCN-certified organizations",
@@ -64,7 +64,7 @@
       "verification_note": "IFCN signatory database at poynter.org; TFC and MyGoPen both hold active IFCN verification"
     },
     {
-      "id": "ch11-005",
+      "id": "ch12-005",
       "metric": "Taiwan media literacy curriculum coverage in schools",
       "value": 100,
       "unit": "percent of K-12 curriculum (media literacy integrated)",
@@ -79,7 +79,7 @@
       "verification_note": "Taiwan MOE curriculum guidelines (108 Curriculum); implementation confirmed by education research"
     },
     {
-      "id": "ch11-006",
+      "id": "ch12-006",
       "metric": "PRC content farm articles targeting Taiwan detected monthly",
       "value": 5000,
       "unit": "articles per month (estimated)",
@@ -94,7 +94,7 @@
       "verification_note": "IORG publishes regular research reports tracking PRC information operations; estimate based on their monitoring methodology"
     },
     {
-      "id": "ch11-007",
+      "id": "ch12-007",
       "metric": "Deepfake detection - AI-generated political content incidents targeting Taiwan elections",
       "value": "multiple confirmed",
       "unit": "incidents during 2024 election cycle",
@@ -109,7 +109,7 @@
       "verification_note": "TFC election fact-check reports; corroborated by V-Dem Digital Society Project and CSIS Taiwan election analysis"
     },
     {
-      "id": "ch11-008",
+      "id": "ch12-008",
       "metric": "Taiwan government cybersecurity incident reports (including disinformation)",
       "value": 29,
       "unit": "million malicious attempts monthly on government networks",
@@ -124,7 +124,7 @@
       "verification_note": "NICS and Taiwan Executive Yuan cyber security office statistics; figure cited by multiple Taiwan government officials in legislative sessions"
     },
     {
-      "id": "ch11-009",
+      "id": "ch12-009",
       "metric": "V-Dem Democracy Index - Taiwan ranking for government disinformation resilience",
       "value": 1,
       "unit": "rank (most targeted by foreign disinformation)",
@@ -139,7 +139,7 @@
       "verification_note": "V-Dem Digital Society Survey - 'Foreign governments disseminate false information' indicator; Taiwan ranked #1 in foreign disinformation exposure"
     },
     {
-      "id": "ch11-010",
+      "id": "ch12-010",
       "metric": "Taiwan public trust in traditional media",
       "value": 30.8,
       "unit": "percent trust in news media",

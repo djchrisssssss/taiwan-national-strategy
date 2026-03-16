@@ -1,11 +1,11 @@
 {
-  "chapter": "S1",
+  "chapter": "06",
   "title": "Food Security and Water Resources",
   "last_updated": "2026-03-16",
   "data_note": "Statistics compiled from publicly available sources. Web verification was unavailable at compilation time; URLs point to known authoritative publication pages. Users should verify current figures at listed sources.",
   "statistics": [
     {
-      "id": "S1-001",
+      "id": "ch06-001",
       "metric": "Taiwan food self-sufficiency ratio (calorie basis)",
       "value": 30.7,
       "unit": "percent",
@@ -20,7 +20,7 @@
       "verification_note": "COA publishes annual food self-sufficiency statistics; calorie-basis ratio consistently in 30-34% range"
     },
     {
-      "id": "S1-002",
+      "id": "ch06-002",
       "metric": "Taiwan food self-sufficiency ratio (value basis)",
       "value": 62.1,
       "unit": "percent",
@@ -35,7 +35,7 @@
       "verification_note": "COA annual food balance sheet; value-basis ratio typically 60-65%"
     },
     {
-      "id": "S1-003",
+      "id": "ch06-003",
       "metric": "Taiwan rice self-sufficiency rate",
       "value": 104,
       "unit": "percent (domestic production exceeds consumption)",
@@ -50,7 +50,7 @@
       "verification_note": "COA rice production and consumption data; surplus is small and declining with dietary shifts"
     },
     {
-      "id": "S1-004",
+      "id": "ch06-004",
       "metric": "Taiwan wheat import dependency",
       "value": 99.9,
       "unit": "percent imported",
@@ -65,7 +65,7 @@
       "verification_note": "Trade data from MOF Customs Administration and COA agricultural trade statistics"
     },
     {
-      "id": "S1-005",
+      "id": "ch06-005",
       "metric": "Taiwan soybean import volume (annual)",
       "value": 2.6,
       "unit": "million metric tons",
@@ -80,7 +80,7 @@
       "verification_note": "USDA FAS Taiwan commodity reports and COA import data"
     },
     {
-      "id": "S1-006",
+      "id": "ch06-006",
       "metric": "Taiwan corn (maize) import volume (annual)",
       "value": 4.3,
       "unit": "million metric tons",
@@ -95,7 +95,7 @@
       "verification_note": "USDA FAS commodity reports for Taiwan"
     },
     {
-      "id": "S1-007",
+      "id": "ch06-007",
       "metric": "Taiwan total reservoir storage capacity",
       "value": 2.09,
       "unit": "billion cubic meters",
@@ -110,7 +110,7 @@
       "verification_note": "WRA reservoir database; effective capacity lower than designed capacity due to sedimentation"
     },
     {
-      "id": "S1-008",
+      "id": "ch06-008",
       "metric": "Taiwan average annual rainfall",
       "value": 2500,
       "unit": "mm per year",
@@ -125,7 +125,7 @@
       "verification_note": "CWA long-term climate statistics; figure is island-wide average"
     },
     {
-      "id": "S1-009",
+      "id": "ch06-009",
       "metric": "Taiwan water usage by sector - Agriculture",
       "value": 70,
       "unit": "percent of total water consumption",
@@ -140,7 +140,7 @@
       "verification_note": "WRA publishes annual water resource utilization statistics"
     },
     {
-      "id": "S1-010",
+      "id": "ch06-010",
       "metric": "Taiwan water usage by sector - Industrial",
       "value": 10,
       "unit": "percent of total water consumption",
@@ -155,7 +155,7 @@
       "verification_note": "WRA water resource statistics; industrial share has been gradually increasing"
     },
     {
-      "id": "S1-011",
+      "id": "ch06-011",
       "metric": "Taiwan water usage by sector - Domestic/Municipal",
       "value": 20,
       "unit": "percent of total water consumption",
@@ -170,7 +170,7 @@
       "verification_note": "WRA water resource statistics"
     },
     {
-      "id": "S1-012",
+      "id": "ch06-012",
       "metric": "TSMC daily water consumption (2023)",
       "value": 220000,
       "unit": "metric tons per day (approximately)",
@@ -185,7 +185,7 @@
       "verification_note": "TSMC ESG/CSR reports publish annual water consumption data; daily figure calculated from annual total"
     },
     {
-      "id": "S1-013",
+      "id": "ch06-013",
       "metric": "TSMC process water recycling rate",
       "value": 96.3,
       "unit": "percent",
@@ -200,7 +200,7 @@
       "verification_note": "From TSMC 2023 ESG Report sustainability metrics"
     },
     {
-      "id": "S1-014",
+      "id": "ch06-014",
       "metric": "Taiwan total annual water resource availability",
       "value": 17.5,
       "unit": "billion cubic meters (annual renewable water resources)",
@@ -215,7 +215,7 @@
       "verification_note": "FAO AQUASTAT and WRA data; utilization rate limited by runoff, topography, and infrastructure"
     },
     {
-      "id": "S1-015",
+      "id": "ch06-015",
       "metric": "Taiwan grain reserves (rice strategic stockpile)",
       "value": 3,
       "unit": "months of consumption (government target)",
