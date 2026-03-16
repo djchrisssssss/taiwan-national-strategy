@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Taiwan National Strategy: A Multi-Domain Resilience Framework"
+message: "If you use or reference this analysis, please cite it as below."
+type: dataset
+authors:
+  - name: djchrisssssss
+date-released: "2026-03-16"
+license: CC-BY-4.0
+repository-code: "https://github.com/djchrisssssss/taiwan-national-strategy"
+keywords:
+  - Taiwan
+  - national security
+  - multi-domain resilience
+  - semiconductor
+  - asymmetric defense
+  - policy analysis
+  - 台灣
+  - 國家戰略
+  - 多域韌性
+abstract: >-
+  A systems-engineering approach to Taiwan's national security strategy,
+  analyzing twelve interconnected domains including geostrategic positioning,
+  semiconductor leverage, asymmetric defense, communications resilience,
+  energy structure, financial resilience, space capabilities, quantum security,
+  AI integration, cognitive defense, and international linkages, plus a
+  supplement on food and water security.

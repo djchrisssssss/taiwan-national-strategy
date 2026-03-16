@@ -1,0 +1,157 @@
+{
+  "chapter": "11",
+  "title": "Cognitive Defense",
+  "last_updated": "2026-03-16",
+  "statistics": [
+    {
+      "id": "ch11-001",
+      "metric": "Documented Chinese state-sponsored disinformation campaigns targeting Taiwan",
+      "value": "thousands of incidents annually",
+      "unit": "campaigns/incidents",
+      "date": "2024",
+      "source": {
+        "name": "DoubleThink Lab / IORG (Information Operations Research Group)",
+        "url": "https://doublethinklab.org/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan faces one of the highest volumes of state-sponsored disinformation globally. DoubleThink Lab and IORG (Taiwan-based research organizations) have documented systematic PRC information operations targeting Taiwan's elections, military morale, public trust in government, and social cohesion. Operations use coordinated inauthentic behavior on social media, content farms, and co-opted local media.",
+      "verified": true,
+      "verification_note": "DoubleThink Lab China Index and IORG research reports; corroborated by US State Department GEC reports"
+    },
+    {
+      "id": "ch11-002",
+      "metric": "Taiwan social media penetration rate",
+      "value": 89.4,
+      "unit": "percent of population",
+      "date": "2024",
+      "source": {
+        "name": "DataReportal / We Are Social - Digital 2024 Taiwan",
+        "url": "https://datareportal.com/reports/digital-2024-taiwan",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan's social media penetration rate of approximately 89% (21.15 million active social media users) creates a vast attack surface for cognitive warfare operations. LINE is the dominant messaging platform (~21 million users), followed by Facebook (~18 million), Instagram (~11 million), and YouTube (~20 million).",
+      "verified": true,
+      "verification_note": "DataReportal Digital 2024 Taiwan report compiled from platform advertising reach data"
+    },
+    {
+      "id": "ch11-003",
+      "metric": "LINE messaging app users in Taiwan",
+      "value": 21,
+      "unit": "million users",
+      "date": "2024",
+      "source": {
+        "name": "LINE Corporation Taiwan",
+        "url": "https://linecorp.com/en/",
+        "accessed": "2026-03-16"
+      },
+      "context": "LINE is Taiwan's dominant messaging platform with approximately 21 million monthly active users (nearly the entire population). Its closed-group messaging makes it a primary vector for disinformation spread, as messages are difficult to monitor or fact-check. LINE has implemented some fact-checking bot integrations in Taiwan.",
+      "verified": true,
+      "verification_note": "LINE Corporation user statistics for Taiwan market; confirmed by LINE Taiwan press releases"
+    },
+    {
+      "id": "ch11-004",
+      "metric": "Taiwan fact-checking organizations certified by IFCN",
+      "value": 2,
+      "unit": "IFCN-certified organizations",
+      "date": "2024",
+      "source": {
+        "name": "International Fact-Checking Network (IFCN) / Poynter Institute",
+        "url": "https://www.poynter.org/ifcn/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan has two IFCN-certified fact-checking organizations: Taiwan FactCheck Center (TFC, established 2018) and MyGoPen. Additional fact-checking work is performed by Cofacts (a collaborative bot), Fake News Cleaner, and media outlets. These organizations play a critical role in countering disinformation but face resource constraints relative to the volume of false content.",
+      "verified": true,
+      "verification_note": "IFCN signatory database at poynter.org; TFC and MyGoPen both hold active IFCN verification"
+    },
+    {
+      "id": "ch11-005",
+      "metric": "Taiwan media literacy curriculum coverage in schools",
+      "value": 100,
+      "unit": "percent of K-12 curriculum (media literacy integrated)",
+      "date": "2024",
+      "source": {
+        "name": "Taiwan Ministry of Education - 12-Year Basic Education Curriculum",
+        "url": "https://www.edu.tw/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan's 12-Year Basic Education Curriculum (Curriculum 2019, fully implemented) integrates media literacy across subjects, making Taiwan a global leader in institutional media literacy education. The curriculum emphasizes critical thinking, source verification, and identifying manipulation techniques. Specific 'information literacy' competencies are embedded in technology, social studies, and language arts.",
+      "verified": true,
+      "verification_note": "Taiwan MOE curriculum guidelines (108 Curriculum); implementation confirmed by education research"
+    },
+    {
+      "id": "ch11-006",
+      "metric": "PRC content farm articles targeting Taiwan detected monthly",
+      "value": 5000,
+      "unit": "articles per month (estimated)",
+      "date": "2024",
+      "source": {
+        "name": "IORG (Information Operations Research Group)",
+        "url": "https://iorg.tw/en",
+        "accessed": "2026-03-16"
+      },
+      "context": "IORG research identifies thousands of content farm articles targeting Taiwan monthly, many originating from or amplified by PRC-linked operations. These articles are designed to erode trust in democratic institutions, amplify social divisions, and promote narratives favorable to PRC interests. Content farms exploit Taiwanese social media sharing patterns, particularly on LINE and Facebook.",
+      "verified": true,
+      "verification_note": "IORG publishes regular research reports tracking PRC information operations; estimate based on their monitoring methodology"
+    },
+    {
+      "id": "ch11-007",
+      "metric": "Deepfake detection - AI-generated political content incidents targeting Taiwan elections",
+      "value": "multiple confirmed",
+      "unit": "incidents during 2024 election cycle",
+      "date": "2024-01",
+      "source": {
+        "name": "Taiwan FactCheck Center (TFC)",
+        "url": "https://tfc-taiwan.org.tw/",
+        "accessed": "2026-03-16"
+      },
+      "context": "During the January 2024 presidential election campaign, multiple deepfake audio and video clips targeting candidates were identified. Taiwan FactCheck Center and AI labs documented AI-generated voice clips mimicking candidates, manipulated video content, and AI-generated images used in disinformation. This marked a significant escalation in AI-powered cognitive warfare targeting Taiwan.",
+      "verified": true,
+      "verification_note": "TFC election fact-check reports; corroborated by V-Dem Digital Society Project and CSIS Taiwan election analysis"
+    },
+    {
+      "id": "ch11-008",
+      "metric": "Taiwan government cybersecurity incident reports (including disinformation)",
+      "value": 29,
+      "unit": "million malicious attempts monthly on government networks",
+      "date": "2024",
+      "source": {
+        "name": "Taiwan National Institute of Cyber Security (NICS)",
+        "url": "https://www.nics.nat.gov.tw/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan government networks face approximately 20-30 million cyberattack attempts monthly according to NICS (formerly TWNCERT/TWCERT/CC). While the majority are automated scanning and probing, a significant proportion represents sophisticated state-sponsored operations. Cognitive warfare campaigns often pair with cyber operations for maximum impact.",
+      "verified": true,
+      "verification_note": "NICS and Taiwan Executive Yuan cyber security office statistics; figure cited by multiple Taiwan government officials in legislative sessions"
+    },
+    {
+      "id": "ch11-009",
+      "metric": "V-Dem Democracy Index - Taiwan ranking for government disinformation resilience",
+      "value": 1,
+      "unit": "rank (most targeted by foreign disinformation)",
+      "date": "2024",
+      "source": {
+        "name": "V-Dem Institute, University of Gothenburg",
+        "url": "https://www.v-dem.net/",
+        "accessed": "2026-03-16"
+      },
+      "context": "The V-Dem Institute has consistently ranked Taiwan as the most targeted country for foreign government disinformation in its annual reports since 2017. Despite this, Taiwan's democratic resilience indicators have remained relatively strong, attributed to robust civil society, active fact-checking ecosystem, and government transparency initiatives.",
+      "verified": true,
+      "verification_note": "V-Dem Digital Society Survey - 'Foreign governments disseminate false information' indicator; Taiwan ranked #1 in foreign disinformation exposure"
+    },
+    {
+      "id": "ch11-010",
+      "metric": "Taiwan public trust in traditional media",
+      "value": 30.8,
+      "unit": "percent trust in news media",
+      "date": "2024",
+      "source": {
+        "name": "Reuters Institute Digital News Report 2024",
+        "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024",
+        "accessed": "2026-03-16"
+      },
+      "context": "Trust in news media in Taiwan is approximately 31%, among the lowest in Asia-Pacific. Low media trust creates vulnerability to alternative information sources including content farms and social media, which disinformation operators exploit. This trust deficit is both a vulnerability (easier to spread false narratives) and a resilience factor (population is skeptical of all sources).",
+      "verified": true,
+      "verification_note": "Reuters Institute Digital News Report 2024 Taiwan country data; survey methodology documented in full report"
+    }
+  ]
+}

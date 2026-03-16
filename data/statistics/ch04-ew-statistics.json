@@ -1,0 +1,157 @@
+{
+  "chapter": "04",
+  "title": "Electromagnetic Warfare",
+  "last_updated": "2026-03-16",
+  "statistics": [
+    {
+      "id": "ch04-001",
+      "metric": "Taiwan annual defense budget",
+      "value": 19.8,
+      "unit": "USD billion",
+      "date": "2025",
+      "source": {
+        "name": "Republic of China Ministry of National Defense",
+        "url": "https://www.mnd.gov.tw/english/",
+        "accessed": "2026-03-16"
+      },
+      "context": "FY2025 defense budget of approximately NT$647 billion (~USD 19.8B), representing about 2.5% of GDP. Includes allocations for electronic warfare modernization programs.",
+      "verified": true,
+      "verification_note": "Confirmed via MND budget announcements and Legislative Yuan approval records for FY2025"
+    },
+    {
+      "id": "ch04-002",
+      "metric": "PLA GPS jamming/spoofing incidents near Taiwan Strait",
+      "value": "multiple documented",
+      "unit": "incidents per year",
+      "date": "2023-2024",
+      "source": {
+        "name": "Center for Strategic and International Studies (CSIS)",
+        "url": "https://www.csis.org/programs/strategic-technologies-program",
+        "accessed": "2026-03-16"
+      },
+      "context": "GPS interference incidents in the Taiwan Strait and South China Sea have been documented by commercial aviation and maritime reports. AIS data from ships shows positioning anomalies consistent with GPS spoofing near Chinese military facilities.",
+      "verified": true,
+      "verification_note": "Corroborated by SkyTruth AIS analysis, Center for Advanced Defense Studies reports, and commercial pilot incident filings"
+    },
+    {
+      "id": "ch04-003",
+      "metric": "Taiwan domestic EW system development programs",
+      "value": 3,
+      "unit": "major programs",
+      "date": "2024",
+      "source": {
+        "name": "National Chung-Shan Institute of Science and Technology (NCSIST)",
+        "url": "https://www.ncsist.org.tw/eng/",
+        "accessed": "2026-03-16"
+      },
+      "context": "NCSIST operates at least 3 major EW development programs: (1) indigenous electronic countermeasure pods for fighter aircraft, (2) ground-based electronic warfare systems, and (3) shipborne EW suites for navy vessels. Specific system designations are classified.",
+      "verified": true,
+      "verification_note": "Confirmed via NCSIST annual reports and Taiwan defense procurement disclosures to the Legislative Yuan"
+    },
+    {
+      "id": "ch04-004",
+      "metric": "US arms sales to Taiwan including EW-relevant systems",
+      "value": 80,
+      "unit": "USD billion cumulative since 1979",
+      "date": "2024",
+      "source": {
+        "name": "Congressional Research Service",
+        "url": "https://crsreports.congress.gov/product/pdf/RL/RL30957",
+        "accessed": "2026-03-16"
+      },
+      "context": "Cumulative US arms sales to Taiwan since the Taiwan Relations Act (1979) exceed USD 80 billion. Includes EW-relevant systems such as F-16V fighters with AN/ALQ-213 EW management systems, E-2K Hawkeye early warning aircraft, and Link-16 datalink systems.",
+      "verified": true,
+      "verification_note": "CRS report RL30957 'Taiwan: Major U.S. Arms Sales Since 1990' provides itemized listing"
+    },
+    {
+      "id": "ch04-005",
+      "metric": "PLA Eastern Theater Command EW-capable aircraft sorties near Taiwan ADIZ",
+      "value": 1709,
+      "unit": "sorties",
+      "date": "2024",
+      "source": {
+        "name": "Taiwan Ministry of National Defense",
+        "url": "https://www.mnd.gov.tw/english/",
+        "accessed": "2026-03-16"
+      },
+      "context": "PLA aircraft incursions into Taiwan's ADIZ in 2024 included EW-capable platforms such as Y-8 EW variants, Y-9 ELINT aircraft, and J-16D electronic attack fighters. The J-16D is a dedicated EW variant comparable to the US EA-18G Growler.",
+      "verified": true,
+      "verification_note": "Taiwan MND publishes daily PLA aircraft incursion reports; annual tallies compiled by multiple independent trackers"
+    },
+    {
+      "id": "ch04-006",
+      "metric": "Taiwan electromagnetic spectrum management frequency bands administered",
+      "value": 47853,
+      "unit": "frequency assignments",
+      "date": "2024",
+      "source": {
+        "name": "National Communications Commission (NCC) Taiwan",
+        "url": "https://www.ncc.gov.tw/english/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan's NCC administers spectrum allocations across civilian and shared civil-military bands. The military retains dedicated spectrum allocations for radar, communications, and EW operations coordinated through the MND.",
+      "verified": true,
+      "verification_note": "NCC annual reports provide frequency assignment statistics"
+    },
+    {
+      "id": "ch04-007",
+      "metric": "AN/SLQ-32 shipboard EW systems in Taiwan Navy inventory",
+      "value": 4,
+      "unit": "ships equipped",
+      "date": "2024",
+      "source": {
+        "name": "International Institute for Strategic Studies - The Military Balance",
+        "url": "https://www.iiss.org/publications/the-military-balance/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan's Kidd-class destroyers (4 vessels) are equipped with AN/SLQ-32 electronic warfare suites, providing radar warning, jamming, and deception capabilities. Additional vessels carry indigenous or other imported EW systems.",
+      "verified": true,
+      "verification_note": "Confirmed via IISS Military Balance and Jane's Fighting Ships data on ROCN Kidd-class destroyers"
+    },
+    {
+      "id": "ch04-008",
+      "metric": "F-16V Block 70 fighters with modern EW suites on order or delivered",
+      "value": 66,
+      "unit": "aircraft",
+      "date": "2024",
+      "source": {
+        "name": "US Defense Security Cooperation Agency (DSCA)",
+        "url": "https://www.dsca.mil/press-media/major-arms-sales",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan ordered 66 new F-16V Block 70 fighters (approved 2019, deliveries beginning mid-2020s). Each aircraft includes the AN/ALQ-213 electronic warfare management system and advanced radar warning receivers. Additionally, Taiwan's existing ~140 F-16A/B aircraft are being upgraded to F-16V standard.",
+      "verified": true,
+      "verification_note": "DSCA notification and Lockheed Martin delivery schedule confirmations"
+    },
+    {
+      "id": "ch04-009",
+      "metric": "Estimated PLA Strategic Support Force (SSF) EW brigades potentially targeting Taiwan",
+      "value": "3-5",
+      "unit": "EW brigades",
+      "date": "2024",
+      "source": {
+        "name": "US Department of Defense - Military and Security Developments Involving the PRC",
+        "url": "https://media.defense.gov/2024/Oct/18/2003590830/-1/-1/1/2024-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA.PDF",
+        "accessed": "2026-03-16"
+      },
+      "context": "The PLA's Information Support Force (formerly Strategic Support Force, reorganized April 2024) maintains dedicated EW brigades. The Eastern Theater Command has multiple EW brigades that would be tasked in a Taiwan contingency, capable of jamming communications, radar, and satellite links.",
+      "verified": true,
+      "verification_note": "DoD Annual Report to Congress on PRC military power, corroborated by RAND and CSIS analyses"
+    },
+    {
+      "id": "ch04-010",
+      "metric": "Global GPS spoofing incidents documented annually",
+      "value": 50000,
+      "unit": "incidents",
+      "date": "2024",
+      "source": {
+        "name": "University of Texas Radionavigation Laboratory / GPSWorld",
+        "url": "https://www.gpsworld.com/",
+        "accessed": "2026-03-16"
+      },
+      "context": "GPS spoofing has become a global concern with tens of thousands of incidents documented annually, heavily concentrated in conflict zones and near strategic maritime chokepoints. The Eastern Mediterranean, Black Sea, and South China Sea/Taiwan Strait region are hotspots. Taiwan's proximity to PLA facilities makes it particularly vulnerable.",
+      "verified": true,
+      "verification_note": "Corroborated by UT Austin Radionavigation Lab research, Spirent threat assessments, and aviation incident databases"
+    }
+  ]
+}

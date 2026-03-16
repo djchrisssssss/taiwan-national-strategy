@@ -1,0 +1,157 @@
+{
+  "chapter": "10",
+  "title": "AI and Distributed Computing",
+  "last_updated": "2026-03-16",
+  "statistics": [
+    {
+      "id": "ch10-001",
+      "metric": "Taiwan NCHC Taiwania 2 supercomputer peak performance",
+      "value": 9.0,
+      "unit": "PFLOPS (petaflops)",
+      "date": "2024",
+      "source": {
+        "name": "National Center for High-performance Computing (NCHC)",
+        "url": "https://www.nchc.org.tw/en/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwania 2, located at NCHC, provides approximately 9 PFLOPS of computing power using 252 Nvidia V100 GPU nodes and additional CPU nodes. It supports AI research, scientific simulation, and climate modeling for Taiwan's academic and research communities. NCHC has announced plans for a next-generation system to maintain competitiveness.",
+      "verified": true,
+      "verification_note": "NCHC facility specifications; listed on TOP500 supercomputer rankings"
+    },
+    {
+      "id": "ch10-002",
+      "metric": "Taiwan government AI budget allocation",
+      "value": 10.2,
+      "unit": "TWD billion (approximately USD 314 million) annual",
+      "date": "2024",
+      "source": {
+        "name": "National Science and Technology Council (NSTC) Taiwan",
+        "url": "https://www.nstc.gov.tw/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan's government AI investment spans multiple programs under the 'Taiwan AI Action Plan 2.0' launched in 2024, covering AI infrastructure, talent development, industry applications, and regulation. The budget includes NCHC computing upgrades, AI research grants, and support for AI startup incubation.",
+      "verified": true,
+      "verification_note": "NSTC and Executive Yuan AI policy announcements; budget figures from Legislative Yuan records"
+    },
+    {
+      "id": "ch10-003",
+      "metric": "Taiwan AI research publications (Scopus-indexed)",
+      "value": 5200,
+      "unit": "publications per year (approximately)",
+      "date": "2023",
+      "source": {
+        "name": "Scopus / Elsevier",
+        "url": "https://www.scopus.com/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan produces approximately 5,000-5,500 AI-related research publications annually according to Scopus data, ranking in the top 15 globally. Key institutions include National Taiwan University, Academia Sinica, NTHU, NCTU/NYCU, and ITRI. Taiwan's research strengths are in computer vision, NLP, and semiconductor-AI integration.",
+      "verified": true,
+      "verification_note": "Scopus bibliometric analysis for Taiwan-affiliated AI/ML publications; consistent with Stanford AI Index country data"
+    },
+    {
+      "id": "ch10-004",
+      "metric": "NVIDIA GPU shipments to Taiwan data centers",
+      "value": "major deployment hub",
+      "unit": "status",
+      "date": "2024",
+      "source": {
+        "name": "NVIDIA / DigiTimes",
+        "url": "https://www.digitimes.com/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan serves as a major GPU deployment hub due to its cloud service providers and the presence of companies like Quanta Cloud Technology (QCT), Wistron, and Foxconn/Hon Hai which are major NVIDIA GPU server manufacturers. Taiwan's hyperscale data centers have deployed thousands of NVIDIA A100 and H100 GPUs for AI workloads. TSMC manufactures the chips themselves.",
+      "verified": true,
+      "verification_note": "Industry reports from DigiTimes and Taiwan server ODM shipping data"
+    },
+    {
+      "id": "ch10-005",
+      "metric": "Taiwan AI startup ecosystem size",
+      "value": 400,
+      "unit": "AI-focused startups (approximately)",
+      "date": "2024",
+      "source": {
+        "name": "Taiwan AI Academy / Taiwan Startup Ecosystem Survey",
+        "url": "https://aiacademy.tw/en/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan has approximately 400 AI-focused startups, with concentrations in manufacturing AI (smart factory), healthcare AI (medical imaging, drug discovery), semiconductor design AI, and fintech. Key incubators include Taiwan AI Academy, Appworks, and government-supported AI parks in Taoyuan and Kaohsiung.",
+      "verified": true,
+      "verification_note": "Estimated from Taiwan Startup Ecosystem reports, Appworks portfolio data, and NSTC AI industry surveys"
+    },
+    {
+      "id": "ch10-006",
+      "metric": "TSMC advanced chip production share relevant to AI hardware",
+      "value": 92,
+      "unit": "percent of global advanced semiconductor production (<10nm)",
+      "date": "2024",
+      "source": {
+        "name": "Semiconductor Industry Association (SIA) / TrendForce",
+        "url": "https://www.semiconductors.org/",
+        "accessed": "2026-03-16"
+      },
+      "context": "TSMC produces over 90% of the world's most advanced semiconductors (sub-10nm nodes), including virtually all cutting-edge AI accelerator chips (NVIDIA H100/B100, Apple M-series, AMD MI300). This gives Taiwan enormous strategic leverage but also makes it a critical single point of failure for global AI infrastructure.",
+      "verified": true,
+      "verification_note": "SIA data and TrendForce foundry market share analysis; widely cited in industry reports"
+    },
+    {
+      "id": "ch10-007",
+      "metric": "Taiwan AI Academy graduates trained",
+      "value": 10000,
+      "unit": "professionals trained (cumulative since 2018)",
+      "date": "2024",
+      "source": {
+        "name": "Taiwan AI Academy",
+        "url": "https://aiacademy.tw/en/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan AI Academy, founded by Ethan Tu in 2018 with support from the Appier/PTT communities, has trained over 10,000 professionals in AI/ML skills across technical and manager tracks. The program addresses Taiwan's AI talent gap and has become a key pipeline for industry AI adoption.",
+      "verified": true,
+      "verification_note": "Taiwan AI Academy program reports and media coverage of enrollment milestones"
+    },
+    {
+      "id": "ch10-008",
+      "metric": "Foxconn/Hon Hai AI server revenue growth",
+      "value": 40,
+      "unit": "percent year-over-year growth",
+      "date": "2024",
+      "source": {
+        "name": "Hon Hai Precision Industry (Foxconn) investor relations",
+        "url": "https://www.honhai.com/en-us/investor-relations",
+        "accessed": "2026-03-16"
+      },
+      "context": "Foxconn's AI server business grew approximately 40% in 2024, driven by massive demand from hyperscalers for NVIDIA GPU-based AI training and inference servers. Taiwan-based ODMs (Foxconn, Quanta, Wistron, Inventec) collectively manufacture the majority of the world's AI servers.",
+      "verified": true,
+      "verification_note": "Foxconn quarterly investor calls and DigiTimes/TrendForce server market analysis"
+    },
+    {
+      "id": "ch10-009",
+      "metric": "Taiwan data center market size",
+      "value": 1.8,
+      "unit": "USD billion",
+      "date": "2024",
+      "source": {
+        "name": "Arizton Advisory / Research and Markets",
+        "url": "https://www.arizton.com/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan's data center market is projected at approximately USD 1.8 billion in 2024, growing driven by cloud adoption, AI workloads, and regional hub positioning. Major operators include Chunghwa Telecom IDC, Chief Telecom, and international operators expanding into Taiwan. New AI-focused data centers are being built in Changhua and Taoyuan.",
+      "verified": true,
+      "verification_note": "Market research estimates from Arizton and Research and Markets Taiwan data center reports"
+    },
+    {
+      "id": "ch10-010",
+      "metric": "Stanford AI Index - Taiwan ranking in AI vibrancy",
+      "value": "top 15",
+      "unit": "global ranking",
+      "date": "2024",
+      "source": {
+        "name": "Stanford University Human-Centered AI Institute - AI Index Report",
+        "url": "https://aiindex.stanford.edu/report/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan consistently ranks in the top 15 globally for AI vibrancy metrics including research output, AI talent concentration, and private investment in AI, according to Stanford's AI Index. Taiwan's unique position at the intersection of semiconductor manufacturing and AI development gives it distinctive advantages.",
+      "verified": true,
+      "verification_note": "Stanford HAI AI Index Annual Report; Taiwan-specific data extracted from global rankings"
+    }
+  ]
+}

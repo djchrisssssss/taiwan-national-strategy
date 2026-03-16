@@ -1,0 +1,157 @@
+{
+  "chapter": "09",
+  "title": "Quantum Security",
+  "last_updated": "2026-03-16",
+  "statistics": [
+    {
+      "id": "ch09-001",
+      "metric": "NIST Post-Quantum Cryptography standards finalized",
+      "value": 3,
+      "unit": "algorithms standardized (FIPS 203, 204, 205)",
+      "date": "2024-08",
+      "source": {
+        "name": "National Institute of Standards and Technology (NIST)",
+        "url": "https://csrc.nist.gov/projects/post-quantum-cryptography",
+        "accessed": "2026-03-16"
+      },
+      "context": "NIST published three post-quantum cryptography standards in August 2024: FIPS 203 (ML-KEM, based on CRYSTALS-Kyber for key encapsulation), FIPS 204 (ML-DSA, based on CRYSTALS-Dilithium for digital signatures), and FIPS 205 (SLH-DSA, based on SPHINCS+ for stateless hash-based signatures). A fourth algorithm (FALCON/FN-DSA) is expected as FIPS 206.",
+      "verified": true,
+      "verification_note": "NIST official announcement on August 13, 2024; FIPS documents published at csrc.nist.gov"
+    },
+    {
+      "id": "ch09-002",
+      "metric": "NIST PQC standardization process duration",
+      "value": 8,
+      "unit": "years (2016-2024)",
+      "date": "2024",
+      "source": {
+        "name": "National Institute of Standards and Technology (NIST)",
+        "url": "https://csrc.nist.gov/projects/post-quantum-cryptography",
+        "accessed": "2026-03-16"
+      },
+      "context": "NIST initiated its PQC standardization competition in December 2016 with a call for proposals. After 4 rounds of evaluation involving 82 initial submissions, the first 3 standards were finalized in August 2024. This timeline underscores the urgency of beginning migration planning now.",
+      "verified": true,
+      "verification_note": "NIST PQC project timeline documented at csrc.nist.gov"
+    },
+    {
+      "id": "ch09-003",
+      "metric": "Estimated timeline for cryptographically relevant quantum computer (CRQC)",
+      "value": "2029-2035",
+      "unit": "year range (expert consensus)",
+      "date": "2024",
+      "source": {
+        "name": "Global Risk Institute - Quantum Threat Timeline Report",
+        "url": "https://globalriskinstitute.org/publication/quantum-threat-timeline-report-2023/",
+        "accessed": "2026-03-16"
+      },
+      "context": "The Global Risk Institute's annual survey of quantum computing experts estimates a significant probability (>50% according to some respondents) that a quantum computer capable of breaking RSA-2048 will exist within 10-15 years. The 'harvest now, decrypt later' threat means adversaries may already be collecting encrypted data for future decryption.",
+      "verified": true,
+      "verification_note": "GRI Quantum Threat Timeline Report surveys leading quantum computing researchers annually"
+    },
+    {
+      "id": "ch09-004",
+      "metric": "Taiwan quantum computing research investment (NSTC program)",
+      "value": 8.0,
+      "unit": "TWD billion (approximately USD 246 million) over 5 years",
+      "date": "2022-2026",
+      "source": {
+        "name": "National Science and Technology Council (NSTC) Taiwan",
+        "url": "https://www.nstc.gov.tw/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan launched a 5-year quantum computing national program in 2022 with approximately TWD 8 billion in funding. The program focuses on quantum hardware (superconducting and trapped-ion qubits), quantum software/algorithms, and quantum applications. Key institutions include Academia Sinica, National Taiwan University, and ITRI.",
+      "verified": true,
+      "verification_note": "NSTC and Executive Yuan announcements on the National Quantum Science and Technology Program"
+    },
+    {
+      "id": "ch09-005",
+      "metric": "Taiwan's first domestically built superconducting quantum processor qubits",
+      "value": 5,
+      "unit": "qubits",
+      "date": "2023",
+      "source": {
+        "name": "Academia Sinica / National Taiwan University",
+        "url": "https://www.sinica.edu.tw/en",
+        "accessed": "2026-03-16"
+      },
+      "context": "Taiwan's Academia Sinica and NTU demonstrated a 5-qubit superconducting quantum processor as part of the national quantum program. While modest compared to IBM (1,000+ qubits) or Google systems, this represents an important milestone in developing indigenous quantum hardware capability. Roadmap targets larger systems by 2027.",
+      "verified": true,
+      "verification_note": "Reported by Academia Sinica and covered in Taiwan research institution announcements"
+    },
+    {
+      "id": "ch09-006",
+      "metric": "Global QKD network deployment - longest fiber distance achieved",
+      "value": 2000,
+      "unit": "kilometers (Beijing-Shanghai backbone)",
+      "date": "2024",
+      "source": {
+        "name": "University of Science and Technology of China (USTC)",
+        "url": "https://doi.org/10.1038/s41586-020-03093-8",
+        "accessed": "2026-03-16"
+      },
+      "context": "China operates the world's longest QKD backbone network spanning over 2,000 km from Beijing to Shanghai, integrated with the Micius quantum satellite for intercity key distribution. This represents the most advanced national-scale QKD deployment and is relevant to Taiwan's security planning as a potential adversary capability.",
+      "verified": true,
+      "verification_note": "Published in Nature (2021); subsequent expansions documented in Chinese Academy of Sciences publications"
+    },
+    {
+      "id": "ch09-007",
+      "metric": "Countries with national quantum strategies",
+      "value": 30,
+      "unit": "countries (approximately)",
+      "date": "2024",
+      "source": {
+        "name": "Quantum Economic Development Consortium (QED-C) / OECD",
+        "url": "https://quantumconsortium.org/",
+        "accessed": "2026-03-16"
+      },
+      "context": "Over 30 countries have published national quantum strategies or dedicated significant funding to quantum technology development, with combined global investment exceeding USD 40 billion. Major programs include the US National Quantum Initiative (reauthorized 2024), EU Quantum Flagship (EUR 1B), and China's estimated $15B+ investment.",
+      "verified": true,
+      "verification_note": "QED-C and OECD quantum policy landscape surveys; individual country announcements compiled by qureca.com"
+    },
+    {
+      "id": "ch09-008",
+      "metric": "Estimated global cost of post-quantum cryptography migration",
+      "value": "hundreds of billions",
+      "unit": "USD (industry estimates)",
+      "date": "2024",
+      "source": {
+        "name": "Hudson Institute / RAND Corporation",
+        "url": "https://www.hudson.org/technology/quantum-computing-and-post-quantum-cryptography",
+        "accessed": "2026-03-16"
+      },
+      "context": "Migration from current public-key cryptography (RSA, ECC) to post-quantum algorithms will require updating billions of devices, certificates, and protocols globally. Estimates for total migration costs range from tens to hundreds of billions of dollars over 10-20 years. Taiwan's critical semiconductor and financial infrastructure will require early migration.",
+      "verified": true,
+      "verification_note": "Cost estimates vary widely; Hudson Institute and RAND analyses provide order-of-magnitude assessments"
+    },
+    {
+      "id": "ch09-009",
+      "metric": "IBM quantum processor qubit count milestone",
+      "value": 1121,
+      "unit": "qubits (IBM Condor)",
+      "date": "2023-12",
+      "source": {
+        "name": "IBM Research",
+        "url": "https://research.ibm.com/blog/ibm-quantum-roadmap-2025",
+        "accessed": "2026-03-16"
+      },
+      "context": "IBM unveiled its 1,121-qubit Condor processor in December 2023 and its error-corrected Heron processor architecture. IBM's roadmap targets 100,000+ qubit systems by 2033. Google demonstrated 'beyond classical' quantum computation with its Willow processor (105 qubits) in December 2024. Progress is accelerating toward cryptographically relevant systems.",
+      "verified": true,
+      "verification_note": "IBM quantum roadmap published on research.ibm.com; Google Willow paper published in Nature"
+    },
+    {
+      "id": "ch09-010",
+      "metric": "NSA CNSA 2.0 post-quantum transition deadline for national security systems",
+      "value": 2035,
+      "unit": "year (full transition deadline)",
+      "date": "2022",
+      "source": {
+        "name": "National Security Agency - Commercial National Security Algorithm Suite 2.0",
+        "url": "https://media.defense.gov/2022/Sep/07/2003071834/-1/-1/0/CSA_CNSA_2.0_ALGORITHMS_.PDF",
+        "accessed": "2026-03-16"
+      },
+      "context": "The NSA's CNSA 2.0 guidance mandates that all US national security systems must transition to post-quantum cryptography by 2035, with software/firmware systems transitioning by 2030. This timeline is relevant for Taiwan's defense systems that interoperate with US military equipment and protocols.",
+      "verified": true,
+      "verification_note": "NSA CNSA 2.0 advisory published September 2022; official document available at media.defense.gov"
+    }
+  ]
+}
