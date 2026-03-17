@@ -2,12 +2,12 @@
 
 ## Overview
 
-A bilingual (Traditional Chinese / English) policy analysis of Taiwan's multi-domain national security strategy. Structured as a think tank report with 13 chapters, deep citations, and verification data.
+A bilingual (Traditional Chinese (正體中文) / English) policy analysis of Taiwan's multi-domain national security strategy. Structured as a think tank report with 13 chapters, deep citations, and verification data.
 
 ## File Structure
 
 - `docs/en/` - English full text and verification report
-- `docs/zh-TW/` - Traditional Chinese full text and verification report
+- `docs/zh-TW/` - Traditional Chinese (正體中文) full text and verification report
 - `data/statistics/` - Per-chapter statistics in JSON format
 - `data/timelines/` - Historical event timelines in CSV
 - `data/comparisons/` - Cross-country comparative data in CSV

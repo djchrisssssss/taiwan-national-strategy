@@ -1,6 +1,6 @@
 # Taiwan's Multi-Domain National Security Strategy: A Comprehensive Analysis (Full Text)
 
-**Language: English** | [繁體中文全文](../zh-TW/full-text.md) | [Back to Home](../../README.md)
+**Language: English** | [正體中文全文](../zh-TW/full-text.md) | [Back to Home](../../README.md)
 
 > This document combines all thirteen chapters and the executive summary into a single file for continuous reading.
 
@@ -52,7 +52,9 @@ The core assumptions of this methodology include:
 
 1. **Interdependency Assumption**: Failure in any single domain can propagate along supply chains, information flows, or decision-making chains into other domains, producing cascading failures. An energy disruption affects communications; communications failure degrades military command; delays in military command feed back as disorder in the cognitive space.
 2. **Nonlinearity Assumption**: The relationship between system stress and system failure is nonlinear. Within normal operating parameters, the system can absorb considerable shocks. But once a critical threshold is exceeded, the rate of degradation can accelerate sharply.
-3. **Adversary Rationality Assumption**: A potential adversary will identify and exploit the most vulnerable nodes in the system. Strategic design must therefore focus not only on reinforcing known weaknesses, but on eliminating structural exposures that can be exploited at low cost.
+3. **Adversary Rationality Assumption**: The CCP will identify and exploit the most vulnerable nodes in the system. Strategic design must therefore focus not only on reinforcing known weaknesses, but on eliminating structural exposures that can be exploited at low cost.
+
+**Definition of the Adversary**: This analysis explicitly identifies the **Chinese Communist Party (CCP) regime** as the primary hypothetical adversary. This designation is grounded in the following facts: the CCP has never renounced the use of force against Taiwan, continues to expand its military capabilities, and actively conducts military pressure, gray-zone operations, and cognitive warfare against Taiwan. All references to "the CCP" or "hostile forces" in this document refer to the CCP regime and the military and national security apparatus under its control — not the Chinese people.
 
 This analysis covers twelve core domains and one supplementary topic. Each chapter stands as an independent analysis while also forming an integral part of the overarching strategic narrative.
 
@@ -60,7 +62,7 @@ This analysis covers twelve core domains and one supplementary topic. Each chapt
 
 ## Overview of Structural Risks
 
-Taiwan's structural risks do not stem from any single flaw, but from the compounding effect of multiple vulnerabilities. During periods of peace and prosperity, these risks are difficult to perceive and may even be regarded as reasonable tradeoffs in the course of development. Yet once a high-pressure or conflict scenario materializes, each structural exposure can become a leverage point for adversary coercion.
+Taiwan's structural risks do not stem from any single flaw, but from the compounding effect of multiple vulnerabilities. During periods of peace and prosperity, these risks are difficult to perceive and may even be regarded as reasonable tradeoffs in the course of development. Yet once a high-pressure or conflict scenario materializes, each structural exposure can become a leverage point for CCP coercion.
 
 ### Geographic Concentration
 
@@ -168,7 +170,7 @@ This analysis is subject to the following limitations, which readers should cons
 - **Quantification constraints**: Certain domains (e.g., cognitive resilience, social cohesion) are difficult to quantify precisely; related assessments involve qualitative judgment
 - **Scenario dependence**: The effectiveness of policy recommendations is highly contingent on specific scenario assumptions; different conflict scenarios may require different priority orderings
 - **Resource assumptions**: Implementation of some recommendations requires significant budgetary investment; this analysis does not include a comprehensive cost-benefit analysis
-- **Interaction effects**: The adversary will adapt its own strategy in response to Taiwan's strategic adjustments; the static assessment in this analysis cannot fully capture this dynamic game
+- **Interaction effects**: The CCP will adapt its own strategy in response to Taiwan's strategic adjustments; the static assessment in this analysis cannot fully capture this dynamic game
 
 ### Update Mechanism
 
@@ -190,7 +192,7 @@ Taiwan is situated between 120-122 degrees east longitude and 22-25 degrees nort
 
 The First Island Chain concept was first articulated by U.S. Secretary of State John Foster Dulles in the 1950s Cold War context, conceived as a geographic barrier to contain Soviet and Chinese naval power projection into the Pacific. More than seventy years later, the concept has only grown in importance within the East Asian security architecture. As China's naval capabilities have expanded rapidly and its blue-water operational reach has improved, the First Island Chain's function as a strategic barrier has once again become a central topic in regional security discourse.
 
-Taiwan's position within this chain is irreplaceable. In purely geometric terms, Taiwan sits precisely at the transitional node where the First Island Chain shifts from Northeast Asia (Japan, South Korea) to Southeast Asia (the Philippines, Indonesia). Were this node to fall within an adversary's sphere of influence, the First Island Chain would fracture at its center, and the entire western Pacific security architecture would face fundamental restructuring.
+Taiwan's position within this chain is irreplaceable. In purely geometric terms, Taiwan sits precisely at the transitional node where the First Island Chain shifts from Northeast Asia (Japan, South Korea) to Southeast Asia (the Philippines, Indonesia). Were this node to fall within the CCP's sphere of influence, the First Island Chain would fracture at its center, and the entire western Pacific security architecture would face fundamental restructuring.
 
 ### Current Assessment
 
@@ -214,7 +216,7 @@ The strategic value of Taiwan's geographic position can be understood along thre
 
 **First, denial value.** If Taiwan possesses effective denial capabilities, any military force attempting to transit the Taiwan Strait or Bashi Channel will face significant risk. This protects not only Taiwan itself but also indirectly safeguards the sea lines of communication (SLOCs) of Japan and South Korea, as well as freedom of navigation across the broader western Pacific.
 
-**Second, projection value.** From an adversary's perspective, controlling Taiwan means acquiring a forward base for projecting power into the Pacific. From Taiwan's eastern coast, submarine forces could directly access the deep waters of the western Pacific, no longer constrained by the First Island Chain. The operational radius of air power would likewise extend significantly. This is precisely why Taiwan's strategic status is not merely a matter of Taiwan's own security, but a linchpin of the entire Indo-Pacific security architecture.
+**Second, projection value.** From the CCP's perspective, controlling Taiwan means acquiring a forward base for projecting power into the Pacific. From Taiwan's eastern coast, submarine forces could directly access the deep waters of the western Pacific, no longer constrained by the First Island Chain. The operational radius of air power would likewise extend significantly. This is precisely why Taiwan's strategic status is not merely a matter of Taiwan's own security, but a linchpin of the entire Indo-Pacific security architecture.
 
 **Third, signaling value.** Taiwan's security status serves as an indicator of the regional security order. When Taiwan's autonomous security is maintained, the signal conveyed is that the existing international order remains effective. Conversely, should Taiwan's status quo be altered by force, the chain reaction would extend far beyond the Taiwan Strait — Japan, South Korea, the Philippines, Australia, and even European allies would reassess their security assumptions and the credibility of alliance commitments.
 
@@ -272,7 +274,7 @@ The regional public good roles that Taiwan currently possesses or could strength
 
 **Maritime corridor order maintenance.** The Taiwan Strait is one of the world's busiest commercial waterways, with annual vessel traffic measured in trillions of dollars in value. Taiwan's coast guard and naval forces objectively provide order-maintenance functions for this corridor. This role could be further institutionalized — for example, through the publication of navigational safety information, provision of search-and-rescue coordination, and sharing of maritime surveillance data — transforming implicit contributions into visible regional services.
 
-**Technology supply chain stability.** Taiwan's dominant position in advanced semiconductor manufacturing (commanding over 90% of the global advanced node market) makes it a core node of the global technology supply chain. This position is not merely an economic asset but a strategic lever — any action threatening Taiwan's security would directly disrupt global technology industry operations, thereby raising the cost of action for any adversary. This topic will be analyzed in detail in Chapter 2.
+**Technology supply chain stability.** Taiwan's dominant position in advanced semiconductor manufacturing (commanding over 90% of the global advanced node market) makes it a core node of the global technology supply chain. This position is not merely an economic asset but a strategic lever — any action threatening Taiwan's security would directly disrupt global technology industry operations, thereby raising the cost of action for the CCP. This topic will be analyzed in detail in Chapter 2.
 
 **Intelligence and situational awareness cooperation.** Taiwan's geographic position provides a natural forward observation advantage over Chinese military activities. Although intelligence cooperation typically occurs through non-public channels, the situational awareness information Taiwan provides is of significant value to regional allies (particularly the United States and Japan). Strengthening this role can deepen Taiwan's substantive linkages with regional security architectures.
 
@@ -369,11 +371,11 @@ The strategic implications of Taiwan's semiconductor industry can be understood 
 
 This argument has considerable analytical foundation, but also carries important limitations and risks:
 
-**Conditions for Silicon Shield effectiveness.** The deterrent effect of the Silicon Shield rests on two premises: (1) the global community understands and recognizes the depth of this dependency; and (2) economic costs carry sufficient weight in the adversary's decision calculus. If the adversary views territorial unification as a core interest that transcends economic considerations, the Silicon Shield's deterrent effect may be overestimated.
+**Conditions for Silicon Shield effectiveness.** The deterrent effect of the Silicon Shield rests on two premises: (1) the global community understands and recognizes the depth of this dependency; and (2) economic costs carry sufficient weight in the CCP's decision calculus. If the CCP views territorial unification as a core interest that transcends economic considerations, the Silicon Shield's deterrent effect may be overestimated.
 
 **Time-decay risk.** As the United States, EU, Japan, and South Korea each pursue semiconductor manufacturing reshoring or regionalization, Taiwan's market monopoly position may gradually erode over the long term. The U.S. CHIPS Act, the European Chips Act, and Japan's semiconductor revival plans all explicitly include reducing dependence on Taiwan as one of their objectives. [18][23] While transfer of advanced nodes is infeasible in the near term, the long-term trend warrants vigilance.
 
-**"Destructive use" scenario.** The most extreme scenario involves the adversary deliberately destroying Taiwan's semiconductor facilities during military operations to eliminate the asset's value to other nations. In this scenario, the Silicon Shield not only fails but becomes a target. While this scenario is less likely (because the adversary itself is heavily dependent on Taiwanese chips), it cannot be entirely ruled out.
+**"Destructive use" scenario.** The most extreme scenario involves the CCP deliberately destroying Taiwan's semiconductor facilities during military operations to eliminate the asset's value to other nations. In this scenario, the Silicon Shield not only fails but becomes a target. While this scenario is less likely (because the CCP itself is heavily dependent on Taiwanese chips), it cannot be entirely ruled out.
 
 ---
 
@@ -435,7 +437,7 @@ Taiwan's semiconductor industry faces multiple talent challenges:
 
 ### Analysis
 
-Talent security has escalated from a purely industrial policy issue to a national security issue. In extreme scenarios (such as gray-zone operations preceding a conflict), an adversary could systematically erode Taiwan's technological advantage through targeted talent recruitment, academic cooperation infiltration, or industrial espionage. The cost of such operations is far lower than military action, but the long-term effects could be equally destructive.
+Talent security has escalated from a purely industrial policy issue to a national security issue. In extreme scenarios (such as gray-zone operations preceding a conflict), the CCP could systematically erode Taiwan's technological advantage through targeted talent recruitment, academic cooperation infiltration, or industrial espionage. The cost of such operations is far lower than military action, but the long-term effects could be equally destructive.
 
 A strategic response requires a multi-pronged approach: strengthening trade secret protection legislation, establishing security assessment mechanisms for core talent, increasing industry compensation competitiveness to reduce outflow incentives, expanding international talent recruitment channels, and investing in the education system to enlarge the long-term talent pool.
 
@@ -513,7 +515,7 @@ Strategic response directions include: establishing strategic inventories of cri
 
 # Chapter 3: Asymmetric Defense — Cost-Exchange Ratios, Denial Capabilities, and Indigenous Mass Production
 
-> **Central Thesis**: Taiwan's geographic and scale conditions dictate that its military strategy must be anchored in cost-exchange ratio logic, prioritizing the development of asymmetric capabilities — submarines, unmanned systems, precision strike, and indigenous mass production — to ensure that any military offensive exceeds the adversary's tolerable threshold in terms of personnel, equipment, and time costs.
+> **Central Thesis**: Taiwan's geographic and scale conditions dictate that its military strategy must be anchored in cost-exchange ratio logic, prioritizing the development of asymmetric capabilities — submarines, unmanned systems, precision strike, and indigenous mass production — to ensure that any military offensive exceeds the CCP's tolerable threshold in terms of personnel, equipment, and time costs.
 
 ---
 
@@ -523,15 +525,15 @@ Strategic response directions include: establishing strategic inventories of cri
 
 The "cost-exchange ratio" is the central metric for evaluating the efficiency of a defense strategy. Its basic logic is this: the ratio between the attacker's losses inflicted per unit of defender resources invested, and the defender's capabilities breached per unit of attacker resources invested. When this ratio decisively favors the defender, offensive action becomes unsustainable in both economic and military terms.
 
-For Taiwan, the cost-exchange ratio framework holds particular importance. Facing a potential adversary with overwhelming advantages in economic scale, military expenditure, and force numbers, Taiwan cannot and should not attempt to prevail in a symmetric arms race. The strategic objective is not to "win" a war in the conventional sense, but to ensure that the expected costs of any military action exceed the adversary's decision-makers' acceptable threshold.
+For Taiwan, the cost-exchange ratio framework holds particular importance. Facing a CCP with overwhelming advantages in economic scale, military expenditure, and force numbers, Taiwan cannot and should not attempt to prevail in a symmetric arms race. The strategic objective is not to "win" a war in the conventional sense, but to ensure that the expected costs of any military action exceed the CCP's decision-makers' acceptable threshold.
 
 This logic has been repeatedly validated in recent international military experience. In the 2022 Russia-Ukraine conflict, Ukraine employed anti-ship missiles to sink the cruiser *Moskva* (replacement cost approximately $750 million); the Neptune anti-ship missile used has a unit cost of less than one million dollars. [28] Javelin and NLAW anti-armor missiles, at unit costs of tens of thousands of dollars, destroyed main battle tanks valued at several million dollars each. Commercially modified FPV drones, at costs of a few hundred dollars, disabled armored vehicles worth millions. [29][31] These cases vividly demonstrate the cost-exchange advantages of asymmetric capabilities.
 
 ### Current Assessment
 
-Taiwan's defense budget has increased steadily in recent years, but remains orders of magnitude below that of its potential adversary. According to publicly available data, Taiwan's annual defense budget is approximately 2.5% of GDP (including special budgets), while the adversary's publicly disclosed defense budget is roughly 13-15 times larger (with actual military expenditures potentially higher still). [2][9]
+Taiwan's defense budget has increased steadily in recent years, but remains orders of magnitude below that of the CCP. According to publicly available data, Taiwan's annual defense budget is approximately 2.5% of GDP (including special budgets), while the CCP's publicly disclosed defense budget is roughly 13-15 times larger (with actual military expenditures potentially higher still). [2][9]
 
-| Indicator | Taiwan | Potential Adversary | Ratio |
+| Indicator | Taiwan | CCP | Ratio |
 |-----------|--------|---------------------|-------|
 | Annual defense budget | ~$19 billion | ~$290 billion (disclosed) | ~1:15 |
 | Active-duty personnel | ~188,000 | ~2 million | ~1:10 |
@@ -548,9 +550,9 @@ The cost-exchange ratio analytical framework can be applied to every dimension o
 
 **Maritime denial.** Amphibious assault is among the most complex and highest-risk military operations. The attacker must transport large numbers of personnel and equipment across open water over an extended period while simultaneously maintaining air and sea superiority. The defender can employ shore-based anti-ship missiles, mines, submarines, and unmanned surface/subsurface vehicles to deliver multiple strikes during the attacker's most vulnerable phase — the sea crossing. Every amphibious vessel sunk means the loss of thousands of troops and substantial equipment.
 
-**Air denial.** Mobile surface-to-air missile systems (such as the Tien Kung series and the Patriot system) can be dispersed across Taiwan's complex terrain, preventing the adversary from fully suppressing Taiwan's air defense network. Even without contesting air superiority, the persistent air defense threat would compel the adversary to commit substantial Suppression of Enemy Air Defenses (SEAD) resources, increasing overall operational costs.
+**Air denial.** Mobile surface-to-air missile systems (such as the Tien Kung series and the Patriot system) can be dispersed across Taiwan's complex terrain, preventing the CCP from fully suppressing Taiwan's air defense network. Even without contesting air superiority, the persistent air defense threat would compel the CCP to commit substantial Suppression of Enemy Air Defenses (SEAD) resources, increasing overall operational costs.
 
-**Beachhead counterattack.** Even if the adversary achieves a successful beachhead landing, Taiwan's high degree of urbanization and complex terrain mean that ground advances would face extremely high attrition rates. Historical experience with urban warfare has repeatedly demonstrated that the defender holds a significant advantage in the urban environment.
+**Beachhead counterattack.** Even if the CCP achieves a successful beachhead landing, Taiwan's high degree of urbanization and complex terrain mean that ground advances would face extremely high attrition rates. Historical experience with urban warfare has repeatedly demonstrated that the defender holds a significant advantage in the urban environment.
 
 Taiwan's asymmetric defense strategy should therefore concentrate on the priority development of the following categories of capability.
 
@@ -560,7 +562,7 @@ Taiwan's asymmetric defense strategy should therefore concentrate on the priorit
 
 ### Background
 
-Submarines are among the most cost-effective weapons platforms in asymmetric naval warfare. Their strategic value lies not only in direct lethality but in "existence as deterrence" — as long as the adversary cannot determine a submarine's location, it cannot safely conduct large-scale surface operations. This "uncertainty of presence" effect means that a single submarine's strategic impact far exceeds its physical capabilities.
+Submarines are among the most cost-effective weapons platforms in asymmetric naval warfare. Their strategic value lies not only in direct lethality but in "existence as deterrence" — as long as the CCP cannot determine a submarine's location, it cannot safely conduct large-scale surface operations. This "uncertainty of presence" effect means that a single submarine's strategic impact far exceeds its physical capabilities.
 
 During the Falklands War, after the Royal Navy nuclear-powered attack submarine HMS *Conqueror* sank the Argentine cruiser ARA *General Belgrano*, the entire Argentine Navy withdrew to port and did not venture out again for the remainder of the conflict. [25] The action of a single submarine paralyzed a nation's naval will to fight.
 
@@ -581,13 +583,13 @@ Taiwan's Indigenous Defense Submarine (IDS) program is among the most significan
 
 The strategic roles of submarines in Taiwan Strait defense include:
 
-**Anti-landing operations.** Deploying submarines in the Taiwan Strait and surrounding waters directly threatens amphibious flotillas. Even if the adversary possesses superior anti-submarine warfare (ASW) capabilities, simultaneously conducting amphibious landings and ASW operations within the confined waters of the strait would be extraordinarily complex. The presence of submarines would compel the adversary to commit substantial escort forces, reducing resources available for other missions.
+**Anti-landing operations.** Deploying submarines in the Taiwan Strait and surrounding waters directly threatens amphibious flotillas. Even if the CCP possesses superior anti-submarine warfare (ASW) capabilities, simultaneously conducting amphibious landings and ASW operations within the confined waters of the strait would be extraordinarily complex. The presence of submarines would compel the CCP to commit substantial escort forces, reducing resources available for other missions.
 
-**Lines of communication interdiction.** In a broader conflict scenario, submarines can threaten the adversary's maritime supply lines, increasing the logistical costs of sustained operations.
+**Lines of communication interdiction.** In a broader conflict scenario, submarines can threaten the CCP's maritime supply lines, increasing the logistical costs of sustained operations.
 
 **Intelligence, surveillance, and reconnaissance.** Submarines are among the most effective covert reconnaissance platforms. In gray-zone scenarios, submarines can conduct underwater listening, fleet movement tracking, and seabed topographic surveys, providing critical intelligence for strategic decision-making.
 
-**Strategic uncertainty.** This may be the most important function. The adversary's operational planning must assume that Taiwan's submarines could appear at any location. This assumption significantly increases the complexity of operational planning and risk assessment. Eight modern submarines — assuming 4-5 are at sea simultaneously — would cause the adversary's ASW search burden to grow exponentially.
+**Strategic uncertainty.** This may be the most important function. The CCP's operational planning must assume that Taiwan's submarines could appear at any location. This assumption significantly increases the complexity of operational planning and risk assessment. Eight modern submarines — assuming 4-5 are at sea simultaneously — would cause the CCP's ASW search burden to grow exponentially.
 
 ---
 
@@ -607,7 +609,7 @@ Taiwan's development of unmanned systems is accelerating, but gaps remain relati
 
 **Unmanned underwater vehicles (UUVs).** UUVs can conduct mine-laying, seabed surveillance, and ASW search operations. In the shallow-water environment of the Taiwan Strait, UUV operating conditions are relatively favorable. Long-endurance UUVs can form a persistent underwater surveillance network.
 
-**Swarm systems.** The coordinated combat operation of large numbers of low-cost drones — swarm tactics — represents the cutting edge of current military technology development. The core advantage of swarm systems is saturation attack: even if each individual drone has limited capability, large numbers attacking simultaneously can overwhelm an adversary's defensive systems' processing capacity.
+**Swarm systems.** The coordinated combat operation of large numbers of low-cost drones — swarm tactics — represents the cutting edge of current military technology development. The core advantage of swarm systems is saturation attack: even if each individual drone has limited capability, large numbers attacking simultaneously can overwhelm the CCP's defensive systems' processing capacity.
 
 **Unmanned surface vessels (USVs).** Ukraine's experience has demonstrated that explosive-laden high-speed USVs can pose severe threats to major surface combatants. These systems cost very little (tens of thousands to hundreds of thousands of dollars) but can threaten warships valued at hundreds of millions to billions of dollars.
 
@@ -629,7 +631,7 @@ The value of unmanned systems to Taiwan's asymmetric defense strategy manifests 
 
 **Production sustainability.** Compared to complex traditional weapons platforms (such as fighter aircraft or submarines), unmanned systems have short production cycles and relatively lower technical barriers, enabling sustained wartime production to replenish losses.
 
-**Saturation attack capability.** Simultaneous attacks by large numbers of unmanned systems can exceed the interception capacity of conventional defense systems. Even if the adversary possesses advanced air defense systems, the interception cost against hundreds of simultaneously inbound drones escalates sharply.
+**Saturation attack capability.** Simultaneous attacks by large numbers of unmanned systems can exceed the interception capacity of conventional defense systems. Even if the CCP possesses advanced air defense systems, the interception cost against hundreds of simultaneously inbound drones escalates sharply.
 
 ---
 
@@ -721,9 +723,9 @@ The U.S. Department of Defense, in its *Electromagnetic Spectrum Operations Stra
 
 Electronic warfare (EW) is the principal means of operating within this domain. It is traditionally divided into three sub-disciplines:
 
-- **Electronic Attack (EA)**: Degrading or disabling an adversary's electronic systems through the emission of jamming signals. This includes communications jamming, radar jamming, GPS spoofing, and directed energy weapons.
-- **Electronic Protection (EP)**: Techniques and procedures that safeguard friendly electronic systems against adversary jamming. These include frequency hopping, spread spectrum, power management, and antenna directivity control.
-- **Electronic Support (ES)**: Detection, interception, identification, and geolocation of adversary electromagnetic emissions, providing situational awareness for both electronic attack and protection. This encompasses signals intelligence (SIGINT), electronic intelligence (ELINT), and communications intelligence (COMINT).
+- **Electronic Attack (EA)**: Degrading or disabling the CCP's electronic systems through the emission of jamming signals. This includes communications jamming, radar jamming, GPS spoofing, and directed energy weapons.
+- **Electronic Protection (EP)**: Techniques and procedures that safeguard friendly electronic systems against CCP jamming. These include frequency hopping, spread spectrum, power management, and antenna directivity control.
+- **Electronic Support (ES)**: Detection, interception, identification, and geolocation of CCP electromagnetic emissions, providing situational awareness for both electronic attack and protection. This encompasses signals intelligence (SIGINT), electronic intelligence (ELINT), and communications intelligence (COMINT).
 
 In the Taiwan Strait defense context, the significance of electronic warfare is particularly acute. The strait's limited width means that opposing electronic systems operate in close geographic proximity, creating an extremely dense electromagnetic environment. In the event of conflict, spectrum control and counter-control will directly determine each side's situational awareness, communications reliability, and precision-strike effectiveness.
 
@@ -739,7 +741,7 @@ Several important trends characterize the contemporary evolution of electronic w
 
 **Proliferation of low-cost jammers.** Advances in commercial electronic components have significantly reduced the cost of effective GPS and communications jammers. This trend lowers the barrier to entry for electronic warfare, but also means Taiwan itself can develop electronic countermeasure capabilities more economically.
 
-| EW Capability Dimension | Adversary Assessment | Taiwan's Current Status | Gap Assessment |
+| EW Capability Dimension | CCP Assessment | Taiwan's Current Status | Gap Assessment |
 |--------------------------|---------------------|------------------------|----------------|
 | Communications jamming | Advanced; large-scale deployment | Moderate; under continuing development | Significant gap |
 | Radar suppression | Advanced; multiple system types | Moderate | Moderate gap |
@@ -772,9 +774,9 @@ The vulnerability of GPS is rooted in its fundamental design — GPS signals are
 | Electronic reconnaissance flights | Near the strait median line | Routine | Signals intelligence collection |
 | Anomalous shipborne radar emissions | Waters surrounding Taiwan | Concurrent with naval activity | Electromagnetic environment shaping |
 
-**Communications jamming.** Broadband communications jamming can affect a wide range of frequencies, from military tactical communications to commercial mobile telephony. In the opening phase of a conflict, the adversary may conduct large-scale jamming of Taiwan's military communications bands, attempting to paralyze the command chain during the critical initial period.
+**Communications jamming.** Broadband communications jamming can affect a wide range of frequencies, from military tactical communications to commercial mobile telephony. In the opening phase of a conflict, the CCP may conduct large-scale jamming of Taiwan's military communications bands, attempting to paralyze the command chain during the critical initial period.
 
-**Radar suppression.** Taiwan's air defense architecture is heavily dependent on radar systems for target detection and tracking. The adversary can suppress or destroy Taiwan's radar network through noise jamming, deceptive jamming, or anti-radiation missiles. This capability is especially critical in a first-strike scenario — if Taiwan's radar network is severely degraded within the opening hours of conflict, subsequent air defense operations will suffer a dramatic reduction in effectiveness.
+**Radar suppression.** Taiwan's air defense architecture is heavily dependent on radar systems for target detection and tracking. The CCP can suppress or destroy Taiwan's radar network through noise jamming, deceptive jamming, or anti-radiation missiles. This capability is especially critical in a first-strike scenario — if Taiwan's radar network is severely degraded within the opening hours of conflict, subsequent air defense operations will suffer a dramatic reduction in effectiveness.
 
 **Electromagnetic pulse (EMP) threats.** A high-altitude nuclear detonation can generate an electromagnetic pulse that instantaneously disables electronic equipment across a vast area. While the threshold for nuclear weapon use is extremely high, the development of non-nuclear EMP weapons (such as high-power microwave systems) means this class of threat is no longer confined to nuclear scenarios. Additionally, natural events such as solar storms can produce similar electromagnetic disturbance effects.
 
@@ -782,9 +784,9 @@ The vulnerability of GPS is rooted in its fundamental design — GPS signals are
 
 The electromagnetic threat environment of the Taiwan Strait is characterized by the following features:
 
-**Asymmetry.** The adversary's investment in electronic warfare resources far exceeds Taiwan's. This gap is particularly pronounced in jamming power, spectrum coverage, and the number of deployed systems. However, the asymmetry of electronic warfare runs in both directions — the defender can leverage geographic advantages (such as using Taiwan's mountainous terrain to mask radar emissions) to partially offset the adversary's power advantage.
+**Asymmetry.** The CCP's investment in electronic warfare resources far exceeds Taiwan's. This gap is particularly pronounced in jamming power, spectrum coverage, and the number of deployed systems. However, the asymmetry of electronic warfare runs in both directions — the defender can leverage geographic advantages (such as using Taiwan's mountainous terrain to mask radar emissions) to partially offset the CCP's power advantage.
 
-**Pre-emption.** Electronic warfare operations typically precede physical military action. The adversary may progressively escalate electromagnetic interference hours to days before any kinetic operation begins, attempting to degrade Taiwan's situational awareness and command capabilities without triggering full-scale conflict. This "gray-zone" electronic warfare is among the most difficult scenarios to counter, because the thresholds and modalities for response lack clear precedent. [49]
+**Pre-emption.** Electronic warfare operations typically precede physical military action. The CCP may progressively escalate electromagnetic interference hours to days before any kinetic operation begins, attempting to degrade Taiwan's situational awareness and command capabilities without triggering full-scale conflict. This "gray-zone" electronic warfare is among the most difficult scenarios to counter, because the thresholds and modalities for response lack clear precedent. [49]
 
 **Deniability.** Electromagnetic interference operations offer a high degree of deniability. Unless the jamming source is precisely geolocated, definitive attribution is difficult. This characteristic makes electronic warfare a particularly attractive tool within gray-zone strategies.
 
@@ -806,7 +808,7 @@ The technical means for jam-resistant communications are now well established. P
 
 **Directional antennas and beamforming.** High-gain directional antennas or phased-array antennas perform beamforming to concentrate communications energy in a specific direction while reducing receive sensitivity toward the jamming source. This technique can significantly improve the signal-to-jamming ratio (SJR).
 
-**Low Probability of Intercept (LPI) techniques.** These reduce the probability that the communications signal is detected by the adversary, making it not only jam-resistant but also difficult to locate. LPI techniques include power control, spectrum spreading, and burst transmission.
+**Low Probability of Intercept (LPI) techniques.** These reduce the probability that the communications signal is detected by the CCP, making it not only jam-resistant but also difficult to locate. LPI techniques include power control, spectrum spreading, and burst transmission.
 
 **Mesh networks.** A distributed network architecture eliminates reliance on any single node. Even if some nodes are jammed or destroyed, signals can automatically route through alternative paths. This architecture inherently provides resilience against single points of failure.
 
@@ -836,7 +838,7 @@ Furthermore, there are inherent trade-offs between anti-jamming capability and c
 
 ### Background
 
-Defensive anti-jamming measures form the foundation of electromagnetic spectrum warfare, but passive defense alone is insufficient. Taiwan must equally develop active electronic countermeasure (ECM) capabilities to disrupt the adversary's communications, radar, and navigation systems in the event of conflict, thereby degrading operational effectiveness.
+Defensive anti-jamming measures form the foundation of electromagnetic spectrum warfare, but passive defense alone is insufficient. Taiwan must equally develop active electronic countermeasure (ECM) capabilities to disrupt the CCP's communications, radar, and navigation systems in the event of conflict, thereby degrading operational effectiveness.
 
 ### Current Assessment
 
@@ -844,9 +846,9 @@ Active electronic countermeasure capabilities that Taiwan can develop or strengt
 
 **Counter-drone electronic warfare.** As the unmanned aerial vehicle threat escalates rapidly, counter-drone EW has become an urgent capability requirement. By jamming the communications link between a drone and its control station or disrupting its GPS navigation signal, the drone can be made to lose control or deviate from its intended flight path. This capability is especially critical when confronting large-scale drone attacks.
 
-**Radar jamming and decoys.** Jamming the adversary's early-warning and fire-control radars degrades its ability to detect Taiwan's aircraft and missiles. Simultaneously deploying electronic decoys generates false targets on the adversary's radar screens, consuming air defense resources.
+**Radar jamming and decoys.** Jamming the CCP's early-warning and fire-control radars degrades its ability to detect Taiwan's aircraft and missiles. Simultaneously deploying electronic decoys generates false targets on the CCP's radar screens, consuming air defense resources.
 
-**Communications jamming.** Conducting jamming of the adversary's military communications in specific areas or frequency bands reduces command-and-control efficiency. This capability is of particular value in an amphibious landing scenario — jamming communications between landing forces and their command vessels can dramatically increase the confusion of landing operations.
+**Communications jamming.** Conducting jamming of the CCP's military communications in specific areas or frequency bands reduces command-and-control efficiency. This capability is of particular value in an amphibious landing scenario — jamming communications between landing forces and their command vessels can dramatically increase the confusion of landing operations.
 
 **Spectrum monitoring and management.** Establishing an island-wide spectrum monitoring network enables real-time, comprehensive electromagnetic situational awareness. This capability is the foundation of all electronic warfare operations — offensive and defensive alike. Only with a clear picture of what is occurring across the spectrum can jamming or counter-jamming be conducted effectively.
 
@@ -856,11 +858,11 @@ Active electronic countermeasure capabilities that Taiwan can develop or strengt
 
 The development of active electronic countermeasure capabilities requires attention to several strategic considerations:
 
-**Escalation risk management.** In gray-zone scenarios, active electronic jamming may be perceived by the adversary as a provocative act, triggering escalation. Accordingly, the employment of electronic countermeasures requires clear authorization procedures and an escalation management framework.
+**Escalation risk management.** In gray-zone scenarios, active electronic jamming may be perceived by the CCP as a provocative act, triggering escalation. Accordingly, the employment of electronic countermeasures requires clear authorization procedures and an escalation management framework.
 
 **Friendly-force electromagnetic coordination.** In an environment where multiple parties are simultaneously using the electromagnetic spectrum (including Taiwan's own military systems, allied systems, and commercial systems), friendly jamming operations may inadvertently affect allied forces. Effective spectrum deconfliction mechanisms are essential to avoiding self-inflicted harm.
 
-**Technological follow-on capability.** Electronic warfare is a rapidly evolving domain. As the adversary continuously updates its electronic systems, Taiwan's countermeasures must keep pace. This requires establishing an institutional framework capable of rapidly assessing, developing, and deploying new EW capabilities.
+**Technological follow-on capability.** Electronic warfare is a rapidly evolving domain. As the CCP continuously updates its electronic systems, Taiwan's countermeasures must keep pace. This requires establishing an institutional framework capable of rapidly assessing, developing, and deploying new EW capabilities.
 
 **Integration with unmanned systems.** Unmanned aircraft are ideal electronic warfare platforms — they can execute electronic attack missions in high-threat environments without risk to personnel. Integrating EW payloads onto drone platforms is an efficient pathway to enhancing Taiwan's electronic warfare capabilities.
 
@@ -924,8 +926,8 @@ The recommended prioritization is as follows: first, provide complete electromag
 
 - **Linkage with Chapter 3 (Asymmetric Defense)**: The operational effectiveness of unmanned systems depends directly on the reliability of communications links and navigation systems in a jammed environment. The strength or weakness of electronic warfare capabilities determines whether unmanned systems can perform to their design potential.
 - **Linkage with Chapter 5 (Energy Resilience)**: The reliability of power system control communications (SCADA systems) in a contested electromagnetic environment directly affects the stability of energy supply.
-- **Linkage with Chapter 7 (Cybersecurity)**: Electronic warfare and cyber warfare are increasingly convergent. The adversary may launch simultaneous attacks in both the electromagnetic and cyber domains, generating cross-domain synergistic effects.
-- **Linkage with Chapter 8 (Cognitive Resilience)**: When communications systems are jammed, the resulting information vacuum may be filled by adversary cognitive operations, exacerbating societal panic.
+- **Linkage with Chapter 7 (Cybersecurity)**: Electronic warfare and cyber warfare are increasingly convergent. The CCP may launch simultaneous attacks in both the electromagnetic and cyber domains, generating cross-domain synergistic effects.
+- **Linkage with Chapter 8 (Cognitive Resilience)**: When communications systems are jammed, the resulting information vacuum may be filled by CCP cognitive operations, exacerbating societal panic.
 - **Linkage with Chapter 9 (Space Communications)**: Satellite communications serve as a critical backup when terrestrial communications are jammed, but satellite signals themselves face jamming threats. Multi-layered communications architectures require cross-domain integrated design.
 
 ---
@@ -1968,8 +1970,8 @@ The role of space assets in national security can be understood across the follo
 |--------------------|----------------------|----------------------|
 | Communications | Military and government satellite communications | Continuity of the command and control chain |
 | Navigation and positioning | GPS/GNSS signals | Precision-guided weapons, force positioning |
-| Intelligence, surveillance, and reconnaissance | Optical and radar satellite imagery | Detection of adversary military deployments |
-| Electronic intelligence | Signals intelligence collection | Analysis of adversary communications and radar signatures |
+| Intelligence, surveillance, and reconnaissance | Optical and radar satellite imagery | Detection of CCP military deployments |
+| Electronic intelligence | Signals intelligence collection | Analysis of CCP communications and radar signatures |
 | Meteorological observation | Weather and sea state monitoring | Military operations planning |
 | Early warning | Ballistic missile launch detection | Strategic warning time |
 
@@ -2458,7 +2460,7 @@ The quantum computing threat to encryption security is not confined to the futur
 
 1. **Interception Phase**: State-level actors conduct mass interception and storage of encrypted communications, including diplomatic cables, military orders, financial transaction records, and internal government communications.
 2. **Storage Phase**: Intercepted ciphertext is deposited into long-term storage facilities. At today's storage costs, the economic threshold for large-scale data retention is extremely low.
-3. **Waiting Phase**: The adversary waits for quantum computing capabilities to mature to the scale required to execute Shor's algorithm.
+3. **Waiting Phase**: The CCP waits for quantum computing capabilities to mature to the scale required to execute Shor's algorithm.
 4. **Decryption Phase**: Historical ciphertext is batch-decrypted using quantum computers to recover the original plaintext.
 
 The danger of this strategy lies in the fact that even though quantum computers do not yet possess code-breaking capabilities, classified data transmitted today is already at risk. For information requiring long-term secrecy — military deployment plans, intelligence source identities, diplomatic strategies, infrastructure vulnerability assessments — HNDL attacks carry exceptionally high strategic value.

@@ -8,7 +8,7 @@
 | Language 語言 | Document 文件 |
 |:---:|:---:|
 | English | **[Full Text (EN)](docs/en/full-text.md)** |
-| 繁體中文 | **[全文閱讀（ZH-TW）](docs/zh-TW/full-text.md)** |
+| 正體中文 | **[全文閱讀（ZH-TW）](docs/zh-TW/full-text.md)** |
 
 ---
 
@@ -105,7 +105,7 @@ taiwan-national-strategy/
 │   │   ├── full-text.md                  # Full analysis (English)
 │   │   └── verification-report.md        # Data verification report (EN)
 │   └── zh-TW/
-│       ├── full-text.md                  # 全文分析（繁體中文）
+│       ├── full-text.md                  # 全文分析（正體中文）
 │       └── verification-report.md        # 資料驗證報告（ZH-TW）
 ├── data/
 │   ├── schemas/
