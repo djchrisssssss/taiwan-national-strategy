@@ -2,8 +2,6 @@
 
 **Language: English** | [正體中文全文](../zh-TW/full-text.md) | [Back to Home](../../README.md)
 
-> This document combines all thirteen chapters and the executive summary into a single file for continuous reading.
-
 ---
 
 ## Table of Contents
@@ -12,27 +10,27 @@
 - [Chapter 0: Executive Summary](#chapter-0-executive-summary)
 
 ### II. Strategic Foundation
-- [Chapter 1: Geostrategic Position](#chapter-1-geostrategic-position)
-- [Chapter 2: Semiconductor Leverage](#chapter-2-semiconductor-leverage)
+- [Chapter 1: Geostrategic Position](#chapter-1-geostrategic-position--the-first-island-chain-the-bashi-channel-and-strategic-waterways)
+- [Chapter 2: Semiconductor Leverage](#chapter-2-semiconductor-leverage--advanced-nodes-supply-chain-irreplaceability-and-strategic-interdependence)
 
 ### III. Military Defense
-- [Chapter 3: Asymmetric Defense](#chapter-3-asymmetric-defense)
-- [Chapter 4: Electromagnetic Spectrum Warfare](#chapter-4-electromagnetic-spectrum-warfare)
+- [Chapter 3: Asymmetric Defense](#chapter-3-asymmetric-defense--cost-exchange-ratios-denial-capabilities-and-indigenous-mass-production)
+- [Chapter 4: Electromagnetic Spectrum Warfare](#chapter-4-electromagnetic-spectrum-warfare--spectrum-dominance-jamming-resilience-and-electronic-countermeasure-architecture)
 
 ### IV. Critical Infrastructure
-- [Chapter 5: Energy Structure](#chapter-5-energy-structure)
-- [Chapter 6: Food & Water Security](#chapter-6-food--water-security)
-- [Chapter 7: Communications Resilience](#chapter-7-communications-resilience)
-- [Chapter 8: Financial Resilience](#chapter-8-financial-resilience)
+- [Chapter 5: Energy Structure](#chapter-5-energy-structure--import-dependence-strategic-reserves-and-distributed-grids)
+- [Chapter 6: Food & Water Security](#chapter-6-food-and-water-security--foundational-survival-resilience-and-critical-infrastructure-protection)
+- [Chapter 7: Communications Resilience](#chapter-7-communications-resilience--submarine-cables-leo-satellites-and-mesh-networks)
+- [Chapter 8: Financial Resilience](#chapter-8-financial-resilience--sanctions-defense-digital-assets-and-blockchain-backup)
 
 ### V. Technology Frontiers
-- [Chapter 9: Space Capabilities](#chapter-9-space-capabilities)
-- [Chapter 10: AI & Distributed Computing](#chapter-10-ai--distributed-computing)
-- [Chapter 11: Quantum Security](#chapter-11-quantum-security)
+- [Chapter 9: Space Capabilities](#chapter-9-space-capabilities--small-satellites-situational-awareness-and-communications-integration)
+- [Chapter 10: AI & Distributed Computing](#chapter-10-artificial-intelligence-and-distributed-computing--intelligence-fusion-autonomous-defense-and-resilient-architectures)
+- [Chapter 11: Quantum Security](#chapter-11-quantum-security--post-quantum-cryptography-qkd-and-long-term-data-protection)
 
 ### VI. Society & International
-- [Chapter 12: Cognitive Defense](#chapter-12-cognitive-defense)
-- [Chapter 13: International Linkages](#chapter-13-international-linkages)
+- [Chapter 12: Cognitive Defense](#chapter-12-cognitive-defense--countering-disinformation-deepfake-threats-and-building-social-trust-infrastructure)
+- [Chapter 13: International Linkages](#chapter-13-international-linkages--from-seeking-protection-to-building-indispensability)
 
 ---
 
