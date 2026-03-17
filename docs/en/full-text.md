@@ -1,6 +1,6 @@
 # Taiwan's Multi-Domain National Security Strategy: A Comprehensive Analysis (Full Text)
 
-**Language: English** | [繁體中文全文](full-text-zh-TW.md) | [Back to Home](../README.md)
+**Language: English** | [繁體中文全文](../zh-TW/full-text.md) | [Back to Home](../../README.md)
 
 > This document combines all thirteen chapters and the executive summary into a single file for continuous reading.
 
@@ -176,13 +176,6 @@ Given the dynamic nature of the security environment, this analysis recommends a
 
 ---
 
-*This chapter serves as the executive summary for the full report. For detailed analysis of each domain, please refer to the subsequent chapters.*
-
-(English translation)
-
-
----
-
 # Chapter 1: Geostrategic Position — The First Island Chain, the Bashi Channel, and Strategic Waterways
 
 > **Central Thesis**: Taiwan occupies the central node of the First Island Chain, controlling the critical junction between the western Pacific and East Asian waters. Its geographic location is itself a strategic asset — but the value of this asset depends on the maintenance of autonomous defense capabilities and the ability to translate geographic advantage into a role as a provider of regional public goods.
@@ -201,7 +194,7 @@ Taiwan's position within this chain is irreplaceable. In purely geometric terms,
 
 ### Current Assessment
 
-The Taiwan Strait averages approximately 180 kilometers in width, narrowing to roughly 130 kilometers at its most constricted point. Water depth ranges from 40 to 100 meters, shallower in the north and progressively deeper toward the south. These hydrographic conditions have direct implications for military operations: the strait's width requires a substantial time window for any amphibious crossing, while the limited depth constrains the concealment available to submarine operations.
+The Taiwan Strait averages approximately 180 kilometers in width, narrowing to roughly 130 kilometers at its most constricted point. [9] Water depth ranges from 40 to 100 meters, shallower in the north and progressively deeper toward the south. These hydrographic conditions have direct implications for military operations: the strait's width requires a substantial time window for any amphibious crossing, while the limited depth constrains the concealment available to submarine operations.
 
 | Parameter | Value | Strategic Implication |
 |-----------|-------|----------------------|
@@ -213,7 +206,7 @@ The Taiwan Strait averages approximately 180 kilometers in width, narrowing to r
 
 Taiwan's terrain also possesses considerable defensive value. The Central Mountain Range runs the length of the island from north to south, with peak elevations approaching 4,000 meters, forming a natural strategic depth. While the western plain is the primary center of population and economic activity, its high degree of urbanization means any ground advance would face the complexity of urban warfare. The eastern coastline is steep and largely unsuitable for large-scale landings, yet provides natural sheltered areas well-suited for deploying counterattack forces and command facilities.
 
-At present, the military balance in the Taiwan Strait is undergoing rapid change. The People's Liberation Army Navy (PLAN) has surpassed the U.S. Navy in total vessel tonnage, and although gaps remain in blue-water operational experience and qualitative measures, its regional advantage in the waters around Taiwan continues to expand. Modernization of the PLA Air Force and Rocket Force has similarly shifted the cross-strait balance of power. Routinized military activities — including flights crossing the strait centerline, circumnavigation exercises around Taiwan, and electronic reconnaissance — have established a new normal for the strait's security environment.
+At present, the military balance in the Taiwan Strait is undergoing rapid change. The People's Liberation Army Navy (PLAN) has surpassed the U.S. Navy in total vessel tonnage, and although gaps remain in blue-water operational experience and qualitative measures, its regional advantage in the waters around Taiwan continues to expand. [1][2][7] Modernization of the PLA Air Force and Rocket Force has similarly shifted the cross-strait balance of power. [1][6] Routinized military activities — including flights crossing the strait centerline, circumnavigation exercises around Taiwan, and electronic reconnaissance — have established a new normal for the strait's security environment. [9]
 
 ### Analysis
 
@@ -233,7 +226,7 @@ The strategic value of Taiwan's geographic position can be understood along thre
 
 The Bashi Channel lies between Taiwan's southern tip and the Batanes Islands of the Philippines, spanning approximately 250 kilometers in width with depths exceeding 3,000 meters. This strait is the primary deep-water passage connecting the East China Sea-Taiwan Strait waters to the South China Sea, and one of the most strategically significant waterways in the western Pacific.
 
-From a commercial shipping perspective, the Bashi Channel is one of the principal routes between Northeast Asia (Japan, South Korea, Taiwan) and Southeast Asia and the Indian Ocean. Tens of thousands of cargo vessels transit these waters annually, carrying oil, natural gas, minerals, electronic components, and other critical materials. By open-source estimates, approximately one-third of global maritime trade passes through the South China Sea, with a substantial share entering and exiting via the Bashi Channel.
+From a commercial shipping perspective, the Bashi Channel is one of the principal routes between Northeast Asia (Japan, South Korea, Taiwan) and Southeast Asia and the Indian Ocean. Tens of thousands of cargo vessels transit these waters annually, carrying oil, natural gas, minerals, electronic components, and other critical materials. By open-source estimates, approximately one-third of global maritime trade passes through the South China Sea, with a substantial share entering and exiting via the Bashi Channel. [10][12]
 
 From a military standpoint, the Bashi Channel's deep-water characteristics make it a vital corridor for submarine deployment. China's ballistic missile submarines (SSBNs) must access the deep waters of the western Pacific in order to conduct effective strategic deterrence patrols — the Bashi Channel is one of the key pathways for achieving this. Similarly, U.S. and allied attack submarines conducting surveillance and denial operations in the South China Sea also utilize this passage.
 
@@ -251,7 +244,7 @@ The seafloor topography of the Bashi Channel is highly complex. The central port
 
 The Bashi Channel seabed is also the route for multiple international submarine cables. These cables carry enormous volumes of data traffic between East Asia and Southeast Asia, including financial transactions, government communications, and general internet traffic. Cable vulnerability will be discussed in detail in a subsequent chapter (Chapter 9: Space and Communications), but it is important to note here that the strategic significance of the Bashi Channel has expanded beyond traditional sea lines of communication to encompass critical infrastructure for information transmission.
 
-In recent years, the density of military activity in the Bashi Channel has steadily increased. Chinese naval task groups frequently transit these waters for blue-water training and power projection exercises. The U.S. Navy regularly conducts Freedom of Navigation Operations (FONOPs) in the area. The Japan Maritime Self-Defense Force and the Philippine Navy have also increased their patrol frequency in these waters. The Bashi Channel is gradually transforming from a relatively quiet international waterway into a frontline zone of great-power military competition.
+In recent years, the density of military activity in the Bashi Channel has steadily increased. Chinese naval task groups frequently transit these waters for blue-water training and power projection exercises. [1][12] The U.S. Navy regularly conducts Freedom of Navigation Operations (FONOPs) in the area. The Japan Maritime Self-Defense Force and the Philippine Navy have also increased their patrol frequency in these waters. [5] The Bashi Channel is gradually transforming from a relatively quiet international waterway into a frontline zone of great-power military competition.
 
 ### Analysis
 
@@ -336,28 +329,6 @@ The realization of geostrategic position value depends on coordination across mu
 
 ---
 
-## References
-
-1. U.S. Department of Defense, "Military and Security Developments Involving the People's Republic of China," Annual Report to Congress (latest edition).
-2. International Institute for Strategic Studies (IISS), *The Military Balance* (annual).
-3. RAND Corporation, "The U.S.-China Military Scorecard: Forces, Geography, and the Evolving Balance of Power, 1996-2017."
-4. Center for Strategic and International Studies (CSIS), "Surveying the Experts: U.S. and Taiwan Views on China's Approach to Taiwan."
-5. Japan Ministry of Defense, *Defense of Japan* (annual white paper).
-6. Erickson, A. S., & Collins, G. B., "China's Real Blue Water Navy," *The Diplomat*.
-7. Office of Naval Intelligence, "The PLA Navy: New Capabilities and Missions for the 21st Century."
-8. Heginbotham, E. et al., "The U.S.-China Military Scorecard," RAND Corporation, 2015.
-9. Ministry of National Defense (Taiwan), *National Defense Report* (latest edition).
-10. Ocean Affairs Council, Executive Yuan, Coast Guard Administration Annual Statistical Report.
-11. Wortzel, L. M., "The Chinese People's Liberation Army and Space Warfare," *Astropolitics*.
-12. Yoshihara, T. & Holmes, J. R., *Red Star over the Pacific: China's Rise and the Challenge to U.S. Maritime Strategy*, Naval Institute Press.
-
----
-
-*This is Chapter 1. The next chapter analyzes the strategic leverage of Taiwan's semiconductor industry.*
-
-(English translation)
-
-
 ---
 
 # Chapter 2: Semiconductor Leverage — Advanced Nodes, Supply Chain Irreplaceability, and Strategic Interdependence
@@ -372,35 +343,35 @@ The realization of geostrategic position value depends on coordination across mu
 
 Semiconductors are the foundational material of the digital age. From smartphones to artificial intelligence servers, from electric vehicle control systems to precision weapons guidance modules, virtually every modern technology system depends on chip computing power. The semiconductor industry is therefore not merely an industrial sector but the underlying infrastructure of the global technology order.
 
-Taiwan's position within this industry is historically unique. Since the founding of TSMC in 1987, Taiwan has progressively built the world's most complete semiconductor foundry ecosystem. This ecosystem extends beyond TSMC itself to encompass packaging and testing (e.g., ASE Technology), IC design (e.g., MediaTek), photomask manufacturing, chemical materials supply, and other upstream and downstream segments. The depth and density of this entire industrial chain are unmatched anywhere in the world.
+Taiwan's position within this industry is historically unique. Since the founding of TSMC in 1987, Taiwan has progressively built the world's most complete semiconductor foundry ecosystem. [13][20] This ecosystem extends beyond TSMC itself to encompass packaging and testing (e.g., ASE Technology), IC design (e.g., MediaTek), photomask manufacturing, chemical materials supply, and other upstream and downstream segments. The depth and density of this entire industrial chain are unmatched anywhere in the world.
 
 The strategic importance of Taiwan's semiconductor industry can be understood through the following data:
 
 | Indicator | Estimated Value | Source |
 |-----------|----------------|--------|
-| Global foundry market share | >60% | Annual industry research reports |
-| Advanced node (sub-7nm) global share | >90% | Public industry analysis |
-| TSMC global revenue share (foundry market) | ~55% | Company financial reports |
-| Semiconductors as share of Taiwan's total exports | ~35-40% | Ministry of Finance statistics |
-| Direct employment | >300,000 persons | Ministry of Economic Affairs statistics |
+| Global foundry market share | >60% | Annual industry research reports [14] |
+| Advanced node (sub-7nm) global share | >90% | Public industry analysis [14] |
+| TSMC global revenue share (foundry market) | ~55% | Company financial reports [15] |
+| Semiconductors as share of Taiwan's total exports | ~35-40% | Ministry of Finance statistics [21] |
+| Direct employment | >300,000 persons | Ministry of Economic Affairs statistics [21] |
 
 ### Current Assessment
 
-As of the time of this analysis, TSMC has entered volume production on its 3-nanometer process and is actively advancing research and development on 2-nanometer and more advanced nodes. Each successive process generation represents not only technological progress but also a continued elevation of barriers to entry. Advanced node R&D requires astronomical capital investment (construction costs for a single advanced fab now exceed $20 billion), highly specialized talent teams, and decades of accumulated process know-how.
+As of the time of this analysis, TSMC has entered volume production on its 3-nanometer process and is actively advancing research and development on 2-nanometer and more advanced nodes. [15] Each successive process generation represents not only technological progress but also a continued elevation of barriers to entry. Advanced node R&D requires astronomical capital investment (construction costs for a single advanced fab now exceed $20 billion), highly specialized talent teams, and decades of accumulated process know-how. [18]
 
 Samsung Electronics and Intel are currently the only two companies attempting to close the gap with TSMC in advanced nodes. Both, however, face significant yield improvement challenges. Samsung's 3-nanometer GAA (Gate-All-Around) process had initial volume production yields well below those of TSMC's FinFET process. Intel's "IDM 2.0" strategy, while ambitious, continues to face multiple obstacles at the execution level.
 
-This means that for the foreseeable future (at least 5-7 years), global technology industry dependence on Taiwan's advanced chip manufacturing capabilities will persist and may even deepen. The explosive growth of artificial intelligence has further reinforced this dependence — the high-performance GPUs and AI accelerators required for AI training and inference are nearly all manufactured by TSMC.
+This means that for the foreseeable future (at least 5-7 years), global technology industry dependence on Taiwan's advanced chip manufacturing capabilities will persist and may even deepen. The explosive growth of artificial intelligence has further reinforced this dependence — the high-performance GPUs and AI accelerators required for AI training and inference are nearly all manufactured by TSMC. [17][24]
 
 ### Analysis
 
-The strategic implications of Taiwan's semiconductor industry can be understood through the "Silicon Shield" conceptual framework. This concept was first articulated by analyst Craig Addison in 2001, with the central argument that the global irreplaceability of Taiwan's semiconductor industry constitutes an implicit security guarantee — any attack on Taiwan would disrupt the global chip supply, with resulting economic losses far exceeding the costs of the military conflict itself.
+The strategic implications of Taiwan's semiconductor industry can be understood through the "Silicon Shield" conceptual framework. This concept was first articulated by analyst Craig Addison in 2001 [16], with the central argument that the global irreplaceability of Taiwan's semiconductor industry constitutes an implicit security guarantee — any attack on Taiwan would disrupt the global chip supply, with resulting economic losses far exceeding the costs of the military conflict itself.
 
 This argument has considerable analytical foundation, but also carries important limitations and risks:
 
 **Conditions for Silicon Shield effectiveness.** The deterrent effect of the Silicon Shield rests on two premises: (1) the global community understands and recognizes the depth of this dependency; and (2) economic costs carry sufficient weight in the adversary's decision calculus. If the adversary views territorial unification as a core interest that transcends economic considerations, the Silicon Shield's deterrent effect may be overestimated.
 
-**Time-decay risk.** As the United States, EU, Japan, and South Korea each pursue semiconductor manufacturing reshoring or regionalization, Taiwan's market monopoly position may gradually erode over the long term. The U.S. CHIPS Act, the European Chips Act, and Japan's semiconductor revival plans all explicitly include reducing dependence on Taiwan as one of their objectives. While transfer of advanced nodes is infeasible in the near term, the long-term trend warrants vigilance.
+**Time-decay risk.** As the United States, EU, Japan, and South Korea each pursue semiconductor manufacturing reshoring or regionalization, Taiwan's market monopoly position may gradually erode over the long term. The U.S. CHIPS Act, the European Chips Act, and Japan's semiconductor revival plans all explicitly include reducing dependence on Taiwan as one of their objectives. [18][23] While transfer of advanced nodes is infeasible in the near term, the long-term trend warrants vigilance.
 
 **"Destructive use" scenario.** The most extreme scenario involves the adversary deliberately destroying Taiwan's semiconductor facilities during military operations to eliminate the asset's value to other nations. In this scenario, the Silicon Shield not only fails but becomes a target. While this scenario is less likely (because the adversary itself is heavily dependent on Taiwanese chips), it cannot be entirely ruled out.
 
@@ -453,7 +424,7 @@ Taiwan's semiconductor industry faces multiple talent challenges:
 
 **Knowledge concentration risk.** Critical knowledge pertaining to advanced processes — including EUV lithography exposure strategies, core parameters for yield improvement, and key process integration techniques — is concentrated among several hundred to several thousand core engineers. The security and retention of this cohort directly determines the continued competitiveness of Taiwan's semiconductor industry.
 
-**Demographic structural challenge.** Taiwan's low fertility rate (total fertility rate of approximately 0.87, among the lowest in the world) means the long-term talent pool will continue to shrink. This structural trend is difficult to reverse in the short term and requires compensation through international talent recruitment and education system reform.
+**Demographic structural challenge.** Taiwan's low fertility rate (total fertility rate of approximately 0.87, among the lowest in the world) [22] means the long-term talent pool will continue to shrink. This structural trend is difficult to reverse in the short term and requires compensation through international talent recruitment and education system reform.
 
 | Talent Indicator | Current Status | Trend |
 |-----------------|----------------|-------|
@@ -478,11 +449,11 @@ Semiconductor manufacturing is among the most equipment-intensive fields in mode
 
 ### Current Assessment
 
-**Extreme ultraviolet (EUV) lithography tools.** The Netherlands-based ASML is the sole global supplier of EUV lithography systems. Each EUV tool costs upward of $150 million, and annual production capacity is limited. TSMC is among ASML's largest customers, but this single-supplier dependency means that if ASML's supply is interrupted due to geopolitical factors (such as Dutch government export controls) or production incidents, TSMC's advanced node expansion would be directly impeded.
+**Extreme ultraviolet (EUV) lithography tools.** The Netherlands-based ASML is the sole global supplier of EUV lithography systems. Each EUV tool costs upward of $150 million, and annual production capacity is limited. [19] TSMC is among ASML's largest customers, but this single-supplier dependency means that if ASML's supply is interrupted due to geopolitical factors (such as Dutch government export controls) or production incidents, TSMC's advanced node expansion would be directly impeded.
 
 **Other critical equipment.** Etch equipment (Tokyo Electron, Lam Research), thin film deposition equipment (Applied Materials), and inspection equipment (KLA) and other critical process tools are similarly dominated by a small number of international companies. While multiple suppliers exist in these categories, the optimal equipment choice for specific process nodes remains limited.
 
-**Chemical materials and specialty gases.** The supply chains for high-purity chemical materials (such as photoresists and chemical-mechanical planarization slurries) and specialty gases (such as hydrogen fluoride and silane) required for advanced processes are also concentrated. Japan holds a dominant position in several critical material categories — the 2019 Japan-South Korea trade dispute, in which Japan imposed export controls on semiconductor materials to South Korea, clearly demonstrated the geopolitical vulnerability of material supply chains.
+**Chemical materials and specialty gases.** The supply chains for high-purity chemical materials (such as photoresists and chemical-mechanical planarization slurries) and specialty gases (such as hydrogen fluoride and silane) required for advanced processes are also concentrated. Japan holds a dominant position in several critical material categories — the 2019 Japan-South Korea trade dispute, in which Japan imposed export controls on semiconductor materials to South Korea, clearly demonstrated the geopolitical vulnerability of material supply chains. [23]
 
 | Equipment/Material Category | Primary Suppliers | Supply Concentration | Substitution Feasibility |
 |----------------------------|-------------------|---------------------|--------------------------|
@@ -538,28 +509,6 @@ Strategic response directions include: establishing strategic inventories of cri
 
 ---
 
-## References
-
-1. Miller, C., *Chip War: The Fight for the World's Most Critical Technology*, Simon & Schuster, 2022.
-2. Semiconductor Industry Association (SIA), "State of the U.S. Semiconductor Industry" (annual report).
-3. TSMC Annual Reports and Investor Conference Transcripts.
-4. Addison, C., *Silicon Shield: Taiwan's Protection Against Chinese Attack*, Fusion Press, 2001.
-5. RAND Corporation, "Choking Off China's Access to the Future of AI."
-6. Boston Consulting Group & SIA, "Strengthening the Global Semiconductor Supply Chain in an Uncertain Era," 2021.
-7. ASML Annual Report and Technology Briefings.
-8. Industrial Technology Research Institute (ITRI), *Taiwan Semiconductor Industry Yearbook*.
-9. Ministry of Economic Affairs, Semiconductor Industry Policy White Paper.
-10. National Development Council, Population Projection Report.
-11. Bown, C. P., "How the United States Marched the Semiconductor Industry into Its Trade War with China," *Peterson Institute for International Economics*, 2020.
-12. Khan, S. M. & Mann, A., "AI Chips: What They Are and Why They Matter," *Center for Security and Emerging Technology*, Georgetown University, 2020.
-
----
-
-*This is Chapter 2. The next chapter analyzes the cost-exchange logic of Taiwan's asymmetric defense strategy.*
-
-(English translation)
-
-
 ---
 
 # Chapter 3: Asymmetric Defense — Cost-Exchange Ratios, Denial Capabilities, and Indigenous Mass Production
@@ -576,11 +525,11 @@ The "cost-exchange ratio" is the central metric for evaluating the efficiency of
 
 For Taiwan, the cost-exchange ratio framework holds particular importance. Facing a potential adversary with overwhelming advantages in economic scale, military expenditure, and force numbers, Taiwan cannot and should not attempt to prevail in a symmetric arms race. The strategic objective is not to "win" a war in the conventional sense, but to ensure that the expected costs of any military action exceed the adversary's decision-makers' acceptable threshold.
 
-This logic has been repeatedly validated in recent international military experience. In the 2022 Russia-Ukraine conflict, Ukraine employed anti-ship missiles to sink the cruiser *Moskva* (replacement cost approximately $750 million); the Neptune anti-ship missile used has a unit cost of less than one million dollars. Javelin and NLAW anti-armor missiles, at unit costs of tens of thousands of dollars, destroyed main battle tanks valued at several million dollars each. Commercially modified FPV drones, at costs of a few hundred dollars, disabled armored vehicles worth millions. These cases vividly demonstrate the cost-exchange advantages of asymmetric capabilities.
+This logic has been repeatedly validated in recent international military experience. In the 2022 Russia-Ukraine conflict, Ukraine employed anti-ship missiles to sink the cruiser *Moskva* (replacement cost approximately $750 million); the Neptune anti-ship missile used has a unit cost of less than one million dollars. [28] Javelin and NLAW anti-armor missiles, at unit costs of tens of thousands of dollars, destroyed main battle tanks valued at several million dollars each. Commercially modified FPV drones, at costs of a few hundred dollars, disabled armored vehicles worth millions. [29][31] These cases vividly demonstrate the cost-exchange advantages of asymmetric capabilities.
 
 ### Current Assessment
 
-Taiwan's defense budget has increased steadily in recent years, but remains orders of magnitude below that of its potential adversary. According to publicly available data, Taiwan's annual defense budget is approximately 2.5% of GDP (including special budgets), while the adversary's publicly disclosed defense budget is roughly 13-15 times larger (with actual military expenditures potentially higher still).
+Taiwan's defense budget has increased steadily in recent years, but remains orders of magnitude below that of its potential adversary. According to publicly available data, Taiwan's annual defense budget is approximately 2.5% of GDP (including special budgets), while the adversary's publicly disclosed defense budget is roughly 13-15 times larger (with actual military expenditures potentially higher still). [2][9]
 
 | Indicator | Taiwan | Potential Adversary | Ratio |
 |-----------|--------|---------------------|-------|
@@ -589,7 +538,7 @@ Taiwan's defense budget has increased steadily in recent years, but remains orde
 | Combat aircraft | ~400 (including aging airframes) | ~2,000+ | ~1:5 |
 | Major surface combatants | ~26 | ~140+ | ~1:5 |
 
-*Figures are estimates drawn from publicly available international military databases.*
+*Figures are estimates drawn from publicly available international military databases.* [2][8]
 
 Under this force balance, the efficiency of resource allocation becomes the decisive factor. Every dollar of defense spending must generate maximum deterrence and denial effect. Large conventional weapons platforms — such as main battle tanks and major surface combatants — offer comparatively limited cost-effectiveness in the Taiwan Strait defense scenario. A destroyer costing billions of dollars can be sunk by an anti-ship missile costing several million. By contrast, large quantities of low-cost, high-lethality asymmetric weapons systems can establish effective denial capabilities within a constrained budget.
 
@@ -613,13 +562,13 @@ Taiwan's asymmetric defense strategy should therefore concentrate on the priorit
 
 Submarines are among the most cost-effective weapons platforms in asymmetric naval warfare. Their strategic value lies not only in direct lethality but in "existence as deterrence" — as long as the adversary cannot determine a submarine's location, it cannot safely conduct large-scale surface operations. This "uncertainty of presence" effect means that a single submarine's strategic impact far exceeds its physical capabilities.
 
-During the Falklands War, after the Royal Navy nuclear-powered attack submarine HMS *Conqueror* sank the Argentine cruiser ARA *General Belgrano*, the entire Argentine Navy withdrew to port and did not venture out again for the remainder of the conflict. The action of a single submarine paralyzed a nation's naval will to fight.
+During the Falklands War, after the Royal Navy nuclear-powered attack submarine HMS *Conqueror* sank the Argentine cruiser ARA *General Belgrano*, the entire Argentine Navy withdrew to port and did not venture out again for the remainder of the conflict. [25] The action of a single submarine paralyzed a nation's naval will to fight.
 
 ### Current Assessment
 
 Taiwan's submarine fleet has long suffered from aging platforms and insufficient numbers. Of the four submarines currently in service, two Hai Shih-class boats (Guppy II-class) have been in commission for over 70 years and are capable of training duties only. The two Hai Lung-class boats (Zwaardvis-class), while still combat-capable, are over 30 years old, and their operational effectiveness continues to decline.
 
-Taiwan's Indigenous Defense Submarine (IDS) program is among the most significant indigenous defense projects in recent years. The first domestically built submarine, *Hai Kun*, was launched in 2023, with a planned production run of eight boats. The strategic significance of this program lies not only in increasing submarine numbers but in establishing indigenous submarine design and construction capability, enabling future expansion.
+Taiwan's Indigenous Defense Submarine (IDS) program is among the most significant indigenous defense projects in recent years. The first domestically built submarine, *Hai Kun*, was launched in 2023, with a planned production run of eight boats. [9][33] The strategic significance of this program lies not only in increasing submarine numbers but in establishing indigenous submarine design and construction capability, enabling future expansion.
 
 | Submarine Type | Quantity | Age | Operational Capability |
 |---------------|----------|-----|----------------------|
@@ -648,13 +597,13 @@ The strategic roles of submarines in Taiwan Strait defense include:
 
 Unmanned systems are fundamentally transforming the cost structure of modern warfare. From aerial drones to unmanned surface vessels and unmanned underwater vehicles, these platforms share common characteristics: costs far below those of traditional crewed platforms, capacity for mass production and deployment, zero or minimal operator risk, and rapid replacement after losses.
 
-The Ukraine conflict has served as the definitive operational validation of unmanned systems in high-intensity warfare. Ukrainian forces employed commercially modified FPV drones (unit cost: a few hundred dollars) to destroy tanks and armored vehicles worth millions of dollars each. Naval unmanned surface vessels successfully attacked multiple ships of Russia's Black Sea Fleet, altering the military balance in the Black Sea. These lessons hold direct relevance for Taiwan.
+The Ukraine conflict has served as the definitive operational validation of unmanned systems in high-intensity warfare. Ukrainian forces employed commercially modified FPV drones (unit cost: a few hundred dollars) to destroy tanks and armored vehicles worth millions of dollars each. [28][35] Naval unmanned surface vessels successfully attacked multiple ships of Russia's Black Sea Fleet, altering the military balance in the Black Sea. [27] These lessons hold direct relevance for Taiwan.
 
 ### Current Assessment
 
 Taiwan's development of unmanned systems is accelerating, but gaps remain relative to strategic requirements. Key development programs include:
 
-**Loitering munitions.** The National Chung-Shan Institute of Science and Technology (NCSIST) has developed multiple loitering munition variants with capabilities for extended airborne loitering, target identification, and precision strike. These weapons are particularly suited for anti-landing operations — they can patrol over designated sea areas and autonomously attack upon detecting amphibious targets.
+**Loitering munitions.** The National Chung-Shan Institute of Science and Technology (NCSIST) has developed multiple loitering munition variants [33] with capabilities for extended airborne loitering, target identification, and precision strike. These weapons are particularly suited for anti-landing operations — they can patrol over designated sea areas and autonomously attack upon detecting amphibious targets.
 
 **Unmanned underwater vehicles (UUVs).** UUVs can conduct mine-laying, seabed surveillance, and ASW search operations. In the shallow-water environment of the Taiwan Strait, UUV operating conditions are relatively favorable. Long-endurance UUVs can form a persistent underwater surveillance network.
 
@@ -692,7 +641,7 @@ Any military conflict is a war of attrition. Weapons systems, munitions, and equ
 
 ### Current Assessment
 
-The core institution of Taiwan's defense industry is the National Chung-Shan Institute of Science and Technology (NCSIST), responsible for the R&D and production of missiles, electronic warfare systems, unmanned aircraft, and other critical equipment. Private-sector defense firms include Aerospace Industrial Development Corporation (AIDC), CSBC Corporation, and others. In recent years, the government has promoted defense self-reliance policies, encouraging private enterprise participation in the defense supply chain.
+The core institution of Taiwan's defense industry is the National Chung-Shan Institute of Science and Technology (NCSIST), responsible for the R&D and production of missiles, electronic warfare systems, unmanned aircraft, and other critical equipment. [33][34] Private-sector defense firms include Aerospace Industrial Development Corporation (AIDC), CSBC Corporation, and others. In recent years, the government has promoted defense self-reliance policies, encouraging private enterprise participation in the defense supply chain.
 
 Major indigenous weapons systems include:
 
@@ -724,7 +673,7 @@ Key challenges include:
 
 1. **Mass procurement of unmanned systems.** Immediately initiate large-scale acquisition and deployment of FPV attack drones, loitering munitions, and unmanned surface vessels to establish an initial unmanned strike capability. This is the fastest and most cost-effective pathway to enhanced combat power.
 
-2. **Accelerate munitions stockpiling.** Substantially increase inventories of anti-ship missiles, air defense missiles, and precision-guided munitions. According to open-source assessments, Taiwan's stocks of certain critical munitions can sustain only days to one week of high-intensity combat — a level far below what is required for sustained defense.
+2. **Accelerate munitions stockpiling.** Substantially increase inventories of anti-ship missiles, air defense missiles, and precision-guided munitions. According to open-source assessments, Taiwan's stocks of certain critical munitions can sustain only days to one week of high-intensity combat [27] — a level far below what is required for sustained defense.
 
 3. **Establish peacetime-to-wartime transition planning.** Identify civilian manufacturing facilities that can convert to military production during conflict, and establish conversion procedures and training programs.
 
@@ -754,28 +703,6 @@ Key challenges include:
 
 ---
 
-## References
-
-1. Hunzeker, M. A. & Lanoszka, A., *A Question of Time: Enhancing Taiwan's Conventional Deterrence Posture*, Center for Strategic and Budgetary Assessments, 2018.
-2. Beckley, M., "The Emerging Military Balance in East Asia: How China's Neighbors Can Check Chinese Naval Expansion," *International Security*, 2017.
-3. Cancian, M. F. et al., "The First Battle of the Next War: Wargaming a Chinese Invasion of Taiwan," CSIS, 2023.
-4. Bronk, J. et al., "The Russian Air War and Ukrainian Requirements for Air Defence," RUSI, 2022.
-5. Scharre, P., *Army of None: Autonomous Weapons and the Future of War*, W.W. Norton, 2018.
-6. U.S. Department of Defense, "Unmanned Systems Integrated Roadmap."
-7. Hammes, T. X., "Technologies Converge and Power Diffuses: The Evolution of Small, Smart, and Cheap Weapons," Cato Institute, 2016.
-8. Ministry of National Defense (Taiwan), *Quadrennial Defense Review* (latest edition).
-9. National Chung-Shan Institute of Science and Technology, Annual Report.
-10. Easton, I., *The Chinese Invasion Threat: Taiwan's Defense and American Strategy in Asia*, Eastbridge Books, 2017.
-11. Freedberg, S. J., "Swarming Drones, Missiles, and Boats: Envisioning the Taiwan Strait Battle," *Breaking Defense*.
-12. Kania, E. B., "Battlefield Singularity: Artificial Intelligence, Military Revolution, and China's Future Military Power," CNAS, 2017.
-
----
-
-*This is Chapter 3. The next chapter analyzes the role of electromagnetic spectrum warfare in Taiwan Strait defense.*
-
-(English translation)
-
-
 ---
 
 # Chapter 4: Electromagnetic Spectrum Warfare — Spectrum Dominance, Jamming Resilience, and Electronic Countermeasure Architecture
@@ -790,7 +717,7 @@ Key challenges include:
 
 The electromagnetic spectrum (EMS) encompasses all electromagnetic wavelengths from extremely low frequency (ELF) through visible light to gamma radiation. In the military domain, virtually every modern warfighting function — radio communications, radar detection, satellite navigation, infrared guidance, laser designation — depends on the propagation and reception of electromagnetic waves. Consequently, controlling the electromagnetic spectrum — or at minimum ensuring one's own access to it — has become an operational imperative on par with air superiority and sea control.
 
-The U.S. Department of Defense, in its *Electromagnetic Spectrum Operations Strategy*, explicitly defines the electromagnetic spectrum as an "operational domain," placing it alongside land, sea, air, space, and cyberspace. This definition reflects a fundamental cognitive shift: the spectrum is not merely a medium for transmitting information, but a battlespace that can be contested, controlled, denied, and exploited.
+The U.S. Department of Defense, in its *Electromagnetic Spectrum Operations Strategy*, explicitly defines the electromagnetic spectrum as an "operational domain," placing it alongside land, sea, air, space, and cyberspace. [37] This definition reflects a fundamental cognitive shift: the spectrum is not merely a medium for transmitting information, but a battlespace that can be contested, controlled, denied, and exploited.
 
 Electronic warfare (EW) is the principal means of operating within this domain. It is traditionally divided into three sub-disciplines:
 
@@ -828,7 +755,7 @@ Several important trends characterize the contemporary evolution of electronic w
 
 The Taiwan Strait is one of the most electromagnetically active areas on the planet. During peacetime, both sides' radar systems, communications networks, and electronic reconnaissance assets operate continuously within this space. This "electromagnetic contact" has never been interrupted, constituting a persistent low-intensity confrontation.
 
-The PLA's electronic warfare capabilities have undergone a qualitative leap over the past two decades. The establishment of the Strategic Support Force (SSF) consolidated electronic warfare, cyber warfare, space warfare, and psychological warfare functions, embodying a multi-domain integrated operational concept. In terms of equipment, the PLA has deployed multiple types of advanced EW aircraft, shipborne EW systems, ground-based jamming stations, and electronic reconnaissance facilities.
+The PLA's electronic warfare capabilities have undergone a qualitative leap over the past two decades. The establishment of the Strategic Support Force (SSF) consolidated electronic warfare, cyber warfare, space warfare, and psychological warfare functions, embodying a multi-domain integrated operational concept. [38][42] In terms of equipment, the PLA has deployed multiple types of advanced EW aircraft, shipborne EW systems, ground-based jamming stations, and electronic reconnaissance facilities.
 
 ### Current Assessment
 
@@ -836,7 +763,7 @@ Observed electromagnetic threat activities in and around the Taiwan Strait inclu
 
 **GPS jamming and spoofing.** Multiple reports have documented GPS signal anomalies in the Taiwan Strait and adjacent waters. GPS spoofing can cause receivers to display false position information, affecting aviation and maritime safety. More critically, GPS jamming can degrade the guidance systems of precision weapons that rely on satellite navigation.
 
-The vulnerability of GPS is rooted in its fundamental design — GPS signals are transmitted from orbits approximately 20,200 kilometers above the Earth's surface and arrive at receivers at extremely low power levels (approximately -130 dBm). Any signal of modestly higher power on the same frequency can effectively overwhelm the GPS signal, achieving jamming or spoofing.
+The vulnerability of GPS is rooted in its fundamental design — GPS signals are transmitted from orbits approximately 20,200 kilometers above the Earth's surface and arrive at receivers at extremely low power levels (approximately -130 dBm). [39][40] Any signal of modestly higher power on the same frequency can effectively overwhelm the GPS signal, achieving jamming or spoofing.
 
 | Observed Activity Type | Affected Area | Frequency | Potential Purpose |
 |------------------------|---------------|-----------|-------------------|
@@ -857,7 +784,7 @@ The electromagnetic threat environment of the Taiwan Strait is characterized by 
 
 **Asymmetry.** The adversary's investment in electronic warfare resources far exceeds Taiwan's. This gap is particularly pronounced in jamming power, spectrum coverage, and the number of deployed systems. However, the asymmetry of electronic warfare runs in both directions — the defender can leverage geographic advantages (such as using Taiwan's mountainous terrain to mask radar emissions) to partially offset the adversary's power advantage.
 
-**Pre-emption.** Electronic warfare operations typically precede physical military action. The adversary may progressively escalate electromagnetic interference hours to days before any kinetic operation begins, attempting to degrade Taiwan's situational awareness and command capabilities without triggering full-scale conflict. This "gray-zone" electronic warfare is among the most difficult scenarios to counter, because the thresholds and modalities for response lack clear precedent.
+**Pre-emption.** Electronic warfare operations typically precede physical military action. The adversary may progressively escalate electromagnetic interference hours to days before any kinetic operation begins, attempting to degrade Taiwan's situational awareness and command capabilities without triggering full-scale conflict. This "gray-zone" electronic warfare is among the most difficult scenarios to counter, because the thresholds and modalities for response lack clear precedent. [49]
 
 **Deniability.** Electromagnetic interference operations offer a high degree of deniability. Unless the jamming source is precisely geolocated, definitive attribution is difficult. This characteristic makes electronic warfare a particularly attractive tool within gray-zone strategies.
 
@@ -1003,29 +930,6 @@ The recommended prioritization is as follows: first, provide complete electromag
 
 ---
 
-## References
-
-1. U.S. Department of Defense, *Electromagnetic Spectrum Superiority Strategy*, 2020.
-2. Jamestown Foundation, "The PLA Strategic Support Force: Update and Overview," *China Brief*.
-3. Kopp, C., "Network Centric Warfare Fundamentals — Electronic Warfare in the Information Age," *Air Power Australia*.
-4. Adamy, D. L., *EW 101: A First Course in Electronic Warfare*, Artech House, 2001.
-5. Adamy, D. L., *EW 104: EW Against a New Generation of Threats*, Artech House, 2015.
-6. Stokes, M., "The PLA's Evolving Conventional Strategic Strike Capability," Project 2049 Institute.
-7. Pietrucha, M., "Electronic Warfare: The Forgotten Discipline," *War on the Rocks*, 2015.
-8. U.S. Government Accountability Office, "Electronic Warfare: DOD Actions Needed to Strengthen Management and Oversight," GAO Report.
-9. Ministry of National Defense (Taiwan), Electronic Warfare Capability Development Reports (non-public; this analysis draws on open-source assessments).
-10. International Telecommunication Union (ITU), "Radio Regulations" and spectrum allocation frameworks.
-11. RAND Corporation, "Cyber and Electronic Warfare in the Information Age," RR-1795-A.
-12. Center for a New American Security (CNAS), "Invisible Force: Electronic Warfare for the Information Age."
-13. Bronk, J., "Electronic Warfare in the Grey Zone: A Primer," RUSI Occasional Paper, 2020.
-
----
-
-*This is Chapter 4. The next chapter analyzes the structural risks and strengthening pathways for Taiwan's energy resilience.*
-
-(English translation)
-
-
 ---
 
 # Chapter 5: Energy Structure — Import Dependence, Strategic Reserves, and Distributed Grids
@@ -1038,7 +942,7 @@ The recommended prioritization is as follows: first, provide complete electromag
 
 ### Background
 
-Energy is one of the most fundamental constraints facing any island economy. Taiwan's domestic energy production is negligible — over 97% of its total energy supply is imported. This structural reality means that any event affecting import channels — whether a maritime blockade, an international market shock, or a supply chain disruption — will directly impact the nation's economic functioning and social stability.
+Energy is one of the most fundamental constraints facing any island economy. Taiwan's domestic energy production is negligible — over 97% of its total energy supply is imported. [50] This structural reality means that any event affecting import channels — whether a maritime blockade, an international market shock, or a supply chain disruption — will directly impact the nation's economic functioning and social stability.
 
 ### Current Assessment
 
@@ -1046,11 +950,11 @@ Overview of Taiwan's energy supply structure:
 
 | Energy Type | Share (approx.) | Import Dependence | Primary Source Countries |
 |-------------|-----------------|-------------------|------------------------|
-| Petroleum | ~44% | 99.9% | Middle East (Saudi Arabia, Kuwait), United States |
-| Natural gas (LNG) | ~19% | 97%+ | Australia, Qatar, United States, Russia |
-| Coal | ~30% | 99.9% | Australia, Indonesia, Russia |
+| Petroleum | ~44% | 99.9% | Middle East (Saudi Arabia, Kuwait), United States [50] |
+| Natural gas (LNG) | ~19% | 97%+ | Australia, Qatar, United States, Russia [50][51] |
+| Coal | ~30% | 99.9% | Australia, Indonesia, Russia [50] |
 | Nuclear | Being phased out | Uranium fuel imported | Multiple countries |
-| Renewables | ~6-8% | Domestically produced | Domestic |
+| Renewables | ~6-8% | Domestically produced | Domestic [50] |
 
 This structure presents the following critical vulnerabilities:
 
@@ -1080,7 +984,7 @@ Natural gas plays an increasingly important role in Taiwan's energy transition. 
 **LNG Supply Chain Characteristics**
 
 1. **Difficult storage**: LNG must be stored at -162 degrees Celsius; storage tank construction is extremely costly and has long lead times.
-2. **Low reserve duration**: Taiwan's current LNG safety stock stands at approximately 7-11 days (fluctuating with season and consumption rates). By comparison, Japan maintains roughly 2-3 weeks, and South Korea approximately 30-40 days. This reserve level means that once imports are interrupted, natural gas power generation will face fuel shortages within an extremely short timeframe.
+2. **Low reserve duration**: Taiwan's current LNG safety stock stands at approximately 7-11 days (fluctuating with season and consumption rates). [51][53] By comparison, Japan maintains roughly 2-3 weeks, and South Korea approximately 30-40 days. [53] This reserve level means that once imports are interrupted, natural gas power generation will face fuel shortages within an extremely short timeframe.
 3. **Receiving terminal bottleneck**: Taiwan's existing LNG receiving terminals consist primarily of the Taichung terminal and the Yongan terminal, with the third terminal (Guantang) still under construction. The limited number of receiving terminals constrains not only import capacity but also creates infrastructure concentration risk.
 
 **Supply Chain Vulnerabilities**
@@ -1110,7 +1014,7 @@ Recommended target: Gradually increase LNG safety stock from the current 7-11 da
 
 ### Offshore Wind Power
 
-The Taiwan Strait has been internationally assessed as one of the world's premier offshore wind resource zones, with annual average wind speeds of 8-10 m/s or above and excellent capacity factor performance.
+The Taiwan Strait has been internationally assessed as one of the world's premier offshore wind resource zones, with annual average wind speeds of 8-10 m/s or above and excellent capacity factor performance. [55]
 
 **Development Status**
 
@@ -1121,7 +1025,7 @@ The Taiwan Strait has been internationally assessed as one of the world's premie
 | Zonal development Phase 1 | 2026-2031 | ~3 GW | In planning |
 | Zonal development subsequent | 2031+ | Continued expansion | In planning |
 
-The government's long-term target is to achieve 40-55 GW of offshore wind installed capacity by 2050.
+The government's long-term target is to achieve 40-55 GW of offshore wind installed capacity by 2050. [56]
 
 **Resilience Analysis**
 
@@ -1135,7 +1039,7 @@ Contributions and limitations of offshore wind power for energy resilience:
 
 **Development Status**
 
-Taiwan's cumulative solar photovoltaic installed capacity has exceeded 12 GW, with a government target of 20 GW by 2025. Solar PV deployment is divided between rooftop and ground-mounted installations:
+Taiwan's cumulative solar photovoltaic installed capacity has exceeded 12 GW, with a government target of 20 GW by 2025. [54][57] Solar PV deployment is divided between rooftop and ground-mounted installations:
 
 | Type | Characteristics | Resilience Assessment |
 |------|----------------|----------------------|
@@ -1166,7 +1070,7 @@ Taiwan's current electrical power system is highly centralized:
 
 - Large power plants (gas, coal, nuclear) are concentrated at a few locations
 - A high-voltage transmission network connects the north and south, with a limited number of critical extra-high-voltage substations
-- Single points of failure in the main grid can cause widespread blackouts (as demonstrated by the large-scale power outages of 2017, 2021, and 2022)
+- Single points of failure in the main grid can cause widespread blackouts (as demonstrated by the large-scale power outages of 2017, 2021, and 2022) [52]
 
 Under conflict scenarios, a centralized power system faces the following threats:
 
@@ -1280,28 +1184,6 @@ For technology park power resilience, a multi-layered defense strategy is recomm
 
 ---
 
-## References
-
-1. Bureau of Energy, Ministry of Economic Affairs. Energy Statistical Annual Report. https://www.moeaea.gov.tw
-2. CPC Corporation, Taiwan. Annual reports on LNG operations.
-3. Taiwan Power Company. Power supply and demand reports.
-4. International Energy Agency (IEA). *Energy Security in the Asia-Pacific*. https://www.iea.org
-5. Ministry of Economic Affairs. Energy Transition White Paper.
-6. Global Wind Energy Council (GWEC). *Global Offshore Wind Report*. https://gwec.net
-7. National Development Council. 2050 Net-Zero Emission Pathway Plan.
-8. International Renewable Energy Agency (IRENA). *Renewable Energy Statistics*. https://www.irena.org
-9. Lovins, A. B. (2022). "Resilient Energy Strategies for Island Nations." *Rocky Mountain Institute*.
-10. Industrial Technology Research Institute. Microgrid technology development report.
-11. SEMI. *Semiconductor Industry Power Requirements Report*.
-12. Semiconductor Climate Consortium. *Energy Efficiency in Semiconductor Manufacturing*.
-13. TSMC. Corporate Social Responsibility Report — Energy Management Section.
-14. U.S. Department of Energy. *Microgrid Program*. https://www.energy.gov
-
----
-
-*(English translation)*
-
-
 ---
 
 # Chapter 6: Food and Water Security — Foundational Survival Resilience and Critical Infrastructure Protection
@@ -1314,7 +1196,7 @@ For technology park power resilience, a multi-layered defense strategy is recomm
 
 ### Current Assessment
 
-Taiwan's food self-sufficiency ratio (measured by caloric intake) has long remained at approximately 30-35%, meaning that roughly two-thirds of caloric supply depends on imports. Import dependence is particularly pronounced for major grains:
+Taiwan's food self-sufficiency ratio (measured by caloric intake) has long remained at approximately 30-35%, meaning that roughly two-thirds of caloric supply depends on imports. [64][66] Import dependence is particularly pronounced for major grains:
 
 | Item | Self-Sufficiency (est.) | Primary Import Sources | Annual Import Volume (est.) | Transport Mode |
 |------|------------------------|------------------------|----------------------------|----------------|
@@ -1340,7 +1222,7 @@ Taiwan's food imports are almost entirely dependent on maritime transport. This 
 
 **Shipping insurance**
 - International shipping operates on the basis of insurance underwriting. If waters around Taiwan were designated as a high-risk zone or war zone, insurance premiums could surge to commercially unviable levels, or underwriters could refuse coverage altogether.
-- In the early days of the 2022 Ukraine war, Black Sea shipping insurance premiums rose by orders of magnitude within days, temporarily halting grain exports. A comparable scenario in the Taiwan Strait would produce even more severe effects.
+- In the early days of the 2022 Ukraine war, Black Sea shipping insurance premiums rose by orders of magnitude within days, temporarily halting grain exports. [69] A comparable scenario in the Taiwan Strait would produce even more severe effects.
 
 **Sea lane security**
 - The Taiwan Strait is among the world's busiest shipping lanes. Any form of military standoff or naval blockade would affect all commercial vessels transiting the area.
@@ -1364,7 +1246,7 @@ The above timeline estimates assume no change in consumption patterns. In an act
 
 ### The Paradox of Taiwan's Water Resources
 
-Taiwan's water resource profile presents a seemingly paradoxical feature: average annual rainfall is approximately 2,500 millimeters — well above the global average — yet Taiwan is simultaneously classified by the United Nations as a region of relatively high water stress. The causes of this paradox include:
+Taiwan's water resource profile presents a seemingly paradoxical feature: average annual rainfall is approximately 2,500 millimeters — well above the global average — yet Taiwan is simultaneously classified by the United Nations as a region of relatively high water stress. [65][70] The causes of this paradox include:
 
 **Topographic factors**
 - Taiwan's terrain is steep, with the Central Mountain Range occupying the majority of the island's landmass.
@@ -1392,7 +1274,7 @@ Most reservoirs face sedimentation problems, with effective storage capacity dec
 
 Climate change is exerting a polarizing effect on Taiwan's water resources:
 
-- **Precipitation extremes**: Rainfall intensity during the wet season is increasing, while drought frequency and severity during the dry season are also rising. In 2021, Taiwan experienced its most severe drought in half a century, with reservoir levels falling to historic lows.
+- **Precipitation extremes**: Rainfall intensity during the wet season is increasing, while drought frequency and severity during the dry season are also rising. In 2021, Taiwan experienced its most severe drought in half a century, with reservoir levels falling to historic lows. [67]
 - **Shifts in typhoon tracks**: Typhoons are a critical source of reservoir replenishment. Changes in typhoon tracks and frequency directly affect reservoir recharge volumes.
 - **Rising temperatures**: Increased evaporation rates and growing agricultural water demand.
 
@@ -1406,8 +1288,8 @@ Semiconductor fabrication requires massive volumes of ultrapure water (UPW). Adv
 
 | Indicator | Value (est.) | Description |
 |-----------|-------------|-------------|
-| Water per 12-inch wafer | ~8,000-10,000 liters | Includes cleaning, etching, chemical mechanical planarization, and other processes |
-| TSMC daily water consumption (island-wide) | Hundreds of thousands of tonnes | Continues to increase with capacity expansion |
+| Water per 12-inch wafer | ~8,000-10,000 liters | Includes cleaning, etching, chemical mechanical planarization, and other processes [71] |
+| TSMC daily water consumption (island-wide) | Hundreds of thousands of tonnes | Continues to increase with capacity expansion [71] |
 | Science park water share | Significant proportion of regional supply | Competes with residential and agricultural water |
 | Water recycling rate | ~85-90% | Continuing to improve, but substantial consumption remains |
 
@@ -1619,29 +1501,6 @@ Establish a continuous monitoring and early warning system for food and water re
 
 ---
 
-## References
-
-- Council of Agriculture, Executive Yuan. *Annual Food Supply and Demand Report*. Various years.
-- Water Resources Agency, Ministry of Economic Affairs. *Taiwan Water Resources Annual Report*. Various years.
-- Council of Agriculture, Executive Yuan. *Food Security Policy White Paper*. 2022.
-- Water Resources Agency, Ministry of Economic Affairs. *Overview of Taiwan Reservoir Operations*. 2024.
-- Taiwan Water Corporation. *Annual Water Supply Statistics Report*. Various years.
-- Food and Agriculture Organization of the United Nations. "The State of Food Security and Nutrition in the World." FAO, 2024.
-- World Resources Institute. "Aqueduct Water Risk Atlas." WRI, 2023.
-- TSMC. "Corporate Social Responsibility Report: Water Stewardship." 2024.
-- International Desalination Association. "Desalination Yearbook." IDA, 2024.
-- Congressional Research Service. "Taiwan: Issues for Congress." Updated periodically.
-- Institute for National Defense and Security Research. *Non-Traditional Security Threat Assessment: Food and Water Resources*. 2023.
-- Ministry of Science and Technology. *Science Park Water Resource Management Special Report*. 2022.
-- Industrial Technology Research Institute. *Assessment of Taiwan Reclaimed Water Technology Development and Application*. 2023.
-
----
-
-*This is Supplementary Chapter S1. This chapter addresses foundational survival resilience requirements that underpin Taiwan's broader national security strategy.*
-
-(English translation)
-
-
 ---
 
 # Chapter 7: Communications Resilience — Submarine Cables, LEO Satellites, and Mesh Networks
@@ -1654,13 +1513,13 @@ Establish a continuous monitoring and early warning system for food and water re
 
 ### Background
 
-As an island economy, Taiwan relies almost entirely on submarine cables for its external communications. Approximately 99% of global intercontinental data traffic is transmitted via submarine cables, with satellite communications handling only a marginal share. This means submarine cables are not merely commercial communications infrastructure — they are a critical national security lifeline.
+As an island economy, Taiwan relies almost entirely on submarine cables for its external communications. Approximately 99% of global intercontinental data traffic is transmitted via submarine cables [77][78], with satellite communications handling only a marginal share. This means submarine cables are not merely commercial communications infrastructure — they are a critical national security lifeline.
 
-Data from the International Telecommunication Union (ITU) indicates that more than 500 submarine cables are currently in operation worldwide, with a combined length exceeding 1.3 million kilometers. Within this global network, Taiwan occupies a key node position in the western Pacific, serving as a conduit for data flows between Northeast and Southeast Asia.
+Data from the International Telecommunication Union (ITU) indicates that more than 500 submarine cables are currently in operation worldwide, with a combined length exceeding 1.3 million kilometers. [77] Within this global network, Taiwan occupies a key node position in the western Pacific, serving as a conduit for data flows between Northeast and Southeast Asia.
 
 ### Current Assessment
 
-Taiwan currently has approximately fifteen major submarine cables connecting it to the global internet. The principal landing stations are concentrated in the following areas:
+Taiwan currently has approximately fifteen major submarine cables connecting it to the global internet. [78][79] The principal landing stations are concentrated in the following areas:
 
 | Landing Station Location | Connection Direction | Major Cable Systems | Notes |
 |--------------------------|---------------------|--------------------|----|
@@ -1673,7 +1532,7 @@ This configuration exhibits the following characteristics:
 
 1. **Geographic concentration**: The limited number of landing stations, clustered at a few coastal locations, forms predictable targets for attack.
 2. **Route interdependence**: Multiple cables share proximate seabed paths, particularly in the southern Taiwan Strait and the Bashi Channel.
-3. **Repair bottlenecks**: The global fleet of cable repair ships is limited (approximately 60 vessels), and repair response times in waters surrounding Taiwan are constrained by vessel scheduling and weather conditions.
+3. **Repair bottlenecks**: The global fleet of cable repair ships is limited (approximately 60 vessels) [87], and repair response times in waters surrounding Taiwan are constrained by vessel scheduling and weather conditions.
 
 ### Risk Analysis
 
@@ -1683,7 +1542,7 @@ Threats to submarine cables can be categorized across three tiers:
 
 - Earthquakes and submarine geological activity (Taiwan sits on the Pacific Ring of Fire)
 - Typhoon-induced near-shore cable damage
-- Fishing trawl and anchor strikes (accounting for approximately 60-70% of global submarine cable faults)
+- Fishing trawl and anchor strikes (accounting for approximately 60-70% of global submarine cable faults) [87]
 - Submarine landslides (the 2006 Hengchun earthquake severed multiple cables simultaneously)
 
 **Gray Zone Threats**
@@ -1700,9 +1559,9 @@ Threats to submarine cables can be categorized across three tiers:
 - Maritime blockade preventing repair vessels from accessing the area
 - Electromagnetic pulse (EMP) effects on onshore relay stations
 
-The 2006 Hengchun earthquake provides an important reference case. A magnitude 7.0 earthquake triggered submarine landslides that severed at least nine submarine cables, causing Taiwan's international internet bandwidth to plummet by over 90%. Full restoration took several weeks. This event demonstrated that the concentrated vulnerability of submarine cables is not a theoretical abstraction but a validated, real-world risk.
+The 2006 Hengchun earthquake provides an important reference case. A magnitude 7.0 earthquake triggered submarine landslides that severed at least nine submarine cables, causing Taiwan's international internet bandwidth to plummet by over 90%. [79][88] Full restoration took several weeks. This event demonstrated that the concentrated vulnerability of submarine cables is not a theoretical abstraction but a validated, real-world risk.
 
-The vulnerability of outlying islands is even more pronounced. The Matsu Islands depend on only two submarine cables for their connection to Taiwan proper, and have experienced multiple incidents of weeks-long communications outages or degradation due to cable damage. In 2023, a Matsu submarine cable was severed by a cargo vessel's anchor, forcing approximately 14,000 residents to rely on microwave backup systems for communications over a period of several months — highlighting the fragility of outlying island communications infrastructure.
+The vulnerability of outlying islands is even more pronounced. The Matsu Islands depend on only two submarine cables for their connection to Taiwan proper, and have experienced multiple incidents of weeks-long communications outages or degradation due to cable damage. In 2023, a Matsu submarine cable was severed by a cargo vessel's anchor, forcing approximately 14,000 residents to rely on microwave backup systems for communications over a period of several months [86][88] — highlighting the fragility of outlying island communications infrastructure.
 
 ---
 
@@ -1724,13 +1583,13 @@ Low Earth Orbit (LEO) satellite communications systems have achieved significant
 
 The global LEO satellite communications market is currently dominated by the following major systems:
 
-- **Starlink (SpaceX)**: Has deployed over 6,000 satellites covering most of the globe. Demonstrated reliable communications capability in the Ukrainian theater of war, serving as a critical validation case for communications resilience under conflict conditions.
+- **Starlink (SpaceX)**: Has deployed over 6,000 satellites covering most of the globe. [81] Demonstrated reliable communications capability in the Ukrainian theater of war, serving as a critical validation case for communications resilience under conflict conditions. [82]
 - **OneWeb (Eutelsat)**: Approximately 630 satellites deployed, with a focus on government and enterprise users.
 - **Kuiper (Amazon)**: Planning 3,236 satellites; currently in early deployment stages.
 
 Taiwan's current posture regarding LEO satellite communications includes:
 
-1. **Commercial service introduction**: The Ministry of Digital Affairs has promoted the establishment of LEO satellite communication services in Taiwan, including assessments for cooperation with operators such as Starlink.
+1. **Commercial service introduction**: The Ministry of Digital Affairs has promoted the establishment of LEO satellite communication services in Taiwan [80], including assessments for cooperation with operators such as Starlink.
 2. **Outlying island and remote area applications**: Outlying islands have begun testing satellite communications as a submarine cable backup.
 3. **Defense application assessment**: The Ministry of National Defense continues to evaluate military satellite communications requirements, though indigenous capability remains limited.
 
@@ -1795,7 +1654,7 @@ A tiered HF/UHF backup communications network should be established nationwide:
 | Local | Township/district emergency communications | Within county/city | Civil defense and fire service units |
 | Amateur | Community communications support | Neighboring areas | Licensed amateur radio operators |
 
-Taiwan currently has tens of thousands of licensed amateur radio operators. This community possesses latent communications support capability for disaster response. Regular exercises and institutional integration should be pursued to formally incorporate the amateur radio community into the national communications resilience framework.
+Taiwan currently has tens of thousands of licensed amateur radio operators. [83] This community possesses latent communications support capability for disaster response. Regular exercises and institutional integration should be pursued to formally incorporate the amateur radio community into the national communications resilience framework.
 
 ### LoRa and Mesh Networks
 
@@ -1807,7 +1666,7 @@ LoRa is a Low-Power Wide-Area Network (LPWAN) technology with the following char
 - Extremely low power consumption; battery-powered operation lasting months to years
 - Very low bandwidth (suitable for sensor data and short text messages)
 - Low device cost, suitable for large-scale deployment
-- Open-source firmware such as Meshtastic enables infrastructure-free peer-to-peer communications
+- Open-source firmware such as Meshtastic enables infrastructure-free peer-to-peer communications [84][85]
 
 **Mesh WiFi Networks**
 
@@ -1875,26 +1734,6 @@ Based on the foregoing analysis, the following policy recommendations are propos
 
 ---
 
-## References
-
-1. International Telecommunication Union (ITU). *Submarine Cable Map and Statistics*. https://www.itu.int
-2. TeleGeography. *Submarine Cable Map*. https://www.submarinecablemap.com
-3. Chunghwa Telecom. Annual reports on submarine cable systems.
-4. Ministry of Digital Affairs. Policy documents on communications infrastructure resilience.
-5. Starlink Coverage Map and Service Documentation. https://www.starlink.com
-6. Feldstein, S. (2022). "The Role of Satellite Internet in Ukraine." *Carnegie Endowment for International Peace*.
-7. Ministry of Transportation and Communications. Regulations Governing Amateur Radio Operations.
-8. LoRa Alliance. *LoRaWAN Specification*. https://lora-alliance.org
-9. Meshtastic Project Documentation. https://meshtastic.org
-10. National Communications Commission (NCC). Telecommunications infrastructure security assessment reports.
-11. Bueger, C., & Liebetrau, T. (2023). "Protecting Undersea Cables: Challenges and Policy Options." *European Parliamentary Research Service*.
-12. Institute for National Defense and Security Research. Research report on Taiwan's communications infrastructure security.
-
----
-
-*(English translation)*
-
-
 ---
 
 # Chapter 8: Financial Resilience — Sanctions Defense, Digital Assets, and Blockchain Backup
@@ -1913,8 +1752,8 @@ The financial sanctions imposed on Russia by Western nations following the 2022 
 
 | Sanctions Measure | Scope of Impact | Time Scale |
 |-------------------|----------------|------------|
-| SWIFT system disconnection | International payment and settlement disruption | Effective within days |
-| Central bank foreign reserve freezes | ~$300 billion in assets rendered inaccessible | Immediate effect |
+| SWIFT system disconnection | International payment and settlement disruption | Effective within days [95] |
+| Central bank foreign reserve freezes | ~$300 billion in assets rendered inaccessible | Immediate effect [95] |
 | Cross-border transaction restrictions | Trade financing for imports/exports impeded | Full impact within weeks |
 | Energy transaction restrictions | Oil and natural gas revenue channels constrained | Gradual effect |
 | Individual and entity sanctions | Oligarch and state-owned enterprise asset freezes | Immediate effect |
@@ -1931,7 +1770,7 @@ The financial threat scenarios facing Taiwan differ structurally from the Russia
 4. **Payment system disruption**: Cross-border payment channels are interrupted through cyberattacks or sanctions pressure.
 5. **Trade finance collapse under blockade**: A maritime blockade renders imports and exports impossible, removing the operational basis of the trade finance system.
 
-The scale of Taiwan's financial system is significant. According to recent statistics, Taiwan's foreign exchange reserves exceed US$560 billion (ranking among the top five globally), total banking system assets surpass NT$60 trillion, and securities market capitalization exceeds NT$50 trillion. These figures indicate that any shock to the financial system would have profoundly far-reaching consequences.
+The scale of Taiwan's financial system is significant. According to recent statistics, Taiwan's foreign exchange reserves exceed US$560 billion (ranking among the top five globally), total banking system assets surpass NT$60 trillion, and securities market capitalization exceeds NT$50 trillion. [89][90] These figures indicate that any shock to the financial system would have profoundly far-reaching consequences.
 
 ---
 
@@ -1943,8 +1782,8 @@ The foreign exchange reserves managed by the Central Bank of the Republic of Chi
 
 **Key Issues**
 
-1. **Currency concentration**: Central bank foreign exchange reserves globally are predominantly denominated in US dollar assets (approximately 58-60%), and Taiwan is no exception. Excessive concentration in a single currency system means that policy decisions by the issuing country can directly affect the accessibility of reserves.
-2. **Custodial location risk**: Foreign exchange reserves are largely held as financial assets — bonds, deposits, and the like — at overseas financial institutions. Under extreme scenarios, these assets could be frozen by jurisdictional decisions of the countries in which they are held. Approximately half of Russia's central bank reserves were frozen because they were held in Western countries.
+1. **Currency concentration**: Central bank foreign exchange reserves globally are predominantly denominated in US dollar assets (approximately 58-60%), and Taiwan is no exception. [89][95] Excessive concentration in a single currency system means that policy decisions by the issuing country can directly affect the accessibility of reserves.
+2. **Custodial location risk**: Foreign exchange reserves are largely held as financial assets — bonds, deposits, and the like — at overseas financial institutions. Under extreme scenarios, these assets could be frozen by jurisdictional decisions of the countries in which they are held. Approximately half of Russia's central bank reserves were frozen because they were held in Western countries. [95]
 3. **Liquidity management**: Reserve assets must balance safety, liquidity, and yield, but liquidity demand surges dramatically during crises.
 
 ### Diversification Strategy
@@ -1956,7 +1795,7 @@ The foreign exchange reserves managed by the Central Bank of the Republic of Chi
 | Custodial locations | Concentrated in major financial centers | Distribute across multiple jurisdictions | Counterparty risk management |
 | Asset classes | Primarily government bonds | Moderate allocation to highly liquid alternative assets | Credit risk and market risk |
 
-Gold possesses unique value under extreme scenarios: it does not depend on any single country's financial system, carries no counterparty risk, and has historically maintained purchasing power during geopolitical conflicts. Taiwan's gold reserves as a proportion of total foreign exchange reserves have been persistently low (approximately 4-5%), in stark contrast to Germany (~70%) and the United States (~78%). A moderate increase in gold holdings is a pragmatic option for enhancing reserve resilience.
+Gold possesses unique value under extreme scenarios: it does not depend on any single country's financial system, carries no counterparty risk, and has historically maintained purchasing power during geopolitical conflicts. Taiwan's gold reserves as a proportion of total foreign exchange reserves have been persistently low (approximately 4-5%), in stark contrast to Germany (~70%) and the United States (~78%). [96] A moderate increase in gold holdings is a pragmatic option for enhancing reserve resilience.
 
 ---
 
@@ -1968,7 +1807,7 @@ The role of cryptocurrencies and digital assets in financial resilience framewor
 
 **International Cases**
 
-- **Ukraine (2022-present)**: The government publicly accepted cryptocurrency donations, receiving a cumulative total exceeding US$200 million. In areas where the banking system was disrupted by war, cryptocurrencies served as a fund transfer instrument for some citizens.
+- **Ukraine (2022-present)**: The government publicly accepted cryptocurrency donations, receiving a cumulative total exceeding US$200 million. [93] In areas where the banking system was disrupted by war, cryptocurrencies served as a fund transfer instrument for some citizens.
 - **Afghanistan (2021)**: After the Taliban takeover froze the banking system, some NGOs maintained humanitarian aid fund flows through cryptocurrency channels.
 - **Venezuela**: Under economic sanctions and hyperinflation, Bitcoin and stablecoins became alternative tools for civilian wealth preservation and cross-border remittances.
 
@@ -2047,7 +1886,7 @@ Distributed ledger technology (DLT) can provide an additional preservation layer
 
 ### Background
 
-A Central Bank Digital Currency (CBDC) is a digital form of fiat currency issued by a central bank. The Central Bank of the Republic of China (Taiwan) has conducted CBDC research and pilot projects but has not yet formally issued one.
+A Central Bank Digital Currency (CBDC) is a digital form of fiat currency issued by a central bank. The Central Bank of the Republic of China (Taiwan) has conducted CBDC research and pilot projects but has not yet formally issued one. [91][92]
 
 In the context of financial resilience, the value of a CBDC lies not only in improved payment efficiency but also in the potential to maintain basic transaction capability when traditional payment infrastructure is damaged.
 
@@ -2109,26 +1948,6 @@ Under scenarios involving large-scale infrastructure damage, all of the above el
 
 ---
 
-## References
-
-1. Central Bank of the Republic of China (Taiwan). Foreign Exchange Reserve Management Annual Report. https://www.cbc.gov.tw
-2. Financial Supervisory Commission. Financial Stability Report.
-3. Bank for International Settlements (BIS). (2023). *Central Bank Digital Currencies: Financial Stability Implications*. https://www.bis.org
-4. Atlantic Council. *CBDC Tracker*. https://www.atlanticcouncil.org/cbdctracker/
-5. Chainalysis. (2023). *Cryptocurrency in Conflict Zones*. https://www.chainalysis.com
-6. Institute for Information Industry. Research report on blockchain technology applications.
-7. International Monetary Fund (IMF). *Global Financial Stability Report*.
-8. World Gold Council. *Central Bank Gold Reserves Statistics*. https://www.gold.org
-9. Fanusie, Y., & Jin, E. (2021). "China's Digital Currency and Blockchain Technology." *Center for a New American Security*.
-10. European Central Bank. (2023). *Digital Euro Project Progress Report*. https://www.ecb.europa.eu
-11. Brainard, L. (2022). "Digital Assets and the Future of Finance." *Federal Reserve Board*.
-12. Ministry of Digital Affairs. Policy documents on digital resilience.
-
----
-
-*(English translation)*
-
-
 ---
 
 # Chapter 9: Space Capabilities — Small Satellites, Situational Awareness, and Communications Integration
@@ -2156,7 +1975,7 @@ The role of space assets in national security can be understood across the follo
 
 The global space security environment is undergoing the following trends:
 
-1. **Space weaponization**: Multiple nations are developing anti-satellite (ASAT) capabilities, including kinetic interceptors, co-orbital attacks, electronic jamming, and laser weapons.
+1. **Space weaponization**: Multiple nations are developing anti-satellite (ASAT) capabilities, including kinetic interceptors, co-orbital attacks, electronic jamming, and laser weapons. [105][109]
 2. **Commercial space explosion**: Rapidly declining launch costs and maturing small satellite technology are enabling small and medium-sized nations to acquire space capabilities.
 3. **Increasing space debris**: Orbital debris continues to accumulate, threatening the safe operation of space assets.
 4. **Gray zone operations**: Approach, surveillance, and interference activities in space are growing more frequent — falling below the threshold of armed conflict yet constituting a security threat.
@@ -2188,7 +2007,7 @@ Taiwan's space development has centered on the FORMOSAT satellite series, with t
 
 ### Taiwan Space Agency (TASA)
 
-The Taiwan Space Agency (TASA) was reorganized as an administrative legal entity in 2023, marking a new phase in Taiwan's space development. TASA's core missions include:
+The Taiwan Space Agency (TASA) was reorganized as an administrative legal entity in 2023, marking a new phase in Taiwan's space development. [101] TASA's core missions include:
 
 1. **Satellite development**: Indigenous design and manufacturing of satellites
 2. **Space science research**: Space environment and science research
@@ -2197,7 +2016,7 @@ The Taiwan Space Agency (TASA) was reorganized as an administrative legal entity
 
 **Third National Space Technology Development Long-Term Plan (2019-2028)**
 
-This plan has a budget of approximately NT$25.1 billion and includes the following principal objectives:
+This plan has a budget of approximately NT$25.1 billion [101] and includes the following principal objectives:
 
 - Develop high-resolution optical remote sensing satellites
 - Develop synthetic aperture radar (SAR) satellites
@@ -2302,7 +2121,7 @@ Space Situational Awareness (SSA) refers to the ability to track, identify, and 
 
 Taiwan's current SSA capabilities rely primarily on:
 
-1. **Publicly available data** from the U.S. Space Surveillance Network (Space-Track.org)
+1. **Publicly available data** from the U.S. Space Surveillance Network (Space-Track.org) [104]
 2. **Small telescope facilities** for academic research purposes
 3. **Limited** radar tracking capability
 
@@ -2424,33 +2243,11 @@ The development of indigenous space capabilities does not preclude international
 
 ---
 
-## References
-
-1. Taiwan Space Agency (TASA). Third National Space Technology Development Long-Term Plan. https://www.tasa.org.tw
-2. Institute for National Defense and Security Research. Research report on space security and Taiwan's defense.
-3. Union of Concerned Scientists. *UCS Satellite Database*. https://www.ucsusa.org
-4. U.S. Space Command. *Space Domain Awareness Fact Sheet*. https://www.spacecom.mil
-5. Secure World Foundation. (2023). *Global Counterspace Capabilities: An Open Source Assessment*. https://swfound.org
-6. European Space Agency (ESA). *Space Debris Environment Reports*. https://www.esa.int
-7. SpaceX. *Starlink Mission Updates*. https://www.spacex.com
-8. Bryce Space and Technology. *State of the Satellite Industry Report*.
-9. Harrison, T., et al. (2023). "Space Threat Assessment." *Center for Strategic and International Studies*.
-10. National Science and Technology Council. Space technology development policy documents.
-11. Japan Aerospace Exploration Agency (JAXA). *Space Security Reports*. https://www.jaxa.jp
-12. Korea Aerospace Research Institute (KARI). *Annual Reports*. https://www.kari.re.kr
-13. Weeden, B., & Samson, V. (2023). "Enhancing Space Security: Time for a New Treaty?" *Bulletin of the Atomic Scientists*.
-14. Central News Agency. Compiled coverage of the FORMOSAT satellite program.
-
----
-
-*(English translation)*
-
-
 ---
 
 # Chapter 10: Artificial Intelligence and Distributed Computing — Intelligence Fusion, Autonomous Defense, and Resilient Architectures
 
-> **Core Thesis**: The application of artificial intelligence to intelligence analysis, battlefield situational awareness, and autonomous defense must be built on distributed computing architectures to prevent the centralization of computing power from becoming a vulnerable node for precision strikes during wartime. The integration of blockchain and AI can provide damage-resistant resilience for supply chain verification and financial settlement.
+> **Core Thesis**: The application of artificial intelligence to intelligence analysis, battlefield situational awareness, and autonomous defense must be built on distributed computing architectures to prevent the centralization of computing power from becoming a vulnerable node for precision strikes during wartime. The integration of blockchain and AI can provide damage-resistant resilience for supply chain verification and financial settlement. [115][119]
 
 ---
 
@@ -2516,7 +2313,7 @@ AI plays a critical role in counter-drone defense:
 
 In developing autonomous defense systems, Taiwan must establish a clear ethical and legal framework:
 
-1. **Human-in-the-Loop Principle**: The ultimate authority to use lethal force must remain with human commanders. AI may provide recommendations and automate processes, but fire authorization should not be fully delegated to machines.
+1. **Human-in-the-Loop Principle**: The ultimate authority to use lethal force must remain with human commanders. [29][116] AI may provide recommendations and automate processes, but fire authorization should not be fully delegated to machines.
 2. **Rules of Engagement (ROE) Integration**: The decision logic of AI systems must incorporate ROE constraints, ensuring compliance with international humanitarian law under all circumstances.
 3. **Explainability Requirements**: The decision-making processes of military AI systems must be explainable, enabling commanders to understand the basis for AI recommendations.
 4. **Testing and Validation Standards**: Autonomous defense systems must undergo rigorous testing and validation procedures before deployment, including adversarial testing and extreme scenario simulations.
@@ -2630,25 +2427,6 @@ If Taiwan's central financial infrastructure is disabled during a conflict, bloc
 
 ---
 
-## References
-
-- National Security Commission on Artificial Intelligence. "Final Report." NSCAI, March 2021.
-- U.S. Department of Defense. "DoD Responsible Artificial Intelligence Strategy and Implementation Pathway." June 2022.
-- Scharre, P. *Army of None: Autonomous Weapons and the Future of War*. W.W. Norton, 2018.
-- Horowitz, M.C. "Artificial Intelligence, International Competition, and the Balance of Power." *Texas National Security Review*, vol. 1, no. 3, 2018.
-- Allen, G. "Understanding China's AI Strategy." Center for a New American Security, February 2019.
-- Nakamoto, S. "Bitcoin: A Peer-to-Peer Electronic Cash System." 2008.
-- Buterin, V. "Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform." 2014.
-- Ministry of National Defense. *ROC National Defense Report*. 2023.
-- National Science and Technology Council. *Taiwan AI Action Plan 2.0*. 2023.
-- Institute for Information Industry. *Taiwan Artificial Intelligence Industry Development White Paper*. 2024.
-- Institute for National Defense and Security Research. *Annual Assessment of Defense Technology Trends*. 2024.
-
----
-
-*(English translation)*
-
-
 ---
 
 # Chapter 11: Quantum Security — Post-Quantum Cryptography, QKD, and Long-Term Data Protection
@@ -2663,7 +2441,7 @@ If Taiwan's central financial infrastructure is disabled during a conflict, bloc
 
 The foundations of modern information security rest on mathematical hard problems. RSA relies on the computational difficulty of large prime factorization; Elliptic Curve Cryptography (ECC) depends on the discrete logarithm problem; and the Diffie-Hellman key exchange is likewise grounded in discrete logarithms. On classical computers, these algorithms require astronomical amounts of computation to break and have therefore long been considered secure.
 
-However, in 1994, Peter Shor demonstrated that a quantum computer with a sufficient number of qubits could perform large prime factorization and discrete logarithm computations in polynomial time. This means that mainstream public-key cryptographic systems such as RSA, ECC, and DH will no longer be secure in the quantum computing era.
+However, in 1994, Peter Shor demonstrated that a quantum computer with a sufficient number of qubits could perform large prime factorization and discrete logarithm computations in polynomial time. [125] This means that mainstream public-key cryptographic systems such as RSA, ECC, and DH will no longer be secure in the quantum computing era.
 
 | Encryption Algorithm | Classical Computing Difficulty | Quantum Computing Difficulty | Current Use Cases |
 |---------------------|-------------------------------|-----------------------------|--------------------|
@@ -2697,7 +2475,7 @@ The development timeline for quantum computing involves significant uncertainty,
 | 2028-2032 | Potentially reaching cryptographically relevant qubit scale | High-sensitivity systems should complete migration |
 | 2032-2040 | Cryptanalytically capable quantum computers may become a reality | All critical systems must complete migration |
 
-"Q-Day" — the date a quantum computer first successfully breaks mainstream public-key cryptography — is difficult to predict precisely. But cryptographic migration is a large-scale engineering effort requiring 5-15 years. If Q-Day arrives in 2035, then 2025 is already the critical initiation point for migration work.
+"Q-Day" — the date a quantum computer first successfully breaks mainstream public-key cryptography — is difficult to predict precisely. [129] But cryptographic migration is a large-scale engineering effort requiring 5-15 years. If Q-Day arrives in 2035, then 2025 is already the critical initiation point for migration work.
 
 The timeline pressure facing Taiwan can be conceptualized with the following formula:
 
@@ -2711,7 +2489,7 @@ If this value is positive, it is already too late to protect that category of da
 
 ### The NIST Standardization Process
 
-The U.S. National Institute of Standards and Technology (NIST) launched its Post-Quantum Cryptography (PQC) standardization process in 2016. After multiple rounds of evaluation, the first batch of standards was officially published in 2024:
+The U.S. National Institute of Standards and Technology (NIST) launched its Post-Quantum Cryptography (PQC) standardization process in 2016. After multiple rounds of evaluation, the first batch of standards was officially published in 2024 [124][128]:
 
 | Standard | Algorithm Name | Type | Security Basis | Purpose |
 |----------|---------------|------|---------------|---------|
@@ -2804,7 +2582,7 @@ Taiwan's geographic conditions — approximately 400 km from north to south, wit
 **Long-Term Vision (Post-2032)**
 
 - **Island-wide QKD Backbone Network**: Integrate quantum repeater technology (pending technical maturation) to achieve island-wide coverage.
-- **Satellite QKD**: Explore satellite quantum communication links in cooperation with friendly nations to overcome ground-based distance limitations. China launched the Micius quantum science experimental satellite in 2016; Taiwan should not be absent from this domain.
+- **Satellite QKD**: Explore satellite quantum communication links in cooperation with friendly nations to overcome ground-based distance limitations. China launched the Micius quantum science experimental satellite in 2016 [131]; Taiwan should not be absent from this domain.
 
 ---
 
@@ -2816,7 +2594,7 @@ Taiwan's geographic conditions — approximately 400 km from north to south, wit
 
 2. **Mandate Crypto-Agility Requirements**: Require all newly built and upgraded government information systems to possess crypto-agility — the ability to replace encryption algorithms without rebuilding the system. This requirement should be incorporated into government IT procurement regulations.
 
-3. **Publish a National Cryptographic Migration Timeline**: Following the framework of the U.S. National Security Memorandum (NSM-10), issue a Taiwan-specific post-quantum cryptography migration timeline that clearly specifies migration deadlines and responsibilities for each agency.
+3. **Publish a National Cryptographic Migration Timeline**: Following the framework of the U.S. National Security Memorandum (NSM-10) [130], issue a Taiwan-specific post-quantum cryptography migration timeline that clearly specifies migration deadlines and responsibilities for each agency.
 
 ### Technology Investment
 
@@ -2843,24 +2621,6 @@ Taiwan's geographic conditions — approximately 400 km from north to south, wit
 
 ---
 
-## References
-
-- NIST. "Post-Quantum Cryptography Standardization." National Institute of Standards and Technology, 2024. https://csrc.nist.gov/projects/post-quantum-cryptography
-- Shor, P.W. "Algorithms for Quantum Computation: Discrete Logarithms and Factoring." *Proceedings of the 35th Annual Symposium on Foundations of Computer Science*, 1994.
-- National Security Agency. "Quantum Computing and Post-Quantum Cryptography FAQ." NSA Cybersecurity, 2021.
-- European Telecommunications Standards Institute. "Quantum Safe Cryptography and Security." ETSI White Paper No. 8, 2015.
-- Chen, L. et al. "Report on Post-Quantum Cryptography." NISTIR 8105, National Institute of Standards and Technology, 2016.
-- Mosca, M. "Cybersecurity in an Era with Quantum Computers: Will We Be Ready?" *IEEE Security & Privacy*, vol. 16, no. 5, 2018, pp. 38-41.
-- White House. "National Security Memorandum on Promoting United States Leadership in Quantum Computing While Mitigating Risks to Vulnerable Cryptographic Systems (NSM-10)." May 2022.
-- Liao, S.K. et al. "Satellite-to-ground quantum key distribution." *Nature*, vol. 549, 2017, pp. 43-47.
-- Executive Yuan Department of Cyber Security. *National Cybersecurity Development Plan*. 2021.
-- Academia Sinica. *Recommendations on Quantum Science and Technology Research and Development*. 2022.
-
----
-
-*(English translation)*
-
-
 ---
 
 # Chapter 12: Cognitive Defense — Countering Disinformation, Deepfake Threats, and Building Social Trust Infrastructure
@@ -2873,7 +2633,7 @@ Taiwan's geographic conditions — approximately 400 km from north to south, wit
 
 ### The Nature of Cognitive Warfare
 
-Cognitive warfare differs from traditional propaganda or psychological operations. Its objective is not merely to change specific opinions, but to systematically degrade the target society's cognitive infrastructure — the capacity of its people to process information, form judgments, and maintain social consensus.
+Cognitive warfare differs from traditional propaganda or psychological operations. [134] Its objective is not merely to change specific opinions, but to systematically degrade the target society's cognitive infrastructure — the capacity of its people to process information, form judgments, and maintain social consensus.
 
 Traditional military operations use physical space as the battlefield; cognitive warfare uses psychological space. When a society's members can no longer distinguish fact from fabrication, can no longer trust public institutions, and can no longer form basic consensus on critical issues, that society's capacity for collective action is severely undermined — regardless of its military strength.
 
@@ -2932,7 +2692,7 @@ The propagation of disinformation is not random but follows a carefully designed
 - Deepfake tools generate fabricated audio-visual material.
 
 **Layer Two: Initial Amplification**
-- Coordinated Inauthentic Behavior (CIB): Large numbers of fake accounts simultaneously publish and share targeted content.
+- Coordinated Inauthentic Behavior (CIB): Large numbers of fake accounts simultaneously publish and share targeted content. [137][140]
 - Infiltrating existing communities: Planting information in "natural" ways within target community forums and groups.
 - Leveraging local collaborators: Co-opting or manipulating locally influential figures to spread information.
 
@@ -2953,7 +2713,7 @@ The propagation of disinformation is not random but follows a carefully designed
 Taiwan's information environment possesses several structural characteristics that make it particularly vulnerable:
 
 **Highly Digitized Society**
-- Taiwan's internet penetration rate exceeds 90%, with social media usage ranking among the highest globally.
+- Taiwan's internet penetration rate exceeds 90%, with social media usage ranking among the highest globally. [140][142]
 - LINE is Taiwan's dominant messaging platform, and its closed-group features make it difficult to monitor and rebut disinformation from outside the groups.
 - Facebook, YouTube, PTT, and various forums comprise a complex information ecosystem.
 
@@ -2976,7 +2736,7 @@ Taiwan's information environment possesses several structural characteristics th
 
 Taiwan has already experienced multiple documented information operation events exhibiting systematic patterns:
 
-- **Large-scale information operations during elections**: Before every major election, coordinated inauthentic behavior on social platforms increases markedly, including synchronized posting by networks of fake accounts and concentrated promotion of specific narratives.
+- **Large-scale information operations during elections**: Before every major election, coordinated inauthentic behavior on social platforms increases markedly [140][141], including synchronized posting by networks of fake accounts and concentrated promotion of specific narratives.
 - **Panic dissemination during military exercises**: During PLA encirclement exercises around Taiwan, social platforms saw surges of threat-exaggerating content and fabricated missile attack alerts.
 - **Trust erosion during public health crises**: During the COVID-19 pandemic, large volumes of disinformation targeting Taiwan's vaccine policies and epidemic prevention measures circulated, aimed at undermining public trust in government decision-making.
 
@@ -3010,7 +2770,7 @@ Over the long term, elevating the media literacy of the entire population is the
 
 **Disinformation Detection Platforms**
 - Build automated social media monitoring systems to detect patterns of coordinated inauthentic behavior, including account behavior analysis, propagation network analysis, and content similarity analysis.
-- Collaborate with fact-checking organizations to establish rapid verification mechanisms. The Taiwan FactCheck Center and similar institutions already play an important role in this domain and should receive expanded support.
+- Collaborate with fact-checking organizations to establish rapid verification mechanisms. The Taiwan FactCheck Center and similar institutions already play an important role in this domain [142] and should receive expanded support.
 - Develop publicly available verification tools that enable ordinary users to quickly check suspicious information.
 
 **AI-Generated Content Identification**
@@ -3106,25 +2866,6 @@ Therefore, building social trust is not merely a matter of governance quality �
 
 ---
 
-## References
-
-- NATO Strategic Communications Centre of Excellence. "Cognitive Warfare." Riga, 2021.
-- Rid, T. *Active Measures: The Secret History of Disinformation and Political Warfare*. Farrar, Straus and Giroux, 2020.
-- Singer, P.W. and Brooking, E.T. *LikeWar: The Weaponization of Social Media*. Eamon Dolan Books, 2018.
-- Bradshaw, S. and Howard, P.N. "The Global Disinformation Order: 2019 Global Inventory of Organised Social Media Manipulation." Oxford Internet Institute, 2019.
-- Pamment, J. "The EU's Role in Fighting Disinformation: Taking Back the Initiative." Carnegie Endowment for International Peace, 2020.
-- Helmus, T.C. et al. "Russian Social Media Influence: Understanding Russian Propaganda in Eastern Europe." RAND Corporation, 2018.
-- Doublethink Lab. *Research Report on Chinese Information Operations Against Taiwan*. 2023.
-- Institute for National Defense and Security Research. *Research on Cognitive Warfare and Gray Zone Conflict*. 2024.
-- Taiwan FactCheck Center. *Annual Disinformation Trends Report*. 2024.
-- Executive Yuan. *Action Plan to Combat Disinformation*. 2022.
-- European External Action Service. "1st EEAS Report on Foreign Information Manipulation and Interference Threats." February 2023.
-
----
-
-*(English translation)*
-
-
 ---
 
 # Chapter 13: International Linkages — From Seeking Protection to Building Indispensability
@@ -3139,7 +2880,7 @@ Therefore, building social trust is not merely a matter of governance quality �
 
 Taiwan's international security strategy has long been built on two core assumptions:
 
-1. **External protection assumption**: Based on the Taiwan Relations Act and strategic interests, the United States will provide security guarantees when Taiwan faces military threats.
+1. **External protection assumption**: Based on the Taiwan Relations Act and strategic interests, the United States will provide security guarantees when Taiwan faces military threats. [149][73]
 2. **Status quo maintenance assumption**: As long as Taiwan does not take actions that alter the status quo, the international community will continue to support peace and stability across the Taiwan Strait.
 
 These two assumptions are not without basis, but as the sole foundation for a national security strategy, the risks are rising:
@@ -3176,16 +2917,16 @@ Taiwan's position in the global semiconductor industry is widely known, but its 
 
 | Indicator | Figure | Strategic Implication |
 |-----------|--------|----------------------|
-| Global market share in advanced processes (sub-7nm) | Approximately 90% | Global AI, 5G, and high-performance computing depend on Taiwan's production |
-| Global foundry market share | Approximately 60% | All major technology companies are customers |
+| Global market share in advanced processes (sub-7nm) | Approximately 90% | Global AI, 5G, and high-performance computing depend on Taiwan's production [13][14] |
+| Global foundry market share | Approximately 60% | All major technology companies are customers [14] |
 | Advanced packaging technology leadership | CoWoS, InFO, etc. | Bottleneck capability for AI chip packaging |
 | Industrial cluster effect | Complete upstream and downstream supply chain | Cannot be replicated elsewhere in the short term |
 
-TSMC's client list spans the world's most prominent technology companies — Apple, NVIDIA, AMD, Qualcomm, Broadcom, and others. This means that a disruption to Taiwan's semiconductor production capacity would directly impact the core technology industries of the United States, Europe, Japan, and South Korea.
+TSMC's client list spans the world's most prominent technology companies — Apple, NVIDIA, AMD, Qualcomm, Broadcom, and others. [15] This means that a disruption to Taiwan's semiconductor production capacity would directly impact the core technology industries of the United States, Europe, Japan, and South Korea.
 
 However, the "Silicon Shield" strategy is not without risk:
 
-1. **Diversification trend**: The U.S. CHIPS Act, the European Chips Act, and Japan's semiconductor investment programs reflect the intent of major economies to reduce their dependence on Taiwan.
+1. **Diversification trend**: The U.S. CHIPS Act, the European Chips Act, and Japan's semiconductor investment programs reflect the intent of major economies to reduce their dependence on Taiwan. [13][18]
 2. **Technological catch-up**: Samsung and Intel continue to invest in advanced process R&D. While they are unlikely to close the gap with TSMC in the short term, the long-term differential may narrow.
 3. **Wartime vulnerability**: Semiconductor manufacturing facilities are highly concentrated and extraordinarily precise, making them vulnerable to destruction in a military conflict. The deterrent effect of the "Silicon Shield" rests on a paradox — if conflict actually occurs, the shield itself may be destroyed.
 
@@ -3314,7 +3055,7 @@ Traditional multilateral organizations have erected barriers to Taiwan's partici
 
 **Technology Standards Alliances**
 - Mechanisms such as the U.S.-EU Trade and Technology Council (TTC) are shaping future technology standards and norms. As a critical technology supplier, Taiwan has grounds for inclusion in these discussions.
-- Multilateral coordination on semiconductor supply chain resilience (such as the Fab 4 — U.S., Japan, South Korea, Taiwan) provides an informal yet substantive multilateral participation platform.
+- Multilateral coordination on semiconductor supply chain resilience (such as the Fab 4 — U.S., Japan, South Korea, Taiwan) provides an informal yet substantive multilateral participation platform. [13][18]
 
 **Democratic Technology Governance**
 - Cooperative frameworks among democracies on AI governance, data protection, and digital rights are taking shape. Taiwan's technological capabilities and democratic institutions make it a natural participant.
@@ -3372,22 +3113,311 @@ Given the constraints on multilateral participation, deepening bilateral relatio
 
 ## References
 
-- Blackwill, R.D. and Harris, J.M. *War by Other Means: Geoeconomics and Statecraft*. Belknap Press, 2016.
-- Mastro, O.S. "The Taiwan Temptation: Why Beijing Might Resort to Force." *Foreign Affairs*, vol. 100, no. 4, July/August 2021.
-- Friedberg, A.L. "Getting China Wrong." Polity Press, 2022.
-- Shirk, S.L. *Overreach: How China Derailed Its Peaceful Rise*. Oxford University Press, 2023.
-- Swaine, M.D. et al. "U.S.-Taiwan Relations in a New Era." Carnegie Endowment for International Peace, 2023.
-- Lin, Cheng-yi. "The Transformation of Taiwan's Security Strategy." *Prospect Foundation Quarterly*, 2023.
-- Institute for National Defense and Security Research. *Indo-Pacific Security Situation Assessment*. 2024.
-- Ministry of Foreign Affairs. *ROC Diplomatic Yearbook*. 2024.
-- Miller, C. *Chip War: The Fight for the World's Most Critical Technology*. Scribner, 2022.
-- Beckley, M. and Brands, H. *Danger Zone: The Coming Conflict with China*. W.W. Norton, 2022.
-- Economy, E.C. *The World According to China*. Polity Press, 2022.
+[1] U.S. Department of Defense, "Military and Security Developments Involving the People's Republic of China," Annual Report to Congress (latest edition).
 
----
+[2] International Institute for Strategic Studies (IISS), *The Military Balance* (annual).
 
-*(English translation)*
+[3] RAND Corporation, "The U.S.-China Military Scorecard: Forces, Geography, and the Evolving Balance of Power, 1996-2017."
 
+[4] Center for Strategic and International Studies (CSIS), "Surveying the Experts: U.S. and Taiwan Views on China's Approach to Taiwan."
 
----
+[5] Japan Ministry of Defense, *Defense of Japan* (annual white paper).
+
+[6] Erickson, A. S., & Collins, G. B., "China's Real Blue Water Navy," *The Diplomat*.
+
+[7] Office of Naval Intelligence, "The PLA Navy: New Capabilities and Missions for the 21st Century."
+
+[8] Heginbotham, E. et al., "The U.S.-China Military Scorecard," RAND Corporation, 2015.
+
+[9] Ministry of National Defense (Taiwan), *National Defense Report* (latest edition).
+
+[10] Ocean Affairs Council, Executive Yuan, Coast Guard Administration Annual Statistical Report.
+
+[11] Wortzel, L. M., "The Chinese People's Liberation Army and Space Warfare," *Astropolitics*.
+
+[12] Yoshihara, T. & Holmes, J. R., *Red Star over the Pacific: China's Rise and the Challenge to U.S. Maritime Strategy*, Naval Institute Press.
+
+[13] Miller, C., *Chip War: The Fight for the World's Most Critical Technology*, Simon & Schuster, 2022.
+
+[14] Semiconductor Industry Association (SIA), "State of the U.S. Semiconductor Industry" (annual report).
+
+[15] TSMC Annual Reports and Investor Conference Transcripts.
+
+[16] Addison, C., *Silicon Shield: Taiwan's Protection Against Chinese Attack*, Fusion Press, 2001.
+
+[17] RAND Corporation, "Choking Off China's Access to the Future of AI."
+
+[18] Boston Consulting Group & SIA, "Strengthening the Global Semiconductor Supply Chain in an Uncertain Era," 2021.
+
+[19] ASML Annual Report and Technology Briefings.
+
+[20] Industrial Technology Research Institute (ITRI), *Taiwan Semiconductor Industry Yearbook*.
+
+[21] Ministry of Economic Affairs, Semiconductor Industry Policy White Paper.
+
+[22] National Development Council, Population Projection Report.
+
+[23] Bown, C. P., "How the United States Marched the Semiconductor Industry into Its Trade War with China," *Peterson Institute for International Economics*, 2020.
+
+[24] Khan, S. M. & Mann, A., "AI Chips: What They Are and Why They Matter," *Center for Security and Emerging Technology*, Georgetown University, 2020.
+
+[25] Hunzeker, M. A. & Lanoszka, A., *A Question of Time: Enhancing Taiwan's Conventional Deterrence Posture*, Center for Strategic and Budgetary Assessments, 2018.
+
+[26] Beckley, M., "The Emerging Military Balance in East Asia: How China's Neighbors Can Check Chinese Naval Expansion," *International Security*, 2017.
+
+[27] Cancian, M. F. et al., "The First Battle of the Next War: Wargaming a Chinese Invasion of Taiwan," CSIS, 2023.
+
+[28] Bronk, J. et al., "The Russian Air War and Ukrainian Requirements for Air Defence," RUSI, 2022.
+
+[29] Scharre, P., *Army of None: Autonomous Weapons and the Future of War*, W.W. Norton, 2018.
+
+[30] U.S. Department of Defense, "Unmanned Systems Integrated Roadmap."
+
+[31] Hammes, T. X., "Technologies Converge and Power Diffuses: The Evolution of Small, Smart, and Cheap Weapons," Cato Institute, 2016.
+
+[32] Ministry of National Defense (Taiwan), *Quadrennial Defense Review* (latest edition).
+
+[33] National Chung-Shan Institute of Science and Technology, Annual Report.
+
+[34] Easton, I., *The Chinese Invasion Threat: Taiwan's Defense and American Strategy in Asia*, Eastbridge Books, 2017.
+
+[35] Freedberg, S. J., "Swarming Drones, Missiles, and Boats: Envisioning the Taiwan Strait Battle," *Breaking Defense*.
+
+[36] Kania, E. B., "Battlefield Singularity: Artificial Intelligence, Military Revolution, and China's Future Military Power," CNAS, 2017.
+
+[37] U.S. Department of Defense, *Electromagnetic Spectrum Superiority Strategy*, 2020.
+
+[38] Jamestown Foundation, "The PLA Strategic Support Force: Update and Overview," *China Brief*.
+
+[39] Kopp, C., "Network Centric Warfare Fundamentals -- Electronic Warfare in the Information Age," *Air Power Australia*.
+
+[40] Adamy, D. L., *EW 101: A First Course in Electronic Warfare*, Artech House, 2001.
+
+[41] Adamy, D. L., *EW 104: EW Against a New Generation of Threats*, Artech House, 2015.
+
+[42] Stokes, M., "The PLA's Evolving Conventional Strategic Strike Capability," Project 2049 Institute.
+
+[43] Pietrucha, M., "Electronic Warfare: The Forgotten Discipline," *War on the Rocks*, 2015.
+
+[44] U.S. Government Accountability Office, "Electronic Warfare: DOD Actions Needed to Strengthen Management and Oversight," GAO Report.
+
+[45] Ministry of National Defense (Taiwan), Electronic Warfare Capability Development Reports (non-public; this analysis draws on open-source assessments).
+
+[46] International Telecommunication Union (ITU), "Radio Regulations" and spectrum allocation frameworks.
+
+[47] RAND Corporation, "Cyber and Electronic Warfare in the Information Age," RR-1795-A.
+
+[48] Center for a New American Security (CNAS), "Invisible Force: Electronic Warfare for the Information Age."
+
+[49] Bronk, J., "Electronic Warfare in the Grey Zone: A Primer," RUSI Occasional Paper, 2020.
+
+[50] Bureau of Energy, Ministry of Economic Affairs, Energy Statistical Annual Report.
+
+[51] CPC Corporation, Taiwan, Annual reports on LNG operations.
+
+[52] Taiwan Power Company, Power supply and demand reports.
+
+[53] International Energy Agency (IEA), *Energy Security in the Asia-Pacific*.
+
+[54] Ministry of Economic Affairs, Energy Transition White Paper.
+
+[55] Global Wind Energy Council (GWEC), *Global Offshore Wind Report*.
+
+[56] National Development Council, 2050 Net-Zero Emission Pathway Plan.
+
+[57] International Renewable Energy Agency (IRENA), *Renewable Energy Statistics*.
+
+[58] Lovins, A. B. (2022), "Resilient Energy Strategies for Island Nations," *Rocky Mountain Institute*.
+
+[59] Industrial Technology Research Institute, Microgrid technology development report.
+
+[60] SEMI, *Semiconductor Industry Power Requirements Report*.
+
+[61] Semiconductor Climate Consortium, *Energy Efficiency in Semiconductor Manufacturing*.
+
+[62] TSMC, Corporate Social Responsibility Report -- Energy Management Section.
+
+[63] U.S. Department of Energy, *Microgrid Program*.
+
+[64] Council of Agriculture, Executive Yuan, *Annual Food Supply and Demand Report* (various years).
+
+[65] Water Resources Agency, Ministry of Economic Affairs, *Taiwan Water Resources Annual Report* (various years).
+
+[66] Council of Agriculture, Executive Yuan, *Food Security Policy White Paper*, 2022.
+
+[67] Water Resources Agency, Ministry of Economic Affairs, *Overview of Taiwan Reservoir Operations*, 2024.
+
+[68] Taiwan Water Corporation, *Annual Water Supply Statistics Report* (various years).
+
+[69] Food and Agriculture Organization of the United Nations, "The State of Food Security and Nutrition in the World," FAO, 2024.
+
+[70] World Resources Institute, "Aqueduct Water Risk Atlas," WRI, 2023.
+
+[71] TSMC, "Corporate Social Responsibility Report: Water Stewardship," 2024.
+
+[72] International Desalination Association, "Desalination Yearbook," IDA, 2024.
+
+[73] Congressional Research Service, "Taiwan: Issues for Congress" (updated periodically).
+
+[74] Institute for National Defense and Security Research, *Non-Traditional Security Threat Assessment: Food and Water Resources*, 2023.
+
+[75] Ministry of Science and Technology, *Science Park Water Resource Management Special Report*, 2022.
+
+[76] Industrial Technology Research Institute, *Assessment of Taiwan Reclaimed Water Technology Development and Application*, 2023.
+
+[77] International Telecommunication Union (ITU), *Submarine Cable Map and Statistics*.
+
+[78] TeleGeography, *Submarine Cable Map*.
+
+[79] Chunghwa Telecom, Annual reports on submarine cable systems.
+
+[80] Ministry of Digital Affairs, Policy documents on communications infrastructure resilience.
+
+[81] Starlink Coverage Map and Service Documentation.
+
+[82] Feldstein, S. (2022), "The Role of Satellite Internet in Ukraine," *Carnegie Endowment for International Peace*.
+
+[83] Ministry of Transportation and Communications, Regulations Governing Amateur Radio Operations.
+
+[84] LoRa Alliance, *LoRaWAN Specification*.
+
+[85] Meshtastic Project Documentation.
+
+[86] National Communications Commission (NCC), Telecommunications infrastructure security assessment reports.
+
+[87] Bueger, C., & Liebetrau, T. (2023), "Protecting Undersea Cables: Challenges and Policy Options," *European Parliamentary Research Service*.
+
+[88] Institute for National Defense and Security Research, Research report on Taiwan's communications infrastructure security.
+
+[89] Central Bank of the Republic of China (Taiwan), Foreign Exchange Reserve Management Annual Report.
+
+[90] Financial Supervisory Commission, Financial Stability Report.
+
+[91] Bank for International Settlements (BIS), *Central Bank Digital Currencies: Financial Stability Implications*, 2023.
+
+[92] Atlantic Council, *CBDC Tracker*.
+
+[93] Chainalysis, *Cryptocurrency in Conflict Zones*, 2023.
+
+[94] Institute for Information Industry, Research report on blockchain technology applications.
+
+[95] International Monetary Fund (IMF), *Global Financial Stability Report*.
+
+[96] World Gold Council, *Central Bank Gold Reserves Statistics*.
+
+[97] Fanusie, Y., & Jin, E. (2021), "China's Digital Currency and Blockchain Technology," *Center for a New American Security*.
+
+[98] European Central Bank, *Digital Euro Project Progress Report*, 2023.
+
+[99] Brainard, L. (2022), "Digital Assets and the Future of Finance," *Federal Reserve Board*.
+
+[100] Ministry of Digital Affairs, Policy documents on digital resilience.
+
+[101] Taiwan Space Agency (TASA), Third National Space Technology Development Long-Term Plan.
+
+[102] Institute for National Defense and Security Research, Research report on space security and Taiwan's defense.
+
+[103] Union of Concerned Scientists, *UCS Satellite Database*.
+
+[104] U.S. Space Command, *Space Domain Awareness Fact Sheet*.
+
+[105] Secure World Foundation, *Global Counterspace Capabilities: An Open Source Assessment*, 2023.
+
+[106] European Space Agency (ESA), *Space Debris Environment Reports*.
+
+[107] SpaceX, *Starlink Mission Updates*.
+
+[108] Bryce Space and Technology, *State of the Satellite Industry Report*.
+
+[109] Harrison, T. et al., "Space Threat Assessment," *Center for Strategic and International Studies*, 2023.
+
+[110] National Science and Technology Council, Space technology development policy documents.
+
+[111] Japan Aerospace Exploration Agency (JAXA), *Space Security Reports*.
+
+[112] Korea Aerospace Research Institute (KARI), *Annual Reports*.
+
+[113] Weeden, B., & Samson, V. (2023), "Enhancing Space Security: Time for a New Treaty?" *Bulletin of the Atomic Scientists*.
+
+[114] Central News Agency, Compiled coverage of the FORMOSAT satellite program.
+
+[115] National Security Commission on Artificial Intelligence, "Final Report," NSCAI, March 2021.
+
+[116] U.S. Department of Defense, "DoD Responsible Artificial Intelligence Strategy and Implementation Pathway," June 2022.
+
+[117] Horowitz, M. C., "Artificial Intelligence, International Competition, and the Balance of Power," *Texas National Security Review*, vol. 1, no. 3, 2018.
+
+[118] Allen, G., "Understanding China's AI Strategy," Center for a New American Security, February 2019.
+
+[119] Nakamoto, S., "Bitcoin: A Peer-to-Peer Electronic Cash System," 2008.
+
+[120] Buterin, V., "Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform," 2014.
+
+[121] National Science and Technology Council, *Taiwan AI Action Plan 2.0*, 2023.
+
+[122] Institute for Information Industry, *Taiwan Artificial Intelligence Industry Development White Paper*, 2024.
+
+[123] Institute for National Defense and Security Research, *Annual Assessment of Defense Technology Trends*, 2024.
+
+[124] NIST, "Post-Quantum Cryptography Standardization," National Institute of Standards and Technology, 2024.
+
+[125] Shor, P. W., "Algorithms for Quantum Computation: Discrete Logarithms and Factoring," *Proceedings of the 35th Annual Symposium on Foundations of Computer Science*, 1994.
+
+[126] National Security Agency, "Quantum Computing and Post-Quantum Cryptography FAQ," NSA Cybersecurity, 2021.
+
+[127] European Telecommunications Standards Institute, "Quantum Safe Cryptography and Security," ETSI White Paper No. 8, 2015.
+
+[128] Chen, L. et al., "Report on Post-Quantum Cryptography," NISTIR 8105, National Institute of Standards and Technology, 2016.
+
+[129] Mosca, M., "Cybersecurity in an Era with Quantum Computers: Will We Be Ready?" *IEEE Security & Privacy*, vol. 16, no. 5, 2018, pp. 38-41.
+
+[130] White House, "National Security Memorandum on Promoting United States Leadership in Quantum Computing While Mitigating Risks to Vulnerable Cryptographic Systems (NSM-10)," May 2022.
+
+[131] Liao, S. K. et al., "Satellite-to-ground quantum key distribution," *Nature*, vol. 549, 2017, pp. 43-47.
+
+[132] Executive Yuan Department of Cyber Security, *National Cybersecurity Development Plan*, 2021.
+
+[133] Academia Sinica, *Recommendations on Quantum Science and Technology Research and Development*, 2022.
+
+[134] NATO Strategic Communications Centre of Excellence, "Cognitive Warfare," Riga, 2021.
+
+[135] Rid, T., *Active Measures: The Secret History of Disinformation and Political Warfare*, Farrar, Straus and Giroux, 2020.
+
+[136] Singer, P. W. and Brooking, E. T., *LikeWar: The Weaponization of Social Media*, Eamon Dolan Books, 2018.
+
+[137] Bradshaw, S. and Howard, P. N., "The Global Disinformation Order: 2019 Global Inventory of Organised Social Media Manipulation," Oxford Internet Institute, 2019.
+
+[138] Pamment, J., "The EU's Role in Fighting Disinformation: Taking Back the Initiative," Carnegie Endowment for International Peace, 2020.
+
+[139] Helmus, T. C. et al., "Russian Social Media Influence: Understanding Russian Propaganda in Eastern Europe," RAND Corporation, 2018.
+
+[140] Doublethink Lab, *Research Report on Chinese Information Operations Against Taiwan*, 2023.
+
+[141] Institute for National Defense and Security Research, *Research on Cognitive Warfare and Gray Zone Conflict*, 2024.
+
+[142] Taiwan FactCheck Center, *Annual Disinformation Trends Report*, 2024.
+
+[143] Executive Yuan, *Action Plan to Combat Disinformation*, 2022.
+
+[144] European External Action Service, "1st EEAS Report on Foreign Information Manipulation and Interference Threats," February 2023.
+
+[145] Blackwill, R. D. and Harris, J. M., *War by Other Means: Geoeconomics and Statecraft*, Belknap Press, 2016.
+
+[146] Mastro, O. S., "The Taiwan Temptation: Why Beijing Might Resort to Force," *Foreign Affairs*, vol. 100, no. 4, July/August 2021.
+
+[147] Friedberg, A. L., *Getting China Wrong*, Polity Press, 2022.
+
+[148] Shirk, S. L., *Overreach: How China Derailed Its Peaceful Rise*, Oxford University Press, 2023.
+
+[149] Swaine, M. D. et al., "U.S.-Taiwan Relations in a New Era," Carnegie Endowment for International Peace, 2023.
+
+[150] Lin, Cheng-yi, "The Transformation of Taiwan's Security Strategy," *Prospect Foundation Quarterly*, 2023.
+
+[151] Institute for National Defense and Security Research, *Indo-Pacific Security Situation Assessment*, 2024.
+
+[152] Beckley, M. and Brands, H., *Danger Zone: The Coming Conflict with China*, W.W. Norton, 2022.
+
+[153] Economy, E. C., *The World According to China*, Polity Press, 2022.
+
+[154] Ministry of Foreign Affairs, *ROC Diplomatic Yearbook*, 2024.
 

@@ -1,15 +1,14 @@
 # Taiwan's Multi-Domain National Security Strategy: A Comprehensive Analysis
-
-**Language: English** | [繁體中文](README-zh-TW.md)
+# 台灣多領域國家安全戰略：全面分析
 
 ---
 
-## Read the Full Analysis
+## Read the Full Analysis / 閱讀全文
 
-| Language | Document |
-|----------|----------|
-| English | **[Full Text (EN)](docs/full-text-en.md)** |
-| 繁體中文 | **[全文閱讀（ZH-TW）](docs/full-text-zh-TW.md)** |
+| Language 語言 | Document 文件 |
+|:---:|:---:|
+| English | **[Full Text (EN)](docs/en/full-text.md)** |
+| 繁體中文 | **[全文閱讀（ZH-TW）](docs/zh-TW/full-text.md)** |
 
 ---
 
@@ -19,107 +18,119 @@ Taiwan's national security is fundamentally a systems engineering challenge. In 
 
 Employing a systems engineering methodology grounded in interdependency analysis, nonlinear risk modeling, and adversary rationality assumptions, this study examines how failures in one domain can cascade into others, identifies structural vulnerabilities arising from geographic concentration, energy dependence, and communications fragility, and proposes policy recommendations organized by short-term (1--2 years), medium-term (3--5 years), and long-term (5--10 years) horizons. The core strategic principles -- antifragile architecture, multi-domain redundancy, and cost-imposition strategy -- aim to ensure that any coercive action against Taiwan faces prohibitively high costs across the political, military, and economic dimensions.
 
----
+## 摘要
 
-## Chapters Overview
+台灣的國家安全本質上是一個系統工程問題。在多域競爭時代，安全不再取決於任何單一防線的堅固程度，而是整個系統在面對多重、同時、跨域壓力時的持續運作能力。本專案提出一套全面性分析框架，將台灣的國家安全視為由十三個相互連動的領域構成的複雜適應系統——從地緣戰略位置、半導體槓桿，到認知防禦與國際連結。
 
-### I. Overview
-
-| Ch. | Domain | Description |
-|:---:|--------|-------------|
-| 00 | Executive Summary | Analytical framework, structural risk overview, thirteen-domain summary, core strategic principles, and methodology. |
-
-### II. Strategic Foundation
-
-| Ch. | Domain | Description |
-|:---:|--------|-------------|
-| 01 | Geostrategic Position | First Island Chain node value, Bashi Channel control, strategic waterways, and Taiwan's role as a regional public good. |
-| 02 | Semiconductor Leverage | Advanced node irreplaceability, geographic concentration of fabs, talent bottlenecks, and strategic interdependence networks. |
-
-### III. Military Defense
-
-| Ch. | Domain | Description |
-|:---:|--------|-------------|
-| 03 | Asymmetric Defense | Cost-exchange ratio logic, submarine denial, unmanned systems, precision strike, and indigenous mass production. |
-| 04 | Electromagnetic Spectrum Warfare | Spectrum dominance, anti-jamming communications, electronic countermeasure systems, and EW as the opening move of modern conflict. |
-
-### IV. Critical Infrastructure
-
-| Ch. | Domain | Description |
-|:---:|--------|-------------|
-| 05 | Energy Structure | Import dependence, dangerously low LNG reserves, distributed microgrids, and renewable energy transition. |
-| 06 | Food & Water Security | Food self-sufficiency, water resource constraints, semiconductor ultrapure water demands, and critical infrastructure protection. |
-| 07 | Communications Resilience | Submarine cable vulnerability, LEO satellite backup, high-frequency radio, and community-level mesh networks. |
-| 08 | Financial Resilience | Sanctions defense, cross-border payment backup, digital asset strategies, and blockchain-based data preservation. |
-
-### V. Technology Frontiers
-
-| Ch. | Domain | Description |
-|:---:|--------|-------------|
-| 09 | Space Capabilities | Indigenous small satellite constellation, space situational awareness, and space-based communications integration. |
-| 10 | AI & Distributed Computing | Intelligence fusion, autonomous defense, distributed computing architectures, and blockchain-AI integration for resilience. |
-| 11 | Quantum Security | Post-quantum cryptography migration, quantum key distribution pilots, and long-term data confidentiality protection. |
-
-### VI. Society & International
-
-| Ch. | Domain | Description |
-|:---:|--------|-------------|
-| 12 | Cognitive Defense | Countering disinformation and deepfake threats, media literacy, institutional transparency, and social trust infrastructure. |
-| 13 | International Linkages | Shifting from seeking protection to building indispensability through technological interdependence, intelligence cooperation, and democratic values. |
+本研究採用系統工程方法論，以連動性分析、非線性風險建模與對手理性假設為基礎，探討單一領域的失效如何向其他領域擴散，識別源於地理集中、能源依賴與通訊脆弱性的結構性弱點，並提出按短期（1-2 年）、中期（3-5 年）與長期（5-10 年）時間框架分類的政策建議。核心戰略原則——反脆弱架構、多域備援與成本強加策略——旨在確保任何針對台灣的強制行動在政治、軍事與經濟層面都面臨極高成本。
 
 ---
 
-## Data & References
+## Chapters Overview / 章節總覽
+
+### I. Overview / 一、總論
+
+| Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
+|:---:|--------|-------------|------|
+| 00 | Executive Summary 執行摘要 | Analytical framework, structural risk overview, thirteen-domain summary, core strategic principles, and methodology. | 分析框架、結構性風險概述、十三域總覽、核心戰略原則與方法論。 |
+
+### II. Strategic Foundation / 二、戰略基礎
+
+| Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
+|:---:|--------|-------------|------|
+| 01 | Geostrategic Position 地緣戰略位置 | First Island Chain node value, Bashi Channel control, strategic waterways, and Taiwan's role as a regional public good. | 第一島鏈節點價值、巴士海峽控制、戰略水道，以及台灣作為區域公共財的角色定位。 |
+| 02 | Semiconductor Leverage 半導體槓桿 | Advanced node irreplaceability, geographic concentration of fabs, talent bottlenecks, and strategic interdependence networks. | 先進製程的不可替代性、晶圓廠地理集中風險、人才瓶頸與戰略互依網絡建構。 |
+
+### III. Military Defense / 三、軍事防衛
+
+| Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
+|:---:|--------|-------------|------|
+| 03 | Asymmetric Defense 不對稱防衛 | Cost-exchange ratio logic, submarine denial, unmanned systems, precision strike, and indigenous mass production. | 成本交換比邏輯、潛艦拒止、無人系統、精準打擊與本土量產能力。 |
+| 04 | Electromagnetic Spectrum Warfare 電磁頻譜戰 | Spectrum dominance, anti-jamming communications, electronic countermeasure systems, and EW as the opening move of modern conflict. | 頻譜控制權、抗干擾通訊、電子反制系統，以及電子戰作為現代衝突的先行戰場。 |
+
+### IV. Critical Infrastructure / 四、關鍵基礎設施
+
+| Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
+|:---:|--------|-------------|------|
+| 05 | Energy Structure 能源結構 | Import dependence, dangerously low LNG reserves, distributed microgrids, and renewable energy transition. | 進口依賴、天然氣儲備嚴重不足、分散式微電網與再生能源轉型。 |
+| 06 | Food & Water Security 糧食與水資源安全 | Food self-sufficiency, water resource constraints, semiconductor ultrapure water demands, and critical infrastructure protection. | 糧食自給率、水資源結構制約、半導體超純水需求與關鍵基礎設施保護。 |
+| 07 | Communications Resilience 通訊韌性 | Submarine cable vulnerability, LEO satellite backup, high-frequency radio, and community-level mesh networks. | 海底電纜脆弱性、低軌道衛星備援、高頻無線電與社區級網狀網路。 |
+| 08 | Financial Resilience 金融韌性 | Sanctions defense, cross-border payment backup, digital asset strategies, and blockchain-based data preservation. | 制裁防禦、跨境支付備援、數位資產策略與區塊鏈數據保存。 |
+
+### V. Technology Frontiers / 五、科技前沿
+
+| Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
+|:---:|--------|-------------|------|
+| 09 | Space Capabilities 太空能力 | Indigenous small satellite constellation, space situational awareness, and space-based communications integration. | 自主小型衛星星座、太空態勢感知與太空通訊整合。 |
+| 10 | AI & Distributed Computing 人工智慧與分散式運算 | Intelligence fusion, autonomous defense, distributed computing architectures, and blockchain-AI integration for resilience. | 情報融合、自主防禦、分散式運算架構與區塊鏈-AI 整合韌性。 |
+| 11 | Quantum Security 量子安全 | Post-quantum cryptography migration, quantum key distribution pilots, and long-term data confidentiality protection. | 後量子密碼學遷移、量子密鑰分發試驗計畫與長期數據機密性保護。 |
+
+### VI. Society & International / 六、社會與國際
+
+| Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
+|:---:|--------|-------------|------|
+| 12 | Cognitive Defense 認知防禦 | Countering disinformation and deepfake threats, media literacy, institutional transparency, and social trust infrastructure. | 反制假訊息與深偽威脅、媒體素養、制度透明度與社會信任基礎設施。 |
+| 13 | International Linkages 國際連結 | Shifting from seeking protection to building indispensability through technological interdependence, intelligence cooperation, and democratic values. | 從尋求保護到建構不可或缺性——透過技術互依、情報合作與民主價值實現戰略轉型。 |
+
+---
+
+## Data & References / 數據與參考文獻
 
 This project maintains a structured data layer to support reproducibility and verification of all analytical claims.
 
-| Resource | Path | Description |
+本專案維護結構化數據層，以支持所有分析論述的可重現性與可驗證性。
+
+| Resource 資源 | Path 路徑 | Description 說明 |
 |----------|------|-------------|
-| Statistics | `data/statistics/` | Per-chapter quantitative data (JSON). Each entry includes metric, value, unit, date, and source URL. |
-| Timelines | `data/timelines/` | Historical event CSVs covering military incidents, semiconductor milestones, and infrastructure events. |
-| Comparisons | `data/comparisons/` | Cross-country comparative data on defense spending, semiconductor market share, and energy dependency. |
-| Bibliography | `references/bibliography.json` | Master bibliography with 100+ annotated references. |
-| Source Registry | `references/source-registry.json` | Centralized registry mapping source IDs to full bibliographic entries. |
-| Per-chapter References | `references/per-chapter/` | Annotated reference lists for each chapter. |
-| Verification Reports | `docs/verification-report-en.md` | Data verification methodology and audit results. |
+| Statistics 統計數據 | `data/statistics/` | Per-chapter quantitative data (JSON). 各章節量化數據。 |
+| Timelines 時間軸 | `data/timelines/` | Historical event CSVs. 歷史事件時間軸。 |
+| Comparisons 跨國比較 | `data/comparisons/` | Cross-country comparative data. 跨國比較數據。 |
+| Bibliography 參考書目 | `references/bibliography.json` | Master bibliography with 100+ references. 100+ 筆註釋式參考文獻。 |
+| Source Registry 來源登記簿 | `references/source-registry.json` | Source ID to bibliographic entry mapping. 來源 ID 對應完整書目條目。 |
+| Per-chapter References 章節參考 | `references/per-chapter/` | Annotated reference lists per chapter. 各章節獨立參考文獻列表。 |
+| Verification Reports 驗證報告 | `docs/en/verification-report.md` | Data verification methodology and audit results. 資料驗證方法論與審計結果。 |
 
 All statistics files conform to the validation schema at `data/schemas/statistics-schema.json`.
 
+所有統計檔案均符合 `data/schemas/statistics-schema.json` 驗證綱要。
+
 ---
 
-## Project Structure
+## Project Structure / 專案結構
 
 ```
 taiwan-national-strategy/
 ├── docs/
-│   ├── full-text-en.md                 # Full analysis (English)
-│   ├── full-text-zh-TW.md             # 全文分析（繁體中文）
-│   ├── verification-report-en.md       # Data verification report (EN)
-│   └── verification-report-zh-TW.md    # 資料驗證報告（ZH-TW）
+│   ├── en/
+│   │   ├── full-text.md                  # Full analysis (English)
+│   │   └── verification-report.md        # Data verification report (EN)
+│   └── zh-TW/
+│       ├── full-text.md                  # 全文分析（繁體中文）
+│       └── verification-report.md        # 資料驗證報告（ZH-TW）
 ├── data/
 │   ├── schemas/
-│   │   └── statistics-schema.json      # JSON Schema for data validation
-│   ├── statistics/                     # Per-chapter quantitative data (JSON)
-│   ├── timelines/                      # Historical event timelines (CSV)
-│   └── comparisons/                    # Cross-country comparisons (CSV)
+│   │   └── statistics-schema.json        # JSON Schema for data validation
+│   ├── statistics/                       # Per-chapter quantitative data (JSON)
+│   ├── timelines/                        # Historical event timelines (CSV)
+│   └── comparisons/                      # Cross-country comparisons (CSV)
 ├── references/
-│   ├── bibliography.json               # Master bibliography
-│   ├── source-registry.json            # Source ID registry
-│   └── per-chapter/                    # Per-chapter reference lists
+│   ├── bibliography.json                 # Master bibliography
+│   ├── source-registry.json              # Source ID registry
+│   └── per-chapter/                      # Per-chapter reference lists
 ├── CHANGELOG.md
 ├── CITATION.cff
 ├── CONTRIBUTING.md
-├── CONTRIBUTING-zh-TW.md
 ├── LICENSE
-├── README.md
-└── README-zh-TW.md
+└── README.md
 ```
 
 ---
 
-## How to Cite
+## How to Cite / 引用方式
 
 If you use or reference this analysis, please cite it as follows:
+
+若引用或參考本分析，請依以下格式標註：
 
 ```
 djchrisssssss. (2026). Taiwan National Strategy: A Multi-Domain Resilience Framework.
@@ -127,6 +138,8 @@ https://github.com/djchrisssssss/taiwan-national-strategy
 ```
 
 A machine-readable citation is available in [CITATION.cff](CITATION.cff).
+
+機器可讀引用格式請參閱 [CITATION.cff](CITATION.cff)。
 
 **BibTeX:**
 
@@ -142,22 +155,28 @@ A machine-readable citation is available in [CITATION.cff](CITATION.cff).
 
 ---
 
-## Contributing
+## Contributing / 貢獻指南
 
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on reporting errors, updating data, improving translations, and adding new analysis. All contributions must follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
 
-A Traditional Chinese version of the contribution guide is available at [CONTRIBUTING-zh-TW.md](CONTRIBUTING-zh-TW.md).
+歡迎各界貢獻。請閱讀 [CONTRIBUTING.md](CONTRIBUTING.md) 以了解錯誤回報、數據更新、翻譯改善與新增分析的相關規範。所有貢獻須遵循 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) 規範。
 
 ---
 
-## License
+## License / 授權條款
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
+本著作採用[創用 CC 姓名標示 4.0 國際授權條款 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.zh-Hant) 授權。
+
 You are free to share and adapt this material for any purpose, including commercial use, provided you give appropriate credit and indicate if changes were made. See [LICENSE](LICENSE) for full details.
+
+您可以自由分享與改作本著作，包括商業用途，但須給予適當表彰並標示是否進行變更。完整條款請參閱 [LICENSE](LICENSE)。
 
 ---
 
-## Disclaimer
+## Disclaimer / 免責聲明
 
 This project constitutes independent academic analysis and does not represent the official policy position of any government, institution, or organization. The analysis is based exclusively on open-source information and is intended to contribute to public understanding of complex strategic challenges. It is not intended as advocacy for any particular policy outcome or political position. All data points are sourced and verifiable; readers are encouraged to consult the referenced materials and form their own assessments.
+
+本專案為獨立學術分析，不代表任何政府、機構或組織的官方政策立場。所有分析均基於公開來源資訊，旨在促進公眾對複雜戰略議題的理解，而非倡議任何特定政策結果或政治立場。所有數據均已標註來源且可供查驗；讀者應自行參閱引用文獻並形成獨立判斷。
