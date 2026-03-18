@@ -953,7 +953,7 @@ Overview of Taiwan's energy supply structure:
 | Petroleum | ~44% | 99.9% | Middle East (Saudi Arabia, Kuwait), United States [50] |
 | Natural gas (LNG) | ~19% | 97%+ | Australia, Qatar, United States, Russia [50][51] |
 | Coal | ~30% | 99.9% | Australia, Indonesia, Russia [50] |
-| Nuclear | Being phased out | Uranium fuel imported | Multiple countries |
+| Nuclear | Being phased out (next-gen technology under evaluation) | Uranium fuel imported | Multiple countries |
 | Renewables | ~6-8% | Domestically produced | Domestic [50] |
 
 This structure presents the following critical vulnerabilities:
@@ -1058,7 +1058,109 @@ Solar PV possesses unique advantages within the energy resilience framework:
 
 ---
 
-## 5.4 Microgrids and Distributed Energy
+## 5.4 Nuclear Energy as an Energy Security Strategy Option
+
+> **Scope Statement**: This section is a purely strategic energy security discussion, focusing on the potential role of next-generation nuclear technology within the national resilience architecture. It does not address Taiwan's existing nuclear plants (Jinshan, Kuosheng, Maanshan, or Lungmen), nor does it make value judgments on current energy policy direction.
+
+### Strategic Characteristics of Nuclear Energy
+
+From an energy security perspective, nuclear energy possesses several unique strategic attributes that warrant systematic evaluation within an island economy's resilience framework:
+
+| Strategic Attribute | Description | National Security Resilience Significance |
+|---|---|---|
+| Baseload stability | Capacity factor typically > 90%, uninterrupted generation around the clock | Weather-independent, compensates for renewable intermittency |
+| Energy density | Energy density per unit of fuel is millions of times that of natural gas | Minimal fuel sustains long-term operation; extremely high blockade resilience |
+| Small land footprint | Land required for equivalent generation far less than wind or solar | Suited to land-scarce island environments |
+| Long fuel cycle | A single fuel loading can sustain 18-24 months of operation | No dependence on continuous imports during a blockade scenario |
+| Zero carbon emissions | No greenhouse gas emissions during operation | Simultaneously meets energy security and net-zero targets |
+
+### Next-Generation Nuclear Technology Overview
+
+Traditional large-scale nuclear power plants (GW-class) face challenges including high construction costs, long build times, and low social acceptance. Next-generation Small Modular Reactors (SMRs) and Generation IV nuclear technologies are changing this landscape. [156]
+
+**Small Modular Reactors (SMRs)**
+
+SMRs are defined as nuclear reactors with electrical output below 300 MWe, designed with modular architecture that allows factory prefabrication and on-site assembly. [156]
+
+| Attribute | Traditional Large NPP | SMR |
+|---|---|---|
+| Electrical output | 1,000-1,600 MWe | 10-300 MWe |
+| Construction model | On-site construction | Factory prefabrication + on-site assembly |
+| Construction timeline | 10-15 years | 3-7 years (projected) |
+| Capital investment | Tens to hundreds of billions USD | Hundreds of millions to several billion USD |
+| Safety design | Active safety systems | Passive safety systems (no external power or human intervention required) |
+| Deployment flexibility | Fixed large-scale sites | Adaptable to various sites; some designs can be underground |
+
+**Generation IV Reactor Technologies**
+
+| Technology Type | Features | Development Stage |
+|---|---|---|
+| High-Temperature Gas-Cooled Reactor (HTGR) | High temperature tolerance, inherent safety, industrial heat supply | China has completed demonstration (HTR-PM) |
+| Lead-Cooled Fast Reactor (LFR) | Compact design, natural circulation cooling, long-life fuel | Under development in Europe and Russia |
+| Molten Salt Reactor (MSR) | Atmospheric pressure operation, thorium fuel capability, waste reduction | Under development in multiple countries |
+| Sodium-Cooled Fast Reactor (SFR) | Spent fuel utilization, closed fuel cycle | TerraPower (US) under construction |
+
+### International Development Trends
+
+As of 2025, over 80 SMR designs are at various stages of development globally. [156] Progress in key countries:
+
+| Country | Progress | Projected Commercial Operation |
+|---|---|---|
+| United States | NuScale VOYGR received NRC design certification; TerraPower Natrium broke ground [157] | 2029-2030 |
+| United Kingdom | Great British Nuclear program selected SMR technology; Rolls-Royce SMR under review | Early 2030s |
+| Canada | OPG constructing BWRX-300 (GE-Hitachi); CNSC completed multiple design reviews [159] | 2029 |
+| South Korea | KAERI developed SMART reactor with standard design approval | Cooperating with Saudi Arabia |
+| Japan | Restarting existing units and evaluating next-generation designs | Policy pivot underway |
+| China | HTR-PM demonstration reactor connected to grid; ACP100 (Linglong One) under construction [156] | 2026 |
+
+### Resilience Comparative Analysis
+
+Comparing nuclear (SMR) with other energy types across resilience dimensions:
+
+| Resilience Dimension | Natural Gas | Offshore Wind | Solar PV | SMR Nuclear |
+|---|---|---|---|---|
+| Blockade tolerance | Extremely low (7-11 days) | High (domestic) | High (domestic) | Extremely high (18-24 months) |
+| Baseload capability | High | Low (intermittent) | Low (intermittent) | Extremely high (>90% capacity factor) |
+| Land requirements | Medium | High | High | Low |
+| Energy storage needs | None | High | High | None |
+| Carbon emissions | Medium | Zero | Zero | Zero |
+| Construction timeline | 3-5 years | 5-8 years | 1-3 years | 3-7 years (SMR projected) |
+| Wartime maintenance | Requires continuous fuel supply | Offshore maintenance difficult | Distributed, high resilience | Long-cycle autonomous operation |
+
+### Applicability Considerations for Taiwan
+
+From a technical perspective, SMRs present several potential alignment points with Taiwan's energy security architecture:
+
+1. **Blockade resilience**: A single fuel loading sustains 18-24 months of operation, far exceeding LNG's 7-11 day reserve. Under a maritime blockade scenario, nuclear energy is the only large-scale baseload source that does not require continuous imports.
+2. **Land efficiency**: Taiwan has limited land area (~36,000 km²). SMRs require far less land than equivalent-capacity wind or solar installations.
+3. **Grid compatibility**: The modular nature of SMRs (50-300 MWe per unit) suits Taiwan's grid scale, avoiding system-wide impacts from a single large unit trip.
+4. **Seawater cooling**: An island environment is naturally suited for nuclear facilities requiring cooling water sources.
+5. **Semiconductor industry support**: Provides stable baseload for the ultra-high power quality demands of TSMC and similar firms, reinforcing the semiconductor power resilience framework described in Section 5.6.
+
+### Challenges and Limitations
+
+Any evaluation of a nuclear energy strategy direction must confront the following challenges:
+
+| Challenge Area | Description | Possible Response Directions |
+|---|---|---|
+| Social acceptance | Taiwan's society is deeply divided on nuclear energy | Fact-based civic dialogue; distinguish next-gen technology from existing plant issues |
+| Nuclear waste management | Final disposal of high-level waste remains a global challenge | Gen IV technologies can significantly reduce waste volume and half-life; international cooperative disposal solutions |
+| Construction timeline | SMR commercialization timelines still carry uncertainty | Advance technical assessments and regulatory preparation to preserve future decision options |
+| Regulatory framework | Taiwan's current nuclear regulations require adaptation for next-gen technology | Reference US NRC, Canada CNSC SMR review frameworks [157] |
+| Seismic risk | Taiwan is located on the Pacific Ring of Fire | SMR passive safety designs offer higher seismic resilience; site selection requires rigorous geological assessment |
+| Non-proliferation concerns | Constraints from the international nuclear non-proliferation regime | Some SMR designs use low-enriched uranium (LEU), compliant with non-proliferation requirements |
+
+### Cross-Chapter Linkages
+
+- **Chapter 2 (Semiconductors)**: Stable baseload power directly supports the ultra-high power quality demands of semiconductor manufacturing.
+- **Section 5.6 (Semiconductor Power Demand)**: SMR could serve as a long-term option for dedicated technology park power supply, reinforcing the third-tier microgrid integration architecture.
+- **Chapter 9 (Space Capabilities)**: Some advanced SMR technologies could provide stable power for the ground segment of future space infrastructure.
+- **Chapter 11 (Quantum Security)**: The enormous power demands of quantum computing facilities may require nuclear baseload support.
+- **Chapter 13 (International Linkages)**: SMR technology cooperation could become a new domain for deepening Taiwan's technological ties with the US, Japan, Canada, and other partners.
+
+---
+
+## 5.5 Microgrids and Distributed Energy
 
 ### Conceptual Framework
 
@@ -1108,7 +1210,7 @@ A typical resilience microgrid should include:
 
 ---
 
-## 5.5 Semiconductor Industry Power Requirements
+## 5.6 Semiconductor Industry Power Requirements
 
 ### Special Considerations
 
@@ -1157,7 +1259,7 @@ For technology park power resilience, a multi-layered defense strategy is recomm
 
 ---
 
-## 5.6 Policy Recommendations
+## 5.7 Policy Recommendations
 
 **Short-Term Measures (1-2 Years)**
 
@@ -1180,7 +1282,9 @@ For technology park power resilience, a multi-layered defense strategy is recomm
 11. **Hydrogen energy development**: Develop green hydrogen production and storage technology as a long-duration energy storage and industrial decarbonization solution.
 12. **Island-wide microgrid coverage**: Progressively achieve microgrid coverage for major communities and critical facilities across the entire island.
 13. **Technology park energy autonomy**: Promote technology parks to achieve 50% or greater energy self-sufficiency.
-14. **Small Modular Reactor (SMR) assessment**: Evaluate the potential contribution of next-generation small modular reactor technology to energy security and net-zero emissions targets.
+14. **Next-generation nuclear technology strategic assessment**: Establish a cross-ministerial nuclear technology assessment committee to systematically study the potential contributions of SMR and Generation IV reactor technologies across three dimensions: energy security, net-zero emissions, and blockade resilience. This is a strategic direction study that does not presuppose conclusions and does not involve existing nuclear plant issues. [156][157]
+15. **SMR regulatory framework preliminary study**: Drawing on the SMR review experience of the US NRC and Canada's CNSC, assess the adaptation requirements of Taiwan's nuclear regulatory framework to preserve technical options for future policy decisions.
+16. **International nuclear technology cooperation**: Explore cooperation frameworks with the United States, Canada, Japan, and other countries in SMR technology R&D, safety standards, and talent development, incorporating nuclear technology cooperation into existing bilateral science and technology cooperation mechanisms.
 
 ---
 
@@ -3420,4 +3524,14 @@ Given the constraints on multilateral participation, deepening bilateral relatio
 [153] Economy, E. C., *The World According to China*, Polity Press, 2022.
 
 [154] Ministry of Foreign Affairs, *ROC Diplomatic Yearbook*, 2024.
+
+[155] International Atomic Energy Agency (IAEA), *Advances in Small Modular Reactor Technology Developments*, IAEA SMR Booklet (updated annually). https://aris.iaea.org/Publications/SMR_booklet.html
+
+[156] U.S. Nuclear Regulatory Commission (NRC), "Advanced Reactors (non-LWR) — Design Certification and Licensing," including NuScale VOYGR Standard Design Approval. https://www.nrc.gov/reactors/new-reactors/smr.html
+
+[157] World Nuclear Association (WNA), *Small Nuclear Power Reactors* (updated regularly). https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/small-nuclear-power-reactors
+
+[158] Canadian Nuclear Safety Commission (CNSC), "Pre-licensing Vendor Design Reviews for SMRs." https://www.nuclearsafety.gc.ca/eng/reactors/power-plants/pre-licensing-vendor-design-review/
+
+[159] International Energy Agency (IEA), *Nuclear Power in a Clean Energy System*, IEA Special Report.
 

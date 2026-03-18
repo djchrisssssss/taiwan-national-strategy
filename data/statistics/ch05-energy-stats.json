@@ -198,6 +198,51 @@
       "context": "Taiwan's total electricity consumption has grown steadily, reaching approximately 270-280 TWh annually. Growth is driven primarily by semiconductor manufacturing expansion and data center construction.",
       "verified": true,
       "verification_note": "Taipower and BOE publish annual consumption figures"
+    },
+    {
+      "id": "ch05-014",
+      "metric": "Global SMR designs under development",
+      "value": 80,
+      "unit": "reactor designs (approximate)",
+      "date": "2024",
+      "source": {
+        "name": "International Atomic Energy Agency (IAEA), Advances in SMR Technology Developments",
+        "url": "https://aris.iaea.org/Publications/SMR_booklet.html",
+        "accessed": "2026-03-18"
+      },
+      "context": "The IAEA tracks over 80 SMR designs at various stages of development worldwide. These range from light-water designs (NuScale, BWRX-300) to advanced concepts (molten salt, lead-cooled, high-temperature gas-cooled). Key milestones include NuScale receiving US NRC design certification in 2023 and China's HTR-PM demonstration reactor connecting to the grid.",
+      "verified": true,
+      "verification_note": "IAEA SMR Booklet updated annually; exact count varies by inclusion criteria"
+    },
+    {
+      "id": "ch05-015",
+      "metric": "Typical SMR electrical output range",
+      "value": 300,
+      "unit": "MWe (upper bound; range is 10-300 MWe)",
+      "date": "2024",
+      "source": {
+        "name": "World Nuclear Association (WNA), Small Nuclear Power Reactors",
+        "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/small-nuclear-power-reactors",
+        "accessed": "2026-03-18"
+      },
+      "context": "SMRs are defined by the IAEA as reactors with electrical output below 300 MWe. Designs range from micro-reactors (1-10 MWe, suitable for remote locations) to mid-range SMRs (50-300 MWe, suitable for grid-scale power). NuScale VOYGR is 77 MWe per module (up to 12 modules = 924 MWe). GE-Hitachi BWRX-300 is 300 MWe. The modular nature allows scaling to match grid requirements.",
+      "verified": true,
+      "verification_note": "IAEA and WNA definitions consistent; individual design specifications from vendor publications"
+    },
+    {
+      "id": "ch05-016",
+      "metric": "Nuclear fuel loading cycle duration (typical SMR)",
+      "value": 24,
+      "unit": "months (approximate, varies by design)",
+      "date": "2024",
+      "source": {
+        "name": "IAEA / Vendor design specifications",
+        "url": "https://aris.iaea.org/",
+        "accessed": "2026-03-18"
+      },
+      "context": "Most SMR designs feature fuel cycles of 18-24 months between refueling, with some advanced designs (e.g., micro-reactors) extending to 10-20 years without refueling. This contrasts sharply with Taiwan's LNG reserve of 7-11 days, making nuclear fuel the most blockade-resilient energy source by a wide margin.",
+      "verified": true,
+      "verification_note": "Fuel cycle durations from vendor specifications; varies significantly by design type"
     }
   ]
 }
