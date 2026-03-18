@@ -4,17 +4,19 @@
 
 | Field | Value |
 |-------|-------|
-| Report Date | 2026-03-16 |
-| Data Audit Date | 2025-07-15 (bibliography); 2026-03-16 (statistics) |
-| Total Sources | 95 |
-| Total Data Points | 140 |
-| Chapters Covered | 13 (Ch01--Ch12 + Supplement S1) |
+| Report Date | 2026-03-19 |
+| Data Audit Date | 2025-07-15 (bibliography); 2026-03-19 (statistics) |
+| Total Sources | 115 |
+| Total Data Points | 149 |
+| Chapters Covered | 14 (Ch01--Ch14) |
 
 ---
 
 ## 1. Executive Summary
 
-This report documents the verification methodology and results for all quantitative data points used in the Taiwan National Strategy project. The project draws on 95 unique sources across 13 chapters and one supplemental section, yielding 140 individually sourced statistics. All 95 sources in the master bibliography have been catalogued and assigned a verification status. All 140 data points carry a `verified: true` flag with an accompanying verification note.
+This report documents the verification methodology and results for all quantitative data points used in the Taiwan National Strategy project. The project draws on 115 unique sources across 14 chapters, yielding 149 individually sourced statistics. All sources in the master bibliography have been catalogued and assigned a verification status. All data points carry a `verified: true` flag with an accompanying verification note.
+
+> **Note (2026-03-19)**: Chapter 14 was reorganized from "Forward Strategy" (a catch-all chapter) into thematically integrated content. Fusion and energy transmission data moved to Chapter 5; blockchain infrastructure data moved to Chapter 8; UAP investigation data remains in Chapter 14 (now titled "Non-Traditional Security Threats"). Statistics IDs were renumbered accordingly.
 
 Key findings:
 

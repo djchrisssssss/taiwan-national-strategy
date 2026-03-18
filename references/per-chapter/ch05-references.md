@@ -36,6 +36,27 @@
 | ch05-015 | Typical SMR electrical output range | [src-058] |
 | ch05-016 | Nuclear fuel loading cycle duration (typical SMR) | [src-056] |
 
+13. **[src-096]** ITER Organization, "What is ITER?" https://www.iter.org/. Accessed: 2026-03-18.
+14. **[src-097]** Lawrence Livermore National Laboratory (LLNL), National Ignition Facility, "Achieving Fusion Ignition." https://lasers.llnl.gov/. Accessed: 2026-03-18.
+15. **[src-098]** Fusion Industry Association (FIA), *The Global Fusion Industry in 2024*, Annual Survey Report. https://www.fusionindustryassociation.org/. Accessed: 2026-03-18.
+16. **[src-099]** Commonwealth Fusion Systems, "SPARC and ARC." https://cfs.energy/. Accessed: 2026-03-18.
+17. **[src-100]** Helion Energy, "Polaris — The World's First Fusion Power Plant." https://www.helionenergy.com/. Accessed: 2026-03-18.
+18. **[src-101]** International Energy Agency (IEA), *Electricity Grids and Secure Energy Transitions*, 2023. https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions. Accessed: 2026-03-18.
+19. **[src-102]** Japan Aerospace Exploration Agency (JAXA), "Space Solar Power Systems (SSPS) Research." https://www.jaxa.jp/. Accessed: 2026-03-18.
+20. **[src-103]** TenneT / Statnett, NorNed HVDC Submarine Cable Documentation. https://www.tennet.eu/. Accessed: 2026-03-18.
+
+## Data Points Referenced (Sections 5.5–5.6)
+
+| Statistic ID | Metric | Source |
+|---|---|---|
+| ch05-017 | ITER total project cost (estimated) | [src-096] |
+| ch05-018 | Cumulative private fusion investment globally | [src-098] |
+| ch05-019 | NIF fusion ignition net energy gain factor | [src-097] |
+| ch05-020 | Number of private fusion companies globally | [src-098] |
+| ch05-021 | Longest operational HVDC submarine cable (NorNed) | [src-103] |
+| ch05-022 | Taiwan-Japan shortest submarine distance (Yonaguni to Taiwan) | Geographic measurement |
+| ch05-023 | JAXA Space-Based Solar Power target demonstration | [src-102] |
+
 ## Notes
 
 - Taiwan's 97.7% energy import dependency is among the highest globally and is a critical strategic vulnerability. Virtually all fossil fuels and uranium are imported.

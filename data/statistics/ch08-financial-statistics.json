@@ -1,7 +1,7 @@
 {
   "chapter": "08",
-  "title": "Financial Resilience",
-  "last_updated": "2026-03-16",
+  "title": "Financial and Digital Resilience",
+  "last_updated": "2026-03-19",
   "statistics": [
     {
       "id": "ch08-001",
@@ -152,6 +152,36 @@
       "context": "Taiwan holds approximately 422 tonnes of gold reserves, ranking 13th globally. Gold represents approximately 4-5% of total reserves. Gold provides a sanctions-resistant store of value that does not depend on any single country's financial infrastructure.",
       "verified": true,
       "verification_note": "World Gold Council publishes quarterly central bank gold holdings data; CBC confirms holdings"
+    },
+    {
+      "id": "ch08-011",
+      "metric": "Estonia e-Residency program digital residents",
+      "value": 110000,
+      "unit": "digital residents (cumulative)",
+      "date": "2024",
+      "source": {
+        "name": "e-Estonia / Enterprise Estonia",
+        "url": "https://e-estonia.com/",
+        "accessed": "2026-03-18"
+      },
+      "context": "Estonia's e-Residency program has enrolled over 110,000 digital residents from 180+ countries since launch in 2014. Estonia's X-Road platform underpins 99% of government services digitally, and the country's KSI Blockchain secures government data integrity. This model demonstrates a small nation leveraging digital sovereignty as a strategic asset — directly relevant to Taiwan's positioning.",
+      "verified": true,
+      "verification_note": "e-Estonia official statistics; e-Residency dashboard public data"
+    },
+    {
+      "id": "ch08-012",
+      "metric": "EU EBSI participating member states",
+      "value": 29,
+      "unit": "EU member states plus Norway and Liechtenstein",
+      "date": "2024",
+      "source": {
+        "name": "European Commission — EBSI",
+        "url": "https://ec.europa.eu/digital-building-blocks/sites/display/EBSI/",
+        "accessed": "2026-03-18"
+      },
+      "context": "The European Blockchain Services Infrastructure (EBSI) involves all 27 EU member states plus Norway and Liechtenstein (29 total). EBSI provides cross-border public services including verifiable credentials, document traceability, and trusted data sharing. The multi-national architecture demonstrates how sovereign blockchain can facilitate international interoperability — a model for Taiwan's regional integration strategy.",
+      "verified": true,
+      "verification_note": "European Commission EBSI official documentation and European Blockchain Partnership membership list"
     }
   ]
 }

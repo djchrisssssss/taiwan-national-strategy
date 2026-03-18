@@ -27,6 +27,18 @@
 | ch06-009 | Taiwan national payment system daily transaction volume | [src-047] |
 | ch06-010 | Gold reserves held by Central Bank of Taiwan | [src-048] |
 
+10. **[src-104]** e-Estonia, "e-Governance and Blockchain Infrastructure." https://e-estonia.com/. Accessed: 2026-03-18.
+11. **[src-105]** European Commission, European Blockchain Services Infrastructure (EBSI). https://ec.europa.eu/digital-building-blocks/sites/display/EBSI/. Accessed: 2026-03-18.
+12. **[src-106]** W3C, "Decentralized Identifiers (DIDs) v1.0." https://www.w3.org/TR/did-core/. Accessed: 2026-03-18.
+13. **[src-114]** Ølnes, S., Ubacht, J., & Janssen, M., "Blockchain in Government: Benefits and Implications of Distributed Ledger Technology for Information Sharing," *Government Information Quarterly*, 34(3), 2017. Accessed: 2026-03-18.
+
+## Data Points Referenced (Section 8.5)
+
+| Statistic ID | Metric | Source |
+|---|---|---|
+| ch08-011 | Estonia e-Residency program digital residents | [src-104] |
+| ch08-012 | EU EBSI participating member states | [src-105] |
+
 ## Notes
 
 - The Central Bank of ROC (Taiwan) publishes monthly foreign exchange reserve data. Taiwan's reserves of ~$577 billion rank 5th globally.

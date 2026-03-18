@@ -52,10 +52,10 @@ Employing a systems engineering methodology grounded in interdependency analysis
 
 | Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
 |:---:|--------|-------------|------|
-| 05 | Energy Structure 能源結構 | Import dependence, dangerously low LNG reserves, distributed microgrids, and renewable energy transition. | 進口依賴、天然氣儲備嚴重不足、分散式微電網與再生能源轉型。 |
+| 05 | Energy Structure 能源結構 | Import dependence, dangerously low LNG reserves, distributed microgrids, renewable energy transition, controlled nuclear fusion, and long-distance energy transmission. | 進口依賴、天然氣儲備嚴重不足、分散式微電網、再生能源轉型、可控核融合與能源遠距傳輸。 |
 | 06 | Food & Water Security 糧食與水資源安全 | Food self-sufficiency, water resource constraints, semiconductor ultrapure water demands, and critical infrastructure protection. | 糧食自給率、水資源結構制約、半導體超純水需求與關鍵基礎設施保護。 |
 | 07 | Communications Resilience 通訊韌性 | Submarine cable vulnerability, LEO satellite backup, high-frequency radio, and community-level mesh networks. | 海底電纜脆弱性、低軌道衛星備援、高頻無線電與社區級網狀網路。 |
-| 08 | Financial Resilience 金融韌性 | Sanctions defense, cross-border payment backup, digital asset strategies, and blockchain-based data preservation. | 制裁防禦、跨境支付備援、數位資產策略與區塊鏈數據保存。 |
+| 08 | Financial and Digital Resilience 金融與數位韌性 | Sanctions defense, cross-border payment backup, digital asset strategies, blockchain-based data preservation, and sovereign blockchain infrastructure. | 制裁防禦、跨境支付備援、數位資產策略、區塊鏈數據保存與主權區塊鏈基礎建設。 |
 
 ### V. Technology Frontiers / 五、科技前沿
 
@@ -65,12 +65,13 @@ Employing a systems engineering methodology grounded in interdependency analysis
 | 10 | AI & Distributed Computing 人工智慧與分散式運算 | Intelligence fusion, autonomous defense, distributed computing architectures, and blockchain-AI integration for resilience. | 情報融合、自主防禦、分散式運算架構與區塊鏈-AI 整合韌性。 |
 | 11 | Quantum Security 量子安全 | Post-quantum cryptography migration, quantum key distribution pilots, and long-term data confidentiality protection. | 後量子密碼學遷移、量子密鑰分發試驗計畫與長期數據機密性保護。 |
 
-### VI. Society & International / 六、社會與國際
+### VI. Society, International, and Emerging Domains / 六、社會、國際與新興領域
 
 | Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
 |:---:|--------|-------------|------|
 | 12 | Cognitive Defense 認知防禦 | Countering disinformation and deepfake threats, media literacy, institutional transparency, and social trust infrastructure. | 反制假訊息與深偽威脅、媒體素養、制度透明度與社會信任基礎設施。 |
 | 13 | International Linkages 國際連結 | Shifting from seeking protection to building indispensability through technological interdependence, intelligence cooperation, and democratic values. | 從尋求保護到建構不可或缺性——透過技術互依、情報合作與民主價值實現戰略轉型。 |
+| 14 | Non-Traditional Security Threats 非傳統安全威脅 | UAP investigation, sensor integration, contact preparation, and institutional frameworks for anomalous phenomena. | UAP 調查、感測器整合、接觸預備策略與異常現象制度化框架。 |
 
 ---
 
