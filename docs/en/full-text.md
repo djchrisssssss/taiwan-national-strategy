@@ -32,6 +32,9 @@
 - [Chapter 12: Cognitive Defense](#chapter-12-cognitive-defense--countering-disinformation-deepfake-threats-and-building-social-trust-infrastructure)
 - [Chapter 13: International Linkages](#chapter-13-international-linkages--from-seeking-protection-to-building-indispensability)
 
+### VII. Forward Strategy
+- [Chapter 14: Forward Strategy](#chapter-14-forward-strategy--next-generation-energy-national-digital-infrastructure-and-non-traditional-threats)
+
 ---
 
 # Chapter 0: Executive Summary
@@ -3215,6 +3218,301 @@ Given the constraints on multilateral participation, deepening bilateral relatio
 
 ---
 
+# Chapter 14: Forward Strategy — Next-Generation Energy, National Digital Infrastructure, and Non-Traditional Threats
+
+> **Core Thesis**: A comprehensive national strategy must look beyond immediate threats to prepare for transformative technologies and unconventional challenges that will reshape the security landscape within the next two to three decades. Controlled nuclear fusion, advanced energy transmission, sovereign blockchain infrastructure, and systematic investigation of unidentified anomalous phenomena each represent domains where early strategic positioning can yield asymmetric advantages for Taiwan's long-term resilience and international relevance.
+
+---
+
+## 14.1 Controlled Nuclear Fusion as a Long-Term Energy Independence Strategy
+
+### Strategic Context
+
+Chapter 5 established that Taiwan imports over 97% of its energy, with LNG reserves covering only 7–11 days — a critical vulnerability under a maritime blockade scenario. Section 5.4 assessed next-generation fission technology (Small Modular Reactors) as a medium-term strategic option with an 18–24 month fuel cycle. Controlled nuclear fusion extends this logic to its ultimate conclusion: a baseload energy source with effectively limitless fuel derived from seawater (deuterium) and lithium (for breeding tritium), producing no long-lived radioactive waste and carrying no risk of meltdown.
+
+Fusion represents the long-term horizon (2040–2060+) of Taiwan's energy independence roadmap. While commercial fusion remains under development, the pace of progress — particularly in private-sector ventures and high-temperature superconductor (HTS) magnet technology — has accelerated dramatically since 2020. Taiwan's strategic interest lies not in building its own fusion reactor in the near term, but in positioning itself within the global fusion supply chain and research ecosystem.
+
+### Global Fusion Development Status
+
+| Program | Organization | Approach | Status (2025) | Projected Timeline |
+|---------|-------------|----------|---------------|-------------------|
+| ITER | International (35 nations) | Magnetic confinement (tokamak) | Under construction in France; first plasma delayed to early 2030s [160] | Scientific breakeven (Q≥10) demonstration |
+| NIF | US DOE / LLNL | Inertial confinement (laser) | Achieved ignition (Dec 2022); net energy gain of ~1.5× demonstrated [161] | Scientific milestone; not a direct commercial pathway |
+| Commonwealth Fusion Systems | Private (US) | Compact tokamak (HTS magnets) | SPARC tokamak under construction; ARC commercial design in progress [162] | SPARC demo ~2030; commercial mid-2030s |
+| Helion Energy | Private (US) | Field-reversed configuration | Polaris prototype; direct electricity conversion approach [163] | Commercial target ~2028 (aggressive) |
+| TAE Technologies | Private (US) | Field-reversed configuration | Copernicus prototype; proton-boron-11 fuel [162] | Demo by late 2020s |
+| Tokamak Energy | Private (UK) | Spherical tokamak | ST80-HTS prototype operational [162] | Commercial target 2030s |
+| EAST | ASIPP (China) | Tokamak | Record-setting plasma duration experiments [164] | Contributing to CFETR commercial reactor |
+| JT-60SA | Japan / EU | Superconducting tokamak | First plasma achieved (2023) [164] | Supporting ITER physics base |
+
+The private fusion sector has attracted over USD 6.2 billion in cumulative investment across 43+ companies globally [162], a dramatic acceleration from fewer than 10 companies a decade ago.
+
+### Taiwan's Strategic Positioning
+
+Taiwan need not pursue an indigenous fusion reactor program in the near term. Instead, strategic positioning should focus on:
+
+1. **HTS Magnet Supply Chain**: High-temperature superconductor magnets are the critical enabling technology for compact tokamak designs (CFS SPARC, Tokamak Energy). Taiwan's precision manufacturing ecosystem — the same capabilities that underpin semiconductor fabrication (Chapter 2) — is directly applicable to HTS magnet component production.
+
+2. **Plasma Physics Research Pipeline**: Expand plasma physics and fusion-relevant research programs at National Tsing Hua University, National Cheng Kung University, and Academia Sinica. Bilateral research agreements with US DOE national laboratories and Japan's National Institutes for Quantum Science and Technology (QST) would provide access to experimental facilities.
+
+3. **International Research Participation**: Pursue observer or associate membership in ITER or bilateral fusion R&D agreements with the United States, Japan, and the European Union. South Korea's KSTAR program offers a regional partnership model.
+
+4. **Regulatory Preparation**: Begin developing regulatory expertise for future fusion facilities. Unlike fission, fusion reactors do not produce weapons-grade fissile material and generate minimal radioactive waste, simplifying the regulatory framework. Pre-positioning regulatory capacity now avoids delays when commercial fusion becomes available.
+
+### Applicability Assessment
+
+| Dimension | Assessment | Notes |
+|-----------|-----------|-------|
+| Fuel availability | Excellent | Deuterium from seawater (effectively limitless); lithium for tritium breeding |
+| Waste profile | Very low | No long-lived radioactive waste; activated structural materials manageable |
+| Blockade resilience | Excellent | Minimal external dependency once operational |
+| Meltdown risk | None | Plasma self-extinguishes if containment is lost; physically incapable of runaway reaction |
+| Social acceptance | Potentially high | No meltdown risk, no plutonium, minimal waste |
+| Timeline | Long-term (2040–2060+) | Bridge via SMRs (Section 5.4) and renewables (Section 5.3) |
+| International cooperation value | Very high | Deepens scientific and industrial partnerships |
+
+---
+
+## 14.2 Long-Distance Energy Transmission Technologies
+
+### Strategic Problem Statement
+
+Taiwan's energy challenge extends beyond generation to transmission and interconnection. Even with diversified domestic generation — renewables, SMRs, and eventually fusion — the island's grid remains a self-contained system with no physical connection to any other power grid. A single catastrophic event affecting generation or transmission infrastructure could cascade through the entire island. Advanced transmission technologies and international energy interconnections offer pathways to address this structural vulnerability.
+
+### Technology Landscape
+
+| Technology | Maturity | Description | Taiwan Application |
+|-----------|----------|-------------|-------------------|
+| High-Voltage Direct Current (HVDC) | Commercial | Long-distance undersea/underground power transmission with lower losses than AC | Taiwan–Japan or Taiwan–Philippines interconnection |
+| Superconducting Power Cables | Pilot / Demo | Near-zero resistance transmission using HTS materials | Dense urban and industrial corridors; semiconductor park connections |
+| Microwave Power Transmission (MPT) | R&D / Early Demo | Wireless power via focused microwave beams | Space-based solar power (SBSP) ground receiving |
+| Laser Power Beaming | R&D | Wireless power via concentrated laser beams | Remote island supply; drone/UAV charging |
+| Space-Based Solar Power (SBSP) | Conceptual / Early R&D | Orbital solar collection transmitted via microwave to ground rectenna | Long-term blockade-immune energy source [165] |
+
+### HVDC Submarine Cable Interconnections
+
+The distance from Yonaguni Island (Japan's westernmost territory) to Taiwan's northeastern coast is approximately 111 km — well within the demonstrated range of modern HVDC submarine cables. The NorNed cable (Norway–Netherlands, 580 km, 700 MW) [166] and North Sea Link (Norway–UK, 720 km, 1,400 MW) confirm the technical feasibility of far longer connections.
+
+**Taiwan–Japan Interconnection Assessment:**
+
+| Parameter | Assessment |
+|-----------|-----------|
+| Distance | ~111 km (Yonaguni–Taiwan); ~600 km to Okinawa main island |
+| Capacity | 1–2 GW feasible with current HVDC technology |
+| Strategic value | Mutual emergency backup; energy trading; grid diversification |
+| Security concern | Cable vulnerability to sabotage or interdiction |
+| Precedent | Japan–Hokkaido HVDC link; multiple European cross-border cables |
+
+**Taiwan–Philippines Interconnection Assessment:** A longer route (~350 km to northern Luzon) but strategically valuable as a southward energy diversification path, complementing the northward Japan link.
+
+Both interconnections would transform Taiwan from an energy island into a node in a regional energy network — a fundamental shift in energy security architecture.
+
+### Superconducting Grid Applications
+
+HTS superconducting cables can transmit 3–5× the power of conventional cables in the same physical footprint with near-zero resistive losses. For Taiwan's dense urban and industrial corridors — particularly the semiconductor manufacturing clusters in Hsinchu, Taichung, and Tainan (Section 5.6) — superconducting links offer ultra-reliable, high-capacity power delivery.
+
+ITRI (Industrial Technology Research Institute) and Taiwan's materials science sector possess relevant expertise. A pilot superconducting cable segment connecting a science park substation to a semiconductor fab would demonstrate the technology while building domestic capability.
+
+### Space-Based Solar Power (SBSP)
+
+JAXA has pursued SBSP research since the 2000s, with a 2024 demonstration of microwave power transmission over ~50 meters [165]. The concept — orbital solar panels beaming energy via microwave to a ground rectenna — would provide a blockade-immune energy source, as orbital assets cannot be interdicted by naval forces. While commercial SBSP remains decades away, Taiwan should:
+
+- Monitor JAXA and ESA SBSP research programs
+- Participate in international SBSP research consortia
+- Assess rectenna siting options (western coast, offshore platforms)
+- Integrate SBSP scenarios into long-term (2050+) energy planning
+
+This links directly to Chapter 9 (Space Capabilities), where Taiwan's emerging satellite programs could eventually support SBSP ground segment operations.
+
+---
+
+## 14.3 National-Level Blockchain Network
+
+### Strategic Context and Distinction from Chapter 8
+
+Chapter 8 addressed blockchain as a **backup instrument** for financial resilience — preserving critical financial data and enabling CBDC alternatives during crisis scenarios (Sections 8.4–8.5). This section proposes a more expansive vision: blockchain as a **proactive national infrastructure layer** for governance, identity, data sovereignty, and international interoperability.
+
+For a nation facing persistent existential threats, the ability to maintain verifiable government records, authenticate official communications, and ensure democratic processes under duress is not merely a technological convenience — it is a matter of national survival.
+
+### Architecture Vision
+
+| Layer | Function | Technology Approach | Lead Agency |
+|-------|----------|-------------------|------------|
+| Sovereign Identity | National digital identity using Decentralized Identifiers (DIDs) [167] | Permissioned chain + W3C DID standards | Ministry of Digital Affairs (moda) |
+| Data Integrity | Government records, land registry, business registration | Public/hybrid chain; cryptographic hash on-chain, data off-chain | Cross-ministerial |
+| Democratic Participation | Secure voting, referenda, public consultation | Zero-knowledge proof (ZKP) systems for ballot privacy | Central Election Commission |
+| Supply Chain Transparency | Critical supply chain provenance (semiconductors, food, medical) | Consortium chain with international partners | Ministry of Economic Affairs |
+| International Cooperation | Cross-border data attestation, trade documentation | Interoperable with partner-nation blockchain infrastructure | Ministry of Foreign Affairs |
+
+### International Precedents
+
+| Country / Program | Scope | Status (2025) | Relevance to Taiwan |
+|------------------|-------|---------------|-------------------|
+| Estonia e-Residency / X-Road / KSI Blockchain | National digital identity, 99% e-government services | Operational since 2014; 110,000+ e-residents [168] | Small-nation digital sovereignty model; post-Soviet resilience architecture |
+| EU EBSI | Cross-border verifiable credentials, document traceability | Pilot phase across 29 nations [169] | Multi-nation interoperability framework |
+| Switzerland (Zug) | Blockchain-friendly regulation, governance pilots | Operational | Regulatory framework model |
+| Singapore (IMDA) | Trade documentation, cross-border verification | Operational | Trade facilitation model for export-dependent economy |
+| South Korea (KISA) | Public sector blockchain platform | Expanding | Regional peer model |
+
+### National Security Applications
+
+1. **Defense Procurement Integrity**: Immutable audit trails for defense procurement processes, preventing corruption and ensuring supply chain authenticity — particularly critical for semiconductor-dependent weapon systems.
+
+2. **Military Communications Authentication**: Blockchain-based message authentication can harden military command-and-control against spoofing and man-in-the-middle attacks (complementing Chapter 7's communications resilience architecture).
+
+3. **Wartime Government Continuity**: Distributed state records ensure that critical government data — land ownership, citizen identity, legal frameworks — survive even if central government facilities are destroyed (extending Chapter 8.4's data preservation concept).
+
+4. **Deepfake Countermeasures**: On-chain content provenance using standards like C2PA (Coalition for Content Provenance and Authenticity) provides verifiable authenticity for government communications, directly countering the deepfake threats analyzed in Chapter 12.
+
+### Challenges
+
+| Challenge | Description | Mitigation Approach |
+|-----------|-------------|-------------------|
+| Scalability | National-scale transaction throughput requirements | Layer-2 solutions; off-chain computation with on-chain verification |
+| Privacy vs. transparency | Government transparency needs vs. citizen privacy rights | Zero-knowledge proofs (ZKPs) enable verification without data exposure |
+| Quantum vulnerability | Current blockchain cryptography vulnerable to future quantum computers | Post-quantum cryptographic migration (Chapter 11); lattice-based and hash-based algorithms |
+| Legacy integration | Interoperability with existing government IT systems | Phased migration; API bridge layers; parallel operation during transition |
+| Regulatory framework | No comprehensive blockchain governance law in Taiwan | Develop regulatory framework referencing EU MiCA and Estonia's model |
+
+### Policy Recommendations
+
+1. Establish a National Blockchain Strategy Office under the Ministry of Digital Affairs (moda).
+2. Launch a sovereign DID pilot program for government employees, expanding to citizens in phases.
+3. Implement a blockchain-based land registry pilot in one municipality (model: Georgia, Sweden, Estonia precedents).
+4. Develop post-quantum cryptographic standards for the national blockchain, coordinated with Chapter 11's quantum security roadmap.
+5. Pursue interoperability agreements with EU EBSI and partner-nation blockchain infrastructure.
+
+---
+
+## 14.4 Unidentified Anomalous Phenomena Investigation and Contact Preparation Strategy
+
+**Framing Statement**: This section addresses unidentified anomalous phenomena (UAP) from a national security and scientific investigation perspective. It follows the institutional frameworks established by the United States' All-domain Anomaly Resolution Office (AARO) [170], NASA's UAP Independent Study Team [171], and comparable programs in allied nations. Regardless of the ultimate explanation for observed phenomena, the requirements for intelligence collection, sensor capability enhancement, and institutional preparedness are substantive national security matters. Any object operating in Taiwan's air defense identification zone (ADIZ) or flight information region (FIR) without identification constitutes a defense concern by definition.
+
+### International Institutional Landscape
+
+| Organization | Country | Mandate | Status (2025) |
+|-------------|---------|---------|---------------|
+| AARO (All-domain Anomaly Resolution Office) | United States | DoD/DNI; investigate UAP reports from military, intelligence, and civilian sources | Operational since 2022; annual reports to Congress; 801 cumulative reports [170] |
+| NASA UAP Research Director | United States | Scientific methodology and data standards for UAP investigation | Appointed Sept 2023 following 16-member independent study [171] |
+| GEIPAN / CAIPAN | France (CNES) | Scientific investigation and multi-disciplinary analysis of unidentified aerospace phenomena | Operational since 1977; publicly funded; database accessible [172] |
+| MoD Historical Program | United Kingdom | Investigation of UAP sightings by military personnel | Legacy Project Condign; renewed interest post-2021 |
+| JSDF Investigation Capacity | Japan | MoD; investigation of UAP sightings by Self-Defense Forces | Under establishment; coordination with US AARO |
+| Official Air Force Program | Brazil | Air Force investigation of UAP in Brazilian airspace | Ongoing; periodic releases of case files |
+
+The institutionalization of UAP investigation across multiple allied nations represents a paradigm shift. What was once treated as a fringe topic has been recognized as a legitimate airspace sovereignty and intelligence collection concern [173].
+
+### National Security Rationale
+
+Taiwan faces one of the most actively contested airspace environments in the world, with daily PLA Air Force incursions into its ADIZ. In this context, any unidentified object or phenomenon operating in or near Taiwan's airspace demands systematic investigation for five reasons:
+
+1. **Airspace Sovereignty**: Every unidentified object represents a potential incursion until resolved. Systematic UAP investigation strengthens the same institutional muscles used for conventional airspace defense.
+
+2. **Sensor Capability Gaps**: UAP reports frequently reveal blind spots in radar, optical, infrared, and electromagnetic sensor networks. Identifying and closing these gaps directly improves defense posture against conventional threats (Chapter 4, Electromagnetic Spectrum Warfare).
+
+3. **Intelligence Collection Discipline**: Standardized reporting and analysis of anomalous observations improves overall pattern recognition capability. The same data infrastructure serves both UAP investigation and conventional intelligence fusion (Chapter 10).
+
+4. **Technology Assessment**: If anomalous performance characteristics are observed — speeds, maneuverability, or signatures beyond known technology — understanding the underlying physics or engineering has potential defense and industrial applications.
+
+5. **Avoiding Strategic Surprise**: Historically, failure to investigate anomalous observations has left nations vulnerable to surprises from adversary technology programs. Systematic investigation reduces this risk.
+
+### Proposed Institutional Framework for Taiwan
+
+| Component | Description | Parent Organization |
+|-----------|-------------|-------------------|
+| UAP Investigation Office (不明現象調查辦公室) | Central coordination of UAP reporting, investigation, and analysis | National Security Council or Ministry of National Defense |
+| Scientific Advisory Panel | Academic experts in physics, aerospace engineering, atmospheric science, sensor technology | National Science and Technology Council (NSTC) |
+| Sensor Integration Program | Dedicated sensor suites and data collection protocols at military installations and key civilian sites | Ministry of National Defense |
+| International Data Sharing | Bilateral agreements with US AARO, French GEIPAN, Japanese JSDF counterpart | Ministry of Foreign Affairs + MND |
+| Transparency and Declassification Office | Public reporting mechanism and academic research access, following the US AARO congressional reporting model | Executive Yuan |
+
+### Data Collection and Analysis Framework
+
+- **Standardized reporting protocols** for military pilots, air traffic controllers, coast guard, and civilian aviation, using AARO-compatible data formats.
+- **Integration with existing sensor networks**: Radar (Chapter 4), satellite reconnaissance (Chapter 9), coastal surveillance systems.
+- **AI-assisted pattern analysis** of sensor data, applying the intelligence fusion capabilities described in Chapter 10. Machine learning models trained on atmospheric, astronomical, and aviation data can rapidly classify conventional explanations, flagging genuinely anomalous cases for expert review.
+- **Scientific peer review process**: Cases that cannot be resolved through conventional analysis undergo independent scientific assessment with appropriate classification levels.
+- **Secure data repository** with tiered access: classified raw sensor data; declassified case summaries for academic research; public annual reports.
+
+### Preparation for Contact with Non-Human Intelligence
+
+This subsection applies the same analytical framework used throughout this document for low-probability, extremely-high-consequence scenarios — comparable to the full maritime blockade analysis in Chapter 5 or the systemic financial attack scenarios in Chapter 8.
+
+**Scenario Framework**: Contact with a non-human intelligence — whether extraterrestrial, extradimensional, or of unknown origin — represents an event of civilizational significance. The probability of such contact occurring within any given decade may be low, but the consequences would be transformative across every domain analyzed in this document. Responsible governance demands pre-positioned frameworks rather than ad hoc responses.
+
+**Pre-Positioning Elements:**
+
+| Element | Description | Reference Framework |
+|---------|-------------|-------------------|
+| Communication Protocols | Pre-established government communication chains and public messaging strategy for anomalous contact events | IAA Post-Detection Protocols [174] |
+| Scientific Readiness | Integration with international SETI programs and astrobiology research | Breakthrough Listen [175]; NASA Astrobiology Strategy |
+| Significance Assessment | Standardized scale for evaluating the credibility and significance of potential contact signals | Rio Scale (international standard for SETI detections) |
+| Legal and Diplomatic Positioning | Pre-position Taiwan's stance in international fora; assert participation rights in any global contact governance framework | UN COPUOS [176] |
+| Societal Preparation | Gradual normalization through transparent government communication, scientific discourse, and education | NASA UAP transparency model [171] |
+| Cross-Strait Implications | Unique considerations: a contact event would reshape global power dynamics, potentially altering the strategic calculus that underpins cross-strait relations | Original analysis |
+| Biological Protocols | Contamination prevention and biological safety frameworks for physical contact scenarios | COSPAR Planetary Protection Policy |
+
+**Key Principle**: Taiwan's strategy should ensure that it has a seat at any future international table governing contact with non-human intelligence. The same institutional approach that built Taiwan's semiconductor indispensability (Chapter 2) and international technological linkages (Chapter 13) applies here: early participation creates outsized influence relative to national size.
+
+---
+
+## 14.5 Cross-Chapter Linkages
+
+- **Chapter 2 (Semiconductor Leverage)**: Taiwan's precision manufacturing capabilities are directly applicable to HTS magnet components for fusion reactors, advanced sensor systems for UAP investigation, and hardware security modules for blockchain infrastructure.
+
+- **Chapter 5 (Energy Structure)**: Fusion extends the energy independence roadmap beyond SMRs (Section 5.4) to the long-term horizon. Advanced transmission technologies complement microgrids (Section 5.5). SBSP offers a theoretically blockade-immune energy source. HVDC interconnections address the fundamental vulnerability of Taiwan's isolated grid.
+
+- **Chapter 7 (Communications Resilience)**: Blockchain-based authentication hardens communications infrastructure against spoofing. International HVDC interconnections may share rights-of-way with submarine communications cables, creating infrastructure synergies.
+
+- **Chapter 8 (Financial Resilience)**: The national blockchain network builds directly upon Section 8.4 (critical data preservation) and Section 8.5 (CBDC), creating a comprehensive sovereign digital infrastructure that extends beyond financial applications.
+
+- **Chapter 9 (Space Capabilities)**: SBSP requires orbital infrastructure that aligns with Taiwan's emerging satellite programs. UAP investigation benefits from space-based sensor integration. Satellite-to-ground power beaming overlaps with space communications development.
+
+- **Chapter 10 (AI & Distributed Computing)**: AI-assisted pattern analysis is essential for UAP sensor data processing. Blockchain consensus mechanisms leverage distributed computing. Fusion plasma control systems require advanced real-time AI.
+
+- **Chapter 11 (Quantum Security)**: Post-quantum cryptography is critical for the long-term security of national blockchain infrastructure. Quantum computing's enormous power demands may require nuclear (fusion) baseload support. Quantum sensors may enhance UAP detection capabilities.
+
+- **Chapter 12 (Cognitive Defense)**: Blockchain-based content provenance (C2PA standard) directly counters deepfake threats. Transparent UAP investigation and public reporting reduce vulnerability to disinformation about anomalous events — an important consideration given that adversaries could exploit UAP ambiguity for cognitive warfare.
+
+- **Chapter 13 (International Linkages)**: Fusion R&D cooperation deepens scientific partnerships. Blockchain interoperability creates institutional connections. UAP data-sharing agreements build intelligence cooperation channels. SBSP consortia create new multilateral frameworks. Each of these domains offers Taiwan opportunities to build indispensability in emerging fields.
+
+---
+
+## 14.6 Policy Recommendations
+
+### Immediate Priority (1–3 Years)
+
+1. **Establish a UAP Investigation Office** under the National Security Council or Ministry of National Defense, modeled on the US AARO. Issue a directive requiring standardized UAP reporting from all military branches, the Coast Guard Administration, and the Civil Aeronautics Administration.
+
+2. **Launch a Sovereign DID Pilot Program** under the Ministry of Digital Affairs (moda), beginning with government employee credentials and expanding to citizen services in phases.
+
+3. **Commission a Taiwan–Japan HVDC Interconnection Feasibility Study**, jointly with Japan's Ministry of Economy, Trade and Industry (METI), assessing technical, economic, and security parameters.
+
+4. **Allocate Dedicated Fusion Research Funding** under the National Science and Technology Council (NSTC), focusing on HTS magnet technology, plasma physics, and fusion materials science.
+
+### Medium-Term (3–10 Years)
+
+5. **Deploy a Blockchain-Based Land Registry Pilot** in one municipality, with full audit trail and citizen verification capabilities.
+
+6. **Build a Pilot Superconducting Cable Segment** connecting a science park substation to a major semiconductor fabrication facility, demonstrating the technology for industrial-grade power delivery.
+
+7. **Pursue International Fusion R&D Agreements** — bilateral research partnerships with US DOE national laboratories, Japan QST, and South Korea's KSTAR program.
+
+8. **Develop Post-Quantum Blockchain Standards**, coordinating with the quantum security roadmap established in Chapter 11.
+
+9. **Establish Bilateral UAP Data-Sharing Agreements** with the United States (AARO), France (GEIPAN), and Japan (JSDF counterpart), leveraging existing intelligence cooperation channels.
+
+### Long-Term (10–30+ Years)
+
+10. **Participate in Commercial Fusion Development** as a supply chain partner, leveraging HTS magnet manufacturing and precision engineering capabilities to secure a position in the global fusion industrial ecosystem.
+
+11. **Advance SBSP Technology Demonstration** through participation in JAXA and international consortia, with assessment of Taiwan-specific ground rectenna sites.
+
+12. **Complete National Blockchain Infrastructure Deployment** across all five architecture layers (identity, data integrity, democratic participation, supply chain, international cooperation).
+
+13. **Develop a Pre-Contact Governance Framework** in coordination with international partners, ensuring Taiwan's participation in any future global governance structures related to contact with non-human intelligence.
+
+---
+
 ## References
 
 [1] U.S. Department of Defense, "Military and Security Developments Involving the People's Republic of China," Annual Report to Congress (latest edition).
@@ -3534,4 +3832,38 @@ Given the constraints on multilateral participation, deepening bilateral relatio
 [158] Canadian Nuclear Safety Commission (CNSC), "Pre-licensing Vendor Design Reviews for SMRs." https://www.nuclearsafety.gc.ca/eng/reactors/power-plants/pre-licensing-vendor-design-review/
 
 [159] International Energy Agency (IEA), *Nuclear Power in a Clean Energy System*, IEA Special Report.
+
+[160] ITER Organization, "What is ITER?" https://www.iter.org/
+
+[161] National Ignition Facility, Lawrence Livermore National Laboratory (LLNL), "Achieving Fusion Ignition," December 2022. https://lasers.llnl.gov/
+
+[162] Fusion Industry Association (FIA), *The Global Fusion Industry in 2024*, Annual Survey Report. https://www.fusionindustryassociation.org/
+
+[163] Helion Energy, "Polaris — The World's First Fusion Power Plant." https://www.helionenergy.com/
+
+[164] Various national fusion program publications: ASIPP (China) EAST tokamak research; QST (Japan) JT-60SA first plasma reports, 2023.
+
+[165] Japan Aerospace Exploration Agency (JAXA), "Space Solar Power Systems (SSPS) Research." https://www.jaxa.jp/
+
+[166] TenneT / Statnett, NorNed HVDC Submarine Cable technical documentation. https://www.tennet.eu/
+
+[167] W3C, "Decentralized Identifiers (DIDs) v1.0," W3C Recommendation. https://www.w3.org/TR/did-core/
+
+[168] e-Estonia, "e-Governance and Blockchain Infrastructure." https://e-estonia.com/
+
+[169] European Commission, European Blockchain Services Infrastructure (EBSI). https://ec.europa.eu/digital-building-blocks/sites/display/EBSI/
+
+[170] U.S. Department of Defense, All-domain Anomaly Resolution Office (AARO), Annual Report to Congress, FY2023. https://www.aaro.mil/
+
+[171] NASA, UAP Independent Study Team Report, September 2023. https://science.nasa.gov/uap/
+
+[172] Centre National d'Études Spatiales (CNES), GEIPAN — Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non-identifiés. https://www.cnes-geipan.fr/
+
+[173] Office of the Director of National Intelligence (ODNI), "Preliminary Assessment: Unidentified Aerial Phenomena," June 2021. https://www.dni.gov/
+
+[174] International Academy of Astronautics (IAA), "SETI Post-Detection Protocols." https://iaaseti.org/
+
+[175] Breakthrough Initiatives, "Breakthrough Listen." https://breakthroughinitiatives.org/
+
+[176] United Nations Committee on the Peaceful Uses of Outer Space (COPUOS). https://www.unoosa.org/oosa/en/ourwork/copuos/
 
