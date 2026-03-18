@@ -1,0 +1,157 @@
+{
+  "chapter": "15",
+  "title": "Technology Ethics — Genetic Modification, Consciousness Engineering, and Emerging Technology Governance",
+  "last_updated": "2026-03-19",
+  "statistics": [
+    {
+      "id": "ch15-001",
+      "metric": "Countries with legalized euthanasia or assisted dying",
+      "value": 10,
+      "unit": "countries (approximate, as of 2024)",
+      "date": "2024",
+      "source": {
+        "name": "World Federation of Right to Die Societies / academic surveys",
+        "url": "https://www.worldrtd.net/",
+        "accessed": "2026-03-19"
+      },
+      "context": "Approximately 10 countries have legalized some form of euthanasia or assisted dying as of 2024, including the Netherlands, Belgium, Luxembourg, Canada, Spain, Colombia, New Zealand, Australia (most states), and select US states (physician-assisted dying only). The global trend is toward expansion of eligibility criteria.",
+      "verified": true,
+      "verification_note": "Country counts vary by definition (active euthanasia vs. assisted dying vs. passive euthanasia); approximate figure from legal surveys"
+    },
+    {
+      "id": "ch15-002",
+      "metric": "Chile neurorights constitutional protection year",
+      "value": 2021,
+      "unit": "year enacted",
+      "date": "2021",
+      "source": {
+        "name": "Chilean Senate — Neurorights Amendment",
+        "url": "https://www.senado.cl/",
+        "accessed": "2026-03-19"
+      },
+      "context": "Chile became the first country in the world to constitutionally protect neurorights in 2021, establishing protections for mental integrity, cognitive liberty, and protection from neurotechnology manipulation. This precedent is cited globally as the model for neurorights legislation.",
+      "verified": true,
+      "verification_note": "Chilean constitutional amendment confirmed by Senate records; widely reported in international legal and neuroscience literature"
+    },
+    {
+      "id": "ch15-003",
+      "metric": "CRISPR clinical trials globally (active or completed)",
+      "value": 100,
+      "unit": "clinical trials (minimum, as of 2024)",
+      "date": "2024",
+      "source": {
+        "name": "ClinicalTrials.gov / Nature Biotechnology",
+        "url": "https://clinicaltrials.gov/",
+        "accessed": "2026-03-19"
+      },
+      "context": "Over 100 CRISPR-based clinical trials were registered globally by 2024, covering sickle cell disease, beta-thalassemia, various cancers, HIV, and genetic blindness. The first CRISPR therapy (Casgevy for sickle cell disease) received FDA approval in December 2023.",
+      "verified": true,
+      "verification_note": "ClinicalTrials.gov registry search for CRISPR-related trials; FDA approval of Casgevy confirmed in December 2023"
+    },
+    {
+      "id": "ch15-004",
+      "metric": "Global BCI market size (projected 2030)",
+      "value": 5.8,
+      "unit": "USD billion",
+      "date": "2030 (projected)",
+      "source": {
+        "name": "Grand View Research / Allied Market Research",
+        "url": "https://www.grandviewresearch.com/",
+        "accessed": "2026-03-19"
+      },
+      "context": "Cross-referenced from ch10-011. The global BCI market is projected to exceed $5.8 billion by 2030, encompassing medical, consumer, and military applications. Ethical governance of this market is a central concern of Chapter 15.",
+      "verified": true,
+      "verification_note": "Market projections from multiple research firms; cross-referenced with ch10-011"
+    },
+    {
+      "id": "ch15-005",
+      "metric": "Years of LAWS discussions at Convention on Certain Conventional Weapons",
+      "value": 11,
+      "unit": "years (2013-2024, no binding agreement)",
+      "date": "2024",
+      "source": {
+        "name": "United Nations Office for Disarmament Affairs — CCW LAWS",
+        "url": "https://www.un.org/disarmament/the-convention-on-certain-conventional-weapons/",
+        "accessed": "2026-03-19"
+      },
+      "context": "The Convention on Certain Conventional Weapons (CCW) has discussed lethal autonomous weapons systems since 2013, producing no binding international agreement in over 11 years. This governance failure highlights the need for national-level LAWS policies.",
+      "verified": true,
+      "verification_note": "UN CCW meeting records; LAWS Group of Governmental Experts established 2017"
+    },
+    {
+      "id": "ch15-006",
+      "metric": "Taiwan Patient Autonomy Act implementation year",
+      "value": 2019,
+      "unit": "year implemented",
+      "date": "2019",
+      "source": {
+        "name": "Taiwan Ministry of Health and Welfare",
+        "url": "https://www.mohw.gov.tw/",
+        "accessed": "2026-03-19"
+      },
+      "context": "Taiwan's Patient Autonomy Act (病人自主權利法) was enacted in 2019, making Taiwan the first country in Asia to establish a legal framework for advance directive-based end-of-life decisions. The Act allows advance directives but does not legalize active euthanasia.",
+      "verified": true,
+      "verification_note": "Ministry of Health and Welfare official implementation records; first Asian jurisdiction with such legislation"
+    },
+    {
+      "id": "ch15-007",
+      "metric": "Countries with human cloning prohibition",
+      "value": 70,
+      "unit": "countries (approximate)",
+      "date": "2024",
+      "source": {
+        "name": "UNESCO / academic legal surveys",
+        "url": "https://www.unesco.org/",
+        "accessed": "2026-03-19"
+      },
+      "context": "Approximately 70 countries have enacted legislation prohibiting reproductive human cloning. However, no binding international treaty exists (a non-binding UN Declaration on Human Cloning was adopted in 2005), and enforcement mechanisms vary widely.",
+      "verified": true,
+      "verification_note": "Country counts approximate and vary by survey methodology; UNESCO Universal Declaration on the Human Genome and Human Rights (1997) provides normative framework"
+    },
+    {
+      "id": "ch15-008",
+      "metric": "Neuralink human clinical trial participants",
+      "value": 3,
+      "unit": "human participants (as of early 2025)",
+      "date": "2025",
+      "source": {
+        "name": "Neuralink Corporation",
+        "url": "https://neuralink.com/",
+        "accessed": "2026-03-19"
+      },
+      "context": "Cross-referenced from ch10-013. Neuralink has implanted its N1 BCI device in human participants under FDA Investigational Device Exemption. The ethical implications of invasive BCI deployment are a central concern of Section 15.4.",
+      "verified": true,
+      "verification_note": "Cross-referenced with ch10-013; Neuralink public announcements"
+    },
+    {
+      "id": "ch15-009",
+      "metric": "Taiwan total fertility rate",
+      "value": 0.87,
+      "unit": "births per woman",
+      "date": "2024",
+      "source": {
+        "name": "Taiwan Ministry of the Interior — Population Statistics",
+        "url": "https://www.moi.gov.tw/",
+        "accessed": "2026-03-19"
+      },
+      "context": "Taiwan's total fertility rate of approximately 0.87 in 2024 is among the lowest globally. This demographic crisis intersects with surrogacy and reproductive technology policy (Section 15.6) as part of a comprehensive demographic security strategy.",
+      "verified": true,
+      "verification_note": "Ministry of the Interior population statistics; Taiwan consistently ranks among the world's lowest fertility countries"
+    },
+    {
+      "id": "ch15-010",
+      "metric": "Countries permitting commercial surrogacy (with regulatory framework)",
+      "value": "limited",
+      "unit": "a small number of jurisdictions",
+      "date": "2024",
+      "source": {
+        "name": "Hague Conference on Private International Law — Parentage/Surrogacy Project",
+        "url": "https://www.hcch.net/",
+        "accessed": "2026-03-19"
+      },
+      "context": "Only a limited number of jurisdictions worldwide permit commercial surrogacy with regulatory frameworks, including some US states, Georgia, and (until 2022) Ukraine. The Hague Conference has been working on an international framework since 2015 but no convention has been adopted. Taiwan currently prohibits commercial surrogacy.",
+      "verified": true,
+      "verification_note": "Hague Conference Parentage/Surrogacy Project documentation; comparative legal analysis of surrogacy regulation"
+    }
+  ]
+}

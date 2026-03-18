@@ -14,13 +14,13 @@
 
 ## Abstract
 
-Taiwan's national security is fundamentally a systems engineering challenge. In an era of multi-domain competition, security can no longer be measured by the strength of any single defensive line; it must be assessed by the entire system's capacity to continue functioning under multiple, simultaneous, cross-domain pressures. This project presents a comprehensive analytical framework that treats Taiwan's national security as a complex adaptive system composed of thirteen interconnected domains -- from geostrategic positioning and semiconductor leverage to cognitive defense and international linkages.
+Taiwan's national security is fundamentally a systems engineering challenge. In an era of multi-domain competition, security can no longer be measured by the strength of any single defensive line; it must be assessed by the entire system's capacity to continue functioning under multiple, simultaneous, cross-domain pressures. This project presents a comprehensive analytical framework that treats Taiwan's national security as a complex adaptive system composed of fifteen interconnected domains -- from geostrategic positioning and semiconductor leverage to cognitive defense, technology ethics, and international linkages.
 
 Employing a systems engineering methodology grounded in interdependency analysis, nonlinear risk modeling, and adversary rationality assumptions, this study examines how failures in one domain can cascade into others, identifies structural vulnerabilities arising from geographic concentration, energy dependence, and communications fragility, and proposes policy recommendations organized by short-term (1--2 years), medium-term (3--5 years), and long-term (5--10 years) horizons. The core strategic principles -- antifragile architecture, multi-domain redundancy, and cost-imposition strategy -- aim to ensure that any coercive action against Taiwan faces prohibitively high costs across the political, military, and economic dimensions.
 
 ## 摘要
 
-台灣的國家安全本質上是一個系統工程問題。在多域競爭時代，安全不再取決於任何單一防線的堅固程度，而是整個系統在面對多重、同時、跨域壓力時的持續運作能力。本專案提出一套全面性分析框架，將台灣的國家安全視為由十三個相互連動的領域構成的複雜適應系統——從地緣戰略位置、半導體槓桿，到認知防禦與國際連結。
+台灣的國家安全本質上是一個系統工程問題。在多域競爭時代，安全不再取決於任何單一防線的堅固程度，而是整個系統在面對多重、同時、跨域壓力時的持續運作能力。本專案提出一套全面性分析框架，將台灣的國家安全視為由十五個相互連動的領域構成的複雜適應系統——從地緣戰略位置、半導體槓桿，到認知防禦、科技倫理與國際連結。
 
 本研究採用系統工程方法論，以連動性分析、非線性風險建模與對手理性假設為基礎，探討單一領域的失效如何向其他領域擴散，識別源於地理集中、能源依賴與通訊脆弱性的結構性弱點，並提出按短期（1-2 年）、中期（3-5 年）與長期（5-10 年）時間框架分類的政策建議。核心戰略原則——反脆弱架構、多域備援與成本強加策略——旨在確保任何針對台灣的強制行動在政治、軍事與經濟層面都面臨極高成本。
 
@@ -69,9 +69,10 @@ Employing a systems engineering methodology grounded in interdependency analysis
 
 | Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
 |:---:|--------|-------------|------|
-| 12 | Cognitive Defense 認知防禦 | Countering disinformation and deepfake threats, media literacy, institutional transparency, and social trust infrastructure. | 反制假訊息與深偽威脅、媒體素養、制度透明度與社會信任基礎設施。 |
+| 12 | Cognitive Defense 認知防禦 | CCP cognitive warfare command structure, deepfake threats, platform infiltration, economic coercion, institutional infiltration, media literacy, and social trust infrastructure. | 中共認知作戰指揮結構、深偽威脅、平台滲透、經濟脅迫、制度滲透、媒體素養與社會信任基礎設施。 |
 | 13 | International Linkages 國際連結 | Shifting from seeking protection to building indispensability through technological interdependence, intelligence cooperation, and democratic values. | 從尋求保護到建構不可或缺性——透過技術互依、情報合作與民主價值實現戰略轉型。 |
 | 14 | Non-Traditional Security Threats 非傳統安全威脅 | UAP investigation, sensor integration, contact preparation, and institutional frameworks for anomalous phenomena. | UAP 調查、感測器整合、接觸預備策略與異常現象制度化框架。 |
+| 15 | Technology Ethics 科技倫理 | Genetic modification, synthetic biology, BCI consciousness engineering ethics, euthanasia, surrogacy, autonomous weapons governance. | 基因改造、合成生物學、腦機介面意識工程倫理、安樂死、代理孕母、自主武器治理。 |
 
 ---
 

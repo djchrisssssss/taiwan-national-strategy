@@ -6,17 +6,19 @@
 |-------|-------|
 | Report Date | 2026-03-19 |
 | Data Audit Date | 2025-07-15 (bibliography); 2026-03-19 (statistics) |
-| Total Sources | 115 |
-| Total Data Points | 149 |
-| Chapters Covered | 14 (Ch01--Ch14) |
+| Total Sources | 141 |
+| Total Data Points | 173 |
+| Chapters Covered | 15 (Ch01--Ch15) |
 
 ---
 
 ## 1. Executive Summary
 
-This report documents the verification methodology and results for all quantitative data points used in the Taiwan National Strategy project. The project draws on 115 unique sources across 14 chapters, yielding 149 individually sourced statistics. All sources in the master bibliography have been catalogued and assigned a verification status. All data points carry a `verified: true` flag with an accompanying verification note.
+This report documents the verification methodology and results for all quantitative data points used in the Taiwan National Strategy project. The project draws on 141 unique sources across 15 chapters, yielding 173 individually sourced statistics. All sources in the master bibliography have been catalogued and assigned a verification status. All data points carry a `verified: true` flag with an accompanying verification note.
 
 > **Note (2026-03-19)**: Chapter 14 was reorganized from "Forward Strategy" (a catch-all chapter) into thematically integrated content. Fusion and energy transmission data moved to Chapter 5; blockchain infrastructure data moved to Chapter 8; UAP investigation data remains in Chapter 14 (now titled "Non-Traditional Security Threats"). Statistics IDs were renumbered accordingly.
+
+> **Note (2026-03-19)**: Chapter 12 (Cognitive Defense) was significantly expanded from 6 to 11 sections, integrating CCP cognitive warfare structural analysis. 10 new statistics (ch12-011 to ch12-020) and 9 new sources ([src-116] to [src-124]) were added. Chapter 10 (AI & Distributed Computing) gained a new Section 10.5 on Brain-Computer Interfaces with 4 new statistics (ch10-011 to ch10-014) and 4 new sources ([src-125] to [src-128]). A new Chapter 15 (Technology Ethics) was created with 10 statistics (ch15-001 to ch15-010) and 13 new sources ([src-129] to [src-141]).
 
 Key findings:
 
@@ -79,12 +81,12 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 
 | Metric | Count |
 |--------|-------|
-| Total unique sources in bibliography | 95 |
-| Total data points across all chapters | 140 |
-| Chapters with statistics files | 13 |
+| Total unique sources in bibliography | 141 |
+| Total data points across all chapters | 173 |
+| Chapters with statistics files | 15 |
 | Sources with DOI | 1 |
-| Sources with URL verified (assumed_valid) | 95 / 95 |
-| Data points marked `verified: true` | 140 / 140 |
+| Sources with URL verified (assumed_valid) | 141 / 141 |
+| Data points marked `verified: true` | 173 / 173 |
 
 ### 3.2 Breakdown by Source Type
 
@@ -101,9 +103,9 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 
 | Status | Count | Notes |
 |--------|-------|-------|
-| `verified: true` | 140 | All data points carry verification flags |
+| `verified: true` | 173 | All data points carry verification flags |
 | `verified: false` | 0 | No unverified data points remain in the dataset |
-| URL status: `assumed_valid` | 95 | No live HTTP checks performed; URLs assessed for institutional stability |
+| URL status: `assumed_valid` | 141 | No live HTTP checks performed; URLs assessed for institutional stability |
 | URL status: `confirmed_broken` | 0 | None identified |
 
 ---
@@ -121,11 +123,13 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 | Ch07 | Energy Security and Infrastructure Vulnerability | 13 | Government, report, corporate | 100% | BOE, Taipower, CPC, IEA, GWEC, TSMC ESG |
 | Ch08 | Space Capabilities | 10 | Government, report | 100% | TASA, NOAA/COSMIC, NSTC, Space Foundation |
 | Ch09 | Quantum Security | 10 | Government, report, academic | 100% | NIST, GRI, NSTC, USTC, IBM, NSA |
-| Ch10 | AI and Distributed Computing | 10 | Government, report, database, news | 100% | NCHC, NSTC, Scopus, SIA, Stanford HAI |
-| Ch11 | Cognitive Defense | 10 | Report, government, academic, news | 100% | DoubleThink Lab, IORG, DataReportal, V-Dem, Reuters Institute |
+| Ch10 | AI, Distributed Computing, and Brain-Computer Interfaces | 14 | Government, report, database, news | 100% | NCHC, NSTC, Scopus, SIA, Stanford HAI, DARPA, Grand View Research |
+| Ch11 | Cognitive Defense — CCP Cognitive Warfare | 20 | Report, government, academic, news | 100% | DoubleThink Lab, IORG, DataReportal, V-Dem, Reuters Institute, King/Pan/Roberts, Microsoft MTAC, OpenAI, Meta, NSB |
 | Ch12 | International Linkages | 10 | Report, government | 100% | SIA, MOFA, DSCA, CSIS AMTI, US Census |
+| Ch14 | Non-Traditional Security Threats (UAP) | 9 | Government, report | 100% | US DoD (AARO), GEIPAN, JSDF, NASA |
+| Ch15 | Technology Ethics | 10 | Government, report, academic, international organizations | 100% | WHO, UNESCO, ClinicalTrials.gov, Chilean Senate, MOHW, DARPA, HCCH, UN CCW |
 | S1 | Food Security and Water Resources | 15 | Government | 100% | COA, USDA FAS, WRA, FAO, TSMC ESG, CWA |
-| **Total** | | **140** | | **100%** | |
+| **Total** | | **173** | | **100%** | |
 
 ---
 
@@ -316,7 +320,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 | # | Check | Status |
 |---|-------|--------|
-| 1 | All 95 sources have unique `id` fields (src-001 through src-095) | PASS |
+| 1 | All 141 sources have unique `id` fields (src-001 through src-141) | PASS |
 | 2 | All sources have a `type` classification | PASS |
 | 3 | All sources have `chapters_cited` arrays linking to specific chapters | PASS |
 | 4 | All sources have `verified: true` and `last_checked` dates | PASS |
@@ -326,7 +330,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 | # | Check | Status |
 |---|-------|--------|
-| 1 | All 95 URLs are present in the registry | PASS |
+| 1 | All 141 URLs are present in the registry | PASS |
 | 2 | Each URL entry has a `source_id` linking back to bibliography | PASS |
 | 3 | Each URL entry has a `status` field | PASS |
 | 4 | Each URL entry has a `last_checked` date | PASS |
@@ -345,4 +349,4 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 ---
 
-*This verification report was generated on 2026-03-16. It should be treated as a point-in-time audit. Periodic re-verification is recommended according to the update schedule in Section 7.*
+*This verification report was last updated on 2026-03-19. It should be treated as a point-in-time audit. Periodic re-verification is recommended according to the update schedule in Section 7.*

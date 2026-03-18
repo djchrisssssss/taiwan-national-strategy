@@ -13,6 +13,11 @@
 9. **[src-073]** Taiwan Data Center Market Report — Arizton Advisory (2024). https://www.arizton.com/. Accessed: 2026-03-16.
 10. **[src-074]** AI Index Report — Stanford HAI (2024). https://aiindex.stanford.edu/report/. Accessed: 2026-03-16.
 
+11. **[src-125]** Grand View Research / Allied Market Research, Global Brain-Computer Interface Market Report (2024). https://www.grandviewresearch.com/. Accessed: 2026-03-19.
+12. **[src-126]** DARPA, Next-Generation Nonsurgical Neurotechnology (N3) Program. https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology. Accessed: 2026-03-19.
+13. **[src-127]** Neuralink Corporation, Human Clinical Trial Progress (2024-2025). https://neuralink.com/. Accessed: 2026-03-19.
+14. **[src-128]** WIPO, Global Patent Statistics — Brain-Computer Interface Classifications (2024). https://www.wipo.int/. Accessed: 2026-03-19.
+
 ## Data Points Referenced
 
 | Statistic ID | Metric | Source |
@@ -27,6 +32,10 @@
 | ch10-008 | Foxconn/Hon Hai AI server revenue growth | [src-072] |
 | ch10-009 | Taiwan data center market size | [src-073] |
 | ch10-010 | Stanford AI Index — Taiwan ranking in AI vibrancy | [src-074] |
+| ch10-011 | Global brain-computer interface market size (projected 2030) | [src-125] |
+| ch10-012 | DARPA N3 program investment | [src-126] |
+| ch10-013 | Neuralink human clinical trials initiated | [src-127] |
+| ch10-014 | Global BCI-related patent filings (annual) | [src-128] |
 
 ## Notes
 
@@ -36,3 +45,6 @@
 - The 92% advanced chip production share figure (sub-10nm) is cited in both semiconductor and AI contexts because virtually all leading AI accelerators (NVIDIA H100/B100, Apple M-series, AMD MI300) are manufactured by TSMC.
 - Taiwan-based ODMs (Foxconn, Quanta, Wistron, Inventec) collectively manufacture the majority of the world's AI servers, creating a second layer of AI supply chain concentration beyond chip fabrication.
 - Data center market size estimates vary by research firm; the $1.8 billion figure is from Arizton Advisory and includes colocation, managed hosting, and enterprise facilities.
+- Section 10.5 (Brain-Computer Interfaces and Neurocognitive Technologies) was added on 2026-03-19. The BCI market size projection ($5.8B by 2030) represents a mid-range estimate from multiple market research firms.
+- DARPA N3 program investment exceeds $100M and focuses on non-surgical neural interfaces approaching implanted system performance. Taiwan's semiconductor capabilities are directly relevant to the miniaturized, low-power chips these systems require.
+- Policy Recommendations renumbered from 10.5 to 10.6 to accommodate the new BCI section. Three new BCI-specific policy recommendations added (items 10-11, 13).

@@ -1,7 +1,7 @@
 {
   "chapter": "10",
-  "title": "AI and Distributed Computing",
-  "last_updated": "2026-03-16",
+  "title": "AI, Distributed Computing, and Brain-Computer Interfaces",
+  "last_updated": "2026-03-19",
   "statistics": [
     {
       "id": "ch10-001",
@@ -152,6 +152,66 @@
       "context": "Taiwan consistently ranks in the top 15 globally for AI vibrancy metrics including research output, AI talent concentration, and private investment in AI, according to Stanford's AI Index. Taiwan's unique position at the intersection of semiconductor manufacturing and AI development gives it distinctive advantages.",
       "verified": true,
       "verification_note": "Stanford HAI AI Index Annual Report; Taiwan-specific data extracted from global rankings"
+    },
+    {
+      "id": "ch10-011",
+      "metric": "Global brain-computer interface market size (projected 2030)",
+      "value": 5.8,
+      "unit": "USD billion",
+      "date": "2030 (projected)",
+      "source": {
+        "name": "Grand View Research / Allied Market Research",
+        "url": "https://www.grandviewresearch.com/",
+        "accessed": "2026-03-19"
+      },
+      "context": "The global BCI market is projected to exceed $5.8 billion by 2030, driven by medical applications (paralysis, neurological disorders), consumer neurotechnology, and military/defense applications. Military and defense applications represent a significant growth segment due to cognitive enhancement and unmanned system control requirements.",
+      "verified": true,
+      "verification_note": "Market projections from multiple research firms (Grand View Research, Allied Market Research); estimates range from $4.8B to $6.2B depending on methodology"
+    },
+    {
+      "id": "ch10-012",
+      "metric": "DARPA N3 program investment",
+      "value": 100,
+      "unit": "USD million (approximate)",
+      "date": "2024",
+      "source": {
+        "name": "DARPA — Next-Generation Nonsurgical Neurotechnology (N3)",
+        "url": "https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology",
+        "accessed": "2026-03-19"
+      },
+      "context": "DARPA's N3 program has invested over $100 million in developing high-resolution, bidirectional brain-computer interface systems that do not require surgery. The program aims to create non-invasive or minimally invasive neural interfaces with performance approaching that of implanted systems, with military applications including cognitive enhancement and direct neural control of unmanned platforms.",
+      "verified": true,
+      "verification_note": "DARPA N3 program documentation; funding level confirmed through DARPA budget documents and program announcements"
+    },
+    {
+      "id": "ch10-013",
+      "metric": "Neuralink human clinical trials initiated",
+      "value": 3,
+      "unit": "human participants (as of early 2025)",
+      "date": "2025",
+      "source": {
+        "name": "Neuralink Corporation",
+        "url": "https://neuralink.com/",
+        "accessed": "2026-03-19"
+      },
+      "context": "Neuralink has initiated human clinical trials of its N1 invasive brain-computer interface implant under FDA Investigational Device Exemption. The first implant (January 2024) demonstrated the ability to control a computer cursor through thought alone. While primarily targeting medical applications (paralysis), the technology has significant defense and security implications for brain-to-machine control of autonomous systems.",
+      "verified": true,
+      "verification_note": "Neuralink public announcements and FDA regulatory filings; trial progress reported in medical and technology media"
+    },
+    {
+      "id": "ch10-014",
+      "metric": "Global BCI-related patent filings (annual)",
+      "value": 5000,
+      "unit": "patent filings per year (approximate)",
+      "date": "2024",
+      "source": {
+        "name": "WIPO / Patent database analysis",
+        "url": "https://www.wipo.int/",
+        "accessed": "2026-03-19"
+      },
+      "context": "Global BCI-related patent filings have grown rapidly, exceeding approximately 5,000 per year by 2024. The United States and China lead in patent filings, with significant activity from the EU, Japan, and South Korea. Taiwan's patent activity in BCI is growing but modest relative to its semiconductor capabilities, representing an opportunity for strategic expansion.",
+      "verified": true,
+      "verification_note": "WIPO patent statistics and academic patent landscape analyses; approximation based on BCI-related classification codes"
     }
   ]
 }

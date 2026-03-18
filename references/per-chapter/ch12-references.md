@@ -1,4 +1,4 @@
-# Chapter 11: Cognitive Defense — References
+# Chapter 12: Cognitive Defense — References
 
 ## Primary Sources
 
@@ -12,21 +12,40 @@
 8. **[src-082]** Taiwan National Institute of Cyber Security (NICS) (2024). https://www.nics.nat.gov.tw/. Accessed: 2026-03-16.
 9. **[src-083]** V-Dem Digital Society Survey — V-Dem Institute, University of Gothenburg (2024). https://www.v-dem.net/. Accessed: 2026-03-16.
 10. **[src-084]** Digital News Report 2024 — Reuters Institute, University of Oxford (2024). https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024. Accessed: 2026-03-16.
+11. **[src-116]** djchrisssssss, "CCP Cognitive Warfare Against Taiwan: A Structural Deconstruction," 2026. https://github.com/djchrisssssss/ccp-cognitive-invade-deconstruction. Accessed: 2026-03-19.
+12. **[src-117]** King, G., Pan, J., & Roberts, M.E., "How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument," *American Political Science Review*, 111(3), 2017. https://doi.org/10.1017/S0003055417000144. Accessed: 2026-03-19.
+13. **[src-118]** Microsoft Threat Analysis Center (MTAC), "East Asia Threat Report," 2024. https://www.microsoft.com/en-us/security/security-insider/. Accessed: 2026-03-19.
+14. **[src-119]** OpenAI, "Disrupting Deceptive Uses of AI by Covert Influence Operations," 2024. https://openai.com/. Accessed: 2026-03-19.
+15. **[src-120]** Meta, "Adversarial Threat Reports — Coordinated Inauthentic Behavior." https://transparency.fb.com/. Accessed: 2026-03-19.
+16. **[src-121]** Stanford Internet Observatory, "Spamouflage Network Analysis." https://cyber.fsi.stanford.edu/io. Accessed: 2026-03-19.
+17. **[src-122]** GoLaxy / IORG, Leaked CCP Information Operations Documents, 2024. https://iorg.tw/en. Accessed: 2026-03-19.
+18. **[src-123]** Taiwan National Security Bureau (NSB), Annual Espionage Statistics, 2024. https://www.nsb.gov.tw/. Accessed: 2026-03-19.
+19. **[src-124]** Australian Strategic Policy Institute (ASPI), "Gaming Public Opinion," 2020. https://www.aspi.org.au/. Accessed: 2026-03-19.
 
 ## Data Points Referenced
 
 | Statistic ID | Metric | Source |
 |---|---|---|
-| ch11-001 | Documented Chinese state-sponsored disinformation campaigns targeting Taiwan | [src-075] |
-| ch11-002 | Taiwan social media penetration rate | [src-076] |
-| ch11-003 | LINE messaging app users in Taiwan | [src-077] |
-| ch11-004 | Taiwan fact-checking organizations certified by IFCN | [src-078] |
-| ch11-005 | Taiwan media literacy curriculum coverage in schools | [src-079] |
-| ch11-006 | PRC content farm articles targeting Taiwan detected monthly | [src-080] |
-| ch11-007 | Deepfake detection — AI-generated political content incidents | [src-081] |
-| ch11-008 | Taiwan government cybersecurity incident reports | [src-082] |
-| ch11-009 | V-Dem Democracy Index — Taiwan ranking for foreign disinformation | [src-083] |
-| ch11-010 | Taiwan public trust in traditional media | [src-084] |
+| ch12-001 | Documented Chinese state-sponsored disinformation campaigns targeting Taiwan | [src-075] |
+| ch12-002 | Taiwan social media penetration rate | [src-076] |
+| ch12-003 | LINE messaging app users in Taiwan | [src-077] |
+| ch12-004 | Taiwan fact-checking organizations certified by IFCN | [src-078] |
+| ch12-005 | Taiwan media literacy curriculum coverage in schools | [src-079] |
+| ch12-006 | PRC content farm articles targeting Taiwan detected monthly | [src-080] |
+| ch12-007 | Deepfake detection — AI-generated political content incidents | [src-081] |
+| ch12-008 | Taiwan government cybersecurity incident reports | [src-082] |
+| ch12-009 | V-Dem Democracy Index — Taiwan ranking for foreign disinformation | [src-083] |
+| ch12-010 | Taiwan public trust in traditional media | [src-084] |
+| ch12-011 | Estimated CCP state-generated social media posts annually | [src-117] |
+| ch12-012 | V-Dem ranking — Taiwan as most targeted democracy (since 2017) | [src-083] |
+| ch12-013 | GoLaxy leaked documents — pages of CCP operational records | [src-122] |
+| ch12-014 | AI deepfake items targeting 2024 Taiwan presidential election | [src-118] |
+| ch12-015 | NSB espionage cases prosecuted (2024) | [src-123] |
+| ch12-016 | Meta CIB takedowns of CCP-linked networks | [src-120] |
+| ch12-017 | OpenAI disruptions of China-origin covert influence operations | [src-119] |
+| ch12-018 | CCP targeting database — Taiwanese individuals and organizations | [src-122] |
+| ch12-019 | CCP economic coercion incidents targeting Taiwan | [src-116] |
+| ch12-020 | CCP four-layer command structure layers identified | [src-116] |
 
 ## Notes
 
@@ -36,3 +55,6 @@
 - The January 2024 presidential election saw the first documented use of AI-generated deepfake content at scale in Taiwan's political landscape, marking an escalation in cognitive warfare techniques.
 - Low media trust (30.8% per Reuters Institute) creates a paradoxical situation: it makes the population susceptible to alternative information sources exploited by disinformation operators, but also makes citizens skeptical of all sources including false narratives.
 - Taiwan's integration of media literacy across the K-12 curriculum (108 Curriculum) is considered a global model for institutional disinformation resilience.
+- The 448 million posts/year estimate from King, Pan & Roberts (2017) predates LLM-powered content generation. Current volumes are likely substantially higher.
+- The GoLaxy documents (399 pages) represent one of the most significant leaks of CCP information operation internal records. Analysis was conducted independently by multiple research institutions.
+- Chapter 12 was substantially expanded on 2026-03-19 to integrate CCP cognitive warfare structural analysis, platform-specific infiltration strategies, economic coercion as cognitive warfare, and institutional infiltration documentation. Sections expanded from 6 to 11.
