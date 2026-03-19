@@ -4158,6 +4158,21 @@ Multiple documented cases demonstrate CCP-linked interest in foreign agricultura
 - In 2020, thousands of unsolicited seed packages labeled as originating from China were sent to households across the United States, prompting USDA investigation. While the official assessment characterized these as a "brushing" e-commerce scam, the incident highlighted vulnerabilities in agricultural biosecurity screening and the ease of cross-border biological material transmission.
 - The broader pattern of CCP technology transfer operations — documented across semiconductor, telecommunications, and defense sectors — extends to the agricultural and biological domains, where the strategic objective is acquiring dual-use capabilities while understanding potential adversary vulnerabilities.
 
+**The Fusarium graminearum Case (2024–2025)**
+
+In June 2025, the U.S. Department of Justice unsealed an indictment charging two Chinese nationals — Yunqing Jian (簡韻清), 33, a postdoctoral fellow at the University of Michigan, and Zunyong Liu (劉尊勇), 34 — with conspiracy and smuggling a dangerous biological pathogen into the United States [src-157]. On July 27, 2024, customs agents at Detroit Metropolitan Airport discovered 10 strains of *Fusarium graminearum* concealed in Liu's backpack — hidden in filter paper and four plastic baggies of infected plant material wrapped in tissues. Liu initially denied knowledge but later admitted intentionally concealing the samples to avoid confiscation.
+
+*Fusarium graminearum* is a fungal pathogen that causes Fusarium head blight (赤黴病) in wheat, barley, maize, and rice. The FBI classified it as a potential agroterrorism weapon, noting it causes billions of dollars in global economic losses annually and produces mycotoxins (deoxynivalenol/vomitoxin) that cause vomiting, liver damage, and reproductive defects in livestock and humans.
+
+The case revealed several concerning patterns:
+- **Prior planning**: WeChat messages dating to 2022 showed the pair discussing smuggling techniques, with Liu writing "I put them in my Martin boots...in a small bag" and Jian responding "Just put it in your shoes."
+- **CCP membership**: Jian's electronics contained information describing her membership in and loyalty to the Chinese Communist Party.
+- **Additional smuggling attempts**: In January 2024, customs officials in Louisville, Kentucky intercepted and destroyed a shipment of unknown substances sent from Zhejiang University in China addressed to Jian's home address.
+- **Related case**: Days after the indictment was unsealed, the DOJ announced the arrest of Chengxuan Han (韓承宣), a Ph.D. student from Huazhong University of Science and Technology in Wuhan, who admitted to sending four packages containing concealed biological material from China to individuals associated with a University of Michigan laboratory in 2024–2025.
+- **Article on Liu's phone**: FBI investigators found an article titled "Plant-Pathogen Warfare under Changing Climate Conditions" on Liu's device.
+
+U.S. Attorney Jerome Gorgan characterized the alleged actions as being "of the gravest national security concerns." The case illustrates the direct intersection between CCP-affiliated researchers, agricultural pathogen acquisition, and the U.S. research university system as a vector for biological material transfer — a pattern with direct implications for Taiwan's own agricultural biosecurity and research institution oversight.
+
 **The Reedley, California Incident (2023)**
 
 In March 2023, city code enforcement in Reedley, California (Fresno County) discovered an unauthorized biological laboratory operating in a warehouse, run by Prestige Biotech Inc. with links to a Chinese national [ch16-008]. The facility contained:

@@ -152,6 +152,21 @@
       "context": "Moved from ch15-007. Approximately 70 countries have enacted legislation prohibiting reproductive human cloning. However, no binding international treaty exists (a non-binding UN Declaration on Human Cloning was adopted in 2005), and enforcement mechanisms vary widely. The absence of enforceable international norms creates governance gaps exploitable by state actors with less restrictive regulatory environments.",
       "verified": true,
       "verification_note": "Country counts approximate and vary by survey methodology; UNESCO Universal Declaration on the Human Genome and Human Rights (1997) provides normative framework"
+    },
+    {
+      "id": "ch16-011",
+      "metric": "Fusarium graminearum smuggling indictment — Chinese nationals charged",
+      "value": 2,
+      "unit": "individuals indicted (June 2025)",
+      "date": "2025",
+      "source": {
+        "name": "U.S. Department of Justice, Eastern District of Michigan",
+        "url": "https://www.justice.gov/usao-edmi/pr/chinese-nationals-charged-conspiracy-and-smuggling-dangerous-biological-pathogen-us",
+        "accessed": "2026-03-19"
+      },
+      "context": "In June 2025, the DOJ unsealed an indictment charging Yunqing Jian (33, University of Michigan postdoctoral fellow) and Zunyong Liu (34) with conspiracy and smuggling Fusarium graminearum — a fungal pathogen causing head blight in wheat, barley, maize, and rice — into the United States. Customs agents discovered 10 concealed strains at Detroit Metropolitan Airport on July 27, 2024. Jian's electronics contained information describing CCP membership and loyalty. WeChat messages from 2022 revealed prior planning of smuggling methods. A related case involved Chengxuan Han, a Ph.D. student from Wuhan's Huazhong University, who admitted sending concealed biological material to the same University of Michigan laboratory. The case demonstrates the intersection of CCP-affiliated researchers, agricultural pathogen acquisition, and exploitation of the U.S. research university system.",
+      "verified": true,
+      "verification_note": "DOJ Eastern District of Michigan official press release (June 2025); corroborated by ABC News, NBC News, Washington Post, and Al Jazeera reporting; FBI Counterintelligence Division conducted investigation"
     }
   ]
 }

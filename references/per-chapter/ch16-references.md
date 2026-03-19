@@ -17,6 +17,7 @@
 13. **[src-154]** UNESCO — Universal Declaration on the Human Genome and Human Rights (1997). https://www.unesco.org/. Accessed: 2026-03-19. (Moved from ch15 [src-134])
 14. **[src-155]** He Jiankui et al., Documentation of CRISPR Human Germline Editing Case (2018). Various academic and journalistic sources. (Moved from ch15 [src-138])
 15. **[src-156]** Fresno County Department of Public Health — Reedley Biolab Inspection Reports (2023). https://www.co.fresno.ca.us/departments/public-health. Accessed: 2026-03-19.
+16. **[src-157]** U.S. Department of Justice, Eastern District of Michigan — "Chinese Nationals Charged with Conspiracy and Smuggling a Dangerous Biological Pathogen into the U.S." (June 2025). https://www.justice.gov/usao-edmi/pr/chinese-nationals-charged-conspiracy-and-smuggling-dangerous-biological-pathogen-us. Accessed: 2026-03-19.
 
 ## Data Points Referenced
 
@@ -32,6 +33,7 @@
 | ch16-008 | Reedley CA unauthorized biolab discovery | [src-146], [src-156] |
 | ch16-009 | CRISPR clinical trials globally | [src-153] |
 | ch16-010 | Countries with human cloning prohibition | [src-154] |
+| ch16-011 | Fusarium graminearum smuggling indictment (2025) | [src-157] |
 
 ## Notes
 
@@ -40,4 +42,5 @@
 - References [src-153], [src-154], and [src-155] were moved from Chapter 15 ([src-131], [src-134], [src-138] respectively) and assigned new IDs to maintain sequential numbering.
 - COVID-19 origins content (Section 16.2) presents the scientific debate and intelligence community assessments factually, without declaring a definitive conclusion, consistent with the project's academic analysis methodology.
 - The Reedley, California incident (Section 16.3) is documented through official government investigation records (Fresno County, CDC, House Select Committee on the CCP).
+- The Fusarium graminearum smuggling case (Section 16.3) is documented through the DOJ indictment (Eastern District of Michigan, June 2025) and corroborated by ABC News, NBC News, and Washington Post reporting.
 - All content is framed through Taiwan's national security lens, assessing biological threats as they specifically impact Taiwan's defense posture, public health resilience, and strategic vulnerability.

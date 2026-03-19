@@ -6,15 +6,15 @@
 |-------|-------|
 | Report Date | 2026-03-19 |
 | Data Audit Date | 2025-07-15 (bibliography); 2026-03-19 (statistics) |
-| Total Sources | 156 |
-| Total Data Points | 183 |
+| Total Sources | 157 |
+| Total Data Points | 184 |
 | Chapters Covered | 16 (Ch01--Ch16) |
 
 ---
 
 ## 1. Executive Summary
 
-This report documents the verification methodology and results for all quantitative data points used in the Taiwan National Strategy project. The project draws on 156 unique sources across 16 chapters, yielding 183 individually sourced statistics. All sources in the master bibliography have been catalogued and assigned a verification status. All data points carry a `verified: true` flag with an accompanying verification note.
+This report documents the verification methodology and results for all quantitative data points used in the Taiwan National Strategy project. The project draws on 157 unique sources across 16 chapters, yielding 184 individually sourced statistics. All sources in the master bibliography have been catalogued and assigned a verification status. All data points carry a `verified: true` flag with an accompanying verification note.
 
 > **Note (2026-03-19)**: Chapter 14 was reorganized from "Forward Strategy" (a catch-all chapter) into thematically integrated content. Fusion and energy transmission data moved to Chapter 5; blockchain infrastructure data moved to Chapter 8; UAP investigation data remains in Chapter 14 (now titled "Non-Traditional Security Threats"). Statistics IDs were renumbered accordingly.
 
@@ -83,12 +83,12 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 
 | Metric | Count |
 |--------|-------|
-| Total unique sources in bibliography | 156 |
-| Total data points across all chapters | 183 |
+| Total unique sources in bibliography | 157 |
+| Total data points across all chapters | 184 |
 | Chapters with statistics files | 16 |
 | Sources with DOI | 1 |
-| Sources with URL verified (assumed_valid) | 156 / 156 |
-| Data points marked `verified: true` | 183 / 183 |
+| Sources with URL verified (assumed_valid) | 157 / 157 |
+| Data points marked `verified: true` | 184 / 184 |
 
 ### 3.2 Breakdown by Source Type
 
@@ -105,9 +105,9 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 
 | Status | Count | Notes |
 |--------|-------|-------|
-| `verified: true` | 183 | All data points carry verification flags |
+| `verified: true` | 184 | All data points carry verification flags |
 | `verified: false` | 0 | No unverified data points remain in the dataset |
-| URL status: `assumed_valid` | 156 | No live HTTP checks performed; URLs assessed for institutional stability |
+| URL status: `assumed_valid` | 157 | No live HTTP checks performed; URLs assessed for institutional stability |
 | URL status: `confirmed_broken` | 0 | None identified |
 
 ---
@@ -130,9 +130,9 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 | Ch12 | International Linkages | 10 | Report, government | 100% | SIA, MOFA, DSCA, CSIS AMTI, US Census |
 | Ch14 | Non-Traditional Security Threats (UAP) | 9 | Government, report | 100% | US DoD (AARO), GEIPAN, JSDF, NASA |
 | Ch15 | Technology Ethics | 8 | Government, report, academic, international organizations | 100% | Chilean Senate, MOHW, DARPA, HCCH, UN CCW, Neuralink |
-| Ch16 | Biological Security | 10 | Government, report, academic, international organizations | 100% | UN BWC, ODNI, WHO, Taiwan CDC, MOHW, NAS, House Select Committee, Fresno County DPH |
+| Ch16 | Biological Security | 11 | Government, report, academic, international organizations | 100% | UN BWC, ODNI, WHO, Taiwan CDC, MOHW, NAS, House Select Committee, Fresno County DPH |
 | S1 | Food Security and Water Resources | 15 | Government | 100% | COA, USDA FAS, WRA, FAO, TSMC ESG, CWA |
-| **Total** | | **183** | | **100%** | |
+| **Total** | | **184** | | **100%** | |
 
 ---
 
@@ -323,7 +323,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 | # | Check | Status |
 |---|-------|--------|
-| 1 | All 156 sources have unique `id` fields (src-001 through src-156) | PASS |
+| 1 | All 157 sources have unique `id` fields (src-001 through src-157) | PASS |
 | 2 | All sources have a `type` classification | PASS |
 | 3 | All sources have `chapters_cited` arrays linking to specific chapters | PASS |
 | 4 | All sources have `verified: true` and `last_checked` dates | PASS |
@@ -333,7 +333,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 | # | Check | Status |
 |---|-------|--------|
-| 1 | All 156 URLs are present in the registry | PASS |
+| 1 | All 157 URLs are present in the registry | PASS |
 | 2 | Each URL entry has a `source_id` linking back to bibliography | PASS |
 | 3 | Each URL entry has a `status` field | PASS |
 | 4 | Each URL entry has a `last_checked` date | PASS |
