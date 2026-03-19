@@ -1,10 +1,10 @@
 {
-  "chapter": "10",
+  "chapter": "11",
   "title": "AI, Distributed Computing, and Brain-Computer Interfaces",
   "last_updated": "2026-03-19",
   "statistics": [
     {
-      "id": "ch10-001",
+      "id": "ch11-001",
       "metric": "Taiwan NCHC Taiwania 2 supercomputer peak performance",
       "value": 9.0,
       "unit": "PFLOPS (petaflops)",
@@ -19,7 +19,7 @@
       "verification_note": "NCHC facility specifications; listed on TOP500 supercomputer rankings"
     },
     {
-      "id": "ch10-002",
+      "id": "ch11-002",
       "metric": "Taiwan government AI budget allocation",
       "value": 10.2,
       "unit": "TWD billion (approximately USD 314 million) annual",
@@ -34,7 +34,7 @@
       "verification_note": "NSTC and Executive Yuan AI policy announcements; budget figures from Legislative Yuan records"
     },
     {
-      "id": "ch10-003",
+      "id": "ch11-003",
       "metric": "Taiwan AI research publications (Scopus-indexed)",
       "value": 5200,
       "unit": "publications per year (approximately)",
@@ -49,7 +49,7 @@
       "verification_note": "Scopus bibliometric analysis for Taiwan-affiliated AI/ML publications; consistent with Stanford AI Index country data"
     },
     {
-      "id": "ch10-004",
+      "id": "ch11-004",
       "metric": "NVIDIA GPU shipments to Taiwan data centers",
       "value": "major deployment hub",
       "unit": "status",
@@ -64,7 +64,7 @@
       "verification_note": "Industry reports from DigiTimes and Taiwan server ODM shipping data"
     },
     {
-      "id": "ch10-005",
+      "id": "ch11-005",
       "metric": "Taiwan AI startup ecosystem size",
       "value": 400,
       "unit": "AI-focused startups (approximately)",
@@ -79,7 +79,7 @@
       "verification_note": "Estimated from Taiwan Startup Ecosystem reports, Appworks portfolio data, and NSTC AI industry surveys"
     },
     {
-      "id": "ch10-006",
+      "id": "ch11-006",
       "metric": "TSMC advanced chip production share relevant to AI hardware",
       "value": 92,
       "unit": "percent of global advanced semiconductor production (<10nm)",
@@ -94,7 +94,7 @@
       "verification_note": "SIA data and TrendForce foundry market share analysis; widely cited in industry reports"
     },
     {
-      "id": "ch10-007",
+      "id": "ch11-007",
       "metric": "Taiwan AI Academy graduates trained",
       "value": 10000,
       "unit": "professionals trained (cumulative since 2018)",
@@ -109,7 +109,7 @@
       "verification_note": "Taiwan AI Academy program reports and media coverage of enrollment milestones"
     },
     {
-      "id": "ch10-008",
+      "id": "ch11-008",
       "metric": "Foxconn/Hon Hai AI server revenue growth",
       "value": 40,
       "unit": "percent year-over-year growth",
@@ -124,7 +124,7 @@
       "verification_note": "Foxconn quarterly investor calls and DigiTimes/TrendForce server market analysis"
     },
     {
-      "id": "ch10-009",
+      "id": "ch11-009",
       "metric": "Taiwan data center market size",
       "value": 1.8,
       "unit": "USD billion",
@@ -139,7 +139,7 @@
       "verification_note": "Market research estimates from Arizton and Research and Markets Taiwan data center reports"
     },
     {
-      "id": "ch10-010",
+      "id": "ch11-010",
       "metric": "Stanford AI Index - Taiwan ranking in AI vibrancy",
       "value": "top 15",
       "unit": "global ranking",
@@ -154,7 +154,7 @@
       "verification_note": "Stanford HAI AI Index Annual Report; Taiwan-specific data extracted from global rankings"
     },
     {
-      "id": "ch10-011",
+      "id": "ch11-011",
       "metric": "Global brain-computer interface market size (projected 2030)",
       "value": 5.8,
       "unit": "USD billion",
@@ -169,7 +169,7 @@
       "verification_note": "Market projections from multiple research firms (Grand View Research, Allied Market Research); estimates range from $4.8B to $6.2B depending on methodology"
     },
     {
-      "id": "ch10-012",
+      "id": "ch11-012",
       "metric": "DARPA N3 program investment",
       "value": 100,
       "unit": "USD million (approximate)",
@@ -184,7 +184,7 @@
       "verification_note": "DARPA N3 program documentation; funding level confirmed through DARPA budget documents and program announcements"
     },
     {
-      "id": "ch10-013",
+      "id": "ch11-013",
       "metric": "Neuralink human clinical trials initiated",
       "value": 3,
       "unit": "human participants (as of early 2025)",
@@ -199,7 +199,7 @@
       "verification_note": "Neuralink public announcements and FDA regulatory filings; trial progress reported in medical and technology media"
     },
     {
-      "id": "ch10-014",
+      "id": "ch11-014",
       "metric": "Global BCI-related patent filings (annual)",
       "value": 5000,
       "unit": "patent filings per year (approximate)",

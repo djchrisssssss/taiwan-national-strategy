@@ -1,10 +1,10 @@
 {
-  "chapter": "16",
+  "chapter": "07",
   "title": "Biological Security — Biowarfare Threats, Biosurveillance, and Pandemic Resilience",
   "last_updated": "2026-03-19",
   "statistics": [
     {
-      "id": "ch16-001",
+      "id": "ch07-001",
       "metric": "Biological Weapons Convention (BWC) states parties",
       "value": 187,
       "unit": "states parties (as of 2024)",
@@ -19,7 +19,7 @@
       "verification_note": "UN Office for Disarmament Affairs official records; state party count confirmed through BWC Implementation Support Unit"
     },
     {
-      "id": "ch16-002",
+      "id": "ch07-002",
       "metric": "China operational BSL-4 laboratories",
       "value": 3,
       "unit": "laboratories (as of 2024)",
@@ -34,7 +34,7 @@
       "verification_note": "Nature reports on global BSL-4 mapping; Wuhan BSL-4 operational date confirmed by Chinese Academy of Sciences publications; Harbin facility confirmed through CAAS records"
     },
     {
-      "id": "ch16-003",
+      "id": "ch07-003",
       "metric": "SARS-CoV-2 cumulative global deaths (WHO official)",
       "value": 7010681,
       "unit": "confirmed deaths",
@@ -49,7 +49,7 @@
       "verification_note": "WHO COVID-19 Dashboard official cumulative figures; excess mortality estimates from peer-reviewed sources and IHME Global Burden of Disease"
     },
     {
-      "id": "ch16-004",
+      "id": "ch07-004",
       "metric": "Taiwan COVID-19 initial containment without lockdown",
       "value": 15,
       "unit": "months (January 2020 to May 2021)",
@@ -64,7 +64,7 @@
       "verification_note": "Taiwan CDC daily case reports; containment period documented in multiple peer-reviewed public health analyses (The Lancet, JAMA)"
     },
     {
-      "id": "ch16-005",
+      "id": "ch07-005",
       "metric": "Taiwan ICU beds per 100,000 population",
       "value": 28.9,
       "unit": "ICU beds per 100,000 population",
@@ -79,7 +79,7 @@
       "verification_note": "MOHW annual healthcare statistics; OECD Health Statistics for international comparison"
     },
     {
-      "id": "ch16-006",
+      "id": "ch07-006",
       "metric": "DNA synthesis cost decline rate",
       "value": 10,
       "unit": "fold decline approximately per decade",
@@ -94,7 +94,7 @@
       "verification_note": "National Academies report (2018); cost trends tracked by Rob Carlson's synthesis cost curves and industry benchmarks"
     },
     {
-      "id": "ch16-007",
+      "id": "ch07-007",
       "metric": "US intelligence agencies assessing COVID-19 lab-related origin",
       "value": 2,
       "unit": "agencies (FBI and DOE, with low confidence)",
@@ -109,7 +109,7 @@
       "verification_note": "ODNI publicly released declassified report (2023); Senate Select Committee on Intelligence hearings; FBI Director Christopher Wray public testimony (2023)"
     },
     {
-      "id": "ch16-008",
+      "id": "ch07-008",
       "metric": "Reedley, California unauthorized biolab discovery",
       "value": 2023,
       "unit": "year of discovery",
@@ -124,7 +124,7 @@
       "verification_note": "Fresno County Department of Public Health inspection reports; CDC investigation records; House Select Committee on the CCP public hearings and reports (2023)"
     },
     {
-      "id": "ch16-009",
+      "id": "ch07-009",
       "metric": "CRISPR-based clinical trials globally (active or completed)",
       "value": 100,
       "unit": "clinical trials (minimum, as of 2024)",
@@ -134,12 +134,12 @@
         "url": "https://clinicaltrials.gov/",
         "accessed": "2026-03-19"
       },
-      "context": "Moved from ch15-003. Over 100 CRISPR-based clinical trials were registered globally by 2024, covering sickle cell disease, beta-thalassemia, various cancers, HIV, and genetic blindness. The first CRISPR therapy (Casgevy for sickle cell disease) received FDA approval in December 2023. While primarily therapeutic, CRISPR capabilities also represent dual-use biosecurity concerns when applied to germline modification or pathogen enhancement.",
+      "context": "Moved from original ch15-003 (now Ch14). Over 100 CRISPR-based clinical trials were registered globally by 2024, covering sickle cell disease, beta-thalassemia, various cancers, HIV, and genetic blindness. The first CRISPR therapy (Casgevy for sickle cell disease) received FDA approval in December 2023. While primarily therapeutic, CRISPR capabilities also represent dual-use biosecurity concerns when applied to germline modification or pathogen enhancement.",
       "verified": true,
       "verification_note": "ClinicalTrials.gov registry search for CRISPR-related trials; FDA approval of Casgevy confirmed in December 2023"
     },
     {
-      "id": "ch16-010",
+      "id": "ch07-010",
       "metric": "Countries with human cloning prohibition",
       "value": 70,
       "unit": "countries (approximate)",
@@ -149,12 +149,12 @@
         "url": "https://www.unesco.org/",
         "accessed": "2026-03-19"
       },
-      "context": "Moved from ch15-007. Approximately 70 countries have enacted legislation prohibiting reproductive human cloning. However, no binding international treaty exists (a non-binding UN Declaration on Human Cloning was adopted in 2005), and enforcement mechanisms vary widely. The absence of enforceable international norms creates governance gaps exploitable by state actors with less restrictive regulatory environments.",
+      "context": "Moved from original ch15-007 (now Ch14). Approximately 70 countries have enacted legislation prohibiting reproductive human cloning. However, no binding international treaty exists (a non-binding UN Declaration on Human Cloning was adopted in 2005), and enforcement mechanisms vary widely. The absence of enforceable international norms creates governance gaps exploitable by state actors with less restrictive regulatory environments.",
       "verified": true,
       "verification_note": "Country counts approximate and vary by survey methodology; UNESCO Universal Declaration on the Human Genome and Human Rights (1997) provides normative framework"
     },
     {
-      "id": "ch16-011",
+      "id": "ch07-011",
       "metric": "Fusarium graminearum smuggling indictment — Chinese nationals charged",
       "value": 2,
       "unit": "individuals indicted (June 2025)",

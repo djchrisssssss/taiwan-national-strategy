@@ -1,10 +1,10 @@
 {
-  "chapter": "12",
+  "chapter": "13",
   "title": "Cognitive Defense — CCP Cognitive Warfare and Social Trust Infrastructure",
   "last_updated": "2026-03-19",
   "statistics": [
     {
-      "id": "ch12-001",
+      "id": "ch13-001",
       "metric": "Documented Chinese state-sponsored disinformation campaigns targeting Taiwan",
       "value": "thousands of incidents annually",
       "unit": "campaigns/incidents",
@@ -19,7 +19,7 @@
       "verification_note": "DoubleThink Lab China Index and IORG research reports; corroborated by US State Department GEC reports"
     },
     {
-      "id": "ch12-002",
+      "id": "ch13-002",
       "metric": "Taiwan social media penetration rate",
       "value": 89.4,
       "unit": "percent of population",
@@ -34,7 +34,7 @@
       "verification_note": "DataReportal Digital 2024 Taiwan report compiled from platform advertising reach data"
     },
     {
-      "id": "ch12-003",
+      "id": "ch13-003",
       "metric": "LINE messaging app users in Taiwan",
       "value": 21,
       "unit": "million users",
@@ -49,7 +49,7 @@
       "verification_note": "LINE Corporation user statistics for Taiwan market; confirmed by LINE Taiwan press releases"
     },
     {
-      "id": "ch12-004",
+      "id": "ch13-004",
       "metric": "Taiwan fact-checking organizations certified by IFCN",
       "value": 2,
       "unit": "IFCN-certified organizations",
@@ -64,7 +64,7 @@
       "verification_note": "IFCN signatory database at poynter.org; TFC and MyGoPen both hold active IFCN verification"
     },
     {
-      "id": "ch12-005",
+      "id": "ch13-005",
       "metric": "Taiwan media literacy curriculum coverage in schools",
       "value": 100,
       "unit": "percent of K-12 curriculum (media literacy integrated)",
@@ -79,7 +79,7 @@
       "verification_note": "Taiwan MOE curriculum guidelines (108 Curriculum); implementation confirmed by education research"
     },
     {
-      "id": "ch12-006",
+      "id": "ch13-006",
       "metric": "PRC content farm articles targeting Taiwan detected monthly",
       "value": 5000,
       "unit": "articles per month (estimated)",
@@ -94,7 +94,7 @@
       "verification_note": "IORG publishes regular research reports tracking PRC information operations; estimate based on their monitoring methodology"
     },
     {
-      "id": "ch12-007",
+      "id": "ch13-007",
       "metric": "Deepfake detection - AI-generated political content incidents targeting Taiwan elections",
       "value": "multiple confirmed",
       "unit": "incidents during 2024 election cycle",
@@ -109,7 +109,7 @@
       "verification_note": "TFC election fact-check reports; corroborated by V-Dem Digital Society Project and CSIS Taiwan election analysis"
     },
     {
-      "id": "ch12-008",
+      "id": "ch13-008",
       "metric": "Taiwan government cybersecurity incident reports (including disinformation)",
       "value": 29,
       "unit": "million malicious attempts monthly on government networks",
@@ -124,7 +124,7 @@
       "verification_note": "NICS and Taiwan Executive Yuan cyber security office statistics; figure cited by multiple Taiwan government officials in legislative sessions"
     },
     {
-      "id": "ch12-009",
+      "id": "ch13-009",
       "metric": "V-Dem Democracy Index - Taiwan ranking for government disinformation resilience",
       "value": 1,
       "unit": "rank (most targeted by foreign disinformation)",
@@ -139,7 +139,7 @@
       "verification_note": "V-Dem Digital Society Survey - 'Foreign governments disseminate false information' indicator; Taiwan ranked #1 in foreign disinformation exposure"
     },
     {
-      "id": "ch12-010",
+      "id": "ch13-010",
       "metric": "Taiwan public trust in traditional media",
       "value": 30.8,
       "unit": "percent trust in news media",
@@ -154,7 +154,7 @@
       "verification_note": "Reuters Institute Digital News Report 2024 Taiwan country data; survey methodology documented in full report"
     },
     {
-      "id": "ch12-011",
+      "id": "ch13-011",
       "metric": "Estimated CCP state-generated social media posts annually",
       "value": 448,
       "unit": "million posts per year",
@@ -169,7 +169,7 @@
       "verification_note": "Published in American Political Science Review (2017); widely cited in academic and policy literature"
     },
     {
-      "id": "ch12-012",
+      "id": "ch13-012",
       "metric": "V-Dem ranking — Taiwan as most targeted democracy by foreign disinformation",
       "value": 1,
       "unit": "rank (since 2017)",
@@ -184,7 +184,7 @@
       "verification_note": "V-Dem Digital Society Survey annual data; consistent ranking confirmed across multiple report years"
     },
     {
-      "id": "ch12-013",
+      "id": "ch13-013",
       "metric": "GoLaxy leaked documents — pages of CCP operational records",
       "value": 399,
       "unit": "pages",
@@ -199,7 +199,7 @@
       "verification_note": "Documents analyzed by multiple independent researchers including Vanderbilt Institute and IORG; provenance confirmed through forensic analysis"
     },
     {
-      "id": "ch12-014",
+      "id": "ch13-014",
       "metric": "AI deepfake items targeting 2024 Taiwan presidential election",
       "value": 100,
       "unit": "deepfake audio/video items (minimum documented)",
@@ -214,7 +214,7 @@
       "verification_note": "Microsoft MTAC East Asia threat report; corroborated by Taiwan FactCheck Center election monitoring"
     },
     {
-      "id": "ch12-015",
+      "id": "ch13-015",
       "metric": "NSB espionage cases prosecuted (2024)",
       "value": 15,
       "unit": "cases involving 64 individuals",
@@ -229,7 +229,7 @@
       "verification_note": "NSB annual report to Legislative Yuan; figures cited in legislative hearings"
     },
     {
-      "id": "ch12-016",
+      "id": "ch13-016",
       "metric": "Meta CIB takedowns of CCP-linked networks (cumulative)",
       "value": "multiple major operations",
       "unit": "network takedowns",
@@ -244,7 +244,7 @@
       "verification_note": "Meta quarterly Adversarial Threat Reports; Spamouflage documentation by Stanford Internet Observatory"
     },
     {
-      "id": "ch12-017",
+      "id": "ch13-017",
       "metric": "OpenAI disruptions of China-origin covert influence operations",
       "value": "multiple operations disrupted",
       "unit": "covert influence operations",
@@ -259,7 +259,7 @@
       "verification_note": "OpenAI official threat report; corroborated by Microsoft MTAC reporting"
     },
     {
-      "id": "ch12-018",
+      "id": "ch13-018",
       "metric": "CCP targeting database — Taiwanese individuals and organizations",
       "value": 5000,
       "unit": "individuals and organizations (minimum)",
@@ -274,7 +274,7 @@
       "verification_note": "Documented in GoLaxy leaked materials; analyzed by IORG and Vanderbilt Institute researchers"
     },
     {
-      "id": "ch12-019",
+      "id": "ch13-019",
       "metric": "CCP economic coercion incidents targeting Taiwan (documented major actions)",
       "value": 6,
       "unit": "major documented economic coercion actions (2021-2023)",
@@ -289,7 +289,7 @@
       "verification_note": "Individual trade actions documented in Taiwan Bureau of Foreign Trade reports and international media; pattern analysis in CCP cognitive warfare research"
     },
     {
-      "id": "ch12-020",
+      "id": "ch13-020",
       "metric": "CCP four-layer command structure layers identified",
       "value": 4,
       "unit": "nested command layers (Party, Military, Enterprise, Shadow)",

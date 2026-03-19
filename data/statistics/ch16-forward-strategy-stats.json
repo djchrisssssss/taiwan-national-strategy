@@ -1,10 +1,10 @@
 {
-  "chapter": "14",
+  "chapter": "16",
   "title": "Non-Traditional Security Threats: UAP Investigation, Sensor Integration, and Contact Preparation",
   "last_updated": "2026-03-19",
   "statistics": [
     {
-      "id": "ch14-001",
+      "id": "ch16-001",
       "metric": "AARO UAP reports received (cumulative through FY2023)",
       "value": 801,
       "unit": "reports",
@@ -19,7 +19,7 @@
       "verification_note": "AARO Annual Report to Congress FY2023; publicly available via AARO.mil"
     },
     {
-      "id": "ch14-002",
+      "id": "ch16-002",
       "metric": "Countries with formal government UAP investigation programs",
       "value": 6,
       "unit": "countries",
@@ -34,7 +34,7 @@
       "verification_note": "Cross-referenced from NASA UAP study, AARO reports, CNES/GEIPAN public documentation, and Japan MoD announcements"
     },
     {
-      "id": "ch14-003",
+      "id": "ch16-003",
       "metric": "NASA UAP Independent Study Team members",
       "value": 16,
       "unit": "independent experts",

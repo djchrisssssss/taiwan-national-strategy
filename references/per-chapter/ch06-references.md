@@ -1,4 +1,4 @@
-# Supplement 1: Food Security and Water Resources — References
+# Chapter 6: Food Security and Water Resources — References
 
 ## Primary Sources
 
@@ -16,21 +16,21 @@
 
 | Statistic ID | Metric | Source |
 |---|---|---|
-| S1-001 | Taiwan food self-sufficiency ratio (calorie basis) | [src-088] |
-| S1-002 | Taiwan food self-sufficiency ratio (value basis) | [src-088] |
-| S1-003 | Taiwan rice self-sufficiency rate | [src-089] |
-| S1-004 | Taiwan wheat import dependency | [src-089] |
-| S1-005 | Taiwan soybean import volume (annual) | [src-090] |
-| S1-006 | Taiwan corn (maize) import volume (annual) | [src-090] |
-| S1-007 | Taiwan total reservoir storage capacity | [src-091] |
-| S1-008 | Taiwan average annual rainfall | [src-092] |
-| S1-009 | Taiwan water usage by sector — Agriculture | [src-091] |
-| S1-010 | Taiwan water usage by sector — Industrial | [src-091] |
-| S1-011 | Taiwan water usage by sector — Domestic/Municipal | [src-091] |
-| S1-012 | TSMC daily water consumption (2023) | [src-055] |
-| S1-013 | TSMC process water recycling rate | [src-055] |
-| S1-014 | Taiwan total annual water resource availability | [src-093] |
-| S1-015 | Taiwan grain reserves (rice strategic stockpile) | [src-094] |
+| ch06-001 | Taiwan food self-sufficiency ratio (calorie basis) | [src-088] |
+| ch06-002 | Taiwan food self-sufficiency ratio (value basis) | [src-088] |
+| ch06-003 | Taiwan rice self-sufficiency rate | [src-089] |
+| ch06-004 | Taiwan wheat import dependency | [src-089] |
+| ch06-005 | Taiwan soybean import volume (annual) | [src-090] |
+| ch06-006 | Taiwan corn (maize) import volume (annual) | [src-090] |
+| ch06-007 | Taiwan total reservoir storage capacity | [src-091] |
+| ch06-008 | Taiwan average annual rainfall | [src-092] |
+| ch06-009 | Taiwan water usage by sector — Agriculture | [src-091] |
+| ch06-010 | Taiwan water usage by sector — Industrial | [src-091] |
+| ch06-011 | Taiwan water usage by sector — Domestic/Municipal | [src-091] |
+| ch06-012 | TSMC daily water consumption (2023) | [src-055] |
+| ch06-013 | TSMC process water recycling rate | [src-055] |
+| ch06-014 | Taiwan total annual water resource availability | [src-093] |
+| ch06-015 | Taiwan grain reserves (rice strategic stockpile) | [src-094] |
 
 ## Notes
 

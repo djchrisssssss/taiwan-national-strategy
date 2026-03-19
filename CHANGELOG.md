@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Changed
+
+- **Major chapter reordering and renumbering**: Restructured from 6 Parts to 7 Parts for improved narrative flow
+  - Part IV: Resource Security & Biological Resilience (Ch5 Energy, Ch6 Food & Water, Ch7 Biological Security)
+  - Part V: Communications & Economic Resilience (Ch8 Communications, Ch9 Financial, Ch10 Space)
+  - Part VI: Technology & Intelligence (Ch11 AI, Ch12 Quantum, Ch13 Cognitive Defense, Ch14 Technology Ethics)
+  - Part VII: International Strategy & Emerging Domains (Ch15 International, Ch16 Non-Traditional Security)
+- **Chapter renumbering map**: Old Ch7→8, Ch8→9, Ch9→10, Ch10→11, Ch11→12, Ch12→13, Ch13→15, Ch14→16, Ch15→14, Ch16→7
+- All statistics files, reference files, cross-chapter linkages, and section headers renumbered accordingly
+- Biological Security (formerly Ch16) repositioned as Ch7, immediately after Ch6 Food & Water Security, reflecting strong agricultural bioterrorism linkage
+
 ### Added
 
 - **New Chapter 16: Biological Security** — Dedicated chapter covering biowarfare threats, CCP biological programs and strategic intent, COVID-19 origins analysis, agricultural bioterrorism (including Reedley CA unauthorized biolab), genetic modification as a security domain, synthetic biology dual-use risks, Taiwan's biological vulnerability assessment, pandemic preparedness and response architecture, and 11 policy recommendations across three time horizons. 9 sections (16.1–16.9).

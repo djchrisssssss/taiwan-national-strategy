@@ -1,10 +1,10 @@
 {
-  "chapter": "09",
+  "chapter": "10",
   "title": "Space Capabilities",
   "last_updated": "2026-03-16",
   "statistics": [
     {
-      "id": "ch09-001",
+      "id": "ch10-001",
       "metric": "Taiwan Space Agency (TASA) annual budget",
       "value": 5.9,
       "unit": "TWD billion (approximately USD 182 million)",
@@ -19,7 +19,7 @@
       "verification_note": "TASA/NSTC budget documents presented to the Legislative Yuan; third-phase program budget confirmed via Executive Yuan announcements"
     },
     {
-      "id": "ch09-002",
+      "id": "ch10-002",
       "metric": "FORMOSAT-5 remote sensing satellite operational status",
       "value": "operational since 2017",
       "unit": "status",
@@ -34,7 +34,7 @@
       "verification_note": "TASA official project page and launch records from SpaceX"
     },
     {
-      "id": "ch09-003",
+      "id": "ch10-003",
       "metric": "FORMOSAT-7/COSMIC-2 constellation satellites",
       "value": 6,
       "unit": "satellites in constellation",
@@ -49,7 +49,7 @@
       "verification_note": "UCAR/COSMIC program office data; NOAA and TASA joint program documentation"
     },
     {
-      "id": "ch09-004",
+      "id": "ch10-004",
       "metric": "Planned FORMOSAT-8 satellite constellation size",
       "value": 6,
       "unit": "satellites planned",
@@ -64,7 +64,7 @@
       "verification_note": "TASA third-phase National Space Program documentation and NSTC announcements"
     },
     {
-      "id": "ch09-005",
+      "id": "ch10-005",
       "metric": "Triton/B5G low-Earth orbit communication satellite program",
       "value": 1,
       "unit": "technology demonstration satellite",
@@ -79,7 +79,7 @@
       "verification_note": "TASA program announcements and NSTC space technology development roadmap"
     },
     {
-      "id": "ch09-006",
+      "id": "ch10-006",
       "metric": "Taiwan domestic space industry companies",
       "value": 80,
       "unit": "companies (approximately)",
@@ -94,7 +94,7 @@
       "verification_note": "Estimated from TASA industry survey data and Taiwan Space Industry Development Association membership"
     },
     {
-      "id": "ch09-007",
+      "id": "ch10-007",
       "metric": "Taiwan domestic space industry annual revenue",
       "value": 2.1,
       "unit": "TWD billion (approximately USD 65 million)",
@@ -109,7 +109,7 @@
       "verification_note": "NSTC industry statistics and TASA annual reports on space industry development"
     },
     {
-      "id": "ch09-008",
+      "id": "ch10-008",
       "metric": "Taiwan ground satellite receiving stations",
       "value": 5,
       "unit": "major ground stations",
@@ -124,7 +124,7 @@
       "verification_note": "TASA facility descriptions and Chunghwa Telecom satellite services information"
     },
     {
-      "id": "ch09-009",
+      "id": "ch10-009",
       "metric": "FORMOSAT-2 operational lifetime achieved",
       "value": 12,
       "unit": "years (2004-2016)",
@@ -139,7 +139,7 @@
       "verification_note": "TASA mission history records and decommission announcement"
     },
     {
-      "id": "ch09-010",
+      "id": "ch10-010",
       "metric": "Global space economy size for context",
       "value": 570,
       "unit": "USD billion",

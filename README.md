@@ -48,32 +48,37 @@ Employing a systems engineering methodology grounded in interdependency analysis
 | 03 | Asymmetric Defense 不對稱防衛 | Cost-exchange ratio logic, submarine denial, unmanned systems, precision strike, and indigenous mass production. | 成本交換比邏輯、潛艦拒止、無人系統、精準打擊與本土量產能力。 |
 | 04 | Electromagnetic Spectrum Warfare 電磁頻譜戰 | Spectrum dominance, anti-jamming communications, electronic countermeasure systems, and EW as the opening move of modern conflict. | 頻譜控制權、抗干擾通訊、電子反制系統，以及電子戰作為現代衝突的先行戰場。 |
 
-### IV. Critical Infrastructure / 四、關鍵基礎設施
+### IV. Resource Security and Biological Resilience / 四、資源安全與生物韌性
 
 | Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
 |:---:|--------|-------------|------|
 | 05 | Energy Structure 能源結構 | Import dependence, dangerously low LNG reserves, distributed microgrids, renewable energy transition, controlled nuclear fusion, and long-distance energy transmission. | 進口依賴、天然氣儲備嚴重不足、分散式微電網、再生能源轉型、可控核融合與能源遠距傳輸。 |
 | 06 | Food & Water Security 糧食與水資源安全 | Food self-sufficiency, water resource constraints, semiconductor ultrapure water demands, and critical infrastructure protection. | 糧食自給率、水資源結構制約、半導體超純水需求與關鍵基礎設施保護。 |
-| 07 | Communications Resilience 通訊韌性 | Submarine cable vulnerability, LEO satellite backup, high-frequency radio, and community-level mesh networks. | 海底電纜脆弱性、低軌道衛星備援、高頻無線電與社區級網狀網路。 |
-| 08 | Financial and Digital Resilience 金融與數位韌性 | Sanctions defense, cross-border payment backup, digital asset strategies, blockchain-based data preservation, and sovereign blockchain infrastructure. | 制裁防禦、跨境支付備援、數位資產策略、區塊鏈數據保存與主權區塊鏈基礎建設。 |
+| 07 | Biological Security 生物安全 | Biowarfare threats, CCP biological programs, agricultural bioterrorism, genetic modification security, synthetic biology dual-use, pandemic preparedness. | 生物戰威脅、中共生物計畫、農業生物恐怖主義、基因改造安全、合成生物學雙重用途、大流行準備。 |
 
-### V. Technology Frontiers / 五、科技前沿
-
-| Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
-|:---:|--------|-------------|------|
-| 09 | Space Capabilities 太空能力 | Indigenous small satellite constellation, space situational awareness, and space-based communications integration. | 自主小型衛星星座、太空態勢感知與太空通訊整合。 |
-| 10 | AI & Distributed Computing 人工智慧與分散式運算 | Intelligence fusion, autonomous defense, distributed computing architectures, and blockchain-AI integration for resilience. | 情報融合、自主防禦、分散式運算架構與區塊鏈-AI 整合韌性。 |
-| 11 | Quantum Security 量子安全 | Post-quantum cryptography migration, quantum key distribution pilots, and long-term data confidentiality protection. | 後量子密碼學遷移、量子密鑰分發試驗計畫與長期數據機密性保護。 |
-
-### VI. Society, International, and Emerging Domains / 六、社會、國際與新興領域
+### V. Communications and Economic Resilience / 五、通訊與經濟韌性
 
 | Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
 |:---:|--------|-------------|------|
-| 12 | Cognitive Defense 認知防禦 | CCP cognitive warfare command structure, deepfake threats, platform infiltration, economic coercion, institutional infiltration, media literacy, and social trust infrastructure. | 中共認知作戰指揮結構、深偽威脅、平台滲透、經濟脅迫、制度滲透、媒體素養與社會信任基礎設施。 |
-| 13 | International Linkages 國際連結 | Shifting from seeking protection to building indispensability through technological interdependence, intelligence cooperation, and democratic values. | 從尋求保護到建構不可或缺性——透過技術互依、情報合作與民主價值實現戰略轉型。 |
-| 14 | Non-Traditional Security Threats 非傳統安全威脅 | UAP investigation, sensor integration, contact preparation, and institutional frameworks for anomalous phenomena. | UAP 調查、感測器整合、接觸預備策略與異常現象制度化框架。 |
-| 15 | Technology Ethics 科技倫理 | BCI consciousness engineering ethics, euthanasia, surrogacy, autonomous weapons governance, anticipatory technology governance. | 腦機介面意識工程倫理、安樂死、代理孕母、自主武器治理、預防性科技治理。 |
-| 16 | Biological Security 生物安全 | Biowarfare threats, CCP biological programs, agricultural bioterrorism, genetic modification security, synthetic biology dual-use, pandemic preparedness. | 生物戰威脅、中共生物計畫、農業生物恐怖主義、基因改造安全、合成生物學雙重用途、大流行準備。 |
+| 08 | Communications Resilience 通訊韌性 | Submarine cable vulnerability, LEO satellite backup, high-frequency radio, and community-level mesh networks. | 海底電纜脆弱性、低軌道衛星備援、高頻無線電與社區級網狀網路。 |
+| 09 | Financial and Digital Resilience 金融與數位韌性 | Sanctions defense, cross-border payment backup, digital asset strategies, blockchain-based data preservation, and sovereign blockchain infrastructure. | 制裁防禦、跨境支付備援、數位資產策略、區塊鏈數據保存與主權區塊鏈基礎建設。 |
+| 10 | Space Capabilities 太空能力 | Indigenous small satellite constellation, space situational awareness, and space-based communications integration. | 自主小型衛星星座、太空態勢感知與太空通訊整合。 |
+
+### VI. Technology and Intelligence / 六、科技與情報
+
+| Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
+|:---:|--------|-------------|------|
+| 11 | AI & Distributed Computing 人工智慧與分散式運算 | Intelligence fusion, autonomous defense, distributed computing architectures, and blockchain-AI integration for resilience. | 情報融合、自主防禦、分散式運算架構與區塊鏈-AI 整合韌性。 |
+| 12 | Quantum Security 量子安全 | Post-quantum cryptography migration, quantum key distribution pilots, and long-term data confidentiality protection. | 後量子密碼學遷移、量子密鑰分發試驗計畫與長期數據機密性保護。 |
+| 13 | Cognitive Defense 認知防禦 | CCP cognitive warfare command structure, deepfake threats, platform infiltration, economic coercion, institutional infiltration, media literacy, and social trust infrastructure. | 中共認知作戰指揮結構、深偽威脅、平台滲透、經濟脅迫、制度滲透、媒體素養與社會信任基礎設施。 |
+| 14 | Technology Ethics 科技倫理 | BCI consciousness engineering ethics, euthanasia, surrogacy, autonomous weapons governance, anticipatory technology governance. | 腦機介面意識工程倫理、安樂死、代理孕母、自主武器治理、預防性科技治理。 |
+
+### VII. International Strategy and Emerging Domains / 七、國際戰略與新興領域
+
+| Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
+|:---:|--------|-------------|------|
+| 15 | International Linkages 國際連結 | Shifting from seeking protection to building indispensability through technological interdependence, intelligence cooperation, and democratic values. | 從尋求保護到建構不可或缺性——透過技術互依、情報合作與民主價值實現戰略轉型。 |
+| 16 | Non-Traditional Security Threats 非傳統安全威脅 | UAP investigation, sensor integration, contact preparation, and institutional frameworks for anomalous phenomena. | UAP 調查、感測器整合、接觸預備策略與異常現象制度化框架。 |
 
 ---
 

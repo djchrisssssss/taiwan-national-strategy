@@ -1,44 +1,37 @@
-# Chapter 15: Technology Ethics — Consciousness Engineering, Reproductive Ethics, and Emerging Technology Governance — References
+# Chapter 15: International Linkages — References
 
 ## Primary Sources
 
-1. **[src-129]** World Federation of Right to Die Societies — Global Euthanasia/Assisted Dying Legal Status (2024). https://www.worldrtd.net/. Accessed: 2026-03-19.
-2. **[src-130]** Chilean Senate — Neurorights Constitutional Amendment (2021). https://www.senado.cl/. Accessed: 2026-03-19.
-3. ~~**[src-131]** ClinicalTrials.gov — CRISPR Clinical Trial Registry (2024).~~ *Moved to Chapter 16 as [src-153].*
-4. **[src-132]** United Nations Office for Disarmament Affairs — CCW LAWS Discussions. https://www.un.org/disarmament/the-convention-on-certain-conventional-weapons/. Accessed: 2026-03-19.
-5. **[src-133]** Taiwan Ministry of Health and Welfare — Patient Autonomy Act (2019). https://www.mohw.gov.tw/. Accessed: 2026-03-19.
-6. ~~**[src-134]** UNESCO — Universal Declaration on the Human Genome and Human Rights (1997).~~ *Moved to Chapter 16 as [src-154].*
-7. **[src-135]** Neuralink Corporation — Human Clinical Trials (2024-2025). https://neuralink.com/. Accessed: 2026-03-19.
-8. **[src-136]** Taiwan Ministry of the Interior — Population Statistics (2024). https://www.moi.gov.tw/. Accessed: 2026-03-19.
-9. **[src-137]** Hague Conference on Private International Law — Parentage/Surrogacy Project. https://www.hcch.net/. Accessed: 2026-03-19.
-10. ~~**[src-138]** He Jiankui et al., Documentation of CRISPR Human Germline Editing Case (2018).~~ *Moved to Chapter 16 as [src-155].*
-11. **[src-139]** France Comité consultatif national d'éthique (CCNE). https://www.ccne-ethique.fr/. Accessed: 2026-03-19.
-12. **[src-140]** Grand View Research / Allied Market Research — Global BCI Market Report (2024). https://www.grandviewresearch.com/. Accessed: 2026-03-19.
-13. **[src-141]** DARPA — Next-Generation Nonsurgical Neurotechnology (N3) Program. https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology. Accessed: 2026-03-19.
+1. **[src-021]** Global Semiconductor Sales Statistics — SIA (2024). https://www.semiconductors.org/. Accessed: 2026-03-16.
+2. **[src-012]** TrendForce Foundry Market Analysis (2024). https://www.trendforce.com/. Accessed: 2026-03-16.
+3. **[src-085]** Ministry of Foreign Affairs (Taiwan) — Diplomatic Allies (2024). https://www.mofa.gov.tw/en/AlliesIndex.aspx. Accessed: 2026-03-16.
+4. **[src-027]** Major Arms Sales Notifications — DSCA (2024). https://www.dsca.mil/press-media/major-arms-sales. Accessed: 2026-03-16.
+5. **[src-046]** Bureau of Foreign Trade — Taiwan Trade Statistics (2024). https://www.trade.gov.tw/english/. Accessed: 2026-03-16.
+6. **[src-086]** Taiwan Intelligence Sharing and US Policy — CSIS (2024). https://www.csis.org/analysis/taiwan-intelligence-sharing-and-us-policy. Accessed: 2026-03-16.
+7. **[src-014]** TSMC Quarterly Results / Investor Relations — TSMC (2024). https://investor.tsmc.com/english. Accessed: 2026-03-16.
+8. **[src-087]** U.S. Census Bureau — Foreign Trade Balance with Taiwan (2024). https://www.census.gov/foreign-trade/balance/c5830.html. Accessed: 2026-03-16.
+9. **[src-010]** Asia Maritime Transparency Initiative — CSIS (2024). https://amti.csis.org/. Accessed: 2026-03-16.
 
 ## Data Points Referenced
 
 | Statistic ID | Metric | Source |
 |---|---|---|
-| ch15-001 | Countries with legalized euthanasia or assisted dying | [src-129] |
-| ch15-002 | Chile neurorights constitutional protection year | [src-130] |
-| ~~ch15-003~~ | ~~CRISPR clinical trials globally~~ | *Moved to ch16-009* |
-| ch15-004 | Global BCI market size (projected 2030) | [src-140] |
-| ch15-005 | Years of LAWS discussions at CCW | [src-132] |
-| ch15-006 | Taiwan Patient Autonomy Act implementation year | [src-133] |
-| ~~ch15-007~~ | ~~Countries with human cloning prohibition~~ | *Moved to ch16-010* |
-| ch15-008 | Neuralink human clinical trial participants | [src-135] |
-| ch15-009 | Taiwan total fertility rate | [src-136] |
-| ch15-010 | Countries permitting commercial surrogacy | [src-137] |
+| ch15-001 | Taiwan semiconductor exports as share of global semiconductor market | [src-021] |
+| ch15-002 | TSMC share of global foundry market | [src-012] |
+| ch15-003 | Countries maintaining formal diplomatic relations with Taiwan (ROC) | [src-085] |
+| ch15-004 | US arms sales to Taiwan approved (2017-2024 total) | [src-027] |
+| ch15-005 | Taiwan semiconductor exports to United States | [src-046] |
+| ch15-006 | Five Eyes intelligence partnership — Taiwan informal cooperation | [src-086] |
+| ch15-007 | Taiwan bilateral investment agreements | [src-046] |
+| ch15-008 | TSMC overseas fab investment commitments | [src-014] |
+| ch15-009 | Taiwan-US trade volume (bilateral goods trade) | [src-087] |
+| ch15-010 | Countries conducting Taiwan Strait naval transits (freedom of navigation) | [src-010] |
 
 ## Notes
 
-- Chapter 15 was created on 2026-03-19 covering technology ethics. On 2026-03-19, biological content (Sections 15.2 Genetic Modification and 15.3 Synthetic Biology) was extracted to Chapter 16 (Biological Security), and Ch15 was restructured to cover: brain-computer interfaces, euthanasia, surrogacy, autonomous weapons, and anticipatory technology governance.
-- The chapter is structured with a defense and national security lens — ethical governance is framed not as abstract philosophy but as a strategic asset for Taiwan's international positioning and democratic credibility.
-- Chile's 2021 neurorights constitutional amendment is the global precedent; Taiwan is recommended to be the first Asian democracy to establish similar protections.
-- The He Jiankui case (2018, Shenzhen) is cited as a cautionary example of inadequate governance in a permissive regulatory environment.
-- Taiwan's Patient Autonomy Act (2019) is the first such legislation in Asia, providing a foundation for further end-of-life ethics development.
-- Cross-references to Chapter 10 (Sections 10.5-10.6) for BCI defense/technology perspective; to Chapter 12 for cognitive defense linkages; to Chapter 3 for autonomous weapons in asymmetric defense; to Chapter 16 for biological security governance.
-- Statistics ch15-004 and ch15-008 are cross-referenced from ch10-011 and ch10-013 respectively.
-- Statistics ch15-003 (CRISPR) and ch15-007 (cloning) moved to ch16-009 and ch16-010 respectively.
-- References [src-131], [src-134], and [src-138] moved to Chapter 16 as [src-153], [src-154], and [src-155] respectively.
+- Taiwan maintains formal diplomatic relations with only 12 countries as of 2024 (Nauru switched to PRC in January 2024). However, substantive unofficial relations exist with over 60 countries through representative offices.
+- The combined Taiwan-based foundry market share (~68% when including UMC) creates enormous strategic leverage — the "silicon shield" concept — but also makes Taiwan a focal point for great power competition.
+- TSMC's overseas fab investments ($65B in Arizona, plus Japan and Germany) represent a deliberate strategy to deepen technology integration with allies while maintaining cutting-edge production in Taiwan.
+- The US-Taiwan Initiative on 21st-Century Trade (first agreement signed June 2023) provides a new institutional framework for bilateral economic cooperation despite the absence of formal diplomatic relations.
+- Nine countries have conducted Taiwan Strait naval transits since 2022, representing a significant internationalization of freedom of navigation operations that had previously been primarily a U.S. activity.
+- The $23 billion cumulative arms sales figure (2017-2024) represents DSCA-notified approved values; actual deliveries lag significantly behind approvals, creating the ~$19-20 billion backlog.
