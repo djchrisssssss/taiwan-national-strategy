@@ -1,37 +1,50 @@
-# Chapter 9: Quantum Security — References
+# Chapter 11: AI and Distributed Computing — References
 
 ## Primary Sources
 
-1. **[src-060]** Post-Quantum Cryptography Standardization Project — NIST (2024). https://csrc.nist.gov/projects/post-quantum-cryptography. Accessed: 2026-03-16.
-2. **[src-061]** Quantum Threat Timeline Report 2023 — Global Risk Institute (2023). https://globalriskinstitute.org/publication/quantum-threat-timeline-report-2023/. Accessed: 2026-03-16.
-3. **[src-058]** National Science and Technology Council (NSTC) Taiwan (2024). https://www.nstc.gov.tw/. Accessed: 2026-03-16.
-4. **[src-062]** Academia Sinica / National Taiwan University — Quantum Computing Research (2023). https://www.sinica.edu.tw/en. Accessed: 2026-03-16.
-5. **[src-063]** Integrated Space-to-Ground Quantum Communication Network — USTC. Nature (2021). DOI: 10.1038/s41586-020-03093-8. https://doi.org/10.1038/s41586-020-03093-8. Accessed: 2026-03-16.
-6. **[src-064]** Quantum Economic Development Consortium (QED-C) (2024). https://quantumconsortium.org/. Accessed: 2026-03-16.
-7. **[src-065]** Quantum Computing and Post-Quantum Cryptography Analysis — Hudson Institute (2024). https://www.hudson.org/technology/quantum-computing-and-post-quantum-cryptography. Accessed: 2026-03-16.
-8. **[src-066]** IBM Quantum Roadmap 2025 — IBM Research (2023). https://research.ibm.com/blog/ibm-quantum-roadmap-2025. Accessed: 2026-03-16.
-9. **[src-067]** Commercial National Security Algorithm Suite 2.0 (CNSA 2.0) — NSA (2022). https://media.defense.gov/2022/Sep/07/2003071834/-1/-1/0/CSA_CNSA_2.0_ALGORITHMS_.PDF. Accessed: 2026-03-16.
+1. **[src-068]** National Center for High-performance Computing (NCHC) (2024). https://www.nchc.org.tw/en/. Accessed: 2026-03-16.
+2. **[src-058]** National Science and Technology Council (NSTC) Taiwan (2024). https://www.nstc.gov.tw/. Accessed: 2026-03-16.
+3. **[src-069]** Scopus AI Research Publication Data — Elsevier (2023). https://www.scopus.com/. Accessed: 2026-03-16.
+4. **[src-070]** DigiTimes — Taiwan Technology Industry News (2024). https://www.digitimes.com/. Accessed: 2026-03-16.
+5. **[src-071]** Taiwan AI Academy (2024). https://aiacademy.tw/en/. Accessed: 2026-03-16.
+6. **[src-021]** Global Semiconductor Sales Statistics — SIA (2024). https://www.semiconductors.org/. Accessed: 2026-03-16.
+7. **[src-012]** TrendForce Foundry Market Analysis (2024). https://www.trendforce.com/. Accessed: 2026-03-16.
+8. **[src-072]** Hon Hai (Foxconn) Investor Relations (2024). https://www.honhai.com/en-us/investor-relations. Accessed: 2026-03-16.
+9. **[src-073]** Taiwan Data Center Market Report — Arizton Advisory (2024). https://www.arizton.com/. Accessed: 2026-03-16.
+10. **[src-074]** AI Index Report — Stanford HAI (2024). https://aiindex.stanford.edu/report/. Accessed: 2026-03-16.
+
+11. **[src-125]** Grand View Research / Allied Market Research, Global Brain-Computer Interface Market Report (2024). https://www.grandviewresearch.com/. Accessed: 2026-03-19.
+12. **[src-126]** DARPA, Next-Generation Nonsurgical Neurotechnology (N3) Program. https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology. Accessed: 2026-03-19.
+13. **[src-127]** Neuralink Corporation, Human Clinical Trial Progress (2024-2025). https://neuralink.com/. Accessed: 2026-03-19.
+14. **[src-128]** WIPO, Global Patent Statistics — Brain-Computer Interface Classifications (2024). https://www.wipo.int/. Accessed: 2026-03-19.
 
 ## Data Points Referenced
 
 | Statistic ID | Metric | Source |
 |---|---|---|
-| ch09-001 | NIST Post-Quantum Cryptography standards finalized | [src-060] |
-| ch09-002 | NIST PQC standardization process duration | [src-060] |
-| ch09-003 | Estimated timeline for cryptographically relevant quantum computer (CRQC) | [src-061] |
-| ch09-004 | Taiwan quantum computing research investment (NSTC program) | [src-058] |
-| ch09-005 | Taiwan's first domestically built superconducting quantum processor qubits | [src-062] |
-| ch09-006 | Global QKD network deployment — longest fiber distance achieved | [src-063] |
-| ch09-007 | Countries with national quantum strategies | [src-064] |
-| ch09-008 | Estimated global cost of post-quantum cryptography migration | [src-065] |
-| ch09-009 | IBM quantum processor qubit count milestone | [src-066] |
-| ch09-010 | NSA CNSA 2.0 post-quantum transition deadline for national security systems | [src-067] |
+| ch11-001 | Taiwan NCHC Taiwania 2 supercomputer peak performance | [src-068] |
+| ch11-002 | Taiwan government AI budget allocation | [src-058] |
+| ch11-003 | Taiwan AI research publications (Scopus-indexed) | [src-069] |
+| ch11-004 | NVIDIA GPU shipments to Taiwan data centers | [src-070] |
+| ch11-005 | Taiwan AI startup ecosystem size | [src-071] |
+| ch11-006 | TSMC advanced chip production share relevant to AI hardware | [src-021] |
+| ch11-007 | Taiwan AI Academy graduates trained | [src-071] |
+| ch11-008 | Foxconn/Hon Hai AI server revenue growth | [src-072] |
+| ch11-009 | Taiwan data center market size | [src-073] |
+| ch11-010 | Stanford AI Index — Taiwan ranking in AI vibrancy | [src-074] |
+| ch11-011 | Global brain-computer interface market size (projected 2030) | [src-125] |
+| ch11-012 | DARPA N3 program investment | [src-126] |
+| ch11-013 | Neuralink human clinical trials initiated | [src-127] |
+| ch11-014 | Global BCI-related patent filings (annual) | [src-128] |
 
 ## Notes
 
-- NIST published three PQC standards (FIPS 203, 204, 205) in August 2024. A fourth algorithm (FALCON/FN-DSA) is expected as FIPS 206.
-- The "harvest now, decrypt later" threat means adversaries may already be collecting encrypted Taiwan government and military communications for future quantum decryption.
-- Taiwan's 5-qubit superconducting processor is a foundational milestone; IBM's Condor reached 1,121 qubits and Google's Willow demonstrated 105-qubit error-corrected computation by end of 2024.
-- China's Beijing-Shanghai QKD backbone represents the most advanced national-scale quantum key distribution deployment globally. This is relevant as an adversary capability.
-- The NSA CNSA 2.0 deadline of 2035 for full PQC transition is relevant for Taiwan's defense systems that interoperate with U.S. military equipment and protocols.
-- The sole peer-reviewed academic source in this chapter is the USTC Nature publication (DOI: 10.1038/s41586-020-03093-8) on the integrated quantum communication network.
+- Taiwania 2 uses NVIDIA V100 GPUs (previous generation). NCHC has announced plans for a next-generation system with more modern accelerators.
+- The "Taiwan AI Action Plan 2.0" (2024) encompasses multiple NSTC programs; the TWD 10.2 billion budget figure includes infrastructure, talent, and application development funding.
+- AI publication counts from Scopus are approximate and depend on search query and classification methodology. Taiwan consistently ranks in the top 15 globally.
+- The 92% advanced chip production share figure (sub-10nm) is cited in both semiconductor and AI contexts because virtually all leading AI accelerators (NVIDIA H100/B100, Apple M-series, AMD MI300) are manufactured by TSMC.
+- Taiwan-based ODMs (Foxconn, Quanta, Wistron, Inventec) collectively manufacture the majority of the world's AI servers, creating a second layer of AI supply chain concentration beyond chip fabrication.
+- Data center market size estimates vary by research firm; the $1.8 billion figure is from Arizton Advisory and includes colocation, managed hosting, and enterprise facilities.
+- Section 11.5 (Brain-Computer Interfaces and Neurocognitive Technologies) was added on 2026-03-19. The BCI market size projection ($5.8B by 2030) represents a mid-range estimate from multiple market research firms.
+- DARPA N3 program investment exceeds $100M and focuses on non-surgical neural interfaces approaching implanted system performance. Taiwan's semiconductor capabilities are directly relevant to the miniaturized, low-power chips these systems require.
+- Policy Recommendations renumbered from 11.5 to 11.6 to accommodate the new BCI section. Three new BCI-specific policy recommendations added (items 10-11, 13).

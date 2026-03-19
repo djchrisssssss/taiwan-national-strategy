@@ -6,8 +6,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Changed
+
+- **Major chapter reordering and renumbering**: Restructured from 6 Parts to 7 Parts for improved narrative flow
+  - Part IV: Resource Security & Biological Resilience (Ch5 Energy, Ch6 Food & Water, Ch7 Biological Security)
+  - Part V: Communications & Economic Resilience (Ch8 Communications, Ch9 Financial, Ch10 Space)
+  - Part VI: Technology & Intelligence (Ch11 AI, Ch12 Quantum, Ch13 Cognitive Defense, Ch14 Technology Ethics)
+  - Part VII: International Strategy & Emerging Domains (Ch15 International, Ch16 Non-Traditional Security)
+- **Chapter renumbering map**: Old Ch7→8, Ch8→9, Ch9→10, Ch10→11, Ch11→12, Ch12→13, Ch13→15, Ch14→16, Ch15→14, Ch16→7
+- All statistics files, reference files, cross-chapter linkages, and section headers renumbered accordingly
+- Biological Security (formerly Ch16) repositioned as Ch7, immediately after Ch6 Food & Water Security, reflecting strong agricultural bioterrorism linkage
+
 ### Added
 
+- **New Chapter 16: Biological Security** — Dedicated chapter covering biowarfare threats, CCP biological programs and strategic intent, COVID-19 origins analysis, agricultural bioterrorism (including Reedley CA unauthorized biolab), genetic modification as a security domain, synthetic biology dual-use risks, Taiwan's biological vulnerability assessment, pandemic preparedness and response architecture, and 11 policy recommendations across three time horizons. 9 sections (16.1–16.9).
+- New ch16-biosecurity-stats.json with 10 statistics entries (ch16-001 to ch16-010)
+- New ch16-references.md with 15 sources ([src-142] to [src-156])
 - **New Chapter 15: Technology Ethics** — Covers six domains: genetic modification and genome engineering, synthetic biology and artificial life, brain-computer interfaces and consciousness engineering ethics, end-of-life ethics and euthanasia, surrogate motherhood and reproductive technology, and autonomous weapons and AI ethics in warfare. 9 sections (15.1–15.9) with 10 policy recommendations across three time horizons.
 - **New Section 10.5: Brain-Computer Interfaces and Neurocognitive Technologies** — BCI technology landscape, military/defense applications, neurocognitive warfare as emerging threat, Taiwan's strategic positioning, and cross-chapter linkages.
 - 5 new sections in Chapter 12: CCP Cognitive Warfare Supply Chain (12.2), Platform-Specific Infiltration Strategies (12.4), Economic Coercion as Cognitive Warfare (12.5), Institutional Infiltration and Co-optation (12.6), Cross-Chapter Linkages (12.10)
@@ -22,6 +36,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+- **Restructured Chapter 15 (Technology Ethics)**: Extracted biological content (Sections 15.2 Genetic Modification and 15.3 Synthetic Biology) to Chapter 16. Renumbered remaining sections (15.4→15.2 through 15.9→15.7). Updated title to "Consciousness Engineering, Reproductive Ethics, and Emerging Technology Governance". Updated policy recommendations and cross-chapter linkages.
+- Statistics ch15-003 (CRISPR) and ch15-007 (cloning) moved to ch16-009 and ch16-010 respectively
+- References [src-131], [src-134], [src-138] moved to Chapter 16 as [src-153], [src-154], [src-155]
+- **Updated README.md**: Domain count from fifteen to sixteen, updated Ch15 description, added Ch16 row
 - **Strengthened Chapter 12 (Cognitive Defense)**: Expanded from 6 sections (12.1–12.6) to 11 sections (12.1–12.11), integrating CCP cognitive warfare structural analysis including four-layer command structure, supply chain infrastructure, platform infiltration, economic coercion, and institutional co-optation
 - **Renamed Chapter 12**: "Cognitive Defense" → "Cognitive Defense — CCP Cognitive Warfare, Deepfake Threats, and Social Trust Infrastructure"
 - **Expanded Chapter 12 Section 12.1**: Added CCP four-layer command structure subsection (Party → Military → Enterprise → Shadow)

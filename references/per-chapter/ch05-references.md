@@ -1,4 +1,4 @@
-# Chapter 7: Energy Security and Infrastructure Vulnerability — References
+# Chapter 5: Energy Security and Infrastructure Vulnerability — References
 
 ## Primary Sources
 
@@ -19,19 +19,19 @@
 
 | Statistic ID | Metric | Source |
 |---|---|---|
-| ch07-001 | Taiwan energy import dependency rate | [src-049] |
-| ch07-002 | Natural gas (LNG) share of electricity generation | [src-050] |
-| ch07-003 | Taiwan LNG strategic reserve storage capacity | [src-051] |
-| ch07-004 | Taiwan coal strategic reserve | [src-050] |
-| ch07-005 | Taiwan strategic petroleum reserve (SPR) | [src-052] |
-| ch07-006 | Taiwan offshore wind capacity installed | [src-053] |
-| ch07-007 | Taiwan offshore wind target capacity (2035) | [src-054] |
-| ch07-008 | Taiwan solar PV installed capacity | [src-054] |
-| ch07-009 | Taiwan total electricity generation capacity | [src-050] |
-| ch07-010 | Taiwan nuclear power generation (before final phase-out) | [src-050] |
-| ch07-011 | Taiwan electricity consumption by sector — Industrial | [src-049] |
-| ch07-012 | TSMC electricity consumption as share of Taiwan total | [src-055] |
-| ch07-013 | Taiwan total annual electricity consumption | [src-050] |
+| ch05-001 | Taiwan energy import dependency rate | [src-049] |
+| ch05-002 | Natural gas (LNG) share of electricity generation | [src-050] |
+| ch05-003 | Taiwan LNG strategic reserve storage capacity | [src-051] |
+| ch05-004 | Taiwan coal strategic reserve | [src-050] |
+| ch05-005 | Taiwan strategic petroleum reserve (SPR) | [src-052] |
+| ch05-006 | Taiwan offshore wind capacity installed | [src-053] |
+| ch05-007 | Taiwan offshore wind target capacity (2035) | [src-054] |
+| ch05-008 | Taiwan solar PV installed capacity | [src-054] |
+| ch05-009 | Taiwan total electricity generation capacity | [src-050] |
+| ch05-010 | Taiwan nuclear power generation (before final phase-out) | [src-050] |
+| ch05-011 | Taiwan electricity consumption by sector — Industrial | [src-049] |
+| ch05-012 | TSMC electricity consumption as share of Taiwan total | [src-055] |
+| ch05-013 | Taiwan total annual electricity consumption | [src-050] |
 | ch05-014 | Global SMR designs under development | [src-056] |
 | ch05-015 | Typical SMR electrical output range | [src-058] |
 | ch05-016 | Nuclear fuel loading cycle duration (typical SMR) | [src-056] |

@@ -6,19 +6,19 @@
 |-------|-------|
 | Report Date | 2026-03-19 |
 | Data Audit Date | 2025-07-15 (bibliography); 2026-03-19 (statistics) |
-| Total Sources | 141 |
-| Total Data Points | 173 |
-| Chapters Covered | 15 (Ch01--Ch15) |
+| Total Sources | 157 |
+| Total Data Points | 193 |
+| Chapters Covered | 16 (Ch01--Ch16) |
 
 ---
 
 ## 1. Executive Summary
 
-This report documents the verification methodology and results for all quantitative data points used in the Taiwan National Strategy project. The project draws on 141 unique sources across 15 chapters, yielding 173 individually sourced statistics. All sources in the master bibliography have been catalogued and assigned a verification status. All data points carry a `verified: true` flag with an accompanying verification note.
+This report documents the verification methodology and results for all quantitative data points used in the Taiwan National Strategy project. The project draws on 157 unique sources across 16 chapters, yielding 193 individually sourced statistics. All sources in the master bibliography have been catalogued and assigned a verification status. All data points carry a `verified: true` flag with an accompanying verification note.
 
-> **Note (2026-03-19)**: Chapter 14 was reorganized from "Forward Strategy" (a catch-all chapter) into thematically integrated content. Fusion and energy transmission data moved to Chapter 5; blockchain infrastructure data moved to Chapter 8; UAP investigation data remains in Chapter 14 (now titled "Non-Traditional Security Threats"). Statistics IDs were renumbered accordingly.
+> **Note (2026-03-19)**: Major chapter reordering and renumbering was performed to improve narrative flow. The document was reorganized from 6 Parts to 7 Parts. Key changes: Biological Security (formerly Ch16) became Ch7 after Food & Water (Ch6); Communications (formerly Ch7) became Ch8; Financial (formerly Ch8) became Ch9; Space (formerly Ch9) became Ch10; AI (formerly Ch10) became Ch11; Quantum (formerly Ch11) became Ch12; Cognitive Defense (formerly Ch12) became Ch13; Technology Ethics (formerly Ch15) became Ch14; International (formerly Ch13) became Ch15; UAP (formerly Ch14) became Ch16. All statistics IDs, reference files, and cross-chapter linkages were updated to reflect the new numbering.
 
-> **Note (2026-03-19)**: Chapter 12 (Cognitive Defense) was significantly expanded from 6 to 11 sections, integrating CCP cognitive warfare structural analysis. 10 new statistics (ch12-011 to ch12-020) and 9 new sources ([src-116] to [src-124]) were added. Chapter 10 (AI & Distributed Computing) gained a new Section 10.5 on Brain-Computer Interfaces with 4 new statistics (ch10-011 to ch10-014) and 4 new sources ([src-125] to [src-128]). A new Chapter 15 (Technology Ethics) was created with 10 statistics (ch15-001 to ch15-010) and 13 new sources ([src-129] to [src-141]).
+> **Note (2026-03-19)**: Chapter 7 (Biological Security, formerly Ch16) was created with 11 statistics (ch07-001 to ch07-011) and 16 sources ([src-142] to [src-157]). Biological content was extracted from Chapter 14 (Technology Ethics, formerly Ch15). Chapter 13 (Cognitive Defense, formerly Ch12) was expanded from 6 to 11 sections. Chapter 11 (AI, formerly Ch10) gained Section 11.5 on BCI. Chapter 14 (Technology Ethics, formerly Ch15) has 8 statistics after bio content extraction.
 
 Key findings:
 
@@ -81,12 +81,12 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 
 | Metric | Count |
 |--------|-------|
-| Total unique sources in bibliography | 141 |
-| Total data points across all chapters | 173 |
-| Chapters with statistics files | 15 |
+| Total unique sources in bibliography | 157 |
+| Total data points across all chapters | 193 |
+| Chapters with statistics files | 16 |
 | Sources with DOI | 1 |
-| Sources with URL verified (assumed_valid) | 141 / 141 |
-| Data points marked `verified: true` | 173 / 173 |
+| Sources with URL verified (assumed_valid) | 157 / 157 |
+| Data points marked `verified: true` | 193 / 193 |
 
 ### 3.2 Breakdown by Source Type
 
@@ -103,9 +103,9 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 
 | Status | Count | Notes |
 |--------|-------|-------|
-| `verified: true` | 173 | All data points carry verification flags |
+| `verified: true` | 193 | All data points carry verification flags |
 | `verified: false` | 0 | No unverified data points remain in the dataset |
-| URL status: `assumed_valid` | 141 | No live HTTP checks performed; URLs assessed for institutional stability |
+| URL status: `assumed_valid` | 157 | No live HTTP checks performed; URLs assessed for institutional stability |
 | URL status: `confirmed_broken` | 0 | None identified |
 
 ---
@@ -118,18 +118,19 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 | Ch02 | Semiconductor Industry and Silicon Shield | 13 | Report, government, corporate | 100% | TrendForce, TSMC IR, ASML, SIA, TSIA |
 | Ch03 | Defense Capabilities and Military Modernization | 12 | Government, report | 100% | Taiwan MND, IISS, DSCA, CSIS, Janes |
 | Ch04 | Electromagnetic Warfare | 10 | Government, report | 100% | MND, CSIS, NCSIST, DSCA, DoD, NCC |
-| Ch05 | Communications Resilience | 10 | Database, report, news, government | 100% | TeleGeography, Reuters, TWNIC, NCC, NDC |
-| Ch06 | Financial Resilience | 10 | Government, database, report | 100% | CBC Taiwan, FSC, TWSE, SWIFT, WGC |
-| Ch07 | Energy Security and Infrastructure Vulnerability | 13 | Government, report, corporate | 100% | BOE, Taipower, CPC, IEA, GWEC, TSMC ESG |
-| Ch08 | Space Capabilities | 10 | Government, report | 100% | TASA, NOAA/COSMIC, NSTC, Space Foundation |
-| Ch09 | Quantum Security | 10 | Government, report, academic | 100% | NIST, GRI, NSTC, USTC, IBM, NSA |
-| Ch10 | AI, Distributed Computing, and Brain-Computer Interfaces | 14 | Government, report, database, news | 100% | NCHC, NSTC, Scopus, SIA, Stanford HAI, DARPA, Grand View Research |
-| Ch11 | Cognitive Defense — CCP Cognitive Warfare | 20 | Report, government, academic, news | 100% | DoubleThink Lab, IORG, DataReportal, V-Dem, Reuters Institute, King/Pan/Roberts, Microsoft MTAC, OpenAI, Meta, NSB |
-| Ch12 | International Linkages | 10 | Report, government | 100% | SIA, MOFA, DSCA, CSIS AMTI, US Census |
-| Ch14 | Non-Traditional Security Threats (UAP) | 9 | Government, report | 100% | US DoD (AARO), GEIPAN, JSDF, NASA |
-| Ch15 | Technology Ethics | 10 | Government, report, academic, international organizations | 100% | WHO, UNESCO, ClinicalTrials.gov, Chilean Senate, MOHW, DARPA, HCCH, UN CCW |
-| S1 | Food Security and Water Resources | 15 | Government | 100% | COA, USDA FAS, WRA, FAO, TSMC ESG, CWA |
-| **Total** | | **173** | | **100%** | |
+| Ch05 | Energy Security and Infrastructure Vulnerability | 23 | Government, report, corporate | 100% | BOE, Taipower, CPC, IEA, GWEC, TSMC ESG, ITER, LLNL, FIA |
+| Ch06 | Food Security and Water Resources | 15 | Government | 100% | COA, USDA FAS, WRA, FAO, TSMC ESG, CWA |
+| Ch07 | Biological Security | 11 | Government, report, academic, international organizations | 100% | UN BWC, ODNI, WHO, Taiwan CDC, MOHW, NAS, House Select Committee, Fresno County DPH |
+| Ch08 | Communications Resilience | 10 | Database, report, news, government | 100% | TeleGeography, Reuters, TWNIC, NCC, NDC |
+| Ch09 | Financial and Digital Resilience | 12 | Government, database, report | 100% | CBC Taiwan, FSC, TWSE, SWIFT, WGC |
+| Ch10 | Space Capabilities | 10 | Government, report | 100% | TASA, NOAA/COSMIC, NSTC, Space Foundation |
+| Ch11 | AI, Distributed Computing, and Brain-Computer Interfaces | 14 | Government, report, database, news | 100% | NCHC, NSTC, Scopus, SIA, Stanford HAI, DARPA, Grand View Research |
+| Ch12 | Quantum Security | 10 | Government, report, academic | 100% | NIST, GRI, NSTC, USTC, IBM, NSA |
+| Ch13 | Cognitive Defense — CCP Cognitive Warfare | 20 | Report, government, academic, news | 100% | DoubleThink Lab, IORG, DataReportal, V-Dem, Reuters Institute, King/Pan/Roberts, Microsoft MTAC, OpenAI, Meta, NSB |
+| Ch14 | Technology Ethics | 8 | Government, report, academic, international organizations | 100% | Chilean Senate, MOHW, DARPA, HCCH, UN CCW, Neuralink |
+| Ch15 | International Linkages | 10 | Report, government | 100% | SIA, MOFA, DSCA, CSIS AMTI, US Census |
+| Ch16 | Non-Traditional Security Threats (UAP) | 3 | Government, report | 100% | US DoD (AARO), GEIPAN, JSDF, NASA |
+| **Total** | | **193** | | **100%** | |
 
 ---
 
@@ -143,10 +144,10 @@ These sources carry institutional authority, undergo official review processes, 
 |----------------|----------|
 | Taiwan Ministry of National Defense | Ch03, Ch04 |
 | U.S. Department of Defense (China Military Power Report) | Ch01, Ch04 |
-| Taiwan Bureau of Energy / MOEA | Ch07 |
-| Central Bank of the Republic of China (Taiwan) | Ch06 |
+| Taiwan Bureau of Energy / MOEA | Ch05 |
+| Central Bank of the Republic of China (Taiwan) | Ch09 |
 | Taiwan Council of Agriculture | S1 |
-| NIST (Post-Quantum Cryptography) | Ch09 |
+| NIST (Post-Quantum Cryptography) | Ch12 |
 | USDA Foreign Agricultural Service | S1 |
 | FAO AQUASTAT | S1 |
 | U.S. Energy Information Administration | Ch01 |
@@ -158,12 +159,12 @@ These sources produce data under regulatory or market scrutiny, with established
 
 | Source Examples | Chapters |
 |----------------|----------|
-| TSMC Investor Relations (SEC-filed) | Ch02, Ch07, Ch12 |
+| TSMC Investor Relations (SEC-filed) | Ch02, Ch05, Ch15 |
 | ASML Annual Report (audited) | Ch02 |
-| Semiconductor Industry Association (SIA) | Ch02, Ch10, Ch12 |
+| Semiconductor Industry Association (SIA) | Ch02, Ch11, Ch15 |
 | IISS Military Balance | Ch03, Ch04 |
-| TrendForce | Ch02, Ch12 |
-| World Gold Council | Ch06 |
+| TrendForce | Ch02, Ch15 |
+| World Gold Council | Ch09 |
 
 ### Tier 3: Good Reliability (Research Institutions and Think Tanks)
 
@@ -171,12 +172,12 @@ Expert analysis with transparent methodology, though subject to analytical frami
 
 | Source Examples | Chapters |
 |----------------|----------|
-| CSIS (multiple programs) | Ch01, Ch03, Ch04, Ch12 |
+| CSIS (multiple programs) | Ch01, Ch03, Ch04, Ch15 |
 | Congressional Research Service | Ch03, Ch04 |
-| Stanford HAI AI Index | Ch10 |
-| V-Dem Institute | Ch11 |
-| Global Risk Institute | Ch09 |
-| Reuters Institute for the Study of Journalism | Ch11 |
+| Stanford HAI AI Index | Ch11 |
+| V-Dem Institute | Ch13 |
+| Global Risk Institute | Ch12 |
+| Reuters Institute for the Study of Journalism | Ch13 |
 
 ### Tier 4: Moderate Reliability (News and Independent Trackers)
 
@@ -185,11 +186,11 @@ Journalistic reporting and open-source tracking subject to editorial selection e
 | Source Examples | Chapters |
 |----------------|----------|
 | Bloomberg | Ch01 |
-| Reuters | Ch05 |
-| DigiTimes | Ch10 |
+| Reuters | Ch08 |
+| DigiTimes | Ch11 |
 | Gerald C. Brown ADIZ Tracker | Ch01, Ch04 |
-| Jonathan McDowell orbital tracker | Ch05 |
-| DoubleThink Lab / IORG | Ch11 |
+| Jonathan McDowell orbital tracker | Ch10 |
+| DoubleThink Lab / IORG | Ch13 |
 
 ### Tier 5: Lower Reliability (Market Research Estimates)
 
@@ -197,8 +198,8 @@ Commercial market research with proprietary methodology; figures should be treat
 
 | Source Examples | Chapters |
 |----------------|----------|
-| Triple-A (crypto ownership) | Ch06 |
-| Arizton Advisory (data center market) | Ch10 |
+| Triple-A (crypto ownership) | Ch09 |
+| Arizton Advisory (data center market) | Ch11 |
 | Counterpoint Research (foundry market share) | Ch02 |
 
 ---
@@ -257,10 +258,10 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 | Data Point | Chapter | Reason |
 |-----------|---------|--------|
-| TSMC foundry market share | Ch02, Ch12 | TrendForce publishes quarterly rankings |
+| TSMC foundry market share | Ch02, Ch15 | TrendForce publishes quarterly rankings |
 | TSMC revenue and capex | Ch02 | Quarterly earnings releases |
-| Taiwan foreign exchange reserves | Ch06 | CBC publishes monthly |
-| TWSE market capitalization | Ch06 | Changes daily; quarterly snapshot appropriate |
+| Taiwan foreign exchange reserves | Ch09 | CBC publishes monthly |
+| TWSE market capitalization | Ch09 | Changes daily; quarterly snapshot appropriate |
 | PLA ADIZ incursion count | Ch01, Ch04 | Continuously tracked; annual cumulative should be updated |
 
 ### Priority 2: Refresh Annually
@@ -268,11 +269,11 @@ These data points change frequently and should be updated on a quarterly cycle:
 | Data Point | Chapter | Reason |
 |-----------|---------|--------|
 | Taiwan defense budget | Ch03, Ch04 | Annual budget cycle (October fiscal year) |
-| Energy mix percentages | Ch07 | BOE publishes annual energy data book |
-| Offshore wind / solar capacity | Ch07 | Annual installed capacity updates |
+| Energy mix percentages | Ch05 | BOE publishes annual energy data book |
+| Offshore wind / solar capacity | Ch05 | Annual installed capacity updates |
 | Food self-sufficiency ratio | S1 | COA annual publication |
-| Diplomatic allies count | Ch12 | Changes with diplomatic switches |
-| AI research publication count | Ch10 | Annual Scopus/Stanford AI Index update |
+| Diplomatic allies count | Ch15 | Changes with diplomatic switches |
+| AI research publication count | Ch11 | Annual Scopus/Stanford AI Index update |
 | Global semiconductor market size | Ch02 | SIA annual report |
 | Reservoir effective capacity | S1 | Annual WRA sedimentation survey |
 
@@ -281,12 +282,12 @@ These data points change frequently and should be updated on a quarterly cycle:
 | Data Point | Chapter | Trigger Event |
 |-----------|---------|---------------|
 | IDS submarine program status | Ch03 | Sea trial completion, second hull launch |
-| FORMOSAT-8 constellation status | Ch08 | Satellite launches |
-| CBDC pilot status | Ch06 | Phase 3 announcement or deployment |
-| NIST PQC additional standards | Ch09 | FIPS 206 (FALCON) publication |
-| TSMC overseas fab milestones | Ch12 | Arizona/Japan/Germany fab operational dates |
+| FORMOSAT-8 constellation status | Ch10 | Satellite launches |
+| CBDC pilot status | Ch09 | Phase 3 announcement or deployment |
+| NIST PQC additional standards | Ch12 | FIPS 206 (FALCON) publication |
+| TSMC overseas fab milestones | Ch15 | Arizona/Japan/Germany fab operational dates |
 | Taiwan 2nm production status | Ch02 | Volume production confirmation |
-| Nuclear power phase-out status | Ch07 | Maanshan decommission or policy reversal |
+| Nuclear power phase-out status | Ch05 | Maanshan decommission or policy reversal |
 
 ### Priority 4: Structural Updates
 
@@ -320,7 +321,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 | # | Check | Status |
 |---|-------|--------|
-| 1 | All 141 sources have unique `id` fields (src-001 through src-141) | PASS |
+| 1 | All 157 sources have unique `id` fields (src-001 through src-157) | PASS |
 | 2 | All sources have a `type` classification | PASS |
 | 3 | All sources have `chapters_cited` arrays linking to specific chapters | PASS |
 | 4 | All sources have `verified: true` and `last_checked` dates | PASS |
@@ -330,7 +331,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 | # | Check | Status |
 |---|-------|--------|
-| 1 | All 141 URLs are present in the registry | PASS |
+| 1 | All 157 URLs are present in the registry | PASS |
 | 2 | Each URL entry has a `source_id` linking back to bibliography | PASS |
 | 3 | Each URL entry has a `status` field | PASS |
 | 4 | Each URL entry has a `last_checked` date | PASS |
@@ -345,7 +346,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 | 2 | Numeric values are plausible within stated context | PASS |
 | 3 | Units are consistently formatted across chapters | PASS |
 | 4 | Date fields use consistent formatting | PASS |
-| 5 | Cross-chapter references are internally consistent (e.g., TSMC market share in Ch02 vs. Ch12) | PASS -- minor variance noted (64.9% in Ch02 Q3 2024 vs. 61.7% in Ch12 Q3 2024 due to different reporting methodologies) |
+| 5 | Cross-chapter references are internally consistent (e.g., TSMC market share in Ch02 vs. Ch15) | PASS -- minor variance noted (64.9% in Ch02 Q3 2024 vs. 61.7% in Ch15 Q3 2024 due to different reporting methodologies) |
 
 ---
 

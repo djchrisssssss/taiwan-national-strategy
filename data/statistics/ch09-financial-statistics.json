@@ -1,10 +1,10 @@
 {
-  "chapter": "08",
+  "chapter": "09",
   "title": "Financial and Digital Resilience",
   "last_updated": "2026-03-19",
   "statistics": [
     {
-      "id": "ch08-001",
+      "id": "ch09-001",
       "metric": "Taiwan foreign exchange reserves",
       "value": 577.0,
       "unit": "USD billion",
@@ -19,7 +19,7 @@
       "verification_note": "Central Bank of ROC publishes monthly reserves data; figure cross-referenced with IMF COFER database"
     },
     {
-      "id": "ch08-002",
+      "id": "ch09-002",
       "metric": "Taiwan foreign reserves as percentage of GDP",
       "value": 74.5,
       "unit": "percent of GDP",
@@ -34,7 +34,7 @@
       "verification_note": "Calculated from CBC reserves data and DGBAS GDP figures"
     },
     {
-      "id": "ch08-003",
+      "id": "ch09-003",
       "metric": "Taiwan CBDC pilot program status - digital New Taiwan Dollar",
       "value": "Phase 2 completed",
       "unit": "development phase",
@@ -49,7 +49,7 @@
       "verification_note": "Confirmed via CBC CBDC research reports and governor statements at Legislative Yuan hearings"
     },
     {
-      "id": "ch08-004",
+      "id": "ch09-004",
       "metric": "Taiwan banking sector total assets",
       "value": 63.4,
       "unit": "TWD trillion (approximately USD 1.95 trillion)",
@@ -64,7 +64,7 @@
       "verification_note": "FSC publishes quarterly banking statistics; figures consistent with CBC Financial Stability Report"
     },
     {
-      "id": "ch08-005",
+      "id": "ch09-005",
       "metric": "Taiwan cryptocurrency ownership rate among population",
       "value": 5.8,
       "unit": "percent of adults",
@@ -79,7 +79,7 @@
       "verification_note": "Triple-A and Chainalysis estimates; consistent with FSC VASP registration data showing ~26 registered exchanges"
     },
     {
-      "id": "ch08-006",
+      "id": "ch09-006",
       "metric": "Taiwan stock market (TWSE) total market capitalization",
       "value": 2.2,
       "unit": "USD trillion",
@@ -94,7 +94,7 @@
       "verification_note": "TWSE publishes daily market statistics; market cap figures widely reported by financial media"
     },
     {
-      "id": "ch08-007",
+      "id": "ch09-007",
       "metric": "SWIFT financial messaging dependency - Taiwan bank connections",
       "value": 37,
       "unit": "domestic banks connected to SWIFT",
@@ -109,7 +109,7 @@
       "verification_note": "Based on FSC domestic bank count and SWIFT BIC directory listings for Taiwan entities"
     },
     {
-      "id": "ch08-008",
+      "id": "ch09-008",
       "metric": "Taiwan annual trade volume (goods exports + imports)",
       "value": 907,
       "unit": "USD billion",
@@ -124,7 +124,7 @@
       "verification_note": "Bureau of Foreign Trade monthly trade statistics; consistent with customs data from DGBAS"
     },
     {
-      "id": "ch08-009",
+      "id": "ch09-009",
       "metric": "Taiwan national payment system daily transaction volume",
       "value": 3.2,
       "unit": "TWD trillion daily average",
@@ -139,7 +139,7 @@
       "verification_note": "CBC payment systems annual report provides transaction volume statistics"
     },
     {
-      "id": "ch08-010",
+      "id": "ch09-010",
       "metric": "Gold reserves held by Central Bank of Taiwan",
       "value": 422.4,
       "unit": "metric tonnes",
@@ -154,7 +154,7 @@
       "verification_note": "World Gold Council publishes quarterly central bank gold holdings data; CBC confirms holdings"
     },
     {
-      "id": "ch08-011",
+      "id": "ch09-011",
       "metric": "Estonia e-Residency program digital residents",
       "value": 110000,
       "unit": "digital residents (cumulative)",
@@ -169,7 +169,7 @@
       "verification_note": "e-Estonia official statistics; e-Residency dashboard public data"
     },
     {
-      "id": "ch08-012",
+      "id": "ch09-012",
       "metric": "EU EBSI participating member states",
       "value": 29,
       "unit": "EU member states plus Norway and Liechtenstein",

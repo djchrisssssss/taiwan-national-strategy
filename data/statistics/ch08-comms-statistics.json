@@ -1,10 +1,10 @@
 {
-  "chapter": "07",
+  "chapter": "08",
   "title": "Communications Resilience",
   "last_updated": "2026-03-16",
   "statistics": [
     {
-      "id": "ch07-001",
+      "id": "ch08-001",
       "metric": "International submarine cables connecting Taiwan",
       "value": 15,
       "unit": "cables",
@@ -19,7 +19,7 @@
       "verification_note": "TeleGeography submarine cable map is the authoritative industry reference; count confirmed via cross-reference with NCC Taiwan records"
     },
     {
-      "id": "ch07-002",
+      "id": "ch08-002",
       "metric": "Submarine cable landing stations in Taiwan",
       "value": 5,
       "unit": "landing stations",
@@ -34,7 +34,7 @@
       "verification_note": "Confirmed via TeleGeography data and Taiwan NCC submarine cable landing records"
     },
     {
-      "id": "ch07-003",
+      "id": "ch08-003",
       "metric": "Matsu Islands submarine cable cut incidents (2023)",
       "value": 2,
       "unit": "cable cuts in February 2023",
@@ -49,7 +49,7 @@
       "verification_note": "Widely reported by Reuters, AP, BBC, and Taiwan media; Chunghwa Telecom confirmed the cuts and repair timeline"
     },
     {
-      "id": "ch07-004",
+      "id": "ch08-004",
       "metric": "Duration of Matsu Islands degraded connectivity after cable cuts",
       "value": 50,
       "unit": "days",
@@ -64,7 +64,7 @@
       "verification_note": "Timeline confirmed by multiple media reports and Chunghwa Telecom announcements"
     },
     {
-      "id": "ch07-005",
+      "id": "ch08-005",
       "metric": "Taiwan total international internet bandwidth capacity",
       "value": 7.8,
       "unit": "Tbps",
@@ -79,7 +79,7 @@
       "verification_note": "TWNIC publishes internet statistics reports; corroborated by Asia-Pacific internet bandwidth surveys"
     },
     {
-      "id": "ch07-006",
+      "id": "ch08-006",
       "metric": "Starlink active satellites in orbit",
       "value": 6800,
       "unit": "satellites",
@@ -94,7 +94,7 @@
       "verification_note": "Jonathan McDowell's orbital database cross-referenced with SpaceX launch manifests"
     },
     {
-      "id": "ch07-007",
+      "id": "ch08-007",
       "metric": "Taiwan internet penetration rate",
       "value": 90.7,
       "unit": "percent of population",
@@ -109,7 +109,7 @@
       "verification_note": "TWNIC Internet Usage Survey, consistent with ITU data for Taiwan region"
     },
     {
-      "id": "ch07-008",
+      "id": "ch08-008",
       "metric": "Taiwan 5G base station deployments",
       "value": 70000,
       "unit": "base stations",
@@ -124,7 +124,7 @@
       "verification_note": "NCC quarterly statistics reports on telecommunications infrastructure deployment"
     },
     {
-      "id": "ch07-009",
+      "id": "ch08-009",
       "metric": "Submarine cable disruption incidents in Asia-Pacific region annually",
       "value": 100,
       "unit": "incidents per year approximately",
@@ -139,7 +139,7 @@
       "verification_note": "ICPC annual fault statistics; corroborated by Asia SubSea Cable Conference reports"
     },
     {
-      "id": "ch07-010",
+      "id": "ch08-010",
       "metric": "Taiwan government satellite backup communication investment",
       "value": 550,
       "unit": "USD million (planned through 2029)",

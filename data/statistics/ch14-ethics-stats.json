@@ -1,10 +1,10 @@
 {
-  "chapter": "15",
-  "title": "Technology Ethics — Genetic Modification, Consciousness Engineering, and Emerging Technology Governance",
+  "chapter": "14",
+  "title": "Technology Ethics — Consciousness Engineering, Reproductive Ethics, and Emerging Technology Governance",
   "last_updated": "2026-03-19",
   "statistics": [
     {
-      "id": "ch15-001",
+      "id": "ch14-001",
       "metric": "Countries with legalized euthanasia or assisted dying",
       "value": 10,
       "unit": "countries (approximate, as of 2024)",
@@ -19,7 +19,7 @@
       "verification_note": "Country counts vary by definition (active euthanasia vs. assisted dying vs. passive euthanasia); approximate figure from legal surveys"
     },
     {
-      "id": "ch15-002",
+      "id": "ch14-002",
       "metric": "Chile neurorights constitutional protection year",
       "value": 2021,
       "unit": "year enacted",
@@ -34,22 +34,7 @@
       "verification_note": "Chilean constitutional amendment confirmed by Senate records; widely reported in international legal and neuroscience literature"
     },
     {
-      "id": "ch15-003",
-      "metric": "CRISPR clinical trials globally (active or completed)",
-      "value": 100,
-      "unit": "clinical trials (minimum, as of 2024)",
-      "date": "2024",
-      "source": {
-        "name": "ClinicalTrials.gov / Nature Biotechnology",
-        "url": "https://clinicaltrials.gov/",
-        "accessed": "2026-03-19"
-      },
-      "context": "Over 100 CRISPR-based clinical trials were registered globally by 2024, covering sickle cell disease, beta-thalassemia, various cancers, HIV, and genetic blindness. The first CRISPR therapy (Casgevy for sickle cell disease) received FDA approval in December 2023.",
-      "verified": true,
-      "verification_note": "ClinicalTrials.gov registry search for CRISPR-related trials; FDA approval of Casgevy confirmed in December 2023"
-    },
-    {
-      "id": "ch15-004",
+      "id": "ch14-004",
       "metric": "Global BCI market size (projected 2030)",
       "value": 5.8,
       "unit": "USD billion",
@@ -59,12 +44,12 @@
         "url": "https://www.grandviewresearch.com/",
         "accessed": "2026-03-19"
       },
-      "context": "Cross-referenced from ch10-011. The global BCI market is projected to exceed $5.8 billion by 2030, encompassing medical, consumer, and military applications. Ethical governance of this market is a central concern of Chapter 15.",
+      "context": "Cross-referenced from ch11-011. The global BCI market is projected to exceed $5.8 billion by 2030, encompassing medical, consumer, and military applications. Ethical governance of this market is a central concern of Chapter 14.",
       "verified": true,
-      "verification_note": "Market projections from multiple research firms; cross-referenced with ch10-011"
+      "verification_note": "Market projections from multiple research firms; cross-referenced with ch11-011"
     },
     {
-      "id": "ch15-005",
+      "id": "ch14-005",
       "metric": "Years of LAWS discussions at Convention on Certain Conventional Weapons",
       "value": 11,
       "unit": "years (2013-2024, no binding agreement)",
@@ -79,7 +64,7 @@
       "verification_note": "UN CCW meeting records; LAWS Group of Governmental Experts established 2017"
     },
     {
-      "id": "ch15-006",
+      "id": "ch14-006",
       "metric": "Taiwan Patient Autonomy Act implementation year",
       "value": 2019,
       "unit": "year implemented",
@@ -94,22 +79,7 @@
       "verification_note": "Ministry of Health and Welfare official implementation records; first Asian jurisdiction with such legislation"
     },
     {
-      "id": "ch15-007",
-      "metric": "Countries with human cloning prohibition",
-      "value": 70,
-      "unit": "countries (approximate)",
-      "date": "2024",
-      "source": {
-        "name": "UNESCO / academic legal surveys",
-        "url": "https://www.unesco.org/",
-        "accessed": "2026-03-19"
-      },
-      "context": "Approximately 70 countries have enacted legislation prohibiting reproductive human cloning. However, no binding international treaty exists (a non-binding UN Declaration on Human Cloning was adopted in 2005), and enforcement mechanisms vary widely.",
-      "verified": true,
-      "verification_note": "Country counts approximate and vary by survey methodology; UNESCO Universal Declaration on the Human Genome and Human Rights (1997) provides normative framework"
-    },
-    {
-      "id": "ch15-008",
+      "id": "ch14-008",
       "metric": "Neuralink human clinical trial participants",
       "value": 3,
       "unit": "human participants (as of early 2025)",
@@ -119,12 +89,12 @@
         "url": "https://neuralink.com/",
         "accessed": "2026-03-19"
       },
-      "context": "Cross-referenced from ch10-013. Neuralink has implanted its N1 BCI device in human participants under FDA Investigational Device Exemption. The ethical implications of invasive BCI deployment are a central concern of Section 15.4.",
+      "context": "Cross-referenced from ch11-013. Neuralink has implanted its N1 BCI device in human participants under FDA Investigational Device Exemption. The ethical implications of invasive BCI deployment are a central concern of Section 14.2.",
       "verified": true,
-      "verification_note": "Cross-referenced with ch10-013; Neuralink public announcements"
+      "verification_note": "Cross-referenced with ch11-013; Neuralink public announcements"
     },
     {
-      "id": "ch15-009",
+      "id": "ch14-009",
       "metric": "Taiwan total fertility rate",
       "value": 0.87,
       "unit": "births per woman",
@@ -134,12 +104,12 @@
         "url": "https://www.moi.gov.tw/",
         "accessed": "2026-03-19"
       },
-      "context": "Taiwan's total fertility rate of approximately 0.87 in 2024 is among the lowest globally. This demographic crisis intersects with surrogacy and reproductive technology policy (Section 15.6) as part of a comprehensive demographic security strategy.",
+      "context": "Taiwan's total fertility rate of approximately 0.87 in 2024 is among the lowest globally. This demographic crisis intersects with surrogacy and reproductive technology policy (Section 15.4) as part of a comprehensive demographic security strategy.",
       "verified": true,
       "verification_note": "Ministry of the Interior population statistics; Taiwan consistently ranks among the world's lowest fertility countries"
     },
     {
-      "id": "ch15-010",
+      "id": "ch14-010",
       "metric": "Countries permitting commercial surrogacy (with regulatory framework)",
       "value": "limited",
       "unit": "a small number of jurisdictions",
