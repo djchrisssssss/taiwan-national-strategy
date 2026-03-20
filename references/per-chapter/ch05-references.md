@@ -9,11 +9,11 @@
 5. **[src-053]** Global Offshore Wind Report — GWEC (2024). https://gwec.net/global-offshore-wind-report/. Accessed: 2026-03-16.
 6. **[src-054]** Bureau of Energy — Offshore Wind and Renewable Energy Policy (2024). https://www.moeaboe.gov.tw/. Accessed: 2026-03-16.
 7. **[src-055]** TSMC ESG Report 2023 — TSMC (2023). https://esg.tsmc.com/en/resources/documents.html. Accessed: 2026-03-16.
-8. **[src-056]** Advances in Small Modular Reactor Technology Developments — IAEA SMR Booklet (2024). https://aris.iaea.org/Publications/SMR_booklet.html. Accessed: 2026-03-18.
-9. **[src-057]** Advanced Reactors (non-LWR) Design Certification and Licensing — U.S. NRC (2024). https://www.nrc.gov/reactors/new-reactors/smr.html. Accessed: 2026-03-18.
-10. **[src-058]** Small Nuclear Power Reactors — World Nuclear Association (2024). https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/small-nuclear-power-reactors. Accessed: 2026-03-18.
-11. **[src-059]** Pre-licensing Vendor Design Reviews for SMRs — Canadian Nuclear Safety Commission (2024). https://www.nuclearsafety.gc.ca/eng/reactors/power-plants/pre-licensing-vendor-design-review/. Accessed: 2026-03-18.
-12. **[src-060]** Nuclear Power in a Clean Energy System — IEA Special Report (2019). https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system. Accessed: 2026-03-18.
+8. **[src-165]** Advances in Small Modular Reactor Technology Developments — IAEA SMR Booklet (2024). https://aris.iaea.org/Publications/SMR_booklet.html. Accessed: 2026-03-18.
+9. **[src-166]** Advanced Reactors (non-LWR) Design Certification and Licensing — U.S. NRC (2024). https://www.nrc.gov/reactors/new-reactors/smr.html. Accessed: 2026-03-18.
+10. **[src-167]** Small Nuclear Power Reactors — World Nuclear Association (2024). https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/small-nuclear-power-reactors. Accessed: 2026-03-18.
+11. **[src-168]** Pre-licensing Vendor Design Reviews for SMRs — Canadian Nuclear Safety Commission (2024). https://www.nuclearsafety.gc.ca/eng/reactors/power-plants/pre-licensing-vendor-design-review/. Accessed: 2026-03-18.
+12. **[src-169]** Nuclear Power in a Clean Energy System — IEA Special Report (2019). https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system. Accessed: 2026-03-18.
 
 ## Data Points Referenced
 
@@ -32,9 +32,9 @@
 | ch05-011 | Taiwan electricity consumption by sector — Industrial | [src-049] |
 | ch05-012 | TSMC electricity consumption as share of Taiwan total | [src-055] |
 | ch05-013 | Taiwan total annual electricity consumption | [src-050] |
-| ch05-014 | Global SMR designs under development | [src-056] |
-| ch05-015 | Typical SMR electrical output range | [src-058] |
-| ch05-016 | Nuclear fuel loading cycle duration (typical SMR) | [src-056] |
+| ch05-014 | Global SMR designs under development | [src-165] |
+| ch05-015 | Typical SMR electrical output range | [src-167] |
+| ch05-016 | Nuclear fuel loading cycle duration (typical SMR) | [src-165] |
 
 13. **[src-096]** ITER Organization, "What is ITER?" https://www.iter.org/. Accessed: 2026-03-18.
 14. **[src-097]** Lawrence Livermore National Laboratory (LLNL), National Ignition Facility, "Achieving Fusion Ignition." https://lasers.llnl.gov/. Accessed: 2026-03-18.

@@ -22,14 +22,12 @@
 |---|---|---|
 | ch14-001 | Countries with legalized euthanasia or assisted dying | [src-129] |
 | ch14-002 | Chile neurorights constitutional protection year | [src-130] |
-| ~~ch14-003~~ | ~~CRISPR clinical trials globally~~ | *Moved to ch07-009* |
-| ch14-004 | Global BCI market size (projected 2030) | [src-140] |
-| ch14-005 | Years of LAWS discussions at CCW | [src-132] |
-| ch14-006 | Taiwan Patient Autonomy Act implementation year | [src-133] |
-| ~~ch14-007~~ | ~~Countries with human cloning prohibition~~ | *Moved to ch07-010* |
-| ch14-008 | Neuralink human clinical trial participants | [src-135] |
-| ch14-009 | Taiwan total fertility rate | [src-136] |
-| ch14-010 | Countries permitting commercial surrogacy | [src-137] |
+| ch14-003 | Global BCI market size (projected 2030) | [src-140] |
+| ch14-004 | Years of LAWS discussions at CCW | [src-132] |
+| ch14-005 | Taiwan Patient Autonomy Act implementation year | [src-133] |
+| ch14-006 | Neuralink human clinical trial participants | [src-135] |
+| ch14-007 | Taiwan total fertility rate | [src-136] |
+| ch14-008 | Countries permitting commercial surrogacy | [src-137] |
 
 ## Notes
 
@@ -39,6 +37,6 @@
 - The He Jiankui case (2018, Shenzhen) is cited as a cautionary example of inadequate governance in a permissive regulatory environment.
 - Taiwan's Patient Autonomy Act (2019) is the first such legislation in Asia, providing a foundation for further end-of-life ethics development.
 - Cross-references to Chapter 11 (Sections 11.5-11.6) for BCI defense/technology perspective; to Chapter 13 for cognitive defense linkages; to Chapter 3 for autonomous weapons in asymmetric defense; to Chapter 7 for biological security governance.
-- Statistics ch14-004 and ch14-008 are cross-referenced from ch11-011 and ch11-013 respectively.
-- Statistics ch14-003 (CRISPR) and ch14-007 (cloning) moved to ch07-009 and ch07-010 respectively.
+- Statistics ch14-003 and ch14-006 are cross-referenced from ch11-011 and ch11-013 respectively.
+- Original ch14-003 (CRISPR) and ch14-007 (cloning) were moved to ch07-009 and ch07-010; remaining IDs renumbered to close gaps (ch14-001 through ch14-008, sequential).
 - References [src-131], [src-134], and [src-138] moved to Chapter 7 as [src-153], [src-154], and [src-155] respectively.

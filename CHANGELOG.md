@@ -18,7 +18,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 - Statistics schema regex pattern updated to remove obsolete S[0-9] alternative
 - Stale "fourteen core domains" references updated to "sixteen" in full-text files
-- Verification report source counts updated from 157 to 164, data points from 193 to 200
+- Verification report source counts updated (169 sources, 200 data points)
+- **Duplicate source IDs resolved**: Ch05 nuclear energy sources [src-056]–[src-060] renumbered to [src-165]–[src-169] to eliminate collision with Ch10 (Space) and Ch12 (Quantum) sources
+- **Ch14 statistics ID gaps closed**: Renumbered ch14-004→003, ch14-005→004, ch14-006→005, ch14-008→006, ch14-009→007, ch14-010→008 (sequential ch14-001 to ch14-008)
+- Source type breakdown tables in verification reports updated from 95-source totals to full 169-source categorization
 
 ### Changed
 
