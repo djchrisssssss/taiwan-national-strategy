@@ -6,6 +6,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Added
+
+- **Chapter 3 expansion: Missile Defense and Hardened Infrastructure** — Two new sections added to Asymmetric Defense chapter:
+  - Section 3.5: Missile Defense and Hypersonic Threats — DF-17/DF-27 threat assessment, multi-layer defense architecture analysis (Tien Kung III, PAC-3), counter-hypersonic strategies (GPI, directed energy), detection and early warning, offensive counterforce
+  - Section 3.6: Hardened Infrastructure and Underground Strategy — Chiashan AFB model, eastern strategic depth, underground munitions/fuel storage, decentralized command architecture, highway runway strips, civil defense shelter modernization (Swiss/Israeli models), critical infrastructure hardening standards
+  - Three new policy recommendations (items 10-12) in renumbered Section 3.7
+  - 7 new statistics (ch03-013 to ch03-019) and 7 new sources ([src-158] to [src-164])
+
+### Fixed
+
+- Statistics schema regex pattern updated to remove obsolete S[0-9] alternative
+- Stale "fourteen core domains" references updated to "sixteen" in full-text files
+- Verification report source counts updated from 157 to 164, data points from 193 to 200
+
 ### Changed
 
 - **Major chapter reordering and renumbering**: Restructured from 6 Parts to 7 Parts for improved narrative flow

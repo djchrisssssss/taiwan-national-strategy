@@ -45,7 +45,7 @@ Employing a systems engineering methodology grounded in interdependency analysis
 
 | Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
 |:---:|--------|-------------|------|
-| 03 | Asymmetric Defense 不對稱防衛 | Cost-exchange ratio logic, submarine denial, unmanned systems, precision strike, and indigenous mass production. | 成本交換比邏輯、潛艦拒止、無人系統、精準打擊與本土量產能力。 |
+| 03 | Asymmetric Defense 不對稱防衛 | Cost-exchange ratio logic, submarine denial, unmanned systems, indigenous mass production, missile defense and counter-hypersonic strategy, hardened infrastructure and underground facilities. | 成本交換比邏輯、潛艦拒止、無人系統、本土量產能力、飛彈防禦與反極音速戰略、加固基礎設施與地下化設施。 |
 | 04 | Electromagnetic Spectrum Warfare 電磁頻譜戰 | Spectrum dominance, anti-jamming communications, electronic countermeasure systems, and EW as the opening move of modern conflict. | 頻譜控制權、抗干擾通訊、電子反制系統，以及電子戰作為現代衝突的先行戰場。 |
 
 ### IV. Resource Security and Biological Resilience / 四、資源安全與生物韌性
