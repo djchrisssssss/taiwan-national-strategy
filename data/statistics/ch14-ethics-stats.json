@@ -34,7 +34,7 @@
       "verification_note": "Chilean constitutional amendment confirmed by Senate records; widely reported in international legal and neuroscience literature"
     },
     {
-      "id": "ch14-004",
+      "id": "ch14-003",
       "metric": "Global BCI market size (projected 2030)",
       "value": 5.8,
       "unit": "USD billion",
@@ -49,7 +49,7 @@
       "verification_note": "Market projections from multiple research firms; cross-referenced with ch11-011"
     },
     {
-      "id": "ch14-005",
+      "id": "ch14-004",
       "metric": "Years of LAWS discussions at Convention on Certain Conventional Weapons",
       "value": 11,
       "unit": "years (2013-2024, no binding agreement)",
@@ -64,7 +64,7 @@
       "verification_note": "UN CCW meeting records; LAWS Group of Governmental Experts established 2017"
     },
     {
-      "id": "ch14-006",
+      "id": "ch14-005",
       "metric": "Taiwan Patient Autonomy Act implementation year",
       "value": 2019,
       "unit": "year implemented",
@@ -79,7 +79,7 @@
       "verification_note": "Ministry of Health and Welfare official implementation records; first Asian jurisdiction with such legislation"
     },
     {
-      "id": "ch14-008",
+      "id": "ch14-006",
       "metric": "Neuralink human clinical trial participants",
       "value": 3,
       "unit": "human participants (as of early 2025)",
@@ -94,7 +94,7 @@
       "verification_note": "Cross-referenced with ch11-013; Neuralink public announcements"
     },
     {
-      "id": "ch14-009",
+      "id": "ch14-007",
       "metric": "Taiwan total fertility rate",
       "value": 0.87,
       "unit": "births per woman",
@@ -109,7 +109,7 @@
       "verification_note": "Ministry of the Interior population statistics; Taiwan consistently ranks among the world's lowest fertility countries"
     },
     {
-      "id": "ch14-010",
+      "id": "ch14-008",
       "metric": "Countries permitting commercial surrogacy (with regulatory framework)",
       "value": "limited",
       "unit": "a small number of jurisdictions",

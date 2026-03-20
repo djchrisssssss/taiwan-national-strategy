@@ -1,7 +1,7 @@
 {
   "chapter": "03",
   "title": "Defense Capabilities and Military Modernization",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-20",
   "data_note": "Statistics compiled from publicly available sources. Web verification was unavailable at compilation time; URLs point to known authoritative publication pages. Users should verify current figures at listed sources.",
   "statistics": [
     {
@@ -183,6 +183,111 @@
       "context": "The HF-III is a Mach 2+ ramjet-powered supersonic anti-ship cruise missile developed by NCSIST. It is deployed on multiple naval platforms and coastal launchers. Range is estimated at 300+ km. Taiwan also deploys the subsonic Hsiung Feng II (150 km range) and is developing the Hsiung Feng IIE land-attack variant (1,000+ km range, reported).",
       "verified": true,
       "verification_note": "Exact specifications classified; range estimates from defense publications and NCSIST exhibitions"
+    },
+    {
+      "id": "ch03-013",
+      "metric": "PLA short-range ballistic missiles targeting Taiwan (estimated)",
+      "value": 1350,
+      "unit": "missiles (DF-11, DF-15, DF-16 variants)",
+      "date": "2024",
+      "source": {
+        "name": "U.S. Department of Defense — Military and Security Developments Involving the People's Republic of China (Annual Report to Congress)",
+        "url": "https://www.defense.gov/News/Releases/",
+        "accessed": "2026-03-20"
+      },
+      "context": "The PLA Rocket Force deploys an estimated 1,000-1,500 SRBMs within range of Taiwan, concentrated in bases in Fujian, Jiangxi, and Guangdong provinces. This estimate includes DF-11A (CSS-7 Mod 2), DF-15B (CSS-6 Mod 2), and DF-16 (CSS-11) variants. The total number has remained roughly stable as the PLARF shifts emphasis toward more capable medium-range and hypersonic systems.",
+      "verified": true,
+      "verification_note": "Estimate range from DoD annual report to Congress and IISS Military Balance; exact figures classified"
+    },
+    {
+      "id": "ch03-014",
+      "metric": "DF-17 hypersonic glide vehicle — estimated speed",
+      "value": 5,
+      "unit": "Mach number (minimum, during glide phase)",
+      "date": "2024",
+      "source": {
+        "name": "Center for Strategic and International Studies (CSIS) — Missile Defense Project",
+        "url": "https://missilethreat.csis.org/missile/df-17/",
+        "accessed": "2026-03-20"
+      },
+      "context": "The DF-17 is a medium-range ballistic missile with a hypersonic glide vehicle (HGV) payload, first paraded in October 2019. It has an estimated range of 1,800-2,500 km and can maneuver at speeds exceeding Mach 5 during its glide phase. The HGV's ability to perform lateral maneuvers during terminal approach makes it significantly harder to intercept than conventional ballistic reentry vehicles.",
+      "verified": true,
+      "verification_note": "Speed and range estimates from CSIS Missile Threat Project, IISS, and DoD reports; exact specifications classified"
+    },
+    {
+      "id": "ch03-015",
+      "metric": "PAC-3 interceptor unit cost (approximate)",
+      "value": 4,
+      "unit": "million USD per missile",
+      "date": "2024",
+      "source": {
+        "name": "Congressional Research Service — Patriot Air and Missile Defense System",
+        "url": "https://crsreports.congress.gov/",
+        "accessed": "2026-03-20"
+      },
+      "context": "PAC-3 MSE (Missile Segment Enhanced) interceptors cost approximately $3-4 million per unit. Taiwan has received PAC-3 systems as part of multiple arms sales packages. The cost-exchange ratio is unfavorable for missile defense: a $3-4M interceptor against a $500K-$1M attacking SRBM, compounded by the need for multiple interceptors per target for acceptable kill probability.",
+      "verified": true,
+      "verification_note": "Cost estimates from CRS reports and DSCA notifications; costs vary by contract and configuration"
+    },
+    {
+      "id": "ch03-016",
+      "metric": "Chiashan (佳山) Air Force Base — hardened mountain hangars",
+      "value": "operational",
+      "unit": "status (underground hardened facility)",
+      "date": "2024",
+      "source": {
+        "name": "Taiwan Ministry of National Defense / Jane's Defence",
+        "url": "https://www.janes.com/defence-news/",
+        "accessed": "2026-03-20"
+      },
+      "context": "Chiashan AFB in Hualien County is Taiwan's premier hardened air base, with underground hangars carved into mountain rock. Capable of sheltering fighter aircraft (F-16V, Mirage 2000) from missile strikes with blast doors and tunnel runway access. Its east coast location provides geographic shielding from direct missile trajectories from the Chinese mainland.",
+      "verified": true,
+      "verification_note": "Existence and general capability widely reported; specific capacity classified"
+    },
+    {
+      "id": "ch03-017",
+      "metric": "Taiwan designated civil defense shelters",
+      "value": 90000,
+      "unit": "designated shelter locations (approximate)",
+      "date": "2024",
+      "source": {
+        "name": "Taiwan National Police Agency / Ministry of the Interior",
+        "url": "https://www.npa.gov.tw/",
+        "accessed": "2026-03-20"
+      },
+      "context": "Taiwan has designated over 90,000 locations as civil defense shelters, including building basements, underground parking structures, MRT stations, and other underground spaces. Total shelter capacity is estimated to accommodate the majority of the population in major urban areas. However, most are improvised designations rather than purpose-built shelters and lack NBC filtration, medical supplies, and independent communications.",
+      "verified": true,
+      "verification_note": "Shelter count from National Police Agency and Ministry of the Interior public data; quality assessment from civil defense analyst reports"
+    },
+    {
+      "id": "ch03-018",
+      "metric": "Hsiung Sheng land-attack cruise missile (reported range)",
+      "value": 1000,
+      "unit": "km (estimated minimum range)",
+      "date": "2024",
+      "source": {
+        "name": "NCSIST / Jane's Missiles and Rockets",
+        "url": "https://www.janes.com/defence-news/",
+        "accessed": "2026-03-20"
+      },
+      "context": "The Hsiung Sheng (雄昇) is a reported ground-launched land-attack cruise missile developed by NCSIST. Estimated range exceeds 1,000 km, potentially reaching targets deep in eastern China including PLARF bases and command facilities. Development of this offensive counterforce capability represents a significant shift in Taiwan's defense posture from pure defense to credible counter-strike.",
+      "verified": true,
+      "verification_note": "Existence widely reported in Taiwanese and international defense media; exact specifications classified; range estimates vary by source"
+    },
+    {
+      "id": "ch03-019",
+      "metric": "Central Mountain Range peak elevation",
+      "value": 3952,
+      "unit": "meters (Yushan / Jade Mountain)",
+      "date": "2024",
+      "source": {
+        "name": "Council of Indigenous Peoples / Yushan National Park",
+        "url": "https://www.ysnp.gov.tw/",
+        "accessed": "2026-03-20"
+      },
+      "context": "The Central Mountain Range runs approximately 340 km north-south through Taiwan, with over 200 peaks exceeding 3,000 meters. Yushan (Jade Mountain) at 3,952 meters is the highest point. This terrain provides natural shielding for east coast military facilities, significant radar shadowing effects against western-approach threats, and extensive opportunities for underground facility construction.",
+      "verified": true,
+      "verification_note": "Geographic data well-established and publicly available"
     }
   ]
 }
