@@ -2,7 +2,7 @@
 
 ## Overview
 
-A bilingual (Traditional Chinese (正體中文) / English) policy analysis of Taiwan's multi-domain national security strategy. Structured as a think tank report with 13 chapters, deep citations, and verification data.
+A bilingual (Traditional Chinese (正體中文) / English) policy analysis of Taiwan's multi-domain national security strategy. Structured as a think tank report with 16 chapters, deep citations, structured verification data, and live URL audit support.
 
 ## File Structure
 
@@ -48,3 +48,8 @@ Each chapter uses this structure:
 ### Commits
 
 Follow Conventional Commits: `docs(chNN): description` or `data(statistics): description`
+
+## Validation
+
+- `python3 scripts/validate_repository.py`
+- `python3 scripts/validate_repository.py --check-urls --enforce-url-status`

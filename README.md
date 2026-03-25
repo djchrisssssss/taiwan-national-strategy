@@ -93,14 +93,20 @@ This project maintains a structured data layer to support reproducibility and ve
 | Statistics 統計數據 | `data/statistics/` | Per-chapter quantitative data (JSON). 各章節量化數據。 |
 | Timelines 時間軸 | `data/timelines/` | Historical event CSVs. 歷史事件時間軸。 |
 | Comparisons 跨國比較 | `data/comparisons/` | Cross-country comparative data. 跨國比較數據。 |
-| Bibliography 參考書目 | `references/bibliography.json` | Master bibliography with 100+ references. 100+ 筆註釋式參考文獻。 |
-| Source Registry 來源登記簿 | `references/source-registry.json` | Source ID to bibliographic entry mapping. 來源 ID 對應完整書目條目。 |
+| Bibliography 參考書目 | `references/bibliography.json` | Master bibliography with 95 structured sources. 95 筆結構化主參考文獻。 |
+| Source Registry 來源登記簿 | `references/source-registry.json` | URL audit registry with live status categories. 含即時狀態分類的 URL 稽核登錄簿。 |
 | Per-chapter References 章節參考 | `references/per-chapter/` | Annotated reference lists per chapter. 各章節獨立參考文獻列表。 |
 | Verification Reports 驗證報告 | `docs/en/verification-report.md` | Data verification methodology and audit results. 資料驗證方法論與審計結果。 |
+| Validator 驗證腳本 | `scripts/validate_repository.py` | Repository consistency and live URL audit checks. 儲存庫一致性與即時 URL 稽核。 |
 
 All statistics files conform to the validation schema at `data/schemas/statistics-schema.json`.
 
 所有統計檔案均符合 `data/schemas/statistics-schema.json` 驗證綱要。
+
+Validation commands 驗證指令:
+
+- `python3 scripts/validate_repository.py`
+- `python3 scripts/validate_repository.py --check-urls --enforce-url-status`
 
 ---
 
@@ -125,6 +131,11 @@ taiwan-national-strategy/
 │   ├── bibliography.json                 # Master bibliography
 │   ├── source-registry.json              # Source ID registry
 │   └── per-chapter/                      # Per-chapter reference lists
+├── scripts/
+│   └── validate_repository.py            # Validator and live URL audit
+├── .github/
+│   └── workflows/
+│       └── validate.yml                  # CI validation workflow
 ├── CHANGELOG.md
 ├── CITATION.cff
 ├── CONTRIBUTING.md
