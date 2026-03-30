@@ -114,6 +114,8 @@ The risks described above do not exist in isolation. Energy disruption leads to 
 | Chapter 16 | Airspace Anomaly Governance and Strategic Foresight | UAP investigation, sensor integration, airspace anomaly governance, low-probability high-impact contingencies |
 | Chapter 17 | Whole-of-Strategy Conclusion | National priority stack, sequencing, cross-ministerial responsibility allocation, and execution discipline |
 
+**Reading Layers**: Chapters 1-13, 15, and 17 form the core national-security strategy modules; Chapter 14 functions as a governance and social-resilience extension; Chapter 16 is a foresight and low-probability high-impact module. This layering does not reduce the importance of any chapter, but it helps readers distinguish near-term priorities, institutional-governance questions, and future-work planning.
+
 Each chapter follows the same decision template: background/current state, structural risks, policy recommendations, and cross-chapter linkages. Some chapters merge the first two steps when the subject demands it, but the analytical logic remains consistent. Policy recommendations in each chapter are categorized by time horizon — short-term (1-2 years), medium-term (3-5 years), and long-term (5-10 years) — and annotated with priority levels and estimated resource requirements.
 
 ---
@@ -1849,6 +1851,8 @@ Establish a continuous monitoring and early warning system for food and water re
 
 > **Key Takeaway**: Biological threats represent one of the most asymmetric and strategically consequential risk domains facing Taiwan. The convergence of synthetic biology capabilities, the CCP's documented dual-use biological infrastructure, the civilizational-scale vulnerabilities exposed by COVID-19, and Taiwan's geographic and demographic exposure demand a dedicated biological security framework spanning threat assessment, biosurveillance, agricultural defense, pandemic preparedness, and international cooperation.
 
+**Evidence Boundary Note**: This chapter combines official data, international-organization reporting, academic literature, intelligence assessments, and policy inference. Wherever possible, confirmed facts are anchored to direct sources; where the text moves into strategic judgment or contested narratives, it should be read as risk assessment under public-information constraints rather than as proof of a single conclusive story.
+
 ---
 
 ## 7.1 The Biological Threat Landscape
@@ -1890,6 +1894,8 @@ The PLA Academy of Military Medical Sciences (AMMS) is the primary institution r
 **COVID-19 Origins: Structural Evidence and Strategic Implications**
 
 The origin of SARS-CoV-2 remains one of the most consequential unresolved scientific questions of the 21st century, with direct implications for biological security threat assessment.
+
+For policy purposes, the point of this section is not to claim a single definitive conclusion. It is to show that when origin questions remain unresolved and PRC transparency is incomplete, Taiwan's biological-security planning cannot exclude low-probability but high-consequence risks such as laboratory accidents or governance failures.
 
 **The furin cleavage site anomaly**: SARS-CoV-2 possesses a polybasic furin cleavage site (FCS) at the S1/S2 boundary of its spike protein — a feature absent in all other known sarbecoviruses (the subgenus that includes SARS-CoV and its relatives). This FCS enhances the virus's ability to infect human cells and is a key determinant of its pathogenicity. The presence of this feature has been central to the scientific debate: proponents of a natural origin hypothesis argue that similar insertions have occurred in other coronavirus genera through recombination, while proponents of a laboratory-associated hypothesis note that FCS insertion is a standard technique in gain-of-function research and that the Wuhan Institute of Virology (WIV) was conducting research on bat coronaviruses involving chimeric virus construction.
 
@@ -3889,6 +3895,8 @@ Cognitive defense is not a standalone domain. The CCP's cognitive warfare operat
 
 **Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
 
+**Evidence Boundary Note**: This chapter treats BCI, euthanasia, and surrogacy as issues of demographic security, medical governance, family law, civil-military boundaries, and wartime resilience. Compared with the military or energy chapters, the evidence base here relies more heavily on comparative law, normative analysis, and anticipatory governance; the aim is to clarify institutional logic and preparedness requirements, not to imply that every ethical risk is already quantified.
+
 ---
 
 ## 14.1 The Ethics Imperative for a Technology Democracy
@@ -4394,6 +4402,8 @@ The purpose of this architecture is not to distribute diplomatic attention evenl
 **Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
 
 **Framing Statement**: This chapter addresses unidentified anomalous phenomena (UAP) as an operational problem of airspace safety, sovereignty, and evidence management. Taiwan's Taipei FIR provided approximately 1.64 million air traffic control services in 2024 [192], while Taiwan's drone-management regime covered more than 38,000 registered corporate drones and more than 23,000 cumulative activity applications as of early 2025 [193]. In such a dense environment, the first analytical task is not extraordinary interpretation but disciplined triage of aircraft, drones, balloons, atmospheric effects, electronic artifacts, gray-zone incursions, and genuinely unresolved cases.
+
+**Evidence Boundary Note**: This chapter prioritizes airspace-governance questions that have official records or clear institutional analogues. When it discusses ontologically unresolved or extremely low-probability high-impact scenarios, those sections should be read as foresight planning and contingency thinking, not as definitive claims about the underlying phenomena.
 
 ---
 
