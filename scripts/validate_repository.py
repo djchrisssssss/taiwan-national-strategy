@@ -3,12 +3,14 @@
 from __future__ import annotations
 
 import argparse
+import csv
 import json
 import re
 import shutil
 import subprocess
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -21,6 +23,8 @@ import jsonschema
 ROOT = Path(__file__).resolve().parents[1]
 SUPPORTED_REGISTRY_STATUSES = {"reachable", "access_restricted", "missing", "other"}
 BRACKETED_REFERENCE_RE = re.compile(r"\[(src-\d{3})\]")
+STATISTIC_ID_RE = re.compile(r"^ch\d{2}-\d{3}$")
+LEGACY_SOURCE_ID_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
 
 
 def load_json(relative_path: str) -> object:
@@ -35,6 +39,14 @@ def write_json(relative_path: str, payload: object) -> None:
     (ROOT / relative_path).write_text(
         json.dumps(payload, indent=2, ensure_ascii=False) + "\n"
     )
+
+
+def normalize_url(url: str) -> str:
+    return url.rstrip("/")
+
+
+def normalize_host(url: str) -> str:
+    return urllib.parse.urlparse(url).netloc.lower()
 
 
 def status_to_category(code: int | None) -> str:
@@ -156,9 +168,71 @@ def validate_source_registry(
 
     return {
         "count": len(entries),
+        "ids": ids,
         "status_counts": status_counts,
         "entries": entries,
         "metadata": metadata,
+    }
+
+
+def parse_statistic_reference_map() -> dict[str, set[str]]:
+    statistic_sources: dict[str, set[str]] = {}
+
+    for path in sorted((ROOT / "references/per-chapter").glob("ch*-references.md")):
+        for raw_line in path.read_text().splitlines():
+            line = raw_line.strip()
+            if not line.startswith("|"):
+                continue
+
+            columns = [column.strip() for column in line.strip("|").split("|")]
+            if len(columns) < 3:
+                continue
+
+            statistic_id = columns[0]
+            if not STATISTIC_ID_RE.fullmatch(statistic_id):
+                continue
+
+            source_ids = set(BRACKETED_REFERENCE_RE.findall(columns[-1]))
+            if source_ids:
+                statistic_sources.setdefault(statistic_id, set()).update(source_ids)
+
+    return statistic_sources
+
+
+def validate_markdown_citations(
+    bibliography_ids: set[str], registry_ids: set[str], errors: list[str]
+) -> dict[str, int]:
+    files = sorted((ROOT / "references/per-chapter").glob("ch*-references.md")) + [
+        ROOT / "docs/en/full-text.md",
+        ROOT / "docs/zh-TW/full-text.md",
+    ]
+
+    total_citations = 0
+    unique_citations: set[str] = set()
+
+    for path in files:
+        cited_ids = set(BRACKETED_REFERENCE_RE.findall(path.read_text()))
+        total_citations += len(cited_ids)
+        unique_citations.update(cited_ids)
+
+        missing_bibliography = sorted(cited_ids - bibliography_ids)
+        if missing_bibliography:
+            errors.append(
+                f"{path.relative_to(ROOT)} cites source IDs missing from bibliography: "
+                + ", ".join(missing_bibliography[:20])
+            )
+
+        missing_registry = sorted(cited_ids - registry_ids)
+        if missing_registry:
+            errors.append(
+                f"{path.relative_to(ROOT)} cites source IDs missing from source-registry: "
+                + ", ".join(missing_registry[:20])
+            )
+
+    return {
+        "files_checked": len(files),
+        "unique_citations": len(unique_citations),
+        "citation_sets_checked": total_citations,
     }
 
 
@@ -196,6 +270,124 @@ def validate_statistics(errors: list[str]) -> dict[str, object]:
         "total_points": total_points,
         "verified_points": verified_points,
         "per_file_counts": per_file_counts,
+    }
+
+
+def validate_statistics_source_links(
+    registry_summary: dict[str, object],
+    statistic_reference_map: dict[str, set[str]],
+    errors: list[str],
+) -> dict[str, int]:
+    registry_entries = registry_summary["entries"]
+    registry_urls = {normalize_url(entry["url"]) for entry in registry_entries}
+    registry_hosts = {normalize_host(entry["url"]) for entry in registry_entries}
+    registry_urls_by_id = {
+        entry["source_id"]: normalize_url(entry["url"]) for entry in registry_entries
+    }
+    registry_hosts_by_id = {
+        entry["source_id"]: normalize_host(entry["url"]) for entry in registry_entries
+    }
+
+    matched = 0
+    checked = 0
+    unmapped = 0
+
+    for path in sorted((ROOT / "data/statistics").glob("*.json")):
+        data = json.loads(path.read_text())
+        for stat in data["statistics"]:
+            checked += 1
+            stat_id = stat["id"]
+            source_url = stat["source"]["url"]
+            normalized_url = normalize_url(source_url)
+            normalized_host = normalize_host(source_url)
+            mapped_source_ids = statistic_reference_map.get(stat_id, set())
+
+            if mapped_source_ids:
+                candidate_urls = {
+                    registry_urls_by_id[source_id]
+                    for source_id in mapped_source_ids
+                    if source_id in registry_urls_by_id
+                }
+                candidate_hosts = {
+                    registry_hosts_by_id[source_id]
+                    for source_id in mapped_source_ids
+                    if source_id in registry_hosts_by_id
+                }
+
+                if (
+                    normalized_url not in candidate_urls
+                    and normalized_host not in candidate_hosts
+                ):
+                    errors.append(
+                        f"{path.name} statistic {stat_id} source URL does not match "
+                        f"its cited reference IDs {sorted(mapped_source_ids)}"
+                    )
+                else:
+                    matched += 1
+                continue
+
+            if normalized_url in registry_urls or normalized_host in registry_hosts:
+                matched += 1
+            else:
+                unmapped += 1
+
+    return {
+        "checked": checked,
+        "matched": matched,
+        "unmapped": unmapped,
+    }
+
+
+def validate_tabular_sources(
+    bibliography_ids: set[str], registry_ids: set[str], errors: list[str]
+) -> dict[str, int]:
+    files = sorted((ROOT / "data/timelines").glob("*.csv")) + sorted(
+        (ROOT / "data/comparisons").glob("*.csv")
+    )
+
+    rows_checked = 0
+    legacy_ids = 0
+
+    for path in files:
+        with path.open(newline="") as handle:
+            reader = csv.DictReader(handle)
+            if "source_id" not in (reader.fieldnames or []):
+                errors.append(f"{path.relative_to(ROOT)} is missing required source_id column")
+                continue
+
+            for row_number, row in enumerate(reader, start=2):
+                rows_checked += 1
+                source_id = (row.get("source_id") or "").strip()
+
+                if not source_id:
+                    errors.append(
+                        f"{path.relative_to(ROOT)} row {row_number} has empty source_id"
+                    )
+                    continue
+
+                if source_id.startswith("src-"):
+                    if source_id not in bibliography_ids:
+                        errors.append(
+                            f"{path.relative_to(ROOT)} row {row_number} references unknown bibliography source_id {source_id}"
+                        )
+                    if source_id not in registry_ids:
+                        errors.append(
+                            f"{path.relative_to(ROOT)} row {row_number} references unknown source-registry source_id {source_id}"
+                        )
+                    continue
+
+                if not LEGACY_SOURCE_ID_RE.fullmatch(source_id):
+                    errors.append(
+                        f"{path.relative_to(ROOT)} row {row_number} uses malformed legacy source_id {source_id!r}"
+                    )
+                    continue
+
+                legacy_ids += 1
+
+    return {
+        "files_checked": len(files),
+        "rows_checked": rows_checked,
+        "legacy_ids": legacy_ids,
     }
 
 
@@ -364,7 +556,17 @@ def main() -> int:
 
     bibliography_summary = validate_bibliography(errors)
     registry_summary = validate_source_registry(bibliography_summary["ids"], errors)
+    citation_summary = validate_markdown_citations(
+        bibliography_summary["ids"], registry_summary["ids"], errors
+    )
+    statistic_reference_map = parse_statistic_reference_map()
     stats_summary = validate_statistics(errors)
+    stats_link_summary = validate_statistics_source_links(
+        registry_summary, statistic_reference_map, errors
+    )
+    tabular_summary = validate_tabular_sources(
+        bibliography_summary["ids"], registry_summary["ids"], errors
+    )
     validate_reports(bibliography_summary, registry_summary, stats_summary, errors)
 
     if args.check_urls or args.sync_url_status:
@@ -391,6 +593,9 @@ def main() -> int:
                 "tracked_urls": registry_summary["count"],
                 "quantitative_data_points": stats_summary["total_points"],
                 "verified_data_points": stats_summary["verified_points"],
+                "markdown_citation_files_checked": citation_summary["files_checked"],
+                "statistics_source_links_matched": stats_link_summary["matched"],
+                "tabular_rows_checked": tabular_summary["rows_checked"],
             },
             indent=2,
         )

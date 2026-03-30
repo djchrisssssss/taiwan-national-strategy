@@ -1,19 +1,23 @@
 {
   "metadata": {
     "title": "Taiwan National Strategy — Master Bibliography",
-    "total_sources": 95,
-    "last_updated": "2025-07-15"
+    "total_sources": 169,
+    "last_updated": "2026-03-30"
   },
   "sources": [
     {
       "id": "src-001",
       "type": "government",
       "title": "Sailing Directions",
-      "authors": ["National Geospatial-Intelligence Agency (NGA)"],
+      "authors": [
+        "National Geospatial-Intelligence Agency (NGA)"
+      ],
       "date": "2024",
       "url": "https://msi.nga.mil/Publications/SailingDirections",
       "doi": null,
-      "chapters_cited": ["ch01"],
+      "chapters_cited": [
+        "ch01"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -21,11 +25,16 @@
       "id": "src-002",
       "type": "database",
       "title": "GEBCO Gridded Bathymetry Data",
-      "authors": ["NOAA National Centers for Environmental Information", "General Bathymetric Chart of the Oceans (GEBCO)"],
+      "authors": [
+        "NOAA National Centers for Environmental Information",
+        "General Bathymetric Chart of the Oceans (GEBCO)"
+      ],
       "date": "2024",
       "url": "https://www.gebco.net/data_and_products/gridded_bathymetry_data/",
       "doi": null,
-      "chapters_cited": ["ch01"],
+      "chapters_cited": [
+        "ch01"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -33,11 +42,16 @@
       "id": "src-003",
       "type": "government",
       "title": "Sailing Directions Pub. 161",
-      "authors": ["International Hydrographic Organization", "NGA"],
+      "authors": [
+        "International Hydrographic Organization",
+        "NGA"
+      ],
       "date": "2024",
       "url": "https://msi.nga.mil/Publications/SailingDirections",
       "doi": null,
-      "chapters_cited": ["ch01"],
+      "chapters_cited": [
+        "ch01"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -45,11 +59,15 @@
       "id": "src-004",
       "type": "news",
       "title": "Taiwan Strait Blockade Trade Impacts Analysis",
-      "authors": ["Bloomberg"],
+      "authors": [
+        "Bloomberg"
+      ],
       "date": "2022",
       "url": "https://www.bloomberg.com/graphics/2022-taiwan-strait-blockade-trade-impacts/",
       "doi": null,
-      "chapters_cited": ["ch01"],
+      "chapters_cited": [
+        "ch01"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -57,11 +75,15 @@
       "id": "src-005",
       "type": "report",
       "title": "Review of Maritime Transport 2024",
-      "authors": ["United Nations Conference on Trade and Development (UNCTAD)"],
+      "authors": [
+        "United Nations Conference on Trade and Development (UNCTAD)"
+      ],
       "date": "2024",
       "url": "https://unctad.org/topic/transport-and-trade-logistics/review-of-maritime-transport",
       "doi": null,
-      "chapters_cited": ["ch01"],
+      "chapters_cited": [
+        "ch01"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -69,11 +91,15 @@
       "id": "src-006",
       "type": "government",
       "title": "South China Sea Regional Analysis",
-      "authors": ["U.S. Energy Information Administration (EIA)"],
+      "authors": [
+        "U.S. Energy Information Administration (EIA)"
+      ],
       "date": "2024",
       "url": "https://www.eia.gov/international/analysis/regions-of-interest/South_China_Sea",
       "doi": null,
-      "chapters_cited": ["ch01"],
+      "chapters_cited": [
+        "ch01"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -81,11 +107,16 @@
       "id": "src-007",
       "type": "government",
       "title": "Military and Security Developments Involving the People's Republic of China 2024",
-      "authors": ["U.S. Department of Defense"],
+      "authors": [
+        "U.S. Department of Defense"
+      ],
       "date": "2024",
       "url": "https://media.defense.gov/2024/Dec/18/2003611031/-1/-1/1/2024-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA.PDF",
       "doi": null,
-      "chapters_cited": ["ch01", "ch04"],
+      "chapters_cited": [
+        "ch01",
+        "ch04"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -93,11 +124,16 @@
       "id": "src-008",
       "type": "database",
       "title": "Taiwan ADIZ Incursion Tracker",
-      "authors": ["Taiwan Ministry of National Defense", "Gerald C. Brown"],
+      "authors": [
+        "Taiwan Ministry of National Defense",
+        "Gerald C. Brown"
+      ],
       "date": "2024",
       "url": "https://docs.google.com/spreadsheets/d/1qbfYF0VgDBJoFZN5elpZwNTiKZ4nvCUcs5a7oYwm52g/edit#gid=2051027998",
       "doi": null,
-      "chapters_cited": ["ch01"],
+      "chapters_cited": [
+        "ch01"
+      ],
       "verified": true,
       "last_checked": "2026-03-25"
     },
@@ -105,11 +141,15 @@
       "id": "src-009",
       "type": "government",
       "title": "Joint Staff Press Releases — PLAN Naval Transits",
-      "authors": ["Japan Ministry of Defense"],
+      "authors": [
+        "Japan Ministry of Defense"
+      ],
       "date": "2024",
       "url": "https://www.mod.go.jp/js/activity/",
       "doi": null,
-      "chapters_cited": ["ch01"],
+      "chapters_cited": [
+        "ch01"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -117,11 +157,16 @@
       "id": "src-010",
       "type": "report",
       "title": "Asia Maritime Transparency Initiative",
-      "authors": ["Center for Strategic and International Studies (CSIS)"],
+      "authors": [
+        "Center for Strategic and International Studies (CSIS)"
+      ],
       "date": "2024",
       "url": "https://amti.csis.org/",
       "doi": null,
-      "chapters_cited": ["ch01", "ch12"],
+      "chapters_cited": [
+        "ch01",
+        "ch12"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -129,11 +174,16 @@
       "id": "src-011",
       "type": "database",
       "title": "Maritime Boundaries Geodatabase",
-      "authors": ["Sea Around Us", "Flanders Marine Institute (VLIZ)"],
+      "authors": [
+        "Sea Around Us",
+        "Flanders Marine Institute (VLIZ)"
+      ],
       "date": "2024",
       "url": "https://www.marineregions.org/",
       "doi": null,
-      "chapters_cited": ["ch01"],
+      "chapters_cited": [
+        "ch01"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -141,11 +191,17 @@
       "id": "src-012",
       "type": "report",
       "title": "Quarterly Foundry Market Revenue Rankings",
-      "authors": ["TrendForce"],
+      "authors": [
+        "TrendForce"
+      ],
       "date": "2024",
       "url": "https://www.trendforce.com/presscenter/news/20241203-12218.html",
       "doi": null,
-      "chapters_cited": ["ch02", "ch10", "ch12"],
+      "chapters_cited": [
+        "ch02",
+        "ch10",
+        "ch12"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -153,11 +209,15 @@
       "id": "src-013",
       "type": "report",
       "title": "Global Foundry Market Share",
-      "authors": ["Counterpoint Research"],
+      "authors": [
+        "Counterpoint Research"
+      ],
       "date": "2024",
       "url": "https://www.counterpointresearch.com/insights/global-foundry-market-share/",
       "doi": null,
-      "chapters_cited": ["ch02"],
+      "chapters_cited": [
+        "ch02"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -165,11 +225,16 @@
       "id": "src-014",
       "type": "report",
       "title": "TSMC Quarterly Results / Investor Relations",
-      "authors": ["TSMC"],
+      "authors": [
+        "TSMC"
+      ],
       "date": "2024",
       "url": "https://investor.tsmc.com/english/quarterly-results",
       "doi": null,
-      "chapters_cited": ["ch02", "ch12"],
+      "chapters_cited": [
+        "ch02",
+        "ch12"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -177,11 +242,15 @@
       "id": "src-015",
       "type": "report",
       "title": "TSMC Fab Locations",
-      "authors": ["TSMC"],
+      "authors": [
+        "TSMC"
+      ],
       "date": "2024",
       "url": "https://www.tsmc.com/english/aboutTSMC/TSMC_Fabs",
       "doi": null,
-      "chapters_cited": ["ch02"],
+      "chapters_cited": [
+        "ch02"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -189,11 +258,15 @@
       "id": "src-016",
       "type": "report",
       "title": "ASML Annual Report 2024",
-      "authors": ["ASML Holding N.V."],
+      "authors": [
+        "ASML Holding N.V."
+      ],
       "date": "2024",
       "url": "https://www.asml.com/en/investors/annual-report",
       "doi": null,
-      "chapters_cited": ["ch02"],
+      "chapters_cited": [
+        "ch02"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -201,11 +274,15 @@
       "id": "src-017",
       "type": "report",
       "title": "SEMI Industry Analytics",
-      "authors": ["SEMI"],
+      "authors": [
+        "SEMI"
+      ],
       "date": "2024",
       "url": "https://www.semi.org/en",
       "doi": null,
-      "chapters_cited": ["ch02"],
+      "chapters_cited": [
+        "ch02"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -213,11 +290,16 @@
       "id": "src-018",
       "type": "report",
       "title": "Taiwan Semiconductor Industry Statistics",
-      "authors": ["Taiwan Semiconductor Industry Association (TSIA)", "MOEA Industrial Development Administration"],
+      "authors": [
+        "Taiwan Semiconductor Industry Association (TSIA)",
+        "MOEA Industrial Development Administration"
+      ],
       "date": "2024",
       "url": "https://www.tsia.org.tw/EN/",
       "doi": null,
-      "chapters_cited": ["ch02"],
+      "chapters_cited": [
+        "ch02"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -225,11 +307,17 @@
       "id": "src-019",
       "type": "government",
       "title": "National Development Council Taiwan — Economic Statistics",
-      "authors": ["National Development Council (NDC)", "DGBAS"],
+      "authors": [
+        "National Development Council (NDC)",
+        "DGBAS"
+      ],
       "date": "2024",
       "url": "https://www.ndc.gov.tw/en/",
       "doi": null,
-      "chapters_cited": ["ch02", "ch05"],
+      "chapters_cited": [
+        "ch02",
+        "ch05"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -237,11 +325,16 @@
       "id": "src-020",
       "type": "report",
       "title": "SEMI Workforce Development Data",
-      "authors": ["SEMI", "Taiwan Ministry of Labor"],
+      "authors": [
+        "SEMI",
+        "Taiwan Ministry of Labor"
+      ],
       "date": "2024",
       "url": "https://www.semi.org/en/workforce-development",
       "doi": null,
-      "chapters_cited": ["ch02"],
+      "chapters_cited": [
+        "ch02"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -249,11 +342,17 @@
       "id": "src-021",
       "type": "report",
       "title": "Global Semiconductor Sales Statistics",
-      "authors": ["Semiconductor Industry Association (SIA)"],
+      "authors": [
+        "Semiconductor Industry Association (SIA)"
+      ],
       "date": "2024",
       "url": "https://www.semiconductors.org/global-semiconductor-sales-increase-19-percent-in-2024/",
       "doi": null,
-      "chapters_cited": ["ch02", "ch10", "ch12"],
+      "chapters_cited": [
+        "ch02",
+        "ch10",
+        "ch12"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -261,11 +360,16 @@
       "id": "src-022",
       "type": "government",
       "title": "Ministry of National Defense (Taiwan)",
-      "authors": ["Republic of China Ministry of National Defense"],
+      "authors": [
+        "Republic of China Ministry of National Defense"
+      ],
       "date": "2025",
       "url": "https://www.mnd.gov.tw/english/",
       "doi": null,
-      "chapters_cited": ["ch03", "ch04"],
+      "chapters_cited": [
+        "ch03",
+        "ch04"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -273,11 +377,15 @@
       "id": "src-023",
       "type": "report",
       "title": "Jane's Fighting Ships / Jane's Defence News",
-      "authors": ["Janes"],
+      "authors": [
+        "Janes"
+      ],
       "date": "2024",
       "url": "https://www.janes.com/defence-news/",
       "doi": null,
-      "chapters_cited": ["ch03"],
+      "chapters_cited": [
+        "ch03"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -285,11 +393,16 @@
       "id": "src-024",
       "type": "report",
       "title": "The Military Balance 2025",
-      "authors": ["International Institute for Strategic Studies (IISS)"],
+      "authors": [
+        "International Institute for Strategic Studies (IISS)"
+      ],
       "date": "2025",
       "url": "https://www.iiss.org/publications/the-military-balance/",
       "doi": null,
-      "chapters_cited": ["ch03", "ch04"],
+      "chapters_cited": [
+        "ch03",
+        "ch04"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -297,11 +410,15 @@
       "id": "src-025",
       "type": "government",
       "title": "Office of the President (Taiwan) — Conscription Reform Announcement",
-      "authors": ["Office of the President, Republic of China (Taiwan)"],
+      "authors": [
+        "Office of the President, Republic of China (Taiwan)"
+      ],
       "date": "2022",
       "url": "https://english.president.gov.tw/",
       "doi": null,
-      "chapters_cited": ["ch03"],
+      "chapters_cited": [
+        "ch03"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -309,11 +426,16 @@
       "id": "src-026",
       "type": "government",
       "title": "National Chung-Shan Institute of Science and Technology (NCSIST)",
-      "authors": ["NCSIST"],
+      "authors": [
+        "NCSIST"
+      ],
       "date": "2024",
       "url": "https://www.ncsist.org.tw/eng/",
       "doi": null,
-      "chapters_cited": ["ch03", "ch04"],
+      "chapters_cited": [
+        "ch03",
+        "ch04"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -321,11 +443,17 @@
       "id": "src-027",
       "type": "government",
       "title": "Major Arms Sales Notifications",
-      "authors": ["U.S. Defense Security Cooperation Agency (DSCA)"],
+      "authors": [
+        "U.S. Defense Security Cooperation Agency (DSCA)"
+      ],
       "date": "2024",
       "url": "https://www.dsca.mil/press-media/major-arms-sales",
       "doi": null,
-      "chapters_cited": ["ch03", "ch04", "ch12"],
+      "chapters_cited": [
+        "ch03",
+        "ch04",
+        "ch12"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -333,11 +461,16 @@
       "id": "src-028",
       "type": "report",
       "title": "Congressional Research Service Reports",
-      "authors": ["Congressional Research Service (CRS)"],
+      "authors": [
+        "Congressional Research Service (CRS)"
+      ],
       "date": "2024",
       "url": "https://crsreports.congress.gov/",
       "doi": null,
-      "chapters_cited": ["ch03", "ch04"],
+      "chapters_cited": [
+        "ch03",
+        "ch04"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -345,11 +478,15 @@
       "id": "src-029",
       "type": "report",
       "title": "Arming Taiwan — Analysis",
-      "authors": ["Center for Strategic and International Studies (CSIS)"],
+      "authors": [
+        "Center for Strategic and International Studies (CSIS)"
+      ],
       "date": "2024",
       "url": "https://www.csis.org/analysis/arming-taiwan",
       "doi": null,
-      "chapters_cited": ["ch03"],
+      "chapters_cited": [
+        "ch03"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -357,11 +494,15 @@
       "id": "src-030",
       "type": "report",
       "title": "Strategic Technologies Program",
-      "authors": ["Center for Strategic and International Studies (CSIS)"],
+      "authors": [
+        "Center for Strategic and International Studies (CSIS)"
+      ],
       "date": "2024",
       "url": "https://www.csis.org/programs/strategic-technologies-program",
       "doi": null,
-      "chapters_cited": ["ch04"],
+      "chapters_cited": [
+        "ch04"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -369,11 +510,15 @@
       "id": "src-031",
       "type": "government",
       "title": "Taiwan: Major U.S. Arms Sales Since 1990 (RL30957)",
-      "authors": ["Congressional Research Service"],
+      "authors": [
+        "Congressional Research Service"
+      ],
       "date": "2024",
       "url": "https://crsreports.congress.gov/product/pdf/RL/RL30957",
       "doi": null,
-      "chapters_cited": ["ch04"],
+      "chapters_cited": [
+        "ch04"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -381,11 +526,16 @@
       "id": "src-032",
       "type": "government",
       "title": "National Communications Commission (NCC) Taiwan — Spectrum Management",
-      "authors": ["National Communications Commission (NCC)"],
+      "authors": [
+        "National Communications Commission (NCC)"
+      ],
       "date": "2024",
       "url": "https://www.ncc.gov.tw/english/",
       "doi": null,
-      "chapters_cited": ["ch04", "ch05"],
+      "chapters_cited": [
+        "ch04",
+        "ch05"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -393,11 +543,16 @@
       "id": "src-033",
       "type": "report",
       "title": "GPS Spoofing and Radionavigation Threats",
-      "authors": ["University of Texas Radionavigation Laboratory", "GPS World"],
+      "authors": [
+        "University of Texas Radionavigation Laboratory",
+        "GPS World"
+      ],
       "date": "2024",
       "url": "https://www.gpsworld.com/",
       "doi": null,
-      "chapters_cited": ["ch04"],
+      "chapters_cited": [
+        "ch04"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -405,11 +560,15 @@
       "id": "src-034",
       "type": "database",
       "title": "Submarine Cable Map",
-      "authors": ["TeleGeography"],
+      "authors": [
+        "TeleGeography"
+      ],
       "date": "2024",
       "url": "https://www.submarinecablemap.com/",
       "doi": null,
-      "chapters_cited": ["ch05"],
+      "chapters_cited": [
+        "ch05"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -417,11 +576,15 @@
       "id": "src-035",
       "type": "news",
       "title": "Taiwan's Matsu Islands Cut Off from Internet After Subsea Cables Severed",
-      "authors": ["Reuters"],
+      "authors": [
+        "Reuters"
+      ],
       "date": "2023",
       "url": "https://www.reuters.com/world/asia-pacific/taiwans-matsu-islands-cut-off-internet-after-subsea-cables-severed-2023-03-07/",
       "doi": null,
-      "chapters_cited": ["ch05"],
+      "chapters_cited": [
+        "ch05"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -429,11 +592,15 @@
       "id": "src-036",
       "type": "report",
       "title": "Chunghwa Telecom News Center — Cable Repair Updates",
-      "authors": ["Chunghwa Telecom"],
+      "authors": [
+        "Chunghwa Telecom"
+      ],
       "date": "2023",
       "url": "https://www.cht.com.tw/en/home/cht/about-cht/news-center",
       "doi": null,
-      "chapters_cited": ["ch05"],
+      "chapters_cited": [
+        "ch05"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -441,11 +608,15 @@
       "id": "src-037",
       "type": "database",
       "title": "TWNIC Internet Statistics",
-      "authors": ["Taiwan Network Information Center (TWNIC)"],
+      "authors": [
+        "Taiwan Network Information Center (TWNIC)"
+      ],
       "date": "2024",
       "url": "https://www.twnic.tw/en/",
       "doi": null,
-      "chapters_cited": ["ch05"],
+      "chapters_cited": [
+        "ch05"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -453,11 +624,16 @@
       "id": "src-038",
       "type": "database",
       "title": "Starlink Satellite Constellation Statistics",
-      "authors": ["SpaceX", "Jonathan McDowell"],
+      "authors": [
+        "SpaceX",
+        "Jonathan McDowell"
+      ],
       "date": "2024",
       "url": "https://planet4589.org/space/con/star/stats.html",
       "doi": null,
-      "chapters_cited": ["ch05"],
+      "chapters_cited": [
+        "ch05"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -465,11 +641,15 @@
       "id": "src-039",
       "type": "report",
       "title": "International Cable Protection Committee — Fault Statistics",
-      "authors": ["International Cable Protection Committee (ICPC)"],
+      "authors": [
+        "International Cable Protection Committee (ICPC)"
+      ],
       "date": "2023",
       "url": "https://www.iscpc.org/",
       "doi": null,
-      "chapters_cited": ["ch05"],
+      "chapters_cited": [
+        "ch05"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -477,11 +657,15 @@
       "id": "src-040",
       "type": "government",
       "title": "Central Bank of the Republic of China (Taiwan) — Foreign Exchange Reserves",
-      "authors": ["Central Bank of the Republic of China (Taiwan)"],
+      "authors": [
+        "Central Bank of the Republic of China (Taiwan)"
+      ],
       "date": "2024",
       "url": "https://www.cbc.gov.tw/en/cp-495-157937-5a498-2.html",
       "doi": null,
-      "chapters_cited": ["ch06"],
+      "chapters_cited": [
+        "ch06"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -489,11 +673,15 @@
       "id": "src-041",
       "type": "government",
       "title": "Central Bank of the Republic of China (Taiwan) — CBDC Research",
-      "authors": ["Central Bank of the Republic of China (Taiwan)"],
+      "authors": [
+        "Central Bank of the Republic of China (Taiwan)"
+      ],
       "date": "2024",
       "url": "https://www.cbc.gov.tw/en/cp-915-158412-4c5dd-2.html",
       "doi": null,
-      "chapters_cited": ["ch06"],
+      "chapters_cited": [
+        "ch06"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -501,11 +689,15 @@
       "id": "src-042",
       "type": "government",
       "title": "Financial Supervisory Commission (FSC) Taiwan — Banking Statistics",
-      "authors": ["Financial Supervisory Commission (FSC)"],
+      "authors": [
+        "Financial Supervisory Commission (FSC)"
+      ],
       "date": "2024",
       "url": "https://www.fsc.gov.tw/en/",
       "doi": null,
-      "chapters_cited": ["ch06"],
+      "chapters_cited": [
+        "ch06"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -513,11 +705,16 @@
       "id": "src-043",
       "type": "report",
       "title": "Global Crypto Ownership Data",
-      "authors": ["Triple-A", "Chainalysis"],
+      "authors": [
+        "Triple-A",
+        "Chainalysis"
+      ],
       "date": "2024",
       "url": "https://www.triple-a.io/crypto-ownership-data",
       "doi": null,
-      "chapters_cited": ["ch06"],
+      "chapters_cited": [
+        "ch06"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -525,11 +722,15 @@
       "id": "src-044",
       "type": "database",
       "title": "Taiwan Stock Exchange (TWSE) — Market Statistics",
-      "authors": ["Taiwan Stock Exchange (TWSE)"],
+      "authors": [
+        "Taiwan Stock Exchange (TWSE)"
+      ],
       "date": "2024",
       "url": "https://www.twse.com.tw/en/",
       "doi": null,
-      "chapters_cited": ["ch06"],
+      "chapters_cited": [
+        "ch06"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -537,11 +738,15 @@
       "id": "src-045",
       "type": "database",
       "title": "SWIFT Financial Messaging Network",
-      "authors": ["SWIFT"],
+      "authors": [
+        "SWIFT"
+      ],
       "date": "2024",
       "url": "https://www.swift.com/",
       "doi": null,
-      "chapters_cited": ["ch06"],
+      "chapters_cited": [
+        "ch06"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -549,11 +754,16 @@
       "id": "src-046",
       "type": "government",
       "title": "Bureau of Foreign Trade — Taiwan Trade Statistics",
-      "authors": ["Bureau of Foreign Trade, MOEA Taiwan"],
+      "authors": [
+        "Bureau of Foreign Trade, MOEA Taiwan"
+      ],
       "date": "2024",
       "url": "https://www.trade.gov.tw/english/",
       "doi": null,
-      "chapters_cited": ["ch06", "ch12"],
+      "chapters_cited": [
+        "ch06",
+        "ch12"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -561,11 +771,15 @@
       "id": "src-047",
       "type": "government",
       "title": "Central Bank of ROC (Taiwan) — Payment Systems Data",
-      "authors": ["Central Bank of the Republic of China (Taiwan)"],
+      "authors": [
+        "Central Bank of the Republic of China (Taiwan)"
+      ],
       "date": "2024",
       "url": "https://www.cbc.gov.tw/en/cp-864-135422-2f07b-2.html",
       "doi": null,
-      "chapters_cited": ["ch06"],
+      "chapters_cited": [
+        "ch06"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -573,11 +787,15 @@
       "id": "src-048",
       "type": "database",
       "title": "Monthly Central Bank Gold Holdings Statistics",
-      "authors": ["World Gold Council"],
+      "authors": [
+        "World Gold Council"
+      ],
       "date": "2024",
       "url": "https://www.gold.org/goldhub/data/monthly-central-bank-statistics",
       "doi": null,
-      "chapters_cited": ["ch06"],
+      "chapters_cited": [
+        "ch06"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -585,11 +803,16 @@
       "id": "src-049",
       "type": "government",
       "title": "Energy Statistics Data Book 2024",
-      "authors": ["Taiwan Bureau of Energy (BOE)", "Ministry of Economic Affairs (MOEA)"],
+      "authors": [
+        "Taiwan Bureau of Energy (BOE)",
+        "Ministry of Economic Affairs (MOEA)"
+      ],
       "date": "2024",
       "url": "https://www.moeaboe.gov.tw/ECW_WEBPAGE/FlipBook/2024EnergyStatisticalDataBook/",
       "doi": null,
-      "chapters_cited": ["ch07"],
+      "chapters_cited": [
+        "ch07"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -597,11 +820,15 @@
       "id": "src-050",
       "type": "government",
       "title": "Taipower — Electricity Generation Statistics",
-      "authors": ["Taiwan Power Company (Taipower)"],
+      "authors": [
+        "Taiwan Power Company (Taipower)"
+      ],
       "date": "2024",
       "url": "https://www.taipower.com.tw/en/page.aspx?mid=4494",
       "doi": null,
-      "chapters_cited": ["ch07"],
+      "chapters_cited": [
+        "ch07"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -609,11 +836,15 @@
       "id": "src-051",
       "type": "government",
       "title": "CPC Corporation Taiwan — LNG Operations",
-      "authors": ["CPC Corporation Taiwan"],
+      "authors": [
+        "CPC Corporation Taiwan"
+      ],
       "date": "2024",
       "url": "https://www.cpc.com.tw/en/",
       "doi": null,
-      "chapters_cited": ["ch07"],
+      "chapters_cited": [
+        "ch07"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -621,11 +852,15 @@
       "id": "src-052",
       "type": "report",
       "title": "Oil Security in Non-IEA Countries",
-      "authors": ["International Energy Agency (IEA)"],
+      "authors": [
+        "International Energy Agency (IEA)"
+      ],
       "date": "2024",
       "url": "https://www.iea.org/articles/oil-security-in-non-iea-countries",
       "doi": null,
-      "chapters_cited": ["ch07"],
+      "chapters_cited": [
+        "ch07"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -633,11 +868,15 @@
       "id": "src-053",
       "type": "report",
       "title": "Global Offshore Wind Report",
-      "authors": ["Global Wind Energy Council (GWEC)"],
+      "authors": [
+        "Global Wind Energy Council (GWEC)"
+      ],
       "date": "2024",
       "url": "https://gwec.net/global-offshore-wind-report/",
       "doi": null,
-      "chapters_cited": ["ch07"],
+      "chapters_cited": [
+        "ch07"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -645,11 +884,16 @@
       "id": "src-054",
       "type": "government",
       "title": "Bureau of Energy — Offshore Wind and Renewable Energy Policy",
-      "authors": ["Taiwan Bureau of Energy", "MOEA"],
+      "authors": [
+        "Taiwan Bureau of Energy",
+        "MOEA"
+      ],
       "date": "2024",
       "url": "https://www.moeaboe.gov.tw/",
       "doi": null,
-      "chapters_cited": ["ch07"],
+      "chapters_cited": [
+        "ch07"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -657,11 +901,16 @@
       "id": "src-055",
       "type": "report",
       "title": "TSMC ESG Report 2023",
-      "authors": ["TSMC"],
+      "authors": [
+        "TSMC"
+      ],
       "date": "2023",
       "url": "https://esg.tsmc.com/en/resources/documents.html",
       "doi": null,
-      "chapters_cited": ["ch07", "S1"],
+      "chapters_cited": [
+        "ch07",
+        "S1"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -669,11 +918,15 @@
       "id": "src-056",
       "type": "government",
       "title": "Taiwan Space Agency (TASA)",
-      "authors": ["Taiwan Space Agency (TASA)"],
+      "authors": [
+        "Taiwan Space Agency (TASA)"
+      ],
       "date": "2024",
       "url": "https://www.tasa.org.tw/en/",
       "doi": null,
-      "chapters_cited": ["ch08"],
+      "chapters_cited": [
+        "ch08"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -681,11 +934,16 @@
       "id": "src-057",
       "type": "report",
       "title": "COSMIC-2 Program Data",
-      "authors": ["UCAR COSMIC Program", "NOAA"],
+      "authors": [
+        "UCAR COSMIC Program",
+        "NOAA"
+      ],
       "date": "2024",
       "url": "https://www.cosmic.ucar.edu/what-we-do/cosmic-2/",
       "doi": null,
-      "chapters_cited": ["ch08"],
+      "chapters_cited": [
+        "ch08"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -693,11 +951,17 @@
       "id": "src-058",
       "type": "government",
       "title": "National Science and Technology Council (NSTC) Taiwan",
-      "authors": ["National Science and Technology Council (NSTC)"],
+      "authors": [
+        "National Science and Technology Council (NSTC)"
+      ],
       "date": "2024",
       "url": "https://www.nstc.gov.tw/",
       "doi": null,
-      "chapters_cited": ["ch08", "ch09", "ch10"],
+      "chapters_cited": [
+        "ch08",
+        "ch09",
+        "ch10"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -705,11 +969,15 @@
       "id": "src-059",
       "type": "report",
       "title": "The Space Report 2024",
-      "authors": ["Space Foundation"],
+      "authors": [
+        "Space Foundation"
+      ],
       "date": "2024",
       "url": "https://www.spacefoundation.org/2024/07/30/the-space-report-2024/",
       "doi": null,
-      "chapters_cited": ["ch08"],
+      "chapters_cited": [
+        "ch08"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -717,11 +985,15 @@
       "id": "src-060",
       "type": "government",
       "title": "Post-Quantum Cryptography Standardization Project",
-      "authors": ["National Institute of Standards and Technology (NIST)"],
+      "authors": [
+        "National Institute of Standards and Technology (NIST)"
+      ],
       "date": "2024",
       "url": "https://csrc.nist.gov/projects/post-quantum-cryptography",
       "doi": null,
-      "chapters_cited": ["ch09"],
+      "chapters_cited": [
+        "ch09"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -729,11 +1001,15 @@
       "id": "src-061",
       "type": "report",
       "title": "Quantum Threat Timeline Report 2023",
-      "authors": ["Global Risk Institute"],
+      "authors": [
+        "Global Risk Institute"
+      ],
       "date": "2023",
       "url": "https://globalriskinstitute.org/publication/quantum-threat-timeline-report-2023/",
       "doi": null,
-      "chapters_cited": ["ch09"],
+      "chapters_cited": [
+        "ch09"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -741,11 +1017,16 @@
       "id": "src-062",
       "type": "academic",
       "title": "Academia Sinica — Quantum Computing Research",
-      "authors": ["Academia Sinica", "National Taiwan University"],
+      "authors": [
+        "Academia Sinica",
+        "National Taiwan University"
+      ],
       "date": "2023",
       "url": "https://www.sinica.edu.tw/en",
       "doi": null,
-      "chapters_cited": ["ch09"],
+      "chapters_cited": [
+        "ch09"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -753,11 +1034,15 @@
       "id": "src-063",
       "type": "academic",
       "title": "Integrated Space-to-Ground Quantum Communication Network over 4,600 Kilometres",
-      "authors": ["University of Science and Technology of China (USTC)"],
+      "authors": [
+        "University of Science and Technology of China (USTC)"
+      ],
       "date": "2021",
       "url": "https://doi.org/10.1038/s41586-020-03093-8",
       "doi": "10.1038/s41586-020-03093-8",
-      "chapters_cited": ["ch09"],
+      "chapters_cited": [
+        "ch09"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -765,11 +1050,15 @@
       "id": "src-064",
       "type": "report",
       "title": "Quantum Economic Development Consortium (QED-C)",
-      "authors": ["Quantum Economic Development Consortium"],
+      "authors": [
+        "Quantum Economic Development Consortium"
+      ],
       "date": "2024",
       "url": "https://quantumconsortium.org/",
       "doi": null,
-      "chapters_cited": ["ch09"],
+      "chapters_cited": [
+        "ch09"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -777,11 +1066,15 @@
       "id": "src-065",
       "type": "report",
       "title": "Quantum Computing and Post-Quantum Cryptography Analysis",
-      "authors": ["Hudson Institute"],
+      "authors": [
+        "Hudson Institute"
+      ],
       "date": "2024",
       "url": "https://www.hudson.org/technology/quantum-computing-and-post-quantum-cryptography",
       "doi": null,
-      "chapters_cited": ["ch09"],
+      "chapters_cited": [
+        "ch09"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -789,11 +1082,15 @@
       "id": "src-066",
       "type": "report",
       "title": "IBM Quantum Roadmap 2025",
-      "authors": ["IBM Research"],
+      "authors": [
+        "IBM Research"
+      ],
       "date": "2023",
       "url": "https://research.ibm.com/blog/ibm-quantum-roadmap-2025",
       "doi": null,
-      "chapters_cited": ["ch09"],
+      "chapters_cited": [
+        "ch09"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -801,11 +1098,15 @@
       "id": "src-067",
       "type": "government",
       "title": "Commercial National Security Algorithm Suite 2.0 (CNSA 2.0)",
-      "authors": ["National Security Agency (NSA)"],
+      "authors": [
+        "National Security Agency (NSA)"
+      ],
       "date": "2022",
       "url": "https://media.defense.gov/2022/Sep/07/2003071834/-1/-1/0/CSA_CNSA_2.0_ALGORITHMS_.PDF",
       "doi": null,
-      "chapters_cited": ["ch09"],
+      "chapters_cited": [
+        "ch09"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -813,11 +1114,15 @@
       "id": "src-068",
       "type": "government",
       "title": "National Center for High-performance Computing (NCHC)",
-      "authors": ["NCHC"],
+      "authors": [
+        "NCHC"
+      ],
       "date": "2024",
       "url": "https://www.nchc.org.tw/en/",
       "doi": null,
-      "chapters_cited": ["ch10"],
+      "chapters_cited": [
+        "ch10"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -825,11 +1130,16 @@
       "id": "src-069",
       "type": "database",
       "title": "Scopus AI Research Publication Data",
-      "authors": ["Scopus", "Elsevier"],
+      "authors": [
+        "Scopus",
+        "Elsevier"
+      ],
       "date": "2023",
       "url": "https://www.scopus.com/",
       "doi": null,
-      "chapters_cited": ["ch10"],
+      "chapters_cited": [
+        "ch10"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -837,11 +1147,15 @@
       "id": "src-070",
       "type": "news",
       "title": "DigiTimes — Taiwan Technology Industry News",
-      "authors": ["DigiTimes"],
+      "authors": [
+        "DigiTimes"
+      ],
       "date": "2024",
       "url": "https://www.digitimes.com/",
       "doi": null,
-      "chapters_cited": ["ch10"],
+      "chapters_cited": [
+        "ch10"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -849,11 +1163,15 @@
       "id": "src-071",
       "type": "report",
       "title": "Taiwan AI Academy",
-      "authors": ["Taiwan AI Academy"],
+      "authors": [
+        "Taiwan AI Academy"
+      ],
       "date": "2024",
       "url": "https://aiacademy.tw/en/",
       "doi": null,
-      "chapters_cited": ["ch10"],
+      "chapters_cited": [
+        "ch10"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -861,11 +1179,15 @@
       "id": "src-072",
       "type": "report",
       "title": "Hon Hai (Foxconn) Investor Relations",
-      "authors": ["Hon Hai Precision Industry (Foxconn)"],
+      "authors": [
+        "Hon Hai Precision Industry (Foxconn)"
+      ],
       "date": "2024",
       "url": "https://www.honhai.com/en-us/investor-relations",
       "doi": null,
-      "chapters_cited": ["ch10"],
+      "chapters_cited": [
+        "ch10"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -873,11 +1195,15 @@
       "id": "src-073",
       "type": "report",
       "title": "Taiwan Data Center Market Report",
-      "authors": ["Arizton Advisory"],
+      "authors": [
+        "Arizton Advisory"
+      ],
       "date": "2024",
       "url": "https://www.arizton.com/",
       "doi": null,
-      "chapters_cited": ["ch10"],
+      "chapters_cited": [
+        "ch10"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -885,11 +1211,15 @@
       "id": "src-074",
       "type": "report",
       "title": "AI Index Report",
-      "authors": ["Stanford University Human-Centered AI Institute (HAI)"],
+      "authors": [
+        "Stanford University Human-Centered AI Institute (HAI)"
+      ],
       "date": "2024",
       "url": "https://aiindex.stanford.edu/report/",
       "doi": null,
-      "chapters_cited": ["ch10"],
+      "chapters_cited": [
+        "ch10"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -897,11 +1227,16 @@
       "id": "src-075",
       "type": "report",
       "title": "DoubleThink Lab — China Index and Information Operations Research",
-      "authors": ["DoubleThink Lab", "IORG (Information Operations Research Group)"],
+      "authors": [
+        "DoubleThink Lab",
+        "IORG (Information Operations Research Group)"
+      ],
       "date": "2024",
       "url": "https://doublethinklab.org/",
       "doi": null,
-      "chapters_cited": ["ch11"],
+      "chapters_cited": [
+        "ch11"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -909,11 +1244,16 @@
       "id": "src-076",
       "type": "report",
       "title": "Digital 2024 Taiwan",
-      "authors": ["DataReportal", "We Are Social"],
+      "authors": [
+        "DataReportal",
+        "We Are Social"
+      ],
       "date": "2024",
       "url": "https://datareportal.com/reports/digital-2024-taiwan",
       "doi": null,
-      "chapters_cited": ["ch11"],
+      "chapters_cited": [
+        "ch11"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -921,11 +1261,15 @@
       "id": "src-077",
       "type": "report",
       "title": "LINE Corporation Taiwan User Statistics",
-      "authors": ["LINE Corporation"],
+      "authors": [
+        "LINE Corporation"
+      ],
       "date": "2024",
       "url": "https://linecorp.com/en/",
       "doi": null,
-      "chapters_cited": ["ch11"],
+      "chapters_cited": [
+        "ch11"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -933,11 +1277,16 @@
       "id": "src-078",
       "type": "report",
       "title": "IFCN Signatory Database",
-      "authors": ["International Fact-Checking Network (IFCN)", "Poynter Institute"],
+      "authors": [
+        "International Fact-Checking Network (IFCN)",
+        "Poynter Institute"
+      ],
       "date": "2024",
       "url": "https://www.poynter.org/ifcn/",
       "doi": null,
-      "chapters_cited": ["ch11"],
+      "chapters_cited": [
+        "ch11"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -945,11 +1294,15 @@
       "id": "src-079",
       "type": "government",
       "title": "Taiwan Ministry of Education — 12-Year Basic Education Curriculum",
-      "authors": ["Taiwan Ministry of Education"],
+      "authors": [
+        "Taiwan Ministry of Education"
+      ],
       "date": "2024",
       "url": "https://www.edu.tw/",
       "doi": null,
-      "chapters_cited": ["ch11"],
+      "chapters_cited": [
+        "ch11"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -957,11 +1310,15 @@
       "id": "src-080",
       "type": "report",
       "title": "IORG — Information Operations Monitoring Reports",
-      "authors": ["IORG (Information Operations Research Group)"],
+      "authors": [
+        "IORG (Information Operations Research Group)"
+      ],
       "date": "2024",
       "url": "https://iorg.tw/en",
       "doi": null,
-      "chapters_cited": ["ch11"],
+      "chapters_cited": [
+        "ch11"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -969,11 +1326,15 @@
       "id": "src-081",
       "type": "report",
       "title": "Taiwan FactCheck Center — Election Fact-Check Reports",
-      "authors": ["Taiwan FactCheck Center (TFC)"],
+      "authors": [
+        "Taiwan FactCheck Center (TFC)"
+      ],
       "date": "2024",
       "url": "https://tfc-taiwan.org.tw/",
       "doi": null,
-      "chapters_cited": ["ch11"],
+      "chapters_cited": [
+        "ch11"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -981,11 +1342,15 @@
       "id": "src-082",
       "type": "government",
       "title": "Taiwan National Institute of Cyber Security (NICS)",
-      "authors": ["Taiwan National Institute of Cyber Security (NICS)"],
+      "authors": [
+        "Taiwan National Institute of Cyber Security (NICS)"
+      ],
       "date": "2024",
       "url": "https://www.nics.nat.gov.tw/",
       "doi": null,
-      "chapters_cited": ["ch11"],
+      "chapters_cited": [
+        "ch11"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -993,11 +1358,15 @@
       "id": "src-083",
       "type": "academic",
       "title": "V-Dem Digital Society Survey — Foreign Disinformation Indicator",
-      "authors": ["V-Dem Institute, University of Gothenburg"],
+      "authors": [
+        "V-Dem Institute, University of Gothenburg"
+      ],
       "date": "2024",
       "url": "https://www.v-dem.net/",
       "doi": null,
-      "chapters_cited": ["ch11"],
+      "chapters_cited": [
+        "ch11"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -1005,11 +1374,15 @@
       "id": "src-084",
       "type": "report",
       "title": "Digital News Report 2024",
-      "authors": ["Reuters Institute for the Study of Journalism, University of Oxford"],
+      "authors": [
+        "Reuters Institute for the Study of Journalism, University of Oxford"
+      ],
       "date": "2024",
       "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024",
       "doi": null,
-      "chapters_cited": ["ch11"],
+      "chapters_cited": [
+        "ch11"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -1017,11 +1390,15 @@
       "id": "src-085",
       "type": "government",
       "title": "Ministry of Foreign Affairs (Taiwan) — Diplomatic Allies",
-      "authors": ["Ministry of Foreign Affairs, Republic of China (Taiwan)"],
+      "authors": [
+        "Ministry of Foreign Affairs, Republic of China (Taiwan)"
+      ],
       "date": "2024",
       "url": "https://www.mofa.gov.tw/en/AlliesIndex.aspx",
       "doi": null,
-      "chapters_cited": ["ch12"],
+      "chapters_cited": [
+        "ch12"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -1029,11 +1406,15 @@
       "id": "src-086",
       "type": "report",
       "title": "Taiwan Intelligence Sharing and US Policy Analysis",
-      "authors": ["Center for Strategic and International Studies (CSIS)"],
+      "authors": [
+        "Center for Strategic and International Studies (CSIS)"
+      ],
       "date": "2024",
       "url": "https://www.csis.org/analysis/taiwan-intelligence-sharing-and-us-policy",
       "doi": null,
-      "chapters_cited": ["ch12"],
+      "chapters_cited": [
+        "ch12"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -1041,11 +1422,15 @@
       "id": "src-087",
       "type": "government",
       "title": "U.S. Census Bureau — Foreign Trade Balance with Taiwan",
-      "authors": ["U.S. Census Bureau"],
+      "authors": [
+        "U.S. Census Bureau"
+      ],
       "date": "2024",
       "url": "https://www.census.gov/foreign-trade/balance/c5830.html",
       "doi": null,
-      "chapters_cited": ["ch12"],
+      "chapters_cited": [
+        "ch12"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -1053,11 +1438,15 @@
       "id": "src-088",
       "type": "government",
       "title": "Taiwan Council of Agriculture — Food Supply and Utilization Annual Report",
-      "authors": ["Taiwan Council of Agriculture (COA)"],
+      "authors": [
+        "Taiwan Council of Agriculture (COA)"
+      ],
       "date": "2023",
       "url": "https://agrstat.coa.gov.tw/sdweb/public/trade/tradereport.aspx",
       "doi": null,
-      "chapters_cited": ["S1"],
+      "chapters_cited": [
+        "S1"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -1065,11 +1454,15 @@
       "id": "src-089",
       "type": "government",
       "title": "Taiwan Council of Agriculture — Agricultural Statistics",
-      "authors": ["Taiwan Council of Agriculture (COA)"],
+      "authors": [
+        "Taiwan Council of Agriculture (COA)"
+      ],
       "date": "2023",
       "url": "https://agrstat.coa.gov.tw/",
       "doi": null,
-      "chapters_cited": ["S1"],
+      "chapters_cited": [
+        "S1"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -1077,11 +1470,15 @@
       "id": "src-090",
       "type": "government",
       "title": "USDA Foreign Agricultural Service — Taiwan Commodity Reports",
-      "authors": ["USDA Foreign Agricultural Service (FAS)"],
+      "authors": [
+        "USDA Foreign Agricultural Service (FAS)"
+      ],
       "date": "2023",
       "url": "https://fas.usda.gov/data/taiwan",
       "doi": null,
-      "chapters_cited": ["S1"],
+      "chapters_cited": [
+        "S1"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -1089,11 +1486,16 @@
       "id": "src-091",
       "type": "government",
       "title": "Water Resources Agency (WRA) — Reservoir and Water Resource Data",
-      "authors": ["Water Resources Agency (WRA)", "MOEA"],
+      "authors": [
+        "Water Resources Agency (WRA)",
+        "MOEA"
+      ],
       "date": "2024",
       "url": "https://www.wra.gov.tw/en/",
       "doi": null,
-      "chapters_cited": ["S1"],
+      "chapters_cited": [
+        "S1"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -1101,11 +1503,15 @@
       "id": "src-092",
       "type": "government",
       "title": "Central Weather Administration (CWA) — Climate Statistics",
-      "authors": ["Central Weather Administration (CWA)"],
+      "authors": [
+        "Central Weather Administration (CWA)"
+      ],
       "date": "2024",
       "url": "https://www.cwa.gov.tw/V8E/",
       "doi": null,
-      "chapters_cited": ["S1"],
+      "chapters_cited": [
+        "S1"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -1113,11 +1519,15 @@
       "id": "src-093",
       "type": "database",
       "title": "FAO AQUASTAT — Global Water Statistics",
-      "authors": ["Food and Agriculture Organization (FAO)"],
+      "authors": [
+        "Food and Agriculture Organization (FAO)"
+      ],
       "date": "2024",
       "url": "https://www.fao.org/aquastat/en/databases/",
       "doi": null,
-      "chapters_cited": ["S1"],
+      "chapters_cited": [
+        "S1"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -1125,11 +1535,15 @@
       "id": "src-094",
       "type": "government",
       "title": "Agriculture and Food Agency — Grain Reserves",
-      "authors": ["Agriculture and Food Agency (AFA)"],
+      "authors": [
+        "Agriculture and Food Agency (AFA)"
+      ],
       "date": "2024",
       "url": "https://www.afa.gov.tw/en/",
       "doi": null,
-      "chapters_cited": ["S1"],
+      "chapters_cited": [
+        "S1"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
     },
@@ -1137,13 +1551,1222 @@
       "id": "src-095",
       "type": "government",
       "title": "Taiwan Customs Administration — Trade Data",
-      "authors": ["Taiwan Customs Administration", "Ministry of Finance"],
+      "authors": [
+        "Taiwan Customs Administration",
+        "Ministry of Finance"
+      ],
       "date": "2023",
       "url": "https://agrstat.coa.gov.tw/",
       "doi": null,
-      "chapters_cited": ["S1"],
+      "chapters_cited": [
+        "S1"
+      ],
       "verified": true,
       "last_checked": "2025-07-15"
+    },
+    {
+      "type": "report",
+      "title": "ITER Organization, \"What is ITER?\"",
+      "authors": [
+        "ITER Organization"
+      ],
+      "date": "2024",
+      "url": "https://www.iter.org/",
+      "doi": null,
+      "chapters_cited": [
+        "ch05"
+      ],
+      "id": "src-096",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Lawrence Livermore National Laboratory (LLNL), National Ignition Facility, \"Achieving Fusion Ignition.\"",
+      "authors": [
+        "Lawrence Livermore National Laboratory (LLNL)",
+        "National Ignition Facility"
+      ],
+      "date": "2026",
+      "url": "https://lasers.llnl.gov/",
+      "doi": null,
+      "chapters_cited": [
+        "ch05"
+      ],
+      "id": "src-097",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "The Global Fusion Industry in 2024",
+      "authors": [
+        "Fusion Industry Association (FIA)"
+      ],
+      "date": "2024",
+      "url": "https://www.fusionindustryassociation.org/",
+      "doi": null,
+      "chapters_cited": [
+        "ch05"
+      ],
+      "id": "src-098",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "SPARC and ARC",
+      "authors": [
+        "Commonwealth Fusion Systems"
+      ],
+      "date": "2024",
+      "url": "https://cfs.energy/",
+      "doi": null,
+      "chapters_cited": [
+        "ch05"
+      ],
+      "id": "src-099",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Polaris — The World's First Fusion Power Plant",
+      "authors": [
+        "Helion Energy"
+      ],
+      "date": "2024",
+      "url": "https://www.helionenergy.com/",
+      "doi": null,
+      "chapters_cited": [
+        "ch05"
+      ],
+      "id": "src-100",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Electricity Grids and Secure Energy Transitions",
+      "authors": [
+        "International Energy Agency (IEA)"
+      ],
+      "date": "2023",
+      "url": "https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions",
+      "doi": null,
+      "chapters_cited": [
+        "ch05"
+      ],
+      "id": "src-101",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Space Solar Power Systems (SSPS) Research",
+      "authors": [
+        "Japan Aerospace Exploration Agency (JAXA)"
+      ],
+      "date": "2024",
+      "url": "https://www.jaxa.jp/",
+      "doi": null,
+      "chapters_cited": [
+        "ch05"
+      ],
+      "id": "src-102",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "NorNed HVDC Submarine Cable Documentation",
+      "authors": [
+        "TenneT",
+        "Statnett"
+      ],
+      "date": "2024",
+      "url": "https://www.tennet.eu/",
+      "doi": null,
+      "chapters_cited": [
+        "ch05"
+      ],
+      "id": "src-103",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "e-Governance and Blockchain Infrastructure",
+      "authors": [
+        "e-Estonia"
+      ],
+      "date": "2024",
+      "url": "https://e-estonia.com/",
+      "doi": null,
+      "chapters_cited": [
+        "ch09"
+      ],
+      "id": "src-104",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "European Blockchain Services Infrastructure (EBSI)",
+      "authors": [
+        "European Commission"
+      ],
+      "date": "2024",
+      "url": "https://ec.europa.eu/digital-building-blocks/sites/display/EBSI/",
+      "doi": null,
+      "chapters_cited": [
+        "ch09"
+      ],
+      "id": "src-105",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Decentralized Identifiers (DIDs) v1.0",
+      "authors": [
+        "World Wide Web Consortium (W3C)"
+      ],
+      "date": "2024",
+      "url": "https://www.w3.org/TR/did-core/",
+      "doi": null,
+      "chapters_cited": [
+        "ch09"
+      ],
+      "id": "src-106",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "All-domain Anomaly Resolution Office (AARO), Annual Report to Congress, FY2023",
+      "authors": [
+        "U.S. Department of Defense",
+        "All-domain Anomaly Resolution Office (AARO)"
+      ],
+      "date": "2024",
+      "url": "https://www.aaro.mil/",
+      "doi": null,
+      "chapters_cited": [
+        "ch16"
+      ],
+      "id": "src-107",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "UAP Independent Study Team Report",
+      "authors": [
+        "National Aeronautics and Space Administration (NASA)"
+      ],
+      "date": "2023",
+      "url": "https://science.nasa.gov/uap/",
+      "doi": null,
+      "chapters_cited": [
+        "ch16"
+      ],
+      "id": "src-108",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Preliminary Assessment: Unidentified Aerial Phenomena",
+      "authors": [
+        "Office of the Director of National Intelligence (ODNI)"
+      ],
+      "date": "2021",
+      "url": "https://www.dni.gov/",
+      "doi": null,
+      "chapters_cited": [
+        "ch16"
+      ],
+      "id": "src-109",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "GEIPAN",
+      "authors": [
+        "Centre National d'Études Spatiales (CNES)",
+        "GEIPAN"
+      ],
+      "date": "2024",
+      "url": "https://www.cnes-geipan.fr/",
+      "doi": null,
+      "chapters_cited": [
+        "ch16"
+      ],
+      "id": "src-110",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "SETI Post-Detection Protocols",
+      "authors": [
+        "International Academy of Astronautics (IAA)"
+      ],
+      "date": "2024",
+      "url": "https://iaaseti.org/",
+      "doi": null,
+      "chapters_cited": [
+        "ch16"
+      ],
+      "id": "src-111",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Breakthrough Listen",
+      "authors": [
+        "Breakthrough Initiatives"
+      ],
+      "date": "2024",
+      "url": "https://breakthroughinitiatives.org/",
+      "doi": null,
+      "chapters_cited": [
+        "ch16"
+      ],
+      "id": "src-112",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Committee on the Peaceful Uses of Outer Space (COPUOS)",
+      "authors": [
+        "United Nations Office for Outer Space Affairs (UNOOSA)",
+        "Committee on the Peaceful Uses of Outer Space (COPUOS)"
+      ],
+      "date": "2024",
+      "url": "https://www.unoosa.org/oosa/en/ourwork/copuos/",
+      "doi": null,
+      "chapters_cited": [
+        "ch16"
+      ],
+      "id": "src-113",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "academic",
+      "title": "Blockchain in Government: Benefits and Implications of Distributed Ledger Technology for Information Sharing",
+      "authors": [
+        "Ølnes, Svein",
+        "Ubacht, Jolien",
+        "Janssen, Marijn"
+      ],
+      "date": "2017",
+      "url": "https://doi.org/10.1016/j.giq.2017.09.007",
+      "doi": "10.1016/j.giq.2017.09.007",
+      "chapters_cited": [
+        "ch09"
+      ],
+      "id": "src-114",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "academic",
+      "title": "Extraterrestrial: The First Sign of Intelligent Life Beyond Earth",
+      "authors": [
+        "Avi Loeb"
+      ],
+      "date": "2021",
+      "url": "https://books.google.com/books/about/Extraterrestrial.html?id=EViVzQEACAAJ",
+      "doi": null,
+      "chapters_cited": [
+        "ch16"
+      ],
+      "id": "src-115",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "CCP Cognitive Warfare Against Taiwan: A Structural Deconstruction",
+      "authors": [
+        "djchrisssssss"
+      ],
+      "date": "2026",
+      "url": "https://github.com/djchrisssssss/ccp-cognitive-invade-deconstruction",
+      "doi": null,
+      "chapters_cited": [
+        "ch13"
+      ],
+      "id": "src-116",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "academic",
+      "title": "How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument",
+      "authors": [
+        "King, Gary",
+        "Pan, Jennifer",
+        "Roberts, Margaret E."
+      ],
+      "date": "2017",
+      "url": "https://doi.org/10.1017/S0003055417000144",
+      "doi": "10.1017/S0003055417000144",
+      "chapters_cited": [
+        "ch13"
+      ],
+      "id": "src-117",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "East Asia Threat Report",
+      "authors": [
+        "Microsoft Threat Analysis Center (MTAC)"
+      ],
+      "date": "2024",
+      "url": "https://www.microsoft.com/en-us/security/security-insider/",
+      "doi": null,
+      "chapters_cited": [
+        "ch13"
+      ],
+      "id": "src-118",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Disrupting Deceptive Uses of AI by Covert Influence Operations",
+      "authors": [
+        "OpenAI"
+      ],
+      "date": "2024",
+      "url": "https://openai.com/",
+      "doi": null,
+      "chapters_cited": [
+        "ch13"
+      ],
+      "id": "src-119",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Adversarial Threat Reports — Coordinated Inauthentic Behavior",
+      "authors": [
+        "Meta"
+      ],
+      "date": "2024",
+      "url": "https://transparency.fb.com/",
+      "doi": null,
+      "chapters_cited": [
+        "ch13"
+      ],
+      "id": "src-120",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Spamouflage Network Analysis",
+      "authors": [
+        "Stanford Internet Observatory"
+      ],
+      "date": "2024",
+      "url": "https://cyber.fsi.stanford.edu/io",
+      "doi": null,
+      "chapters_cited": [
+        "ch13"
+      ],
+      "id": "src-121",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Leaked CCP Information Operations Documents",
+      "authors": [
+        "GoLaxy",
+        "IORG"
+      ],
+      "date": "2024",
+      "url": "https://iorg.tw/en",
+      "doi": null,
+      "chapters_cited": [
+        "ch13"
+      ],
+      "id": "src-122",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Annual Espionage Statistics",
+      "authors": [
+        "Taiwan National Security Bureau (NSB)"
+      ],
+      "date": "2024",
+      "url": "https://www.nsb.gov.tw/",
+      "doi": null,
+      "chapters_cited": [
+        "ch13"
+      ],
+      "id": "src-123",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Gaming Public Opinion",
+      "authors": [
+        "Australian Strategic Policy Institute (ASPI)"
+      ],
+      "date": "2020",
+      "url": "https://www.aspi.org.au/",
+      "doi": null,
+      "chapters_cited": [
+        "ch13"
+      ],
+      "id": "src-124",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Global Brain-Computer Interface Market Report",
+      "authors": [
+        "Grand View Research",
+        "Allied Market Research"
+      ],
+      "date": "2024",
+      "url": "https://www.grandviewresearch.com/",
+      "doi": null,
+      "chapters_cited": [
+        "ch11"
+      ],
+      "id": "src-125",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Next-Generation Nonsurgical Neurotechnology (N3) Program",
+      "authors": [
+        "Defense Advanced Research Projects Agency (DARPA)"
+      ],
+      "date": "2024",
+      "url": "https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology",
+      "doi": null,
+      "chapters_cited": [
+        "ch11"
+      ],
+      "id": "src-126",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Human Clinical Trial Progress",
+      "authors": [
+        "Neuralink Corporation"
+      ],
+      "date": "2025",
+      "url": "https://neuralink.com/",
+      "doi": null,
+      "chapters_cited": [
+        "ch11"
+      ],
+      "id": "src-127",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Global Patent Statistics — Brain-Computer Interface Classifications",
+      "authors": [
+        "World Intellectual Property Organization (WIPO)"
+      ],
+      "date": "2024",
+      "url": "https://www.wipo.int/",
+      "doi": null,
+      "chapters_cited": [
+        "ch11"
+      ],
+      "id": "src-128",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Global Euthanasia/Assisted Dying Legal Status",
+      "authors": [
+        "World Federation of Right to Die Societies"
+      ],
+      "date": "2024",
+      "url": "https://www.worldrtd.net/",
+      "doi": null,
+      "chapters_cited": [
+        "ch14"
+      ],
+      "id": "src-129",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Neurorights Constitutional Amendment",
+      "authors": [
+        "Chilean Senate"
+      ],
+      "date": "2021",
+      "url": "https://www.senado.cl/",
+      "doi": null,
+      "chapters_cited": [
+        "ch14"
+      ],
+      "id": "src-130",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "database",
+      "title": "CRISPR Clinical Trial Registry",
+      "authors": [
+        "ClinicalTrials.gov"
+      ],
+      "date": "2024",
+      "url": "https://clinicaltrials.gov/",
+      "doi": null,
+      "chapters_cited": [
+        "ch14"
+      ],
+      "id": "src-131",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "CCW LAWS Discussions",
+      "authors": [
+        "United Nations Office for Disarmament Affairs"
+      ],
+      "date": "2024",
+      "url": "https://www.un.org/disarmament/the-convention-on-certain-conventional-weapons/",
+      "doi": null,
+      "chapters_cited": [
+        "ch14"
+      ],
+      "id": "src-132",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Patient Autonomy Act",
+      "authors": [
+        "Taiwan Ministry of Health and Welfare"
+      ],
+      "date": "2019",
+      "url": "https://www.mohw.gov.tw/",
+      "doi": null,
+      "chapters_cited": [
+        "ch14"
+      ],
+      "id": "src-133",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Universal Declaration on the Human Genome and Human Rights",
+      "authors": [
+        "UNESCO"
+      ],
+      "date": "1997",
+      "url": "https://www.unesco.org/",
+      "doi": null,
+      "chapters_cited": [
+        "ch14"
+      ],
+      "id": "src-134",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Human Clinical Trials",
+      "authors": [
+        "Neuralink Corporation"
+      ],
+      "date": "2025",
+      "url": "https://neuralink.com/",
+      "doi": null,
+      "chapters_cited": [
+        "ch14"
+      ],
+      "id": "src-135",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Population Statistics",
+      "authors": [
+        "Taiwan Ministry of the Interior"
+      ],
+      "date": "2024",
+      "url": "https://www.moi.gov.tw/",
+      "doi": null,
+      "chapters_cited": [
+        "ch14"
+      ],
+      "id": "src-136",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Parentage/Surrogacy Project",
+      "authors": [
+        "Hague Conference on Private International Law (HCCH)"
+      ],
+      "date": "2024",
+      "url": "https://www.hcch.net/",
+      "doi": null,
+      "chapters_cited": [
+        "ch14"
+      ],
+      "id": "src-137",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Documentation of CRISPR Human Germline Editing Case",
+      "authors": [
+        "He Jiankui"
+      ],
+      "date": "2018",
+      "url": "https://www.nature.com/articles/d41586-019-01786-3",
+      "doi": null,
+      "chapters_cited": [
+        "ch14"
+      ],
+      "id": "src-138",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "France Comité consultatif national d'éthique (CCNE)",
+      "authors": [
+        "Comité consultatif national d'éthique (CCNE)"
+      ],
+      "date": "2024",
+      "url": "https://www.ccne-ethique.fr/",
+      "doi": null,
+      "chapters_cited": [
+        "ch14"
+      ],
+      "id": "src-139",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Global BCI Market Report",
+      "authors": [
+        "Grand View Research",
+        "Allied Market Research"
+      ],
+      "date": "2024",
+      "url": "https://www.grandviewresearch.com/",
+      "doi": null,
+      "chapters_cited": [
+        "ch14"
+      ],
+      "id": "src-140",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Next-Generation Nonsurgical Neurotechnology (N3) Program",
+      "authors": [
+        "Defense Advanced Research Projects Agency (DARPA)"
+      ],
+      "date": "2024",
+      "url": "https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology",
+      "doi": null,
+      "chapters_cited": [
+        "ch14"
+      ],
+      "id": "src-141",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Biological Weapons Convention (BWC)",
+      "authors": [
+        "United Nations Office for Disarmament Affairs"
+      ],
+      "date": "2024",
+      "url": "https://www.un.org/disarmament/biological-weapons/",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-142",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Declassified Assessment on COVID-19 Origins",
+      "authors": [
+        "Office of the Director of National Intelligence (ODNI)"
+      ],
+      "date": "2023",
+      "url": "https://www.dni.gov/",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-143",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "academic",
+      "title": "The proximal origin of SARS-CoV-2",
+      "authors": [
+        "Andersen, Kristian G.",
+        "Rambaut, Andrew",
+        "Lipkin, W. Ian",
+        "Holmes, Edward C.",
+        "Garry, Robert F."
+      ],
+      "date": "2020",
+      "url": "https://doi.org/10.1038/s41591-020-0820-9",
+      "doi": "10.1038/s41591-020-0820-9",
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-144",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "An Analysis of the Origins of the COVID-19 Pandemic: Interim Report",
+      "authors": [
+        "U.S. Senate Committee on Health, Education, Labor and Pensions (HELP)"
+      ],
+      "date": "2023",
+      "url": "https://www.help.senate.gov/",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-145",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Investigation of Reedley, California Unauthorized Biological Laboratory",
+      "authors": [
+        "U.S. House Select Committee on the Chinese Communist Party"
+      ],
+      "date": "2023",
+      "url": "https://selectcommitteeontheccp.house.gov/",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-146",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "COVID-19 Dashboard",
+      "authors": [
+        "World Health Organization (WHO)"
+      ],
+      "date": "2024",
+      "url": "https://covid19.who.int/",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-147",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "COVID-19 Response Reports",
+      "authors": [
+        "Taiwan Centers for Disease Control",
+        "Disease Control Administration, MOHW"
+      ],
+      "date": "2024",
+      "url": "https://www.cdc.gov.tw/",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-148",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Healthcare Statistics",
+      "authors": [
+        "Taiwan Ministry of Health and Welfare"
+      ],
+      "date": "2024",
+      "url": "https://www.mohw.gov.tw/",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-149",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Biodefense in the Age of Synthetic Biology",
+      "authors": [
+        "National Academies of Sciences, Engineering, and Medicine"
+      ],
+      "date": "2018",
+      "url": "https://nap.nationalacademies.org/catalog/24890/biodefense-in-the-age-of-synthetic-biology",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-150",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "academic",
+      "title": "Living Weapons: Biological Warfare and International Security",
+      "authors": [
+        "Gregory D. Koblentz"
+      ],
+      "date": "2009",
+      "url": "https://www.jstor.org/stable/10.7591/j.ctt7z9s0",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-151",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Open-source publications on biological defense and military medicine",
+      "authors": [
+        "PLA Academy of Military Medical Sciences"
+      ],
+      "date": "2024",
+      "url": "https://www.mod.gov.cn/gfbw/gfjy_index/jsyxgfs/16330286.html",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-152",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "database",
+      "title": "CRISPR Clinical Trial Registry",
+      "authors": [
+        "ClinicalTrials.gov"
+      ],
+      "date": "2024",
+      "url": "https://clinicaltrials.gov/",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-153",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Universal Declaration on the Human Genome and Human Rights",
+      "authors": [
+        "UNESCO"
+      ],
+      "date": "1997",
+      "url": "https://www.unesco.org/",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-154",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Documentation of CRISPR Human Germline Editing Case",
+      "authors": [
+        "He Jiankui"
+      ],
+      "date": "2018",
+      "url": "https://www.nature.com/articles/d41586-019-01786-3",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-155",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Reedley Biolab Inspection Reports",
+      "authors": [
+        "Fresno County Department of Public Health"
+      ],
+      "date": "2023",
+      "url": "https://www.co.fresno.ca.us/departments/public-health",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-156",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Chinese Nationals Charged with Conspiracy and Smuggling a Dangerous Biological Pathogen into the U.S.",
+      "authors": [
+        "U.S. Department of Justice",
+        "Eastern District of Michigan"
+      ],
+      "date": "2025",
+      "url": "https://www.justice.gov/usao-edmi/pr/chinese-nationals-charged-conspiracy-and-smuggling-dangerous-biological-pathogen-us",
+      "doi": null,
+      "chapters_cited": [
+        "ch07"
+      ],
+      "id": "src-157",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Military and Security Developments Involving the People's Republic of China (Annual Report to Congress)",
+      "authors": [
+        "U.S. Department of Defense"
+      ],
+      "date": "2024",
+      "url": "https://www.defense.gov/News/Releases/",
+      "doi": null,
+      "chapters_cited": [
+        "ch03"
+      ],
+      "id": "src-158",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "DF-17 / DF-27 Missile Profile",
+      "authors": [
+        "CSIS Missile Defense Project"
+      ],
+      "date": "2024",
+      "url": "https://missilethreat.csis.org/missile/df-17/",
+      "doi": null,
+      "chapters_cited": [
+        "ch03"
+      ],
+      "id": "src-159",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Patriot Air and Missile Defense System",
+      "authors": [
+        "Congressional Research Service (CRS)"
+      ],
+      "date": "2024",
+      "url": "https://crsreports.congress.gov/",
+      "doi": null,
+      "chapters_cited": [
+        "ch03"
+      ],
+      "id": "src-160",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Glide Phase Interceptor (GPI) Program",
+      "authors": [
+        "U.S. Missile Defense Agency (MDA)"
+      ],
+      "date": "2024",
+      "url": "https://www.mda.mil/system/gpi.html",
+      "doi": null,
+      "chapters_cited": [
+        "ch03"
+      ],
+      "id": "src-161",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Taiwan's Missile Programs and Offensive Strike Capability",
+      "authors": [
+        "International Institute for Strategic Studies (IISS)"
+      ],
+      "date": "2024",
+      "url": "https://www.iiss.org/",
+      "doi": null,
+      "chapters_cited": [
+        "ch03"
+      ],
+      "id": "src-162",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Chiashan Air Force Base and Taiwan Hardened Facilities",
+      "authors": [
+        "Janes",
+        "Open-source intelligence reporting"
+      ],
+      "date": "2024",
+      "url": "https://www.janes.com/defence-news/",
+      "doi": null,
+      "chapters_cited": [
+        "ch03"
+      ],
+      "id": "src-163",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Taiwan Civil Defense Shelter Designations",
+      "authors": [
+        "National Police Agency",
+        "Ministry of the Interior (Taiwan)"
+      ],
+      "date": "2024",
+      "url": "https://www.npa.gov.tw/",
+      "doi": null,
+      "chapters_cited": [
+        "ch03"
+      ],
+      "id": "src-164",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Advances in Small Modular Reactor Technology Developments",
+      "authors": [
+        "International Atomic Energy Agency (IAEA)"
+      ],
+      "date": "2024",
+      "url": "https://aris.iaea.org/Publications/SMR_booklet.html",
+      "doi": null,
+      "chapters_cited": [
+        "ch05"
+      ],
+      "id": "src-165",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Advanced Reactors (non-LWR) Design Certification and Licensing",
+      "authors": [
+        "U.S. Nuclear Regulatory Commission (NRC)"
+      ],
+      "date": "2024",
+      "url": "https://www.nrc.gov/reactors/new-reactors/smr.html",
+      "doi": null,
+      "chapters_cited": [
+        "ch05"
+      ],
+      "id": "src-166",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Small Nuclear Power Reactors",
+      "authors": [
+        "World Nuclear Association"
+      ],
+      "date": "2024",
+      "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/small-nuclear-power-reactors",
+      "doi": null,
+      "chapters_cited": [
+        "ch05"
+      ],
+      "id": "src-167",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Pre-licensing Vendor Design Reviews for SMRs",
+      "authors": [
+        "Canadian Nuclear Safety Commission (CNSC)"
+      ],
+      "date": "2024",
+      "url": "https://www.nuclearsafety.gc.ca/eng/reactors/power-plants/pre-licensing-vendor-design-review/",
+      "doi": null,
+      "chapters_cited": [
+        "ch05"
+      ],
+      "id": "src-168",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "report",
+      "title": "Nuclear Power in a Clean Energy System",
+      "authors": [
+        "International Energy Agency (IEA)"
+      ],
+      "date": "2019",
+      "url": "https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system",
+      "doi": null,
+      "chapters_cited": [
+        "ch05"
+      ],
+      "id": "src-169",
+      "verified": true,
+      "last_checked": "2026-03-30"
     }
   ]
 }
