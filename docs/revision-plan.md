@@ -2,8 +2,10 @@
 
 ## 台灣國家戰略專案修正計劃 v1
 
-狀態：Proposed  
-日期：2026-03-30
+狀態：Implemented on `codex/docs/ch16-content-strengthening`
+日期：2026-03-31
+
+> 進度摘要：Phase 1 至 Phase 5 已完成首輪落地，包含 metadata residue 清理、證據分層欄位與 validator 升級、README / 全文分層、Ch07 / Ch14 / Ch16 證據邊界補強，以及 AI 協作揭露與 PR 模板更新。
 
 ---
 
