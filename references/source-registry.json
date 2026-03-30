@@ -2,10 +2,10 @@
   "metadata": {
     "description": "URL and DOI verification registry",
     "last_audit": "2026-03-30",
-    "total_urls": 169,
+    "total_urls": 180,
     "audit_method": "automated_http_spot_check + manual_review",
     "status_counts": {
-      "reachable": 115,
+      "reachable": 126,
       "access_restricted": 27,
       "other": 12,
       "missing": 15
@@ -1194,6 +1194,83 @@
       "status": "reachable",
       "last_checked": "2026-03-30",
       "notes": "Institutional report, organizational publication, or reference page referenced in per-chapter bibliography"
+    },
+    {
+      "url": "https://www.motc.gov.tw/ch/app/data/view?id=14&module=news&serno=99021c81-8433-457a-9fa8-40486a4595c4",
+      "source_id": "src-170",
+      "status": "reachable",
+      "last_checked": "2026-03-30",
+      "notes": "Official government press release referenced for Chapter 16 Taipei FIR operating context"
+    },
+    {
+      "url": "https://www.motc.gov.tw/n/2502140007",
+      "source_id": "src-171",
+      "status": "reachable",
+      "last_checked": "2026-03-30",
+      "notes": "Official government press release referenced for Chapter 16 drone-management statistics"
+    },
+    {
+      "url": "https://www.cnes-geipan.fr/fr/stats",
+      "source_id": "src-172",
+      "status": "reachable",
+      "last_checked": "2026-03-30",
+      "notes": "Official CNES GEIPAN statistics page referenced for Chapter 16 comparative case-resolution metrics"
+    },
+    {
+      "url": "https://en.mofa.gov.tw/News_Content.aspx?n=1330&s=121726",
+      "source_id": "src-173",
+      "status": "reachable",
+      "last_checked": "2026-03-30",
+      "notes": "Official MOFA statement referenced for Chapter 15 Taiwan-Japan strategic coordination framing"
+    },
+    {
+      "url": "https://en.mofa.gov.tw/News_Content.aspx?n=1328&s=121721",
+      "source_id": "src-174",
+      "status": "reachable",
+      "last_checked": "2026-03-30",
+      "notes": "Official MOFA statement referenced for Chapter 15 Taiwan-EU security and defense cooperation framing"
+    },
+    {
+      "url": "https://en.mofa.gov.tw/News_Content.aspx?n=1329&s=120623",
+      "source_id": "src-175",
+      "status": "reachable",
+      "last_checked": "2026-03-30",
+      "notes": "Official MOFA press release referenced for Chapter 15 Italy-Taiwan parliamentary and technology ties"
+    },
+    {
+      "url": "https://www.mofa.gov.tw/News_Content.aspx?n=96&s=117266&sms=74",
+      "source_id": "src-176",
+      "status": "reachable",
+      "last_checked": "2026-03-30",
+      "notes": "Official MOFA press release referenced for Chapter 15 Argentina political outreach example"
+    },
+    {
+      "url": "https://www.mofa.gov.tw/News_Content.aspx?n=95&s=118715",
+      "source_id": "src-177",
+      "status": "reachable",
+      "last_checked": "2026-03-30",
+      "notes": "Official MOFA release referenced for Chapter 15 Central and Eastern Europe partnership track"
+    },
+    {
+      "url": "https://en.mofa.gov.tw/News_Content.aspx?n=1328&s=120815",
+      "source_id": "src-178",
+      "status": "reachable",
+      "last_checked": "2026-03-30",
+      "notes": "Official MOFA release referenced for Chapter 15 Ukraine reconstruction cooperation example"
+    },
+    {
+      "url": "https://en.mofa.gov.tw/News.aspx?n=1eaddcfd4c6ec567&page=74&pagesize=10",
+      "source_id": "src-179",
+      "status": "reachable",
+      "last_checked": "2026-03-30",
+      "notes": "Official MOFA news index referenced for Chapter 15 Israel delegation and security-cooperation signaling"
+    },
+    {
+      "url": "https://en.mofa.gov.tw/OverseasOfficeLink.aspx?n=1573&sms=2111",
+      "source_id": "src-180",
+      "status": "reachable",
+      "last_checked": "2026-03-30",
+      "notes": "Official MOFA missions page referenced for Chapter 15 Middle East representative-office network"
     }
   ]
 }

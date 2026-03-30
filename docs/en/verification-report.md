@@ -6,24 +6,24 @@
 |-------|-------|
 | Report Date | 2026-03-30 |
 | Data Audit Date | 2026-03-30 (bibliography, source registry, statistics) |
-| Total Sources | 169 |
-| Total Tracked URLs | 169 |
-| Total Data Points | 200 |
-| Chapters Covered | 16 (Ch01--Ch16) |
+| Total Sources | 180 |
+| Total Tracked URLs | 180 |
+| Total Data Points | 204 |
+| Chapters Covered | 16 data-bearing chapters (Ch01--Ch16); Ch17 is synthesis-only |
 
 ---
 
 ## 1. Executive Summary
 
-This report documents the current verification methodology and results for all structured quantitative data points used in the Taiwan National Strategy project. The repository currently tracks 169 bibliography sources, 169 auditable URLs, and 200 individually sourced statistics across 16 chapters. All data points carry a `verified: true` flag with an accompanying verification note, and the source registry now reflects live HTTP audit categories rather than assumed validity.
+This report documents the current verification methodology and results for all structured quantitative data points used in the Taiwan National Strategy project. The repository currently tracks 180 bibliography sources, 180 auditable URLs, and 204 individually sourced statistics across 16 data-bearing chapters. All data points carry a `verified: true` flag with an accompanying verification note, and the source registry now reflects live HTTP audit categories rather than assumed validity.
 
-> **Note (2026-03-30)**: This report reflects the current 16-chapter structure after bibliography / registry reconciliation, citation-integrity validation, and a refreshed live URL audit. Historical chapter reordering and source consolidation are already represented in the current bibliography, statistics files, and source registry.
+> **Note (2026-03-30)**: This report reflects the current 17-chapter full-text structure, including the new synthesis conclusion chapter, while the structured statistics layer continues to cover Ch01--Ch16. Bibliography / registry reconciliation, citation-integrity validation, and the refreshed live URL audit are all already represented in the current bibliography, statistics files, and source registry.
 
 Key findings:
 
-- **Source quality is strong but concentrated.** Government and report-type sources account for 145 of 169 bibliography entries (85.8%), giving the project a heavily institutional evidence base.
-- **Live URL audit is now implemented.** The 2026-03-30 audit recorded 115 `reachable`, 27 `access_restricted`, 15 `missing`, and 12 `other` URL states.
-- **Structured data integrity is high.** All 200 statistics currently pass schema validation and remain marked `verified: true`.
+- **Source quality is strong but concentrated.** Government and report-type sources account for 156 of 180 bibliography entries (86.7%), giving the project a heavily institutional evidence base.
+- **Live URL audit is now implemented.** The 2026-03-30 audit recorded 126 `reachable`, 27 `access_restricted`, 15 `missing`, and 12 `other` URL states.
+- **Structured data integrity is high.** All 204 statistics currently pass schema validation and remain marked `verified: true`.
 - **The main maintenance burden is link decay and gated access, not missing citations.** The biggest current verification gaps now come from 404s, redirects, timeouts, and access-restricted sources rather than absent source documentation.
 
 ---
@@ -67,7 +67,7 @@ All statistics files conform to the schema defined in `data/schemas/statistics-s
 
 The bibliography (`references/bibliography.json`) and source registry (`references/source-registry.json`) serve as the dual backbone of source management:
 
-- **Bibliography**: Records 169 sources with metadata including type, authors, publication date, URL, DOI (where available), chapters cited, and verification status.
+- **Bibliography**: Records 180 sources with metadata including type, authors, publication date, URL, DOI (where available), chapters cited, and verification status.
 - **Source Registry**: Tracks URL-level verification with status flags (`reachable`, `access_restricted`, `missing`, `other`), last-checked dates, and per-URL notes on access restrictions or stability risks.
 - **Citation Integrity Validation**: The validator now cross-checks `src-*` citations in per-chapter reference documents and full-text chapters, and verifies statistics JSON source URLs against cited registry entries whenever a chapter reference table provides explicit source mappings.
 
@@ -81,31 +81,31 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 
 | Metric | Count |
 |--------|-------|
-| Total unique sources in bibliography | 169 |
-| Total tracked URLs in source registry | 169 |
-| Total data points across all chapters | 200 |
+| Total unique sources in bibliography | 180 |
+| Total tracked URLs in source registry | 180 |
+| Total data points across all chapters | 204 |
 | Chapters with statistics files | 16 |
 | Sources with DOI | 4 |
-| Sources with live URL status recorded | 169 / 169 |
-| Data points marked `verified: true` | 200 / 200 |
+| Sources with live URL status recorded | 180 / 180 |
+| Data points marked `verified: true` | 204 / 204 |
 
 ### 3.2 Breakdown by Source Type
 
 | Source Type | Count | Percentage |
 |-------------|-------|------------|
-| Government | 71 | 42.0% |
-| Report | 74 | 43.8% |
-| Database | 13 | 7.7% |
-| Academic | 8 | 4.7% |
-| News | 3 | 1.8% |
+| Government | 82 | 45.6% |
+| Report | 74 | 41.1% |
+| Database | 13 | 7.2% |
+| Academic | 8 | 4.4% |
+| News | 3 | 1.7% |
 
 ### 3.3 Breakdown by Verification Status
 
 | Status | Count | Notes |
 |--------|-------|-------|
-| `verified: true` | 200 | All data points carry verification flags |
+| `verified: true` | 204 | All data points carry verification flags |
 | `verified: false` | 0 | No unverified data points remain in the dataset |
-| URL status: `reachable` | 115 | HTTP 2xx/3xx during 2026-03-30 audit |
+| URL status: `reachable` | 126 | HTTP 2xx/3xx during 2026-03-30 audit |
 | URL status: `access_restricted` | 27 | HTTP 401/403 or equivalent access gating |
 | URL status: `missing` | 15 | HTTP 404 during live audit |
 | URL status: `other` | 12 | Timeouts, server errors, or unstable responses |
@@ -131,8 +131,8 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 | Ch13 | Cognitive Defense — CCP Cognitive Warfare | 20 | Report, government, academic, news | 100% | DoubleThink Lab, IORG, DataReportal, V-Dem, Reuters Institute, King/Pan/Roberts, Microsoft MTAC, OpenAI, Meta, NSB |
 | Ch14 | Technology Ethics | 8 | Government, report, academic, international organizations | 100% | Chilean Senate, MOHW, DARPA, HCCH, UN CCW, Neuralink |
 | Ch15 | International Linkages | 10 | Report, government | 100% | SIA, MOFA, DSCA, CSIS AMTI, US Census |
-| Ch16 | Non-Traditional Security Threats (UAP) | 3 | Government, report | 100% | US DoD (AARO), GEIPAN, JSDF, NASA |
-| **Total** | | **200** | | **100%** | |
+| Ch16 | Airspace Anomaly Governance and Strategic Foresight | 7 | Government, report | 100% | AARO, NASA, GEIPAN, MOTC |
+| **Total** | | **204** | | **100%** | |
 
 ---
 
@@ -324,7 +324,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 | # | Check | Status |
 |---|-------|--------|
-| 1 | All 169 bibliography sources have unique `id` fields (src-001 through src-169) | PASS |
+| 1 | All 180 bibliography sources have unique `id` fields (src-001 through src-180) | PASS |
 | 2 | All sources have a `type` classification | PASS |
 | 3 | All sources have `chapters_cited` arrays linking to specific chapters | PASS |
 | 4 | All sources have `verified: true` and `last_checked` dates | PASS |
@@ -334,7 +334,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 | # | Check | Status |
 |---|-------|--------|
-| 1 | All 169 URLs are present in the registry | PASS |
+| 1 | All 180 URLs are present in the registry | PASS |
 | 2 | Each URL entry has a `source_id` linking back to bibliography | PASS |
 | 3 | Each URL entry uses one of `reachable`, `access_restricted`, `missing`, or `other` | PASS |
 | 4 | Each URL entry has a `last_checked` date | PASS |

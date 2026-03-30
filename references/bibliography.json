@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Taiwan National Strategy — Master Bibliography",
-    "total_sources": 169,
+    "total_sources": 180,
     "last_updated": "2026-03-30"
   },
   "sources": [
@@ -2765,6 +2765,182 @@
         "ch05"
       ],
       "id": "src-169",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "我國空運實力領航，國際政經記者團聚焦臺灣國際參與",
+      "authors": [
+        "Ministry of Transportation and Communications (Taiwan)"
+      ],
+      "date": "2025-09-08",
+      "url": "https://www.motc.gov.tw/ch/app/data/view?id=14&module=news&serno=99021c81-8433-457a-9fa8-40486a4595c4",
+      "doi": null,
+      "chapters_cited": [
+        "ch16"
+      ],
+      "id": "src-170",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "分階段強化無人機管理，協助無人機產業發展",
+      "authors": [
+        "Ministry of Transportation and Communications (Taiwan)"
+      ],
+      "date": "2025-02-14",
+      "url": "https://www.motc.gov.tw/n/2502140007",
+      "doi": null,
+      "chapters_cited": [
+        "ch16"
+      ],
+      "id": "src-171",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Statistiques",
+      "authors": [
+        "Centre National d'Études Spatiales (CNES) — GEIPAN"
+      ],
+      "date": "2026-03-03",
+      "url": "https://www.cnes-geipan.fr/fr/stats",
+      "doi": null,
+      "chapters_cited": [
+        "ch16"
+      ],
+      "id": "src-172",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "MOFA response to statement by Japanese Foreign Minister Motegi on deepening exchanges and cooperation with Taiwan",
+      "authors": [
+        "Ministry of Foreign Affairs (Taiwan)"
+      ],
+      "date": "2026-02-11",
+      "url": "https://en.mofa.gov.tw/News_Content.aspx?n=1330&s=121726",
+      "doi": null,
+      "chapters_cited": [
+        "ch15"
+      ],
+      "id": "src-173",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "MOFA response to European Parliament resolution emphasizing need to deepen security and defense cooperation with Taiwan",
+      "authors": [
+        "Ministry of Foreign Affairs (Taiwan)"
+      ],
+      "date": "2026-02-13",
+      "url": "https://en.mofa.gov.tw/News_Content.aspx?n=1328&s=121721",
+      "doi": null,
+      "chapters_cited": [
+        "ch15"
+      ],
+      "id": "src-174",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Foreign Minister Lin meets with Italy-Taiwan Parliamentary Friendship Group delegation led by Cochair Paroli",
+      "authors": [
+        "Ministry of Foreign Affairs (Taiwan)"
+      ],
+      "date": "2025-09-05",
+      "url": "https://en.mofa.gov.tw/News_Content.aspx?n=1329&s=120623",
+      "doi": null,
+      "chapters_cited": [
+        "ch15"
+      ],
+      "id": "src-175",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "外交部感謝阿根廷國家眾議院外交委員會通過決議慰問花蓮震災",
+      "authors": [
+        "Ministry of Foreign Affairs (Taiwan)"
+      ],
+      "date": "2024-05-01",
+      "url": "https://www.mofa.gov.tw/News_Content.aspx?n=96&s=117266&sms=74",
+      "doi": null,
+      "chapters_cited": [
+        "ch15"
+      ],
+      "id": "src-176",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "外交部政務次長吳志中出席斯洛伐克「台灣論壇」發表演說，闡述總合外交新理念",
+      "authors": [
+        "Ministry of Foreign Affairs (Taiwan)"
+      ],
+      "date": "2024-11-27",
+      "url": "https://www.mofa.gov.tw/News_Content.aspx?n=95&s=118715",
+      "doi": null,
+      "chapters_cited": [
+        "ch15"
+      ],
+      "id": "src-177",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Foreign Minister Lin witnesses signing of MOU on cooperation between Taiwan and Ukraine to assist vulnerable children",
+      "authors": [
+        "Ministry of Foreign Affairs (Taiwan)"
+      ],
+      "date": "2025-09-28",
+      "url": "https://en.mofa.gov.tw/News_Content.aspx?n=1328&s=120815",
+      "doi": null,
+      "chapters_cited": [
+        "ch15"
+      ],
+      "id": "src-178",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Foreign Minister Lin meets with delegation led by former Israeli Minister of Religious Services Kahana",
+      "authors": [
+        "Ministry of Foreign Affairs (Taiwan)"
+      ],
+      "date": "2026-01-27",
+      "url": "https://en.mofa.gov.tw/News.aspx?n=1eaddcfd4c6ec567&page=74&pagesize=10",
+      "doi": null,
+      "chapters_cited": [
+        "ch15"
+      ],
+      "id": "src-179",
+      "verified": true,
+      "last_checked": "2026-03-30"
+    },
+    {
+      "type": "government",
+      "title": "Links to Embassies and Missions",
+      "authors": [
+        "Ministry of Foreign Affairs (Taiwan)"
+      ],
+      "date": "2026-03-09",
+      "url": "https://en.mofa.gov.tw/OverseasOfficeLink.aspx?n=1573&sms=2111",
+      "doi": null,
+      "chapters_cited": [
+        "ch15"
+      ],
+      "id": "src-180",
       "verified": true,
       "last_checked": "2026-03-30"
     }
