@@ -1,10 +1,55 @@
 {
   "chapter": "16",
-  "title": "Non-Traditional Security Threats: UAP Investigation, Sensor Integration, and Contact Preparation",
-  "last_updated": "2026-03-19",
+  "title": "Non-Traditional Security Threats: UAP Investigation, Sensor Integration, and Airspace Anomaly Governance",
+  "last_updated": "2026-03-30",
   "statistics": [
     {
       "id": "ch16-001",
+      "metric": "Taipei FIR air traffic control services provided in 2024",
+      "value": 1640000,
+      "unit": "services",
+      "date": "2024",
+      "source": {
+        "name": "Republic of China (Taiwan) Ministry of Transportation and Communications",
+        "url": "https://www.motc.gov.tw/ch/app/data/view?id=14&module=news&serno=99021c81-8433-457a-9fa8-40486a4595c4",
+        "accessed": "2026-03-30"
+      },
+      "context": "The Ministry of Transportation and Communications stated that the Taipei Flight Information Region (Taipei FIR) provided approximately 1.64 million air traffic control services in 2024. For Taiwan, any anomaly-reporting regime operates inside a dense civil aviation environment; this makes disciplined triage, evidence retention, and rapid elimination of ordinary explanations a core national-security requirement rather than an optional research activity.",
+      "verified": true,
+      "verification_note": "Official MOTC press release published 2025-09-08 citing Civil Aviation Administration remarks on Taipei FIR traffic volume"
+    },
+    {
+      "id": "ch16-002",
+      "metric": "Registered corporate drones in Taiwan",
+      "value": 38000,
+      "unit": "registered drones",
+      "date": "2025-02",
+      "source": {
+        "name": "Republic of China (Taiwan) Ministry of Transportation and Communications",
+        "url": "https://www.motc.gov.tw/n/2502140007",
+        "accessed": "2026-03-30"
+      },
+      "context": "MOTC reported that Taiwan had more than 38,000 registered corporate drones as of February 2025. This expanding drone ecosystem means many unusual observations are likely to involve ordinary or gray-zone unmanned systems, making integration with registration, permitting, and counter-UAS data essential for any credible anomaly-investigation framework.",
+      "verified": true,
+      "verification_note": "Official MOTC press release published 2025-02-14 summarizing Civil Aviation Administration drone-management statistics"
+    },
+    {
+      "id": "ch16-003",
+      "metric": "Cumulative drone activity applications filed in Taiwan",
+      "value": 23000,
+      "unit": "applications",
+      "date": "2025-02",
+      "source": {
+        "name": "Republic of China (Taiwan) Ministry of Transportation and Communications",
+        "url": "https://www.motc.gov.tw/n/2502140007",
+        "accessed": "2026-03-30"
+      },
+      "context": "The same MOTC release reported more than 23,000 cumulative drone activity applications. The operational implication is straightforward: Taiwan needs an anomaly-review process that can rapidly deconflict unusual observations against legitimate drone activity, not a framework that assumes every unexplained sighting is strategically exotic.",
+      "verified": true,
+      "verification_note": "Official MOTC press release published 2025-02-14; cumulative drone flight-activity applications cited by the Civil Aviation Administration"
+    },
+    {
+      "id": "ch16-004",
       "metric": "AARO UAP reports received (cumulative through FY2023)",
       "value": 801,
       "unit": "reports",
@@ -12,29 +57,14 @@
       "source": {
         "name": "U.S. Department of Defense — AARO",
         "url": "https://www.aaro.mil/",
-        "accessed": "2026-03-18"
+        "accessed": "2026-03-30"
       },
-      "context": "AARO's 2024 annual report to Congress documented 801 cumulative UAP reports (510 from prior years plus 291 new reports in FY2023). Of these, a significant portion remain unresolved after initial analysis. AARO categorizes resolved cases into airborne clutter, natural atmospheric phenomena, USG or industry programs, and foreign adversary systems. The institutionalization of UAP reporting and investigation reflects a paradigm shift toward treating anomalous aerial phenomena as legitimate national security and airspace sovereignty concerns.",
+      "context": "AARO's FY2023 annual report documented 801 cumulative UAP reports (510 from prior years plus 291 new reports in FY2023). The U.S. model is useful less because it validates extraordinary claims and more because it demonstrates how a defense bureaucracy can normalize reporting, triage, and interagency data management around anomalous events.",
       "verified": true,
       "verification_note": "AARO Annual Report to Congress FY2023; publicly available via AARO.mil"
     },
     {
-      "id": "ch16-002",
-      "metric": "Countries with formal government UAP investigation programs",
-      "value": 6,
-      "unit": "countries",
-      "date": "2024",
-      "source": {
-        "name": "NASA UAP Independent Study Team Report / AARO",
-        "url": "https://science.nasa.gov/uap/",
-        "accessed": "2026-03-18"
-      },
-      "context": "At least six countries maintain formal government-level UAP investigation programs: the United States (AARO under DoD/DNI), France (GEIPAN/CAIPAN under CNES), the United Kingdom (MoD historical program, renewed interest), Canada (historical and informal ongoing), Brazil (official Air Force program), and Japan (MoD establishing investigation capacity). Several other countries including Australia and Argentina maintain less formal monitoring. The international institutionalization of UAP investigation provides a framework for Taiwan to participate without bearing disproportionate political risk.",
-      "verified": true,
-      "verification_note": "Cross-referenced from NASA UAP study, AARO reports, CNES/GEIPAN public documentation, and Japan MoD announcements"
-    },
-    {
-      "id": "ch16-003",
+      "id": "ch16-005",
       "metric": "NASA UAP Independent Study Team members",
       "value": 16,
       "unit": "independent experts",
@@ -42,11 +72,41 @@
       "source": {
         "name": "NASA",
         "url": "https://science.nasa.gov/uap/",
-        "accessed": "2026-03-18"
+        "accessed": "2026-03-30"
       },
-      "context": "NASA convened a 16-member independent study team of scientists, engineers, and aerospace experts to examine how NASA could contribute to UAP research using scientific methodology. The team's September 2023 report recommended NASA take a more active role in UAP data collection and analysis, leading to the appointment of a NASA Director of UAP Research. This approach of embedding UAP investigation within a respected civilian scientific institution provides a model for Taiwan.",
+      "context": "NASA convened a 16-member independent study team of scientists, engineers, and aerospace experts to examine how NASA could contribute to UAP research using scientific methodology. For Taiwan, the key lesson is organizational design: unresolved cases should be reviewed through scientific and engineering expertise, not only through military or intelligence channels.",
       "verified": true,
       "verification_note": "NASA UAP Independent Study Team Report, September 14, 2023; publicly available"
+    },
+    {
+      "id": "ch16-006",
+      "metric": "GEIPAN published cases in dynamic statistics",
+      "value": 3320,
+      "unit": "cases",
+      "date": "2026-03-03",
+      "source": {
+        "name": "Centre National d'Études Spatiales (CNES) — GEIPAN",
+        "url": "https://www.cnes-geipan.fr/fr/stats",
+        "accessed": "2026-03-30"
+      },
+      "context": "France's GEIPAN reported 3,320 published cases in its dynamic statistics as of March 3, 2026. This provides a long-running public-sector benchmark showing that anomaly investigation can be institutionalized as a transparent evidentiary process rather than as a rhetorical or speculative exercise.",
+      "verified": true,
+      "verification_note": "Official GEIPAN statistics page showing 3,320 published cases as of 2026-03-03"
+    },
+    {
+      "id": "ch16-007",
+      "metric": "GEIPAN cases remaining unexplained after investigation",
+      "value": 106,
+      "unit": "cases",
+      "date": "2026-03-03",
+      "source": {
+        "name": "Centre National d'Études Spatiales (CNES) — GEIPAN",
+        "url": "https://www.cnes-geipan.fr/fr/stats",
+        "accessed": "2026-03-30"
+      },
+      "context": "GEIPAN's statistics page shows that only 106 of its 3,320 published cases remained unexplained after investigation as of March 3, 2026, equivalent to 3.2 percent. The policy implication for Taiwan is that most anomaly work should focus on rapid elimination of conventional explanations and on improving data quality, not on privileging extraordinary interpretations.",
+      "verified": true,
+      "verification_note": "Official GEIPAN statistics page listing 106 category-D cases (3.2 percent) as of 2026-03-03"
     }
   ]
 }

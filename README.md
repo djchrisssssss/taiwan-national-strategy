@@ -14,13 +14,13 @@
 
 ## Abstract
 
-Taiwan's national security is fundamentally a systems engineering challenge. In an era of multi-domain competition, security can no longer be measured by the strength of any single defensive line; it must be assessed by the entire system's capacity to continue functioning under multiple, simultaneous, cross-domain pressures. This project presents a comprehensive analytical framework that treats Taiwan's national security as a complex adaptive system composed of sixteen interconnected domains -- from geostrategic positioning and semiconductor leverage to cognitive defense, technology ethics, and international linkages.
+Taiwan's national security is fundamentally a systems engineering challenge. In an era of multi-domain competition, security can no longer be measured by the strength of any single defensive line; it must be assessed by the entire system's capacity to continue functioning under multiple, simultaneous, cross-domain pressures. This project presents a comprehensive analytical framework that treats Taiwan's national security as a complex adaptive system composed of seventeen interconnected domains -- from geostrategic positioning and semiconductor leverage to cognitive defense, technology ethics, international linkages, and whole-of-strategy execution.
 
 Employing a systems engineering methodology grounded in interdependency analysis, nonlinear risk modeling, and adversary rationality assumptions, this study examines how failures in one domain can cascade into others, identifies structural vulnerabilities arising from geographic concentration, energy dependence, and communications fragility, and proposes policy recommendations organized by short-term (1--2 years), medium-term (3--5 years), and long-term (5--10 years) horizons. The core strategic principles -- antifragile architecture, multi-domain redundancy, and cost-imposition strategy -- aim to ensure that any coercive action against Taiwan faces prohibitively high costs across the political, military, and economic dimensions.
 
 ## 摘要
 
-台灣的國家安全本質上是一個系統工程問題。在多域競爭時代，安全不再取決於任何單一防線的堅固程度，而是整個系統在面對多重、同時、跨域壓力時的持續運作能力。本專案提出一套全面性分析框架，將台灣的國家安全視為由十六個相互連動的領域構成的複雜適應系統——從地緣戰略位置、半導體槓桿，到認知防禦、科技倫理與國際連結。
+台灣的國家安全本質上是一個系統工程問題。在多域競爭時代，安全不再取決於任何單一防線的堅固程度，而是整個系統在面對多重、同時、跨域壓力時的持續運作能力。本專案提出一套全面性分析框架，將台灣的國家安全視為由十七個相互連動的領域構成的複雜適應系統——從地緣戰略位置、半導體槓桿，到認知防禦、科技倫理、國際連結與全文執行架構。
 
 本研究採用系統工程方法論，以連動性分析、非線性風險建模與對手理性假設為基礎，探討單一領域的失效如何向其他領域擴散，識別源於地理集中、能源依賴與通訊脆弱性的結構性弱點，並提出按短期（1-2 年）、中期（3-5 年）與長期（5-10 年）時間框架分類的政策建議。核心戰略原則——反脆弱架構、多域備援與成本強加策略——旨在確保任何針對台灣的強制行動在政治、軍事與經濟層面都面臨極高成本。
 
@@ -32,7 +32,7 @@ Employing a systems engineering methodology grounded in interdependency analysis
 
 | Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
 |:---:|--------|-------------|------|
-| 00 | Executive Summary 執行摘要 | Analytical framework, structural risk overview, sixteen-domain summary, core strategic principles, and methodology. | 分析框架、結構性風險概述、十六域總覽、核心戰略原則與方法論。 |
+| 00 | Executive Summary 執行摘要 | Analytical framework, structural risk overview, seventeen-domain summary, core strategic principles, and methodology. | 分析框架、結構性風險概述、十七域總覽、核心戰略原則與方法論。 |
 
 ### II. Strategic Foundation / 二、戰略基礎
 
@@ -52,7 +52,7 @@ Employing a systems engineering methodology grounded in interdependency analysis
 
 | Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
 |:---:|--------|-------------|------|
-| 05 | Energy Structure 能源結構 | Import dependence, dangerously low LNG reserves, distributed microgrids, renewable energy transition, controlled nuclear fusion, and long-distance energy transmission. | 進口依賴、天然氣儲備嚴重不足、分散式微電網、再生能源轉型、可控核融合與能源遠距傳輸。 |
+| 05 | Energy Security and Power Resilience 能源安全與電力韌性 | Import dependence, dangerously low LNG reserves, distributed microgrids, renewable energy transition, nuclear pathways, and long-distance energy transmission. | 進口依賴、天然氣儲備嚴重不足、分散式微電網、再生能源轉型、核能路徑與能源遠距傳輸。 |
 | 06 | Food & Water Security 糧食與水資源安全 | Food self-sufficiency, water resource constraints, semiconductor ultrapure water demands, and critical infrastructure protection. | 糧食自給率、水資源結構制約、半導體超純水需求與關鍵基礎設施保護。 |
 | 07 | Biological Security 生物安全 | Biowarfare threats, CCP biological programs, agricultural bioterrorism, genetic modification security, synthetic biology dual-use, pandemic preparedness. | 生物戰威脅、中共生物計畫、農業生物恐怖主義、基因改造安全、合成生物學雙重用途、大流行準備。 |
 
@@ -77,8 +77,9 @@ Employing a systems engineering methodology grounded in interdependency analysis
 
 | Ch. 章節 | Domain 領域 | EN Description | 中文說明 |
 |:---:|--------|-------------|------|
-| 15 | International Linkages 國際連結 | Shifting from seeking protection to building indispensability through technological interdependence, intelligence cooperation, and democratic values. | 從尋求保護到建構不可或缺性——透過技術互依、情報合作與民主價值實現戰略轉型。 |
-| 16 | Non-Traditional Security Threats 非傳統安全威脅 | UAP investigation, sensor integration, contact preparation, and institutional frameworks for anomalous phenomena. | UAP 調查、感測器整合、接觸預備策略與異常現象制度化框架。 |
+| 15 | International Linkages 國際連結 | Shifting from seeking protection to building indispensability through technological interdependence, intelligence cooperation, democratic values, and layered partner networks. | 從尋求保護到建構不可或缺性——透過技術互依、情報合作、民主價值與分層夥伴網絡實現戰略轉型。 |
+| 16 | Airspace Anomaly Governance and Strategic Foresight 異常空域治理與戰略前瞻 | UAP investigation, sensor integration, airspace anomaly governance, and strategic foresight for low-probability contingencies. | UAP 調查、感測器整合、異常空域治理，以及低機率高衝擊情境的戰略前瞻。 |
+| 17 | Whole-of-Strategy Conclusion 全文結論 | National priority stack, sequencing, cross-ministerial execution, and annual review discipline. | 國家級優先序、時間序、跨部會執行架構與年度檢討紀律。 |
 
 ---
 
@@ -93,7 +94,7 @@ This project maintains a structured data layer to support reproducibility and ve
 | Statistics 統計數據 | `data/statistics/` | Per-chapter quantitative data (JSON). 各章節量化數據。 |
 | Timelines 時間軸 | `data/timelines/` | Historical event CSVs. 歷史事件時間軸。 |
 | Comparisons 跨國比較 | `data/comparisons/` | Cross-country comparative data. 跨國比較數據。 |
-| Bibliography 參考書目 | `references/bibliography.json` | Master bibliography with 169 structured sources. 169 筆結構化主參考文獻。 |
+| Bibliography 參考書目 | `references/bibliography.json` | Master bibliography with 180 structured sources. 180 筆結構化主參考文獻。 |
 | Source Registry 來源登記簿 | `references/source-registry.json` | URL audit registry with live status categories. 含即時狀態分類的 URL 稽核登錄簿。 |
 | Per-chapter References 章節參考 | `references/per-chapter/` | Annotated reference lists per chapter. 各章節獨立參考文獻列表。 |
 | Verification Reports 驗證報告 | `docs/en/verification-report.md` | Data verification methodology and audit results. 資料驗證方法論與審計結果。 |

@@ -18,7 +18,7 @@
 - [Chapter 4: Electromagnetic Spectrum Warfare](#chapter-4-electromagnetic-spectrum-warfare--spectrum-dominance-jamming-resilience-and-electronic-countermeasure-architecture)
 
 ### IV. Resource Security and Biological Resilience
-- [Chapter 5: Energy Structure](#chapter-5-energy-structure--import-dependence-strategic-reserves-and-distributed-grids)
+- [Chapter 5: Energy Security and Power Resilience](#chapter-5-energy-security-and-power-resilience--import-dependence-distributed-grids-and-long-term-energy-options)
 - [Chapter 6: Food & Water Security](#chapter-6-food-and-water-security--foundational-survival-resilience-and-critical-infrastructure-protection)
 - [Chapter 7: Biological Security](#chapter-7-biological-security--biowarfare-threats-biosurveillance-and-pandemic-resilience)
 
@@ -35,13 +35,16 @@
 
 ### VII. International Strategy and Emerging Domains
 - [Chapter 15: International Linkages](#chapter-15-international-linkages--from-seeking-protection-to-building-indispensability)
-- [Chapter 16: Non-Traditional Security Threats](#chapter-16-non-traditional-security-threats--uap-investigation-sensor-integration-and-contact-preparation)
+- [Chapter 16: Airspace Anomaly Governance and Strategic Foresight](#chapter-16-airspace-anomaly-governance-and-strategic-foresight--uap-investigation-sensor-integration-and-low-probability-high-impact-contingencies)
+- [Chapter 17: Whole-of-Strategy Conclusion](#chapter-17-whole-of-strategy-conclusion--priorities-sequencing-and-cross-ministerial-execution)
 
 ---
 
 # Chapter 0: Executive Summary
 
-> **Central Thesis**: Taiwan's national security is fundamentally a systems engineering challenge. It must be anchored in multi-domain integration, antifragile architecture, and cost-imposition strategy, spanning an integrated framework across sixteen domains — energy, finance, communications, technology, military, cognitive, and space, among others — in order to sustain stability and strategic relevance amid a highly uncertain geopolitical environment.
+> **Central Thesis**: Taiwan's national security is fundamentally a systems engineering challenge. It must be anchored in multi-domain integration, antifragile architecture, and cost-imposition strategy, spanning an integrated framework across seventeen domains — energy, finance, communications, technology, military, cognitive, space, and strategic execution among them — in order to sustain stability and strategic relevance amid a highly uncertain geopolitical environment.
+
+**Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
 
 ---
 
@@ -59,7 +62,7 @@ The core assumptions of this methodology include:
 
 **Definition of the Adversary**: This analysis explicitly identifies the **Chinese Communist Party (CCP) regime** as the primary hypothetical adversary. This designation is grounded in the following facts: the CCP has never renounced the use of force against Taiwan, continues to expand its military capabilities, and actively conducts military pressure, gray-zone operations, and cognitive warfare against Taiwan. All references to "the CCP" or "hostile forces" in this document refer to the CCP regime and the military and national security apparatus under its control — not the Chinese people.
 
-This analysis covers sixteen core domains spanning geostrategic positioning, military defense, resource security, biological resilience, communications, economic resilience, technology frontiers, cognitive defense, technology ethics, international linkages, and non-traditional security threats. Each chapter stands as an independent analysis while also forming an integral part of the overarching strategic narrative.
+This analysis covers seventeen core domains spanning geostrategic positioning, military defense, resource security, biological resilience, communications, economic resilience, technology frontiers, cognitive defense, technology ethics, international linkages, airspace anomaly governance, and a final execution chapter that integrates the whole strategy. Each chapter stands as an independent analysis while also forming an integral part of the overarching strategic narrative.
 
 ---
 
@@ -97,7 +100,7 @@ The risks described above do not exist in isolation. Energy disruption leads to 
 | Chapter 2 | Semiconductor Leverage | Advanced node irreplaceability, industrial concentration risk, technology interdependency networks |
 | Chapter 3 | Asymmetric Defense | Cost-exchange ratios, submarine denial, unmanned systems, indigenous mass production, missile defense and counter-hypersonic strategy, hardened infrastructure and underground facilities |
 | Chapter 4 | Electromagnetic Spectrum Warfare | Spectrum dominance, anti-jamming communications, electronic countermeasure systems |
-| Chapter 5 | Energy Structure | Import dependence, insufficient reserves, nuclear fusion, advanced energy transmission, microgrid decentralization, renewable energy transition |
+| Chapter 5 | Energy Security and Power Resilience | Import dependence, insufficient reserves, nuclear power and fusion, advanced energy transmission, microgrid decentralization, renewable energy transition |
 | Chapter 6 | Food & Water Security | Food self-sufficiency, water resource constraints, semiconductor ultrapure water demands, critical infrastructure protection |
 | Chapter 7 | Biological Security | Biowarfare threats, CCP biological programs, agricultural bioterrorism, genetic modification security, synthetic biology dual-use risks, pandemic preparedness |
 | Chapter 8 | Communications Resilience | Submarine cable vulnerability, LEO satellite backup, high-frequency radio, mesh networks |
@@ -108,9 +111,10 @@ The risks described above do not exist in isolation. Energy disruption leads to 
 | Chapter 13 | Cognitive Defense | CCP cognitive warfare command structure, deepfake threats, platform infiltration, economic coercion, institutional infiltration, media literacy, social trust infrastructure |
 | Chapter 14 | Technology Ethics | BCI consciousness engineering ethics, euthanasia, surrogacy, autonomous weapons governance, anticipatory technology governance |
 | Chapter 15 | International Linkages | Building indispensability through technological interdependence, intelligence cooperation, democratic values |
-| Chapter 16 | Non-Traditional Security Threats | UAP investigation, sensor integration, airspace sovereignty, contact preparation |
+| Chapter 16 | Airspace Anomaly Governance and Strategic Foresight | UAP investigation, sensor integration, airspace anomaly governance, low-probability high-impact contingencies |
+| Chapter 17 | Whole-of-Strategy Conclusion | National priority stack, sequencing, cross-ministerial responsibility allocation, and execution discipline |
 
-Each chapter follows a unified analytical framework: background assessment, current situation analysis, structural risk identification, policy recommendations, and cross-domain linkage analysis. Policy recommendations in each chapter are categorized by time horizon — short-term (1-2 years), medium-term (3-5 years), and long-term (5-10 years) — and annotated with priority levels and estimated resource requirements.
+Each chapter follows the same decision template: background/current state, structural risks, policy recommendations, and cross-chapter linkages. Some chapters merge the first two steps when the subject demands it, but the analytical logic remains consistent. Policy recommendations in each chapter are categorized by time horizon — short-term (1-2 years), medium-term (3-5 years), and long-term (5-10 years) — and annotated with priority levels and estimated resource requirements.
 
 ---
 
@@ -187,6 +191,8 @@ Given the dynamic nature of the security environment, this analysis recommends a
 # Chapter 1: Geostrategic Position — The First Island Chain, the Bashi Channel, and Strategic Waterways
 
 > **Central Thesis**: Taiwan occupies the central node of the First Island Chain, controlling the critical junction between the western Pacific and East Asian waters. Its geographic location is itself a strategic asset — but the value of this asset depends on the maintenance of autonomous defense capabilities and the ability to translate geographic advantage into a role as a provider of regional public goods.
+
+**Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
 
 ---
 
@@ -342,6 +348,8 @@ The realization of geostrategic position value depends on coordination across mu
 # Chapter 2: Semiconductor Leverage — Advanced Nodes, Supply Chain Irreplaceability, and Strategic Interdependence
 
 > **Central Thesis**: Taiwan's dominant position in advanced semiconductor manufacturing constitutes one of the most powerful economic-strategic levers of the modern era. However, this advantage is accompanied by structural risks including geographic concentration, talent bottlenecks, and equipment dependency. The strategic objective is to maintain technological leadership while converting industrial advantage into deep international interdependency networks, ensuring that any action threatening Taiwan's security carries incalculable global economic costs.
+
+**Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
 
 ---
 
@@ -522,6 +530,8 @@ Strategic response directions include: establishing strategic inventories of cri
 # Chapter 3: Asymmetric Defense — Cost-Exchange Ratios, Denial Capabilities, and Indigenous Mass Production
 
 > **Central Thesis**: Taiwan's geographic and scale conditions dictate that its military strategy must be anchored in cost-exchange ratio logic, prioritizing the development of asymmetric capabilities — submarines, unmanned systems, precision strike, and indigenous mass production — to ensure that any military offensive exceeds the CCP's tolerable threshold in terms of personnel, equipment, and time costs.
+
+**Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
 
 ---
 
@@ -813,6 +823,8 @@ Taiwan's hardened infrastructure strategy should prioritize the following dimens
 
 > **Central Thesis**: The electromagnetic spectrum has become the opening battlefield of modern conflict; any military operation begins with electronic warfare. Taiwan must build a complete capability chain — from spectrum monitoring and jam-resistant communications to active electronic countermeasures — to ensure that command, communications, and sensor systems remain effective in a contested electromagnetic environment.
 
+**Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
+
 ---
 
 ## 4.1 The Electromagnetic Spectrum as an Operational Domain
@@ -1036,7 +1048,7 @@ The recommended prioritization is as follows: first, provide complete electromag
 
 ---
 
-# Chapter 5: Energy Structure — Import Dependence, Strategic Reserves, and Distributed Grids
+# Chapter 5: Energy Security and Power Resilience — Import Dependence, Distributed Grids, and Long-Term Energy Options
 
 > **Key Thesis**: Taiwan's energy supply is overwhelmingly dependent on imports, with dangerously low LNG reserve levels. Under a blockade scenario, energy supply would rapidly become the critical bottleneck for national survival. Expanding strategic reserves, accelerating renewable energy development, and constructing distributed microgrids are essential to reducing the concentrated vulnerability of the energy system.
 
@@ -1517,6 +1529,8 @@ For technology park power resilience, a multi-layered defense strategy is recomm
 # Chapter 6: Food and Water Security — Foundational Survival Resilience and Critical Infrastructure Protection
 
 > **Central Thesis**: Taiwan's food self-sufficiency ratio stands at approximately 30-35%, and its water resource structure is heavily constrained by topography and seasonal variation. Moreover, the semiconductor industry's demand for ultrapure water creates a direct linkage between water security and industrial security. Under conflict or coercive scenarios, these foundational resource systems face the dual risk of supply disruption and deliberate sabotage, and must be incorporated into the core of the national resilience architecture.
+
+**Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
 
 ---
 
@@ -2909,6 +2923,8 @@ The development of indigenous space capabilities does not preclude international
 
 > **Core Thesis**: The application of artificial intelligence to intelligence analysis, battlefield situational awareness, and autonomous defense must be built on distributed computing architectures to prevent the centralization of computing power from becoming a vulnerable node for precision strikes during wartime. The integration of blockchain and AI can provide damage-resistant resilience for supply chain verification and financial settlement. [115][119]
 
+**Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
+
 ---
 
 ## 11.1 AI Applications in Intelligence Fusion and Situational Awareness
@@ -3170,6 +3186,8 @@ Taiwan possesses unique advantages in the BCI domain that can be leveraged for b
 
 > **Core Thesis**: Advances in quantum computing are steadily eroding the security foundations of existing cryptographic systems. Taiwan must complete its migration to post-quantum cryptography and establish quantum key distribution pilot programs before quantum computers acquire practical code-breaking capabilities, in order to safeguard national security, military communications, and the long-term confidentiality of the financial system.
 
+**Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
+
 ---
 
 ## 12.1 The Quantum Computing Threat to Existing Cryptographic Systems
@@ -3364,6 +3382,8 @@ Taiwan's geographic conditions — approximately 400 km from north to south, wit
 
 > **Core Thesis**: The Chinese Communist Party (CCP) wages the most sustained, industrialized cognitive warfare campaign targeting any democracy in the world. Taiwan's defense requires not only technical detection systems but a whole-of-society approach: understanding the adversary's command structure and supply chain, countering platform-specific infiltration, building resilience against economic coercion as a cognitive weapon, and constructing societal trust infrastructure grounded in media literacy, institutional transparency, and credible communication.
 
+**Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
+
 ---
 
 ## 13.1 The Cognitive Warfare Threat Model
@@ -3389,7 +3409,7 @@ The cost-effectiveness ratio of cognitive warfare is exceptionally high, making 
 
 ### The CCP Four-Layer Command Structure
 
-The CCP's cognitive warfare apparatus is not a monolithic entity but a nested four-layer command structure, each layer providing plausible deniability while maintaining top-down strategic coherence. [177]
+The CCP's cognitive warfare apparatus is not a monolithic entity but a nested four-layer command structure, each layer providing plausible deniability while maintaining top-down strategic coherence. [181]
 
 **Layer 1 — Party (中共中央)**
 At the apex sits the CCP Central Committee's propaganda apparatus, including the Central Propaganda Department (中宣部), the Central United Front Work Department (統戰部), and the Central Cyberspace Affairs Commission (中央網信辦). These organs set strategic objectives, approve major campaign themes, and allocate resources. Policy directives flow downward through Party channels, ensuring all cognitive warfare operations serve the Party's political objectives.
@@ -3403,7 +3423,7 @@ State-owned enterprises, state-adjacent technology companies, and contracted pri
 **Layer 4 — Shadow (灰色地帶)**
 The most deniable layer consists of co-opted overseas Chinese community organizations, recruited local collaborators within Taiwan, nominally independent media outlets with concealed funding relationships, and criminal networks providing technical infrastructure (phone numbers, VPN services, account factories). This layer provides the "last mile" delivery mechanism that makes CCP operations appear organic and local.
 
-**Evidence**: The 2024 GoLaxy documents — a trove of approximately 399 pages of leaked internal operational records — provided unprecedented documentary evidence of the party-military-enterprise linkage, revealing specific coordination mechanisms, budget allocations, and targeting databases containing over 5,000 Taiwanese individuals and organizations. [177][183]
+**Evidence**: The 2024 GoLaxy documents — a trove of approximately 399 pages of leaked internal operational records — provided unprecedented documentary evidence of the party-military-enterprise linkage, revealing specific coordination mechanisms, budget allocations, and targeting databases containing over 5,000 Taiwanese individuals and organizations. [181][187]
 
 ### Operational Levels of Cognitive Warfare
 
@@ -3421,7 +3441,7 @@ Cognitive warfare can be waged simultaneously across multiple levels:
 
 ### Account Factory Infrastructure
 
-The CCP's cognitive warfare operations depend on an industrial-scale account factory infrastructure that produces and maintains millions of inauthentic social media accounts. [177][182]
+The CCP's cognitive warfare operations depend on an industrial-scale account factory infrastructure that produces and maintains millions of inauthentic social media accounts. [181][186]
 
 **Phone Number Supply Chains**: Account creation on major platforms requires phone verification. The CCP's account factories exploit Hong Kong and Macau phone numbers as a strategic asset — these numbers bypass mainland Chinese restrictions while appearing non-mainland to platform verification systems. Documented supply chains involve:
 - Bulk SIM card procurement through Hong Kong/Macau telecommunications providers
@@ -3436,7 +3456,7 @@ The CCP's cognitive warfare operations depend on an industrial-scale account fac
 
 ### AI-Automated Content Production Pipeline
 
-The scale of CCP content production has reached industrial proportions through AI automation. An estimated 448 million state-generated social media posts are produced annually, [178] a figure that has likely increased substantially with the advent of large language models.
+The scale of CCP content production has reached industrial proportions through AI automation. An estimated 448 million state-generated social media posts are produced annually, [182] a figure that has likely increased substantially with the advent of large language models.
 
 **Content Production Architecture**:
 
@@ -3452,7 +3472,7 @@ The scale of CCP content production has reached industrial proportions through A
 
 ### The 13-Step Attack Chain Lifecycle
 
-Comprehensive analysis of documented CCP cognitive warfare campaigns reveals a standardized 13-step operational lifecycle: [177]
+Comprehensive analysis of documented CCP cognitive warfare campaigns reveals a standardized 13-step operational lifecycle: [181]
 
 1. **Strategic Objective Setting** — Party-level determination of campaign goals (e.g., undermine confidence in a specific policy, amplify a social division)
 2. **Intelligence Collection** — Target audience analysis, social media monitoring, identification of exploitable social fault lines
@@ -3494,14 +3514,14 @@ Deepfake threat scenarios facing Taiwan include:
 
 ### The 2024 Taiwan Election: AI-Powered Interference at Scale
 
-The January 2024 presidential election marked a watershed moment in AI-powered cognitive warfare targeting Taiwan. Microsoft's Threat Analysis Center (MTAC) documented over 100 deepfake audio and video items targeting candidates during the election cycle. [179] Key observations:
+The January 2024 presidential election marked a watershed moment in AI-powered cognitive warfare targeting Taiwan. Microsoft's Threat Analysis Center (MTAC) documented over 100 deepfake audio and video items targeting candidates during the election cycle. [183] Key observations:
 
 - **AI-generated audio**: Fabricated voice recordings mimicking candidates making inflammatory statements circulated on LINE and Facebook
 - **Manipulated video**: Doctored footage designed to misrepresent candidate positions or fabricate scandals
 - **AI-generated imagery**: Synthetic photographs placing candidates in compromising contexts
 - **Cross-platform coordination**: Content was first seeded on PTT and Dcard, then amplified through Facebook groups and LINE messaging, following the documented cross-platform migration pattern
 
-OpenAI separately reported disrupting multiple covert influence operations originating from China that used their models to generate political content targeting Taiwan's election. [180]
+OpenAI separately reported disrupting multiple covert influence operations originating from China that used their models to generate political content targeting Taiwan's election. [184]
 
 ### Disinformation Distribution Mechanisms
 
@@ -3531,14 +3551,14 @@ The propagation of disinformation is not random but follows a carefully designed
 
 ### Overview
 
-The CCP does not employ a one-size-fits-all approach to platform infiltration. Each major platform in Taiwan's information ecosystem is targeted with tactics specifically adapted to its architecture, user demographics, and content moderation capabilities. [177][181]
+The CCP does not employ a one-size-fits-all approach to platform infiltration. Each major platform in Taiwan's information ecosystem is targeted with tactics specifically adapted to its architecture, user demographics, and content moderation capabilities. [181][185]
 
 ### Facebook / Meta
 
 Facebook remains Taiwan's primary public social media platform (~18 million users), making it the highest-priority target for CCP influence operations.
 
 **Tactics**:
-- **Coordinated Inauthentic Behavior (CIB)**: Meta has conducted multiple takedowns of CCP-linked networks operating on Facebook, including the Spamouflage network — one of the largest known cross-platform influence operations. [181][182]
+- **Coordinated Inauthentic Behavior (CIB)**: Meta has conducted multiple takedowns of CCP-linked networks operating on Facebook, including the Spamouflage network — one of the largest known cross-platform influence operations. [185][186]
 - **Page and Group Infiltration**: CCP-linked operators create or take over Facebook groups focused on local community issues, gradually introducing cross-strait narratives
 - **Ad-Based Influence**: Purchasing targeted advertisements to amplify specific narratives, exploiting Facebook's ad targeting capabilities
 - **Comment Section Flooding**: Mass deployment of accounts to dominate comment sections on news articles and political posts
@@ -3578,7 +3598,7 @@ The most sophisticated operations coordinate across all platforms simultaneously
 
 ### The Coercion-Cognition Nexus
 
-Economic coercion is not merely an economic tool — it is a cognitive warfare instrument. The CCP systematically uses economic pressure against Taiwan to generate psychological effects that amplify and reinforce information operations. [177]
+Economic coercion is not merely an economic tool — it is a cognitive warfare instrument. The CCP systematically uses economic pressure against Taiwan to generate psychological effects that amplify and reinforce information operations. [181]
 
 The strategic logic operates on three levels:
 
@@ -3619,11 +3639,11 @@ The Economic Cooperation Framework Agreement (ECFA) exemplifies how economic int
 
 ### The Scope of Infiltration
 
-Beyond information operations conducted through digital platforms, the CCP conducts systematic infiltration of Taiwan's institutions — military, government, academic, and civil society. This institutional penetration serves dual purposes: intelligence collection and cognitive warfare capability building. [177][184]
+Beyond information operations conducted through digital platforms, the CCP conducts systematic infiltration of Taiwan's institutions — military, government, academic, and civil society. This institutional penetration serves dual purposes: intelligence collection and cognitive warfare capability building. [181][188]
 
 ### Military and Government Infiltration
 
-Taiwan's National Security Bureau (NSB) has documented persistent CCP efforts to recruit serving and retired military officers, government officials, and intelligence personnel. [184]
+Taiwan's National Security Bureau (NSB) has documented persistent CCP efforts to recruit serving and retired military officers, government officials, and intelligence personnel. [188]
 
 **Key indicators**:
 - The NSB reported 15 espionage cases involving 64 individuals prosecuted in 2024, representing a continuing pattern of attempted penetration
@@ -3641,12 +3661,12 @@ Taiwanese universities and research institutions face systematic infiltration ef
 
 ### United Front Operations
 
-The CCP's United Front Work Department (統戰部) coordinates influence operations targeting Taiwan's civil society through: [177]
+The CCP's United Front Work Department (統戰部) coordinates influence operations targeting Taiwan's civil society through: [181]
 
 - **Community and religious organizations**: Cultivating relationships with temple associations, veterans' groups, and local community organizations, particularly in southern Taiwan
 - **Business associations**: Engaging Taiwanese business groups with economic interests in China to serve as advocacy channels for CCP-preferred policies
 - **Youth exchange programs**: Organized cultural and professional exchanges designed to cultivate positive perceptions of China among young Taiwanese
-- **Targeting database**: The GoLaxy documents revealed a database containing over 5,000 Taiwanese individuals and organizations identified as targets for United Front operations, demonstrating the systematic and comprehensive nature of this effort [183]
+- **Targeting database**: The GoLaxy documents revealed a database containing over 5,000 Taiwanese individuals and organizations identified as targets for United Front operations, demonstrating the systematic and comprehensive nature of this effort [187]
 
 ---
 
@@ -3797,10 +3817,10 @@ Cognitive defense is not a standalone domain. The CCP's cognitive warfare operat
 | Electronic warfare | Ch4: Electronic Warfare | EW and cognitive warfare share the electromagnetic spectrum; jamming and spoofing operations create information vacuums that cognitive warfare fills |
 | Communications resilience | Ch8: Communications Resilience | Resilient communications infrastructure is a prerequisite for effective cognitive defense; submarine cable disruption creates cognitive vulnerability |
 | Financial resilience | Ch9: Financial and Digital Resilience | Blockchain-based identity systems (Section 9.5) provide tamper-resistant verification infrastructure for counter-disinformation; CBDC resilience prevents financial panic narratives |
-| AI and emerging technology | Ch11: AI and Emerging Technology | AI is both the primary weapon of cognitive warfare and the primary tool for cognitive defense; BCI and neurocognitive technologies (Section 11.5) introduce new attack surfaces for cognitive manipulation |
-| Quantum computing | Ch12: Quantum Computing | Quantum-resistant encryption protects government communications from interception that feeds cognitive targeting; quantum computing may accelerate deepfake generation |
+| AI and distributed computing | Ch11: AI and Distributed Computing | AI is both the primary weapon of cognitive warfare and the primary tool for cognitive defense; BCI and neurocognitive technologies (Section 11.5) introduce new attack surfaces for cognitive manipulation |
+| Quantum security | Ch12: Quantum Security | Quantum-resistant encryption protects government communications from interception that feeds cognitive targeting; quantum computing may accelerate deepfake generation |
 | International linkages | Ch15: International Linkages | Democratic alliance cognitive defense cooperation; Taiwan's cognitive defense experience as an exportable asset; coordinated counter-CCP information operation sharing |
-| Non-traditional security | Ch16: Non-Traditional Security | UAP-related disinformation is a potential cognitive warfare vector; scientific uncertainty creates exploitable information vacuums |
+| Airspace anomaly governance and strategic foresight | Ch16: Airspace Anomaly Governance and Strategic Foresight | UAP-related disinformation is a potential cognitive warfare vector; scientific uncertainty creates exploitable information vacuums |
 | Technology ethics | Ch14: Technology Ethics | AI ethics frameworks for counter-cognitive warfare tools; deepfake regulation; autonomous counter-disinformation systems require human oversight |
 
 ---
@@ -3866,6 +3886,8 @@ Cognitive defense is not a standalone domain. The CCP's cognitive warfare operat
 # Chapter 14: Technology Ethics — Consciousness Engineering, Reproductive Ethics, and Emerging Technology Governance
 
 > **Core Thesis**: As a technology democracy at the frontier of semiconductor manufacturing, AI, and biotechnology, Taiwan must proactively develop ethical governance frameworks for emerging technologies — including brain-computer interfaces, euthanasia, surrogate motherhood, human cloning, and autonomous weapons — before these technologies outpace regulatory capacity. The biological dimensions of genetic modification and synthetic biology are addressed in Chapter 7 (Biological Security). Taiwan's democratic values position it to lead in establishing human-centered technology governance that contrasts with authoritarian approaches.
+
+**Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
 
 ---
 
@@ -3934,7 +3956,7 @@ Taiwan's semiconductor expertise makes it a potential manufacturing hub for BCI 
 
 ---
 
-## 14.3 End-of-Life Ethics and Euthanasia
+## 14.3 End-of-Life Ethics, Patient Autonomy, and Wartime Medical Governance
 
 ### Global Landscape
 
@@ -3969,9 +3991,15 @@ For Taiwan, end-of-life ethics also intersect with conflict preparedness:
 - The ethical framework for wartime triage differs from peacetime medical ethics
 - Pre-established protocols for these scenarios are a component of comprehensive defense preparedness
 
+### Aging, Medical Capacity, and Governance Resilience
+
+For Taiwan, this issue is not only about individual moral choice. It is also about demographic structure and wartime governance. Rapid population aging, concentrated urban medical demand, and high rates of chronic illness mean that if end-of-life decisions are not institutionalized in advance, mass-casualty events, evacuation disruption, power loss, or medicine shortages will magnify moral injury and command confusion across the health system.
+
+The practical governance question is therefore broader than whether Taiwan should legalize euthanasia. It is whether advance directives remain accessible across hospital systems and under wartime conditions, who can activate patient preferences when communications are degraded, how palliative care and triage rules are reconciled, and how frontline clinicians are protected from excessive legal exposure when operating under crisis protocols. These are issues of demographic security and comprehensive defense governance, not merely private bioethics.
+
 ---
 
-## 14.4 Surrogate Motherhood and Reproductive Technology
+## 14.4 Surrogacy, Reproductive Technology, and Demographic Security
 
 ### Surrogacy Models
 
@@ -4003,13 +4031,19 @@ Beyond traditional surrogacy, emerging technologies create new governance challe
 - **In vitro gametogenesis (IVG)**: Creating viable eggs and sperm from ordinary body cells. This could enable same-sex biological parentage and dramatically expand reproductive options.
 - **Mitochondrial replacement therapy**: "Three-parent" embryo techniques to prevent mitochondrial disease inheritance.
 
+### Wartime Parenthood and Reproductive Governance
+
+If Taiwan eventually adjusts its surrogacy or assisted-reproduction framework, the legal design cannot stop at clinical ethics. It must also account for crisis governance. Wartime or blockade conditions could disrupt cross-border surrogacy, storage of frozen embryos and gametes, access to medical records, recognition of guardianship and parentage, and the evacuation or documentation of newborns. These are not edge cases; they are governance questions that appear as soon as reproductive policy becomes institutionalized.
+
+From a national-strategy perspective, demographic security does not mean instrumentalizing reproduction. It means building a legal architecture that protects the dignity of all parties, reduces exploitation, preserves the possibility of family formation amid demographic decline, and ensures that parentage, medical records, and reproductive medicine can continue to function under emergency conditions. That is how reproductive policy becomes meaningfully linked to comprehensive defense and long-term social resilience.
+
 ---
 
 ## 14.5 Autonomous Weapons and AI Ethics in Warfare
 
 ### Lethal Autonomous Weapons Systems (LAWS)
 
-The development of weapons systems capable of selecting and engaging targets without human intervention represents one of the most pressing technology ethics challenges of the current era. (See also Section 11.2 for the technical and strategic dimensions of autonomous weapons.)
+The development of weapons systems capable of selecting and engaging targets without human intervention represents one of the most pressing technology ethics challenges of the current era. (See also Section 11.2 on autonomous defense systems and Chapter 3 on the technical and strategic dimensions of asymmetric defense.)
 
 **Current Status**:
 - Fully autonomous lethal weapons systems are not yet widely deployed, but semi-autonomous systems are in active use
@@ -4045,9 +4079,9 @@ Technology ethics permeates every domain of Taiwan's national security strategy:
 |--------|---------|---------|
 | Semiconductor manufacturing | Ch2: Semiconductor | Chips manufactured by Taiwan are used in BCI devices, autonomous weapons, and AI systems — supply chain ethics |
 | Asymmetric defense | Ch3: Asymmetric Defense | Autonomous weapons ethics directly constrain defense strategy options |
-| AI and emerging technology | Ch11: AI and Emerging Technology | BCI defense applications (Section 11.5) require ethical governance from Section 14.2; LAWS governance intersects with AI military guidelines |
+| AI and distributed computing | Ch11: AI and Distributed Computing | BCI defense applications (Section 11.5) require ethical governance from Section 14.2; LAWS governance intersects with AI military guidelines |
 | Cognitive defense | Ch13: Cognitive Defense | Deepfake regulation, AI-powered counter-disinformation ethics, automated attribution system governance |
-| Non-traditional security | Ch16: Non-Traditional Security | Contact preparation ethics — governance of communication with non-human intelligence |
+| Airspace anomaly governance and strategic foresight | Ch16: Airspace Anomaly Governance and Strategic Foresight | Anomaly-governance ethics — evidentiary transparency, risk communication, and governance under low-probability high-impact uncertainty |
 | Biological security | Ch7: Biological Security | Genetic modification ethics (Section 7.4), synthetic biology governance (Section 7.5), dual-use research oversight |
 
 ---
@@ -4066,11 +4100,11 @@ Technology ethics permeates every domain of Taiwan's national security strategy:
 
 4. **Coordinate with Biological Security Governance (Ch7)**: Ensure ethical governance of genetic modification and synthetic biology (addressed in Chapter 7's policy recommendations) is integrated with the broader technology ethics framework — particularly regarding dual-use research oversight, germline modification prohibitions, and biosecurity compliance.
 
-5. **Reform Surrogacy and Reproductive Technology Regulation**: Update the Artificial Reproduction Act to address surrogacy (beginning with altruistic surrogacy under strict safeguards), artificial womb technology, and in vitro gametogenesis, balancing individual reproductive autonomy with exploitation prevention and demographic security considerations.
+5. **Reform Surrogacy and Reproductive Technology Regulation**: Update the Artificial Reproduction Act to address surrogacy (beginning with altruistic surrogacy under strict safeguards), artificial womb technology, and in vitro gametogenesis, balancing reproductive autonomy with exploitation prevention, demographic security, and the continuity of parentage and medical records under crisis conditions.
 
 6. **Establish a BCI Ethics Certification Program**: Leverage Taiwan's semiconductor manufacturing position to create a global BCI ethics certification standard. BCI hardware manufactured in Taiwan should carry certification that it meets neurorights protection requirements — making Taiwan the global standard-setter for ethical neurotechnology.
 
-7. **Advance Euthanasia Dialogue**: Building on the Patient Autonomy Act, initiate a structured national dialogue on expanding end-of-life options, incorporating Taiwan's diverse philosophical traditions and the unique considerations of wartime triage ethics.
+7. **Advance End-of-Life Governance Dialogue**: Building on the Patient Autonomy Act, initiate a structured national dialogue on end-of-life options, palliative care, retrieval of advance directives, and the institutional linkage between wartime triage ethics and civilian medical governance.
 
 ### Long-Term Actions (7–15+ Years)
 
@@ -4087,6 +4121,8 @@ Technology ethics permeates every domain of Taiwan's national security strategy:
 # Chapter 15: International Linkages — From Seeking Protection to Building Indispensability
 
 > **Core Thesis**: Taiwan's international strategy should shift from passively seeking external protection to actively building indispensability, leveraging technological interdependence, intelligence cooperation, and democratic institutional values to ensure that major international actors have a direct stake in Taiwan's stability and survival.
+
+**Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
 
 ---
 
@@ -4279,23 +4315,41 @@ Traditional multilateral organizations have erected barriers to Taiwan's partici
 **Economic Security Architectures**
 - Supply chain security has been elevated from a purely economic issue to a national security issue. Taiwan's role in critical supply chains earns it a seat at the table in economic security-related multilateral dialogues.
 
-### Deepening Bilateral Relationships
+### Deepening Bilateral and Minilateral Relationships
 
-Given the constraints on multilateral participation, deepening bilateral relationships remains the main axis of Taiwan's international strategy:
+Given the constraints on formal multilateral participation, Taiwan needs bilateral relationships that can be connected into minilateral networks rather than treated as isolated lines of diplomacy:
 
-**United States**: The most important security partner. Pathways for deepening include qualitative improvements in arms sales, institutionalization of economic dialogue (the U.S.-Taiwan Initiative on 21st-Century Trade), and technology cooperation (semiconductors, AI, quantum).
+**United States**: Taiwan's most important security partner. Priority pathways include higher-quality arms transfers, institutionalized economic dialogue (the U.S.-Taiwan Initiative on 21st-Century Trade), technology cooperation in semiconductors, AI, and quantum, and more stable inclusion of Taiwan in regional contingency planning. [149][73]
 
-**Japan**: A geographically adjacent natural security partner. Pathways include elevating security dialogues to higher levels, semiconductor industry cooperation (Taiwan-Japan joint ventures), and disaster prevention and relief cooperation.
+**Japan**: Taiwan's geographically adjacent natural security partner. Official messaging now points clearly toward deeper Taiwan-Japan exchanges and cooperation, which means the relationship should extend beyond commerce into maritime and air-domain awareness, logistics, civil defense, and disaster-response coordination. [195]
 
-**European Union and its Member States**: Important partners for economic and technological cooperation. Pathways include investment protection agreements, science and technology cooperation frameworks, and democratic governance dialogues.
+**European Union and its Member States**: The European Parliament has explicitly called for deeper Taiwan-EU security and defense cooperation, while Italy can serve not only as an economic partner but as a key G7 and Mediterranean node for technology, supply-chain, and political linkages. [196][197]
 
-**Indo-Pacific Democracies**: Australia, India, Canada, New Zealand, and others. Pathways include trade diversification, educational exchanges, and non-traditional security cooperation.
+**Central and Eastern Europe and the Ukraine Reconstruction Link**: Slovakia, Lithuania, Poland, and other partners in the region provide Taiwan with entry points into European resilience, reconstruction, and industrial-security networks. Their value is not merely symbolic support, but practical cooperation in drones, demining, urban resilience, health services, and postwar reconstruction. [199][200]
 
-**Central and Eastern European Countries**: The Czech Republic, Lithuania, and others have already demonstrated willingness to deepen relations with Taiwan. These relationships carry a demonstration effect that may encourage other countries to follow suit.
+**Indo-Pacific Democracies**: Australia, India, Canada, New Zealand, and others remain an important outer layer for maritime security, education exchange, resource security, and trade diversification.
+
+**Israel and the Middle East**: Israel offers valuable lessons and partnership opportunities in homeland defense, medical innovation, cybersecurity, and wartime societal resilience; Taiwan's existing network of representative offices in Israel and across the Middle East can be upgraded into more institutional channels for energy, logistics, medical, fintech, and startup cooperation. [201][202]
+
+**Latin America**: Argentina is not usually treated as central to Taiwan's security narrative, but it can become an important node for food, energy, minerals, shipping diversification, and South Atlantic political outreach, helping Taiwan avoid overconcentration in East Asia and North America. [198]
 
 ---
 
-## 15.6 Policy Recommendations
+## 15.6 Partner Network Prioritization and Strategic Main Effort
+
+Taiwan's international-relations strategy should no longer speak in generic terms about "expanding friendships." It should explicitly organize partners into layers. The main effort should be the deepening of a **Taiwan-Japan-U.S. security coordination network that is not a formal treaty alliance but can evolve into highly institutionalized, quasi-allied cooperation in practice**. That means shared situational awareness, maritime and air-domain scenario planning, gray-zone response synchronization, cyber incident notification, coast-guard coordination, and logistics preparation. [149][73][195]
+
+Around that core axis, Taiwan should build three outer layers:
+
+1. **A European democratic-industrial layer**: anchored in the EU, Italy, and Central and Eastern European democracies, linking semiconductors, drones, power grids, medical systems, ports, and reconstruction cooperation. [196][197][199][200]
+2. **An Israel-Middle East innovation and security layer**: connecting Israeli defense and startup strengths with Gulf energy, logistics, medical, and financial hubs to create alternative strategic corridors in crisis. [201][202]
+3. **A Latin American diversification layer**: beginning with Argentina and other resource-rich partners that can support food, energy, raw materials, and wider Southern Hemisphere political outreach. [198]
+
+The purpose of this architecture is not to distribute diplomatic attention evenly. It is to create a structure in which a core security axis is reinforced by multiple regional functional nodes. In that design, Taiwan no longer turns to a single protector only when crisis arrives; it spends peacetime tying the interests of multiple countries to Taiwan's stability and survival.
+
+---
+
+## 15.7 Policy Recommendations
 
 ### Strategic Level
 
@@ -4319,19 +4373,27 @@ Given the constraints on multilateral participation, deepening bilateral relatio
 
 8. **Strengthen Military Interoperability**: To the extent feasible, enhance interoperability with the armed forces of friendly nations. Improvements in communications system compatibility, shared operational procedures, and mutual logistics support capabilities are critically valuable at moments of crisis.
 
+9. **Make the Taiwan-Japan-U.S. coordination network the main effort of external strategy**: The National Security Council, Ministry of Foreign Affairs, and Ministry of National Defense should jointly prioritize trilateralized maritime and air-domain awareness, coast guard and gray-zone coordination, cyber notification, port and logistics mapping, and tabletop exercises. Public wording should avoid falsely labeling the arrangement as a formal alliance, but practical cooperation should move in a quasi-allied direction.
+
+10. **Build a Europe-Central Europe-Ukraine reconstruction track**: Connect Italy, pro-Taiwan Central and Eastern European partners, and Ukraine-reconstruction demand into a coherent cooperation program focused on drones, demining, healthcare, power systems, urban resilience, and supply-chain reorganization. This positions Taiwan as a contributor to European security rather than merely a requester of support.
+
+11. **Launch an Israel-Middle East-Latin America diversification track**: Integrate Israel-focused defense and innovation cooperation, Middle Eastern energy and logistics linkages through Taiwan's representative-office network, and Argentina-centered food and resource cooperation into a second ring of external support for crisis conditions.
+
 ### Institutions and Values
 
-9. **Invest in Democratic Governance Quality**: Continuously improve Taiwan's governance quality, particularly in rule of law, transparency, anti-corruption, and human rights. These indicators directly influence the international community's willingness to regard Taiwan as a "partner worthy of support."
+12. **Invest in Democratic Governance Quality**: Continuously improve Taiwan's governance quality, particularly in rule of law, transparency, anti-corruption, and human rights. These indicators directly influence the international community's willingness to regard Taiwan as a "partner worthy of support."
 
-10. **Advance International Democratic Dialogue**: Proactively host and participate in international dialogues and research on democratic governance, encompassing emerging issues such as digital democracy, AI governance, and climate justice. Taiwan should not merely be a beneficiary of democracy but should become a contributor to democratic innovation.
+13. **Advance International Democratic Dialogue**: Proactively host and participate in international dialogues and research on democratic governance, encompassing emerging issues such as digital democracy, AI governance, and climate justice. Taiwan should not merely be a beneficiary of democracy but should become a contributor to democratic innovation.
 
 ---
 
-# Chapter 16: Non-Traditional Security Threats — UAP Investigation, Sensor Integration, and Contact Preparation
+# Chapter 16: Airspace Anomaly Governance and Strategic Foresight — UAP Investigation, Sensor Integration, and Low-Probability High-Impact Contingencies
 
-> **Core Thesis**: A comprehensive national strategy must account for non-traditional security threats that fall outside conventional defense frameworks. Systematic investigation of unidentified anomalous phenomena (UAP) addresses airspace sovereignty, sensor capability gaps, and intelligence collection discipline — regardless of the ultimate explanation for observed phenomena. Pre-positioned institutional frameworks ensure Taiwan is prepared for low-probability, high-consequence scenarios including potential contact with non-human intelligence.
+> **Core Thesis**: A comprehensive national strategy must address ambiguous events that sit between civil aviation safety, gray-zone coercion, and scientific uncertainty. For Taiwan, UAP policy should begin as airspace anomaly governance: disciplined reporting, sensor fusion, rapid elimination of conventional explanations, and institutional continuity for genuinely unresolved cases. Low-probability, high-consequence contingencies should be retained as future-work planning, not as a driver of near-term force design.
 
-**Framing Statement**: This chapter addresses unidentified anomalous phenomena (UAP) from a national security and scientific investigation perspective. It follows the institutional frameworks established by the United States' All-domain Anomaly Resolution Office (AARO) [170], NASA's UAP Independent Study Team [171], and comparable programs in allied nations. Any object operating in Taiwan's air defense identification zone (ADIZ) or flight information region (FIR) without identification constitutes a defense concern by definition.
+**Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
+
+**Framing Statement**: This chapter addresses unidentified anomalous phenomena (UAP) as an operational problem of airspace safety, sovereignty, and evidence management. Taiwan's Taipei FIR provided approximately 1.64 million air traffic control services in 2024 [192], while Taiwan's drone-management regime covered more than 38,000 registered corporate drones and more than 23,000 cumulative activity applications as of early 2025 [193]. In such a dense environment, the first analytical task is not extraordinary interpretation but disciplined triage of aircraft, drones, balloons, atmospheric effects, electronic artifacts, gray-zone incursions, and genuinely unresolved cases.
 
 ---
 
@@ -4339,20 +4401,17 @@ Given the constraints on multilateral participation, deepening bilateral relatio
 
 | Organization | Country | Mandate | Status (2025) |
 |-------------|---------|---------|---------------|
-| AARO (All-domain Anomaly Resolution Office) | United States | DoD/DNI; investigate UAP reports from military, intelligence, and civilian sources | Operational since 2022; annual reports to Congress; 801 cumulative reports [170] |
-| NASA UAP Research Director | United States | Scientific methodology and data standards for UAP investigation | Appointed Sept 2023 following 16-member independent study [171] |
-| GEIPAN / CAIPAN | France (CNES) | Scientific investigation and multi-disciplinary analysis of unidentified aerospace phenomena | Operational since 1977; publicly funded; database accessible [172] |
-| MoD Historical Program | United Kingdom | Investigation of UAP sightings by military personnel | Legacy Project Condign; renewed interest post-2021 |
-| JSDF Investigation Capacity | Japan | MoD; investigation of UAP sightings by Self-Defense Forces | Under establishment; coordination with US AARO |
-| Official Air Force Program | Brazil | Air Force investigation of UAP in Brazilian airspace | Ongoing; periodic releases of case files |
+| AARO (All-domain Anomaly Resolution Office) | United States | DoD/DNI intake, triage, and investigation of UAP reports from military, intelligence, and civilian sources | Operational since 2022; annual reports to Congress; 801 cumulative reports through FY2023 [189] |
+| NASA UAP Research Director | United States | Scientific methodology, data standards, and cross-disciplinary review of unresolved cases | Appointed Sept. 2023 following a 16-member independent study [190] |
+| GEIPAN / CAIPAN | France (CNES) | Public-sector investigation and publication of unidentified aerospace case files | Operational since 1977; 3,320 published cases; 106 unresolved after investigation (3.2%) as of 2026-03-03 [191][194] |
 
-The institutionalization of UAP investigation across multiple allied nations represents a paradigm shift. What was once treated as a fringe topic has been recognized as a legitimate airspace sovereignty and intelligence collection concern [173].
+The lesson is methodological rather than metaphysical. Public-sector anomaly investigation is valuable because it standardizes intake, reduces stigma around reporting, and creates a defensible evidentiary trail. France's GEIPAN statistics show that most cases are either identified, probably identified, or constrained by missing data; only a small share remain unresolved after investigation [194]. Taiwan should emulate this evidentiary discipline.
 
 ---
 
-## 16.2 National Security Rationale
+## 16.2 Taiwan's Operating Environment
 
-Taiwan faces one of the most actively contested airspace environments in the world, with daily PLA Air Force incursions into its ADIZ. In this context, any unidentified object or phenomenon operating in or near Taiwan's airspace demands systematic investigation for five reasons:
+Taiwan does not need exotic assumptions to justify anomaly governance. It already manages a dense civil aviation corridor, a rapidly expanding drone ecosystem, and a gray-zone security environment in which ambiguous objects can create safety, intelligence, and signaling problems. In this context, any unidentified object or phenomenon operating in or near Taiwan's airspace deserves systematic investigation for five grounded reasons:
 
 1. **Airspace Sovereignty**: Every unidentified object represents a potential incursion until resolved. Systematic UAP investigation strengthens the same institutional muscles used for conventional airspace defense.
 
@@ -4360,9 +4419,9 @@ Taiwan faces one of the most actively contested airspace environments in the wor
 
 3. **Intelligence Collection Discipline**: Standardized reporting and analysis of anomalous observations improves overall pattern recognition capability. The same data infrastructure serves both UAP investigation and conventional intelligence fusion (Chapter 11).
 
-4. **Technology Assessment**: If anomalous performance characteristics are observed — speeds, maneuverability, or signatures beyond known technology — understanding the underlying physics or engineering has potential defense and industrial applications.
+4. **Drone and Gray-Zone Differentiation**: With tens of thousands of registered drones and a large volume of authorized activity [193], Taiwan needs a process that can quickly distinguish lawful operations, unsafe civil behavior, adversary probing, and truly unresolved events.
 
-5. **Avoiding Strategic Surprise**: Historically, failure to investigate anomalous observations has left nations vulnerable to surprises from adversary technology programs. Systematic investigation reduces this risk.
+5. **Cognitive Resilience and Strategic Surprise Avoidance**: Disciplined anomaly review reduces room for rumor, conspiracy, and adversary manipulation while also lowering the risk that a real technology surprise is dismissed because reporting pathways are weak.
 
 ---
 
@@ -4370,43 +4429,36 @@ Taiwan faces one of the most actively contested airspace environments in the wor
 
 | Component | Description | Parent Organization |
 |-----------|-------------|-------------------|
-| UAP Investigation Office (不明現象調查辦公室) | Central coordination of UAP reporting, investigation, and analysis | National Security Council or Ministry of National Defense |
-| Scientific Advisory Panel | Academic experts in physics, aerospace engineering, atmospheric science, sensor technology | National Science and Technology Council (NSTC) |
-| Sensor Integration Program | Dedicated sensor suites and data collection protocols at military installations and key civilian sites | Ministry of National Defense |
-| International Data Sharing | Bilateral agreements with US AARO, French GEIPAN, Japanese JSDF counterpart | Ministry of Foreign Affairs + MND |
-| Transparency and Declassification Office | Public reporting mechanism and academic research access, following the US AARO congressional reporting model | Executive Yuan |
+| Airspace Anomaly Review Cell | Central triage of anomalous reports, case management, and civil-military coordination | Executive Yuan or National Security Council with joint MND/MOTC staffing |
+| Civil-Military Reporting Standard | Shared reporting forms and escalation rules for pilots, ATC, coast guard, police, and authorized drone operators | Ministry of National Defense + Civil Aviation Administration |
+| Sensor Fusion and Retention Program | Retain radar, ADS-B, electro-optical, infrared, EW, communications, and drone-registry data for case review | MND + CAA + Coast Guard Administration |
+| Scientific Advisory Panel | Independent experts in aerospace engineering, atmospheric science, astronomy, signal processing, and data science | National Science and Technology Council (NSTC) |
+| Public Communication and Declassification Desk | Periodic public summaries that reduce stigma, rumor, and disinformation without exposing sensitive collection methods | Executive Yuan |
 
 ---
 
 ## 16.4 Data Collection and Analysis Framework
 
-- **Standardized reporting protocols** for military pilots, air traffic controllers, coast guard, and civilian aviation, using AARO-compatible data formats.
-- **Integration with existing sensor networks**: Radar (Chapter 4), satellite reconnaissance (Chapter 10), coastal surveillance systems.
-- **AI-assisted pattern analysis** of sensor data, applying the intelligence fusion capabilities described in Chapter 11. Machine learning models trained on atmospheric, astronomical, and aviation data can rapidly classify conventional explanations, flagging genuinely anomalous cases for expert review.
-- **Scientific peer review process**: Cases that cannot be resolved through conventional analysis undergo independent scientific assessment with appropriate classification levels.
-- **Secure data repository** with tiered access: classified raw sensor data; declassified case summaries for academic research; public annual reports.
+- **Standardized reporting schema** across MND, CAA, coast guard, police aviation, airport operators, and authorized drone operators, with required metadata on time, location, weather, sensor type, and observer confidence.
+- **Mandatory correlation checks** against flight plans, ADS-B tracks, drone registration and permit systems, NOTAMs, weather records, astronomical events, and launch notifications before any case is classified as unresolved.
+- **Sensor fusion and retention packages** that preserve radar returns, electro-optical and infrared imagery, EW logs, voice communications, and geolocation data long enough for cross-agency review.
+- **AI-assisted triage** that is trained first on ordinary explanations: aircraft lighting, balloons, drones, atmospheric optics, sensor artifacts, and missing-data cases. Automation should accelerate filtering, not replace expert judgment.
+- **Clear classification categories** modeled on mature public frameworks such as GEIPAN: resolved, probably resolved, insufficient data, and unresolved after review.
+- **Tiered disclosure**: classified raw data for operational review, declassified case summaries for research and legislative oversight, and annual public reporting on aggregate trends and resolution outcomes.
 
 ---
 
-## 16.5 Preparation for Contact with Non-Human Intelligence
+## 16.5 Strategic Foresight and Low-Probability Contingencies
 
-This section applies the same analytical framework used throughout this document for low-probability, extremely-high-consequence scenarios — comparable to the full maritime blockade analysis in Chapter 5 or the systemic financial attack scenarios in Chapter 9.
+Very-low-probability scenarios, including claims of contact with non-human intelligence, should not drive near-term procurement, budgeting, or organizational design. They belong in strategic foresight, limited tabletop exercises, and contingency communications planning. Taiwan's operational priority remains anomaly triage, airspace safety, and cross-agency evidence management.
 
-**Scenario Framework**: Contact with a non-human intelligence — whether extraterrestrial, extradimensional, or of unknown origin — represents an event of civilizational significance. The probability of such contact occurring within any given decade may be low, but the consequences would be transformative across every domain analyzed in this document. Responsible governance demands pre-positioned frameworks rather than ad hoc responses.
+| Future-Work Track | Purpose | Reference Framework |
+|------------------|---------|-------------------|
+| Public Communication Protocols | Pre-drafted lines of authority and disclosure principles for events that trigger intense public speculation | IAA Post-Detection Protocols [174] |
+| International Legal Monitoring | Preserve Taiwan's participation claims in any future multilateral science or space-governance discussion | UN COPUOS [176] |
+| Sample and Biosafety Procedures | Reuse existing space-science and biosecurity handling norms for alleged materials or biological claims | Existing planetary protection and biosafety practice |
 
-**Pre-Positioning Elements:**
-
-| Element | Description | Reference Framework |
-|---------|-------------|-------------------|
-| Communication Protocols | Pre-established government communication chains and public messaging strategy for anomalous contact events | IAA Post-Detection Protocols [174] |
-| Scientific Readiness | Integration with international SETI programs and astrobiology research | Breakthrough Listen [175]; NASA Astrobiology Strategy |
-| Significance Assessment | Standardized scale for evaluating the credibility and significance of potential contact signals | Rio Scale (international standard for SETI detections) |
-| Legal and Diplomatic Positioning | Pre-position Taiwan's stance in international fora; assert participation rights in any global contact governance framework | UN COPUOS [176] |
-| Societal Preparation | Gradual normalization through transparent government communication, scientific discourse, and education | NASA UAP transparency model [171] |
-| Cross-Strait Implications | Unique considerations: a contact event would reshape global power dynamics, potentially altering the strategic calculus that underpins cross-strait relations | Original analysis |
-| Biological Protocols | Contamination prevention and biological safety frameworks for physical contact scenarios | COSPAR Planetary Protection Policy |
-
-**Key Principle**: Taiwan's strategy should ensure that it has a seat at any future international table governing contact with non-human intelligence. The same institutional approach that built Taiwan's semiconductor indispensability (Chapter 2) and international technological linkages (Chapter 15) applies here: early participation creates outsized influence relative to national size.
+The distinction matters. Keeping these topics in a future-work lane prevents speculative scenarios from distorting daily air-defense, aviation-safety, or scientific-investigation priorities, while still ensuring Taiwan is not institutionally flat-footed if a truly extraordinary event occurs.
 
 ---
 
@@ -4416,10 +4468,9 @@ This section applies the same analytical framework used throughout this document
 - **Chapter 4 (Electromagnetic Spectrum Warfare)**: UAP reports reveal blind spots in radar and electromagnetic sensor networks; closing these gaps strengthens conventional defense.
 - **Chapter 10 (Space Capabilities)**: UAP investigation benefits from space-based sensor integration; satellite reconnaissance enhances anomaly detection.
 - **Chapter 11 (AI & Distributed Computing)**: AI-assisted pattern analysis is essential for UAP sensor data processing and classification.
-- **Chapter 12 (Quantum Security)**: Quantum sensors may enhance UAP detection capabilities.
 - **Chapter 13 (Cognitive Defense)**: Transparent UAP investigation and public reporting reduce vulnerability to disinformation about anomalous events — an important consideration given that adversaries could exploit UAP ambiguity for cognitive warfare.
-- **Chapter 15 (International Linkages)**: UAP data-sharing agreements build intelligence cooperation channels with allied nations.
-- **Chapter 14 (Technology Ethics)**: UAP investigation raises questions about non-human intelligence contact ethics and the governance frameworks needed for unprecedented scenarios; transparent ethical governance strengthens Taiwan's credibility in the international UAP research community.
+- **Chapter 14 (Technology Ethics)**: The ethics dimension is evidentiary transparency, privacy, retention of sensitive sensor data, and responsible public communication under uncertainty.
+- **Chapter 15 (International Linkages)**: Methodology exchanges on data standards, aviation safety, and scientific review can deepen cooperation with democratic partners without relying on speculative framing.
 
 ---
 
@@ -4427,27 +4478,85 @@ This section applies the same analytical framework used throughout this document
 
 ### Immediate Priority (1–3 Years)
 
-1. **Establish a UAP Investigation Office** under the National Security Council or Ministry of National Defense, modeled on the US AARO. Issue a directive requiring standardized UAP reporting from all military branches, the Coast Guard Administration, and the Civil Aeronautics Administration.
+1. **Establish a cross-agency anomaly reporting standard** spanning MND, CAA, coast guard, police aviation, and airport operators, with one common intake format and escalation protocol.
 
-2. **Deploy standardized reporting protocols** compatible with US AARO data formats, enabling international data sharing and comparative analysis.
+2. **Stand up a joint Airspace Anomaly Review Cell** with MND/MOTC participation, responsible for triage, case closure, and referral of unresolved events for scientific or intelligence review.
 
-3. **Integrate UAP investigation with existing sensor networks**, including radar (Chapter 4), satellite reconnaissance (Chapter 10), and coastal surveillance systems.
+3. **Require sensor and data-retention packages** for reportable incidents, including radar, EO/IR, communications logs, and correlation against civil aviation and drone-registry systems.
 
 ### Medium-Term (3–10 Years)
 
-4. **Establish bilateral UAP data-sharing agreements** with the United States (AARO), France (GEIPAN), and Japan (JSDF counterpart), leveraging existing intelligence cooperation channels.
+4. **Integrate drone registry, permit, and counter-UAS data** directly into anomaly triage so that legal, unsafe, adversarial, and unresolved drone events can be separated quickly.
 
-5. **Deploy dedicated sensor suites** at military installations and key civilian sites, with AI-assisted pattern analysis capabilities.
+5. **Publish an annual declassified anomaly report** summarizing total cases, resolution categories, unresolved cases, and major methodological lessons.
 
-6. **Establish a Scientific Advisory Panel** under the National Science and Technology Council (NSTC) to provide independent scientific assessment of anomalous cases.
+6. **Convene an NSTC scientific advisory panel** and pursue limited methodology exchanges with AARO, NASA, and GEIPAN counterparts on reporting standards, human factors, and scientific review.
 
 ### Long-Term (10–30+ Years)
 
-7. **Develop a pre-contact governance framework** in coordination with international partners, ensuring Taiwan's participation in any future global governance structures related to contact with non-human intelligence.
+7. **Run low-probability contingency tabletop exercises** for public communication, diplomacy, and biosafety, but keep them institutionally separate from daily anomaly operations.
 
-8. **Build institutional capacity** for continuous monitoring, assessment, and public reporting on anomalous phenomena, modeled on France's 47-year GEIPAN program.
+8. **Maintain institutional continuity and auditable archives** so unresolved cases can be reopened as sensor technology and analytical methods improve.
 
 ---
+
+---
+
+# Chapter 17: Whole-of-Strategy Conclusion — Priorities, Sequencing, and Cross-Ministerial Execution
+
+> **Core Thesis**: The value of this strategy does not lie in presenting seventeen separate policy wish lists. It lies in collapsing them into executable national programs. What Taiwan needs is a clear priority stack, sequenced implementation, and a cross-ministerial structure in which the Executive Yuan, National Security Council, and line ministries share responsibility for delivery.
+
+**Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
+
+---
+
+## 17.1 National Priority Stack
+
+| Priority | National Program | Chapters | Why It Comes First |
+|----------|------------------|----------|--------------------|
+| 1 | Air-sea denial, electromagnetic control, and sensor integration | Ch3, Ch4, Ch10, Ch16 | This is the first layer of deterrence credibility and strategic-surprise prevention |
+| 2 | Foundational resilience in energy, communications, food-water, and finance | Ch5, Ch6, Ch8, Ch9 | Military and diplomatic commitments are not credible if core systems fail early in crisis |
+| 3 | Technological indispensability and critical-industry leverage | Ch2, Ch11, Ch12, Ch15 | This is the main mechanism for tying outside interests to Taiwan's survival |
+| 4 | Demographic, medical, biological, and social resilience | Ch6, Ch7, Ch13, Ch14 | Long-term competition is shaped by population structure, medical governance, and social trust as much as by weapons |
+| 5 | International coordination networks and strategic extension | Ch1, Ch15, Ch16, Ch17 | Taiwan must institutionalize external support in peacetime instead of improvising it during crisis |
+
+Within that stack, the international main effort should be a Taiwan-Japan-U.S. security coordination network, extended outward into Europe, Central and Eastern Europe, Ukraine reconstruction, Israel, the Middle East, and Latin America. The goal is not geographic balance for its own sake, but a core axis reinforced by multiple regional nodes.
+
+---
+
+## 17.2 Sequencing
+
+| Time Horizon | Main Objective | Representative Tasks |
+|--------------|----------------|----------------------|
+| Short term (1-2 years) | Close institutional and reporting gaps | Cross-agency anomaly reporting, post-quantum and cyber inventory, logistics and sensor-integration planning, Taiwan-Japan-U.S. contingency dialogue, critical-infrastructure gap review |
+| Medium term (3-5 years) | Convert policy into repeatable capacity | Energy and communications backups, expansion of unmanned systems and distributed production, medical and demographic-governance reform, Europe/Central Europe cooperation programs, institutionalized intelligence sharing |
+| Long term (5-10 years) | Lock Taiwan into more durable international and industrial structures | Preserve semiconductor and next-generation technology indispensability, modularize infrastructure, sustain technology-ethics and demographic-governance systems, and embed Taiwan in more functional security and reconstruction networks |
+
+The core logic is to fix institutions first, then expand capabilities, and only then consolidate structural position. Reversing that sequence risks grand policy declarations without execution depth.
+
+---
+
+## 17.3 Cross-Ministerial Responsibility Allocation
+
+| National Program | Lead | Supporting Agencies | Near-Term Deliverable |
+|------------------|------|---------------------|-----------------------|
+| Air-sea denial, electromagnetic control, and airspace anomaly governance | NSC, MND | MOTC, Ocean Affairs Council, MODA, NSTC | Shared reporting standards, sensor-data retention rules, cross-agency tabletop exercises |
+| Foundational resilience (energy, food-water, communications, finance) | Executive Yuan | MOEA, Ministry of Agriculture, MOTC, MODA, CBC, FSC, MOI | Critical-infrastructure resilience review, reserve and backup gap closure plan, civil-sector exercise cycle |
+| Technological indispensability and technology diplomacy | Executive Yuan, NSTC | MOEA, MOFA, MODA, NDC | Critical-technology list, joint-R&D mechanisms, overseas cooperation-node map |
+| Demographic, medical, and technology-ethics governance | Executive Yuan, MOHW | MOJ, MOI, NSTC, MOE | Wartime access plan for advance directives, reproductive-law review, neurorights and LAWS draft frameworks |
+| International strategic network | NSC, MOFA | MND, MOEA, NSB, overseas missions | Taiwan-Japan-U.S. coordination map, Europe/Central Europe track, Israel-Middle East cooperation list, Argentina-centered resource-diversification plan |
+
+The operating principle should be straightforward: the Executive Yuan coordinates resources, the NSC integrates strategy, lead ministries own execution and budgeting, and supporting ministries contribute through standing project offices rather than ad hoc meetings.
+
+---
+
+## 17.4 Execution Discipline
+
+1. **Run an annual whole-of-strategy review**: The NSC and Executive Yuan should jointly review progress, risks, and resource allocation across the five national programs every year.
+2. **Institutionalize cross-domain exercises**: At least once a year, run a combined scenario spanning energy, communications, medical surge, cognitive warfare, air-sea incidents, and diplomatic escalation.
+3. **Create red-team and outside review mechanisms**: Bring in academia, industry, retired practitioners, and international partners to test assumptions and expose blind spots.
+4. **Make budgets follow the priority stack**: If resources are limited, fund the first and second priority programs before expanding international and institutional initiatives.
+5. **Refresh the full strategy every two years**: Treat this document as a rolling strategic instrument rather than a one-time policy declaration.
 
 ---
 
@@ -4805,3 +4914,52 @@ This section applies the same analytical framework used throughout this document
 
 [176] United Nations Committee on the Peaceful Uses of Outer Space (COPUOS). https://www.unoosa.org/oosa/en/ourwork/copuos/
 
+[177] Ministry of Transportation and Communications (Taiwan), "我國空運實力領航，國際政經記者團聚焦臺灣國際參與," September 8, 2025. https://www.motc.gov.tw/ch/app/data/view?id=14&module=news&serno=99021c81-8433-457a-9fa8-40486a4595c4
+
+[178] Ministry of Transportation and Communications (Taiwan), "分階段強化無人機管理，協助無人機產業發展," February 14, 2025. https://www.motc.gov.tw/n/2502140007
+
+[179] Centre National d'Études Spatiales (CNES), GEIPAN, "Statistiques," updated March 3, 2026. https://www.cnes-geipan.fr/fr/stats
+
+[181] djchrisssssss, "CCP Cognitive Warfare Against Taiwan: A Structural Deconstruction," 2026. https://github.com/djchrisssssss/ccp-cognitive-invade-deconstruction
+
+[182] King, G., Pan, J., & Roberts, M. E., "How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument," *American Political Science Review*, 111(3), 2017. https://doi.org/10.1017/S0003055417000144
+
+[183] Microsoft Threat Analysis Center (MTAC), "East Asia Threat Report," 2024. https://www.microsoft.com/en-us/security/security-insider/
+
+[184] OpenAI, "Disrupting Deceptive Uses of AI by Covert Influence Operations," 2024. https://openai.com/
+
+[185] Meta, "Adversarial Threat Reports — Coordinated Inauthentic Behavior." https://transparency.fb.com/
+
+[186] Stanford Internet Observatory, "Spamouflage Network Analysis." https://cyber.fsi.stanford.edu/io
+
+[187] GoLaxy / IORG, leaked CCP information operations internal documents, 2024. https://iorg.tw/en
+
+[188] Taiwan National Security Bureau (NSB), annual espionage and national-security statistics, 2024. https://www.nsb.gov.tw/
+
+[189] U.S. Department of Defense, All-domain Anomaly Resolution Office (AARO), Annual Report to Congress, FY2023. https://www.aaro.mil/
+
+[190] NASA, UAP Independent Study Team Report, September 2023. https://science.nasa.gov/uap/
+
+[191] Centre National d'Études Spatiales (CNES), GEIPAN — Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non-identifiés. https://www.cnes-geipan.fr/
+
+[192] Ministry of Transportation and Communications (Taiwan), "我國空運實力領航，國際政經記者團聚焦臺灣國際參與," September 8, 2025. https://www.motc.gov.tw/ch/app/data/view?id=14&module=news&serno=99021c81-8433-457a-9fa8-40486a4595c4
+
+[193] Ministry of Transportation and Communications (Taiwan), "分階段強化無人機管理，協助無人機產業發展," February 14, 2025. https://www.motc.gov.tw/n/2502140007
+
+[194] Centre National d'Études Spatiales (CNES), GEIPAN, "Statistiques," updated March 3, 2026. https://www.cnes-geipan.fr/fr/stats
+
+[195] Ministry of Foreign Affairs, Republic of China (Taiwan), "MOFA response to statement by Japanese Foreign Minister Motegi on deepening exchanges and cooperation with Taiwan," February 11, 2026. https://en.mofa.gov.tw/News_Content.aspx?n=1330&s=121726
+
+[196] Ministry of Foreign Affairs, Republic of China (Taiwan), "MOFA response to European Parliament resolution emphasizing need to deepen security and defense cooperation with Taiwan," February 13, 2026. https://en.mofa.gov.tw/News_Content.aspx?n=1328&s=121721
+
+[197] Ministry of Foreign Affairs, Republic of China (Taiwan), "Foreign Minister Lin meets with Italy-Taiwan Parliamentary Friendship Group delegation led by Cochair Paroli," September 5, 2025. https://en.mofa.gov.tw/News_Content.aspx?n=1329&s=120623
+
+[198] Ministry of Foreign Affairs, Republic of China (Taiwan), "MOFA thanks Argentine Chamber of Deputies Foreign Affairs Committee for resolution concerning Hualien earthquake," May 1, 2024. https://www.mofa.gov.tw/News_Content.aspx?n=96&s=117266&sms=74
+
+[199] Ministry of Foreign Affairs, Republic of China (Taiwan), "Deputy Foreign Minister Francois Wu attends Taiwan Forum in Slovakia and outlines integrated diplomacy," November 27, 2024. https://www.mofa.gov.tw/News_Content.aspx?n=95&s=118715
+
+[200] Ministry of Foreign Affairs, Republic of China (Taiwan), "Foreign Minister Lin witnesses signing of MOU on cooperation between Taiwan and Ukraine to assist vulnerable children," September 28, 2025. https://en.mofa.gov.tw/News_Content.aspx?n=1328&s=120815
+
+[201] Ministry of Foreign Affairs, Republic of China (Taiwan), "Foreign Minister Lin meets with delegation led by former Israeli Minister of Religious Services Kahana," January 27, 2026. https://en.mofa.gov.tw/News.aspx?n=1eaddcfd4c6ec567&page=74&pagesize=10
+
+[202] Ministry of Foreign Affairs, Republic of China (Taiwan), "Links to Embassies and Missions," accessed March 2026. https://en.mofa.gov.tw/OverseasOfficeLink.aspx?n=1573&sms=2111

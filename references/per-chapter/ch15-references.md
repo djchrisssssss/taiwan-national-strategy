@@ -11,6 +11,14 @@
 7. **[src-014]** TSMC Quarterly Results / Investor Relations — TSMC (2024). https://investor.tsmc.com/english. Accessed: 2026-03-16.
 8. **[src-087]** U.S. Census Bureau — Foreign Trade Balance with Taiwan (2024). https://www.census.gov/foreign-trade/balance/c5830.html. Accessed: 2026-03-16.
 9. **[src-010]** Asia Maritime Transparency Initiative — CSIS (2024). https://amti.csis.org/. Accessed: 2026-03-16.
+10. **[src-173]** MOFA response to statement by Japanese Foreign Minister Motegi on deepening exchanges and cooperation with Taiwan — Ministry of Foreign Affairs (Taiwan) (2026). https://en.mofa.gov.tw/News_Content.aspx?n=1330&s=121726. Accessed: 2026-03-30.
+11. **[src-174]** MOFA response to European Parliament resolution emphasizing need to deepen security and defense cooperation with Taiwan — Ministry of Foreign Affairs (Taiwan) (2026). https://en.mofa.gov.tw/News_Content.aspx?n=1328&s=121721. Accessed: 2026-03-30.
+12. **[src-175]** Foreign Minister Lin meets with Italy-Taiwan Parliamentary Friendship Group delegation led by Cochair Paroli — Ministry of Foreign Affairs (Taiwan) (2025). https://en.mofa.gov.tw/News_Content.aspx?n=1329&s=120623. Accessed: 2026-03-30.
+13. **[src-176]** 外交部感謝阿根廷國家眾議院外交委員會通過決議慰問花蓮震災 — Ministry of Foreign Affairs (Taiwan) (2024). https://www.mofa.gov.tw/News_Content.aspx?n=96&s=117266&sms=74. Accessed: 2026-03-30.
+14. **[src-177]** 外交部政務次長吳志中出席斯洛伐克「台灣論壇」發表演說，闡述總合外交新理念 — Ministry of Foreign Affairs (Taiwan) (2024). https://www.mofa.gov.tw/News_Content.aspx?n=95&s=118715. Accessed: 2026-03-30.
+15. **[src-178]** Foreign Minister Lin witnesses signing of MOU on cooperation between Taiwan and Ukraine to assist vulnerable children — Ministry of Foreign Affairs (Taiwan) (2025). https://en.mofa.gov.tw/News_Content.aspx?n=1328&s=120815. Accessed: 2026-03-30.
+16. **[src-179]** Foreign Minister Lin meets with delegation led by former Israeli Minister of Religious Services Kahana — Ministry of Foreign Affairs (Taiwan) (2026). https://en.mofa.gov.tw/News.aspx?n=1eaddcfd4c6ec567&page=74&pagesize=10. Accessed: 2026-03-30.
+17. **[src-180]** Links to Embassies and Missions — Ministry of Foreign Affairs (Taiwan) (2026). https://en.mofa.gov.tw/OverseasOfficeLink.aspx?n=1573&sms=2111. Accessed: 2026-03-30.
 
 ## Data Points Referenced
 
@@ -35,3 +43,4 @@
 - The US-Taiwan Initiative on 21st-Century Trade (first agreement signed June 2023) provides a new institutional framework for bilateral economic cooperation despite the absence of formal diplomatic relations.
 - Nine countries have conducted Taiwan Strait naval transits since 2022, representing a significant internationalization of freedom of navigation operations that had previously been primarily a U.S. activity.
 - The $23 billion cumulative arms sales figure (2017-2024) represents DSCA-notified approved values; actual deliveries lag significantly behind approvals, creating the ~$19-20 billion backlog.
+- Newly added 2025-2026 MOFA sources support the revised strategic emphasis on a Taiwan-Japan-U.S. coordination core, Italy as a Mediterranean and G7 partner, Central and Eastern European cooperation, Ukraine reconstruction linkages, Israel and Middle East channels, and Argentina as a diversification node.
