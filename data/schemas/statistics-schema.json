@@ -22,7 +22,18 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "metric", "value", "unit", "date", "source"],
+        "required": [
+          "id",
+          "metric",
+          "value",
+          "unit",
+          "date",
+          "source",
+          "evidence_tier",
+          "claim_type",
+          "confidence_level",
+          "verification_mode"
+        ],
         "properties": {
           "id": {
             "type": "string",
@@ -78,11 +89,49 @@
           },
           "verified": {
             "type": "boolean",
-            "description": "Whether this data point has been independently verified"
+            "description": "Whether this data point has been source-checked and documented"
           },
           "verification_note": {
             "type": "string",
             "description": "Notes on verification methodology"
+          },
+          "evidence_tier": {
+            "type": "string",
+            "enum": [
+              "tier_1_primary",
+              "tier_2_secondary",
+              "tier_3_estimate",
+              "tier_4_forward_looking"
+            ],
+            "description": "Evidence strength tier ranging from primary official records to forward-looking targets and scenarios"
+          },
+          "claim_type": {
+            "type": "string",
+            "enum": [
+              "measured_statistic",
+              "case_count",
+              "geographic_measurement",
+              "market_estimate",
+              "policy_target",
+              "scenario_or_timeline"
+            ],
+            "description": "The claim category represented by the data point"
+          },
+          "confidence_level": {
+            "type": "string",
+            "enum": ["high", "medium", "low"],
+            "description": "Confidence in the specific figure or claim framing"
+          },
+          "verification_mode": {
+            "type": "string",
+            "enum": [
+              "official_publication_check",
+              "cross_source_check",
+              "single_source_check",
+              "registry_case_check",
+              "policy_document_check"
+            ],
+            "description": "How the data point was verified or contextualized"
           }
         }
       }

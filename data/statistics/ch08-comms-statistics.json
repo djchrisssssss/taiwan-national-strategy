@@ -1,7 +1,7 @@
 {
   "chapter": "08",
   "title": "Communications Resilience",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-31",
   "statistics": [
     {
       "id": "ch08-001",
@@ -16,7 +16,11 @@
       },
       "context": "Taiwan is connected by approximately 15 international submarine cables, making it a significant node in Asia-Pacific telecommunications. Key cables include APCN-2, Asia Pacific Gateway (APG), Southeast Asia-Japan Cable 2 (SJC2), Taiwan-Philippines-US (TPE), and others connecting to Japan, Philippines, China, Hong Kong, and Guam.",
       "verified": true,
-      "verification_note": "TeleGeography submarine cable map is the authoritative industry reference; count confirmed via cross-reference with NCC Taiwan records"
+      "verification_note": "TeleGeography submarine cable map is the authoritative industry reference; count confirmed via cross-reference with NCC Taiwan records",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch08-002",
@@ -31,7 +35,11 @@
       },
       "context": "Major cable landing stations are located in Toucheng (Yilan County), Fangshan (Pingtung County), Tamsui/Bali (New Taipei City), Chung Li (Taoyuan), and Kaohsiung. Geographic concentration creates potential single-points-of-failure vulnerability.",
       "verified": true,
-      "verification_note": "Confirmed via TeleGeography data and Taiwan NCC submarine cable landing records"
+      "verification_note": "Confirmed via TeleGeography data and Taiwan NCC submarine cable landing records",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch08-003",
@@ -46,7 +54,11 @@
       },
       "context": "Both submarine cables serving the Matsu Islands were severed in February 2023 within days of each other, allegedly by Chinese fishing/sand-dredging vessels. The 14,000 residents relied on microwave radio backup for 50+ days until repairs were completed in late April 2023. Internet speeds dropped from broadband to approximately 171 Mbps shared capacity via microwave links.",
       "verified": true,
-      "verification_note": "Widely reported by Reuters, AP, BBC, and Taiwan media; Chunghwa Telecom confirmed the cuts and repair timeline"
+      "verification_note": "Widely reported by Reuters, AP, BBC, and Taiwan media; Chunghwa Telecom confirmed the cuts and repair timeline",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "market_estimate",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch08-004",
@@ -61,7 +73,11 @@
       },
       "context": "The Matsu cable cuts demonstrated the vulnerability of island communications infrastructure. Repair required a specialized cable ship and took approximately 50 days. During this period, microwave backup links provided limited connectivity. The incident prompted Taiwan to accelerate investment in satellite and microwave backup communications.",
       "verified": true,
-      "verification_note": "Timeline confirmed by multiple media reports and Chunghwa Telecom announcements"
+      "verification_note": "Timeline confirmed by multiple media reports and Chunghwa Telecom announcements",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch08-005",
@@ -76,7 +92,11 @@
       },
       "context": "Taiwan's total international internet bandwidth exceeds 7.8 Tbps across multiple submarine cable systems. Chunghwa Telecom operates the largest share. The capacity has grown significantly in recent years driven by cloud computing demand and digital transformation.",
       "verified": true,
-      "verification_note": "TWNIC publishes internet statistics reports; corroborated by Asia-Pacific internet bandwidth surveys"
+      "verification_note": "TWNIC publishes internet statistics reports; corroborated by Asia-Pacific internet bandwidth surveys",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch08-006",
@@ -91,7 +111,11 @@
       },
       "context": "SpaceX's Starlink constellation had approximately 6,800 active satellites by end of 2024. While Starlink does not currently offer service in Taiwan due to regulatory and geopolitical considerations, it demonstrates the viability of LEO satellite broadband as a backup communications path. Taiwan has been exploring options for LEO satellite resilience.",
       "verified": true,
-      "verification_note": "Jonathan McDowell's orbital database cross-referenced with SpaceX launch manifests"
+      "verification_note": "Jonathan McDowell's orbital database cross-referenced with SpaceX launch manifests",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "market_estimate",
+      "confidence_level": "medium",
+      "verification_mode": "cross_source_check"
     },
     {
       "id": "ch08-007",
@@ -106,7 +130,11 @@
       },
       "context": "Taiwan's internet penetration rate exceeds 90%, reflecting high digital dependency. Over 21 million people regularly use the internet. This high penetration underscores the critical importance of communications resilience for both civilian and national security purposes.",
       "verified": true,
-      "verification_note": "TWNIC Internet Usage Survey, consistent with ITU data for Taiwan region"
+      "verification_note": "TWNIC Internet Usage Survey, consistent with ITU data for Taiwan region",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "cross_source_check"
     },
     {
       "id": "ch08-008",
@@ -121,7 +149,11 @@
       },
       "context": "Taiwan has deployed approximately 70,000 5G base stations as of 2024, covering major metropolitan areas. Five operators hold 5G licenses: Chunghwa Telecom, Far EasTone, Taiwan Mobile, Taiwan Star (merged with Taiwan Mobile), and Asia Pacific Telecom. 5G population coverage exceeds 90% in urban areas.",
       "verified": true,
-      "verification_note": "NCC quarterly statistics reports on telecommunications infrastructure deployment"
+      "verification_note": "NCC quarterly statistics reports on telecommunications infrastructure deployment",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch08-009",
@@ -136,7 +168,11 @@
       },
       "context": "The ICPC estimates approximately 100-150 submarine cable faults occur globally per year, with a significant proportion in Asia-Pacific waters. Most are caused by fishing activity and anchoring. The Taiwan Strait is a particularly high-risk area due to dense shipping traffic and fishing activity.",
       "verified": true,
-      "verification_note": "ICPC annual fault statistics; corroborated by Asia SubSea Cable Conference reports"
+      "verification_note": "ICPC annual fault statistics; corroborated by Asia SubSea Cable Conference reports",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch08-010",
@@ -151,7 +187,11 @@
       },
       "context": "Following the Matsu cable cut incidents, Taiwan accelerated plans for satellite-based backup communications. The government announced investments in non-geostationary satellite orbit (NGSO) communication capacity, including discussions with multiple LEO satellite operators and development of indigenous satellite communication capabilities through TASA.",
       "verified": true,
-      "verification_note": "Based on Taiwan government budget announcements and NDC forward-looking infrastructure plans; exact figure subject to annual budget adjustments"
+      "verification_note": "Based on Taiwan government budget announcements and NDC forward-looking infrastructure plans; exact figure subject to annual budget adjustments",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     }
   ]
 }

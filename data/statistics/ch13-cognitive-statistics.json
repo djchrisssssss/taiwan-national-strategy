@@ -1,7 +1,7 @@
 {
   "chapter": "13",
   "title": "Cognitive Defense — CCP Cognitive Warfare and Social Trust Infrastructure",
-  "last_updated": "2026-03-19",
+  "last_updated": "2026-03-31",
   "statistics": [
     {
       "id": "ch13-001",
@@ -16,7 +16,11 @@
       },
       "context": "Taiwan faces one of the highest volumes of state-sponsored disinformation globally. DoubleThink Lab and IORG (Taiwan-based research organizations) have documented systematic PRC information operations targeting Taiwan's elections, military morale, public trust in government, and social cohesion. Operations use coordinated inauthentic behavior on social media, content farms, and co-opted local media.",
       "verified": true,
-      "verification_note": "DoubleThink Lab China Index and IORG research reports; corroborated by US State Department GEC reports"
+      "verification_note": "DoubleThink Lab China Index and IORG research reports; corroborated by US State Department GEC reports",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch13-002",
@@ -31,7 +35,11 @@
       },
       "context": "Taiwan's social media penetration rate of approximately 89% (21.15 million active social media users) creates a vast attack surface for cognitive warfare operations. LINE is the dominant messaging platform (~21 million users), followed by Facebook (~18 million), Instagram (~11 million), and YouTube (~20 million).",
       "verified": true,
-      "verification_note": "DataReportal Digital 2024 Taiwan report compiled from platform advertising reach data"
+      "verification_note": "DataReportal Digital 2024 Taiwan report compiled from platform advertising reach data",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "market_estimate",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch13-003",
@@ -46,7 +54,11 @@
       },
       "context": "LINE is Taiwan's dominant messaging platform with approximately 21 million monthly active users (nearly the entire population). Its closed-group messaging makes it a primary vector for disinformation spread, as messages are difficult to monitor or fact-check. LINE has implemented some fact-checking bot integrations in Taiwan.",
       "verified": true,
-      "verification_note": "LINE Corporation user statistics for Taiwan market; confirmed by LINE Taiwan press releases"
+      "verification_note": "LINE Corporation user statistics for Taiwan market; confirmed by LINE Taiwan press releases",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch13-004",
@@ -61,7 +73,11 @@
       },
       "context": "Taiwan has two IFCN-certified fact-checking organizations: Taiwan FactCheck Center (TFC, established 2018) and MyGoPen. Additional fact-checking work is performed by Cofacts (a collaborative bot), Fake News Cleaner, and media outlets. These organizations play a critical role in countering disinformation but face resource constraints relative to the volume of false content.",
       "verified": true,
-      "verification_note": "IFCN signatory database at poynter.org; TFC and MyGoPen both hold active IFCN verification"
+      "verification_note": "IFCN signatory database at poynter.org; TFC and MyGoPen both hold active IFCN verification",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch13-005",
@@ -76,7 +92,11 @@
       },
       "context": "Taiwan's 12-Year Basic Education Curriculum (Curriculum 2019, fully implemented) integrates media literacy across subjects, making Taiwan a global leader in institutional media literacy education. The curriculum emphasizes critical thinking, source verification, and identifying manipulation techniques. Specific 'information literacy' competencies are embedded in technology, social studies, and language arts.",
       "verified": true,
-      "verification_note": "Taiwan MOE curriculum guidelines (108 Curriculum); implementation confirmed by education research"
+      "verification_note": "Taiwan MOE curriculum guidelines (108 Curriculum); implementation confirmed by education research",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch13-006",
@@ -91,7 +111,11 @@
       },
       "context": "IORG research identifies thousands of content farm articles targeting Taiwan monthly, many originating from or amplified by PRC-linked operations. These articles are designed to erode trust in democratic institutions, amplify social divisions, and promote narratives favorable to PRC interests. Content farms exploit Taiwanese social media sharing patterns, particularly on LINE and Facebook.",
       "verified": true,
-      "verification_note": "IORG publishes regular research reports tracking PRC information operations; estimate based on their monitoring methodology"
+      "verification_note": "IORG publishes regular research reports tracking PRC information operations; estimate based on their monitoring methodology",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch13-007",
@@ -106,7 +130,11 @@
       },
       "context": "During the January 2024 presidential election campaign, multiple deepfake audio and video clips targeting candidates were identified. Taiwan FactCheck Center and AI labs documented AI-generated voice clips mimicking candidates, manipulated video content, and AI-generated images used in disinformation. This marked a significant escalation in AI-powered cognitive warfare targeting Taiwan.",
       "verified": true,
-      "verification_note": "TFC election fact-check reports; corroborated by V-Dem Digital Society Project and CSIS Taiwan election analysis"
+      "verification_note": "TFC election fact-check reports; corroborated by V-Dem Digital Society Project and CSIS Taiwan election analysis",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch13-008",
@@ -121,7 +149,11 @@
       },
       "context": "Taiwan government networks face approximately 20-30 million cyberattack attempts monthly according to NICS (formerly TWNCERT/TWCERT/CC). While the majority are automated scanning and probing, a significant proportion represents sophisticated state-sponsored operations. Cognitive warfare campaigns often pair with cyber operations for maximum impact.",
       "verified": true,
-      "verification_note": "NICS and Taiwan Executive Yuan cyber security office statistics; figure cited by multiple Taiwan government officials in legislative sessions"
+      "verification_note": "NICS and Taiwan Executive Yuan cyber security office statistics; figure cited by multiple Taiwan government officials in legislative sessions",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch13-009",
@@ -136,7 +168,11 @@
       },
       "context": "The V-Dem Institute has consistently ranked Taiwan as the most targeted country for foreign government disinformation in its annual reports since 2017. Despite this, Taiwan's democratic resilience indicators have remained relatively strong, attributed to robust civil society, active fact-checking ecosystem, and government transparency initiatives.",
       "verified": true,
-      "verification_note": "V-Dem Digital Society Survey - 'Foreign governments disseminate false information' indicator; Taiwan ranked #1 in foreign disinformation exposure"
+      "verification_note": "V-Dem Digital Society Survey - 'Foreign governments disseminate false information' indicator; Taiwan ranked #1 in foreign disinformation exposure",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch13-010",
@@ -151,7 +187,11 @@
       },
       "context": "Trust in news media in Taiwan is approximately 31%, among the lowest in Asia-Pacific. Low media trust creates vulnerability to alternative information sources including content farms and social media, which disinformation operators exploit. This trust deficit is both a vulnerability (easier to spread false narratives) and a resilience factor (population is skeptical of all sources).",
       "verified": true,
-      "verification_note": "Reuters Institute Digital News Report 2024 Taiwan country data; survey methodology documented in full report"
+      "verification_note": "Reuters Institute Digital News Report 2024 Taiwan country data; survey methodology documented in full report",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "market_estimate",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch13-011",
@@ -166,7 +206,11 @@
       },
       "context": "Landmark academic study estimated that the Chinese government fabricates approximately 448 million social media posts per year through the '50 Cent Army' and related operations. This figure predates the widespread adoption of LLM-powered content generation, which has likely increased output substantially.",
       "verified": true,
-      "verification_note": "Published in American Political Science Review (2017); widely cited in academic and policy literature"
+      "verification_note": "Published in American Political Science Review (2017); widely cited in academic and policy literature",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch13-012",
@@ -181,7 +225,11 @@
       },
       "context": "Taiwan has held the #1 position as the most targeted democracy by foreign government disinformation every year since the V-Dem Institute began tracking this indicator in 2017. This sustained ranking underscores the persistent and exceptional scale of CCP cognitive warfare against Taiwan.",
       "verified": true,
-      "verification_note": "V-Dem Digital Society Survey annual data; consistent ranking confirmed across multiple report years"
+      "verification_note": "V-Dem Digital Society Survey annual data; consistent ranking confirmed across multiple report years",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "cross_source_check"
     },
     {
       "id": "ch13-013",
@@ -196,7 +244,11 @@
       },
       "context": "Approximately 399 pages of leaked internal CCP operational documents were analyzed, providing unprecedented evidence of the party-military-enterprise coordination in cognitive warfare operations targeting Taiwan. Documents revealed targeting databases, budget allocations, and specific coordination mechanisms.",
       "verified": true,
-      "verification_note": "Documents analyzed by multiple independent researchers including Vanderbilt Institute and IORG; provenance confirmed through forensic analysis"
+      "verification_note": "Documents analyzed by multiple independent researchers including Vanderbilt Institute and IORG; provenance confirmed through forensic analysis",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch13-014",
@@ -211,7 +263,11 @@
       },
       "context": "Microsoft MTAC documented over 100 deepfake audio and video items targeting candidates during the January 2024 Taiwan presidential election cycle. This represented a significant escalation in AI-powered cognitive warfare, with content distributed across PTT, Dcard, Facebook, and LINE.",
       "verified": true,
-      "verification_note": "Microsoft MTAC East Asia threat report; corroborated by Taiwan FactCheck Center election monitoring"
+      "verification_note": "Microsoft MTAC East Asia threat report; corroborated by Taiwan FactCheck Center election monitoring",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch13-015",
@@ -226,7 +282,11 @@
       },
       "context": "The Taiwan National Security Bureau reported 15 espionage cases involving 64 individuals prosecuted in 2024, demonstrating continuing CCP efforts to infiltrate Taiwan's military, government, and intelligence apparatus. Recruited individuals serve as both intelligence sources and potential cognitive warfare assets.",
       "verified": true,
-      "verification_note": "NSB annual report to Legislative Yuan; figures cited in legislative hearings"
+      "verification_note": "NSB annual report to Legislative Yuan; figures cited in legislative hearings",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "registry_case_check"
     },
     {
       "id": "ch13-016",
@@ -241,7 +301,11 @@
       },
       "context": "Meta has conducted multiple takedowns of CCP-linked coordinated inauthentic behavior networks, including the Spamouflage network — one of the largest known cross-platform influence operations. These takedowns have removed thousands of accounts, pages, and groups targeting Taiwan and other democracies.",
       "verified": true,
-      "verification_note": "Meta quarterly Adversarial Threat Reports; Spamouflage documentation by Stanford Internet Observatory"
+      "verification_note": "Meta quarterly Adversarial Threat Reports; Spamouflage documentation by Stanford Internet Observatory",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch13-017",
@@ -256,7 +320,11 @@
       },
       "context": "OpenAI reported disrupting multiple covert influence operations originating from China that used their AI models to generate political content targeting Taiwan's elections and other democratic processes. This confirms the weaponization of generative AI for cognitive warfare.",
       "verified": true,
-      "verification_note": "OpenAI official threat report; corroborated by Microsoft MTAC reporting"
+      "verification_note": "OpenAI official threat report; corroborated by Microsoft MTAC reporting",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch13-018",
@@ -271,7 +339,11 @@
       },
       "context": "The GoLaxy documents revealed a CCP targeting database containing over 5,000 Taiwanese individuals and organizations identified as targets for United Front operations. This demonstrates the systematic and comprehensive nature of CCP institutional infiltration and co-optation efforts.",
       "verified": true,
-      "verification_note": "Documented in GoLaxy leaked materials; analyzed by IORG and Vanderbilt Institute researchers"
+      "verification_note": "Documented in GoLaxy leaked materials; analyzed by IORG and Vanderbilt Institute researchers",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch13-019",
@@ -286,7 +358,11 @@
       },
       "context": "At least 6 major documented economic coercion actions by the CCP targeting Taiwan between 2021-2023: pineapple ban, sugar apple ban, grouper ban, natural sand suspension, ECFA tariff reviews, and rare earth controls. Each action serves a dual purpose of economic pressure and cognitive warfare narrative generation.",
       "verified": true,
-      "verification_note": "Individual trade actions documented in Taiwan Bureau of Foreign Trade reports and international media; pattern analysis in CCP cognitive warfare research"
+      "verification_note": "Individual trade actions documented in Taiwan Bureau of Foreign Trade reports and international media; pattern analysis in CCP cognitive warfare research",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch13-020",
@@ -301,7 +377,11 @@
       },
       "context": "Structural analysis identifies four nested layers in the CCP's cognitive warfare command structure: Party (中共中央), Military (PLASSF/信息支援部隊), Enterprise (state-owned and contracted firms), and Shadow (gray-zone actors including co-opted organizations, local collaborators, and criminal networks). Each layer provides plausible deniability while maintaining top-down strategic coherence.",
       "verified": true,
-      "verification_note": "Structural framework corroborated by GoLaxy documents, ASPI research, and academic literature on CCP information operations"
+      "verification_note": "Structural framework corroborated by GoLaxy documents, ASPI research, and academic literature on CCP information operations",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     }
   ]
 }

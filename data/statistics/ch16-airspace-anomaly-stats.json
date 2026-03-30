@@ -1,7 +1,7 @@
 {
   "chapter": "16",
-  "title": "Non-Traditional Security Threats: UAP Investigation, Sensor Integration, and Airspace Anomaly Governance",
-  "last_updated": "2026-03-30",
+  "title": "Airspace Anomaly Governance and Strategic Foresight",
+  "last_updated": "2026-03-31",
   "statistics": [
     {
       "id": "ch16-001",
@@ -16,7 +16,11 @@
       },
       "context": "The Ministry of Transportation and Communications stated that the Taipei Flight Information Region (Taipei FIR) provided approximately 1.64 million air traffic control services in 2024. For Taiwan, any anomaly-reporting regime operates inside a dense civil aviation environment; this makes disciplined triage, evidence retention, and rapid elimination of ordinary explanations a core national-security requirement rather than an optional research activity.",
       "verified": true,
-      "verification_note": "Official MOTC press release published 2025-09-08 citing Civil Aviation Administration remarks on Taipei FIR traffic volume"
+      "verification_note": "Official MOTC press release published 2025-09-08 citing Civil Aviation Administration remarks on Taipei FIR traffic volume",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch16-002",
@@ -31,7 +35,11 @@
       },
       "context": "MOTC reported that Taiwan had more than 38,000 registered corporate drones as of February 2025. This expanding drone ecosystem means many unusual observations are likely to involve ordinary or gray-zone unmanned systems, making integration with registration, permitting, and counter-UAS data essential for any credible anomaly-investigation framework.",
       "verified": true,
-      "verification_note": "Official MOTC press release published 2025-02-14 summarizing Civil Aviation Administration drone-management statistics"
+      "verification_note": "Official MOTC press release published 2025-02-14 summarizing Civil Aviation Administration drone-management statistics",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch16-003",
@@ -46,7 +54,11 @@
       },
       "context": "The same MOTC release reported more than 23,000 cumulative drone activity applications. The operational implication is straightforward: Taiwan needs an anomaly-review process that can rapidly deconflict unusual observations against legitimate drone activity, not a framework that assumes every unexplained sighting is strategically exotic.",
       "verified": true,
-      "verification_note": "Official MOTC press release published 2025-02-14; cumulative drone flight-activity applications cited by the Civil Aviation Administration"
+      "verification_note": "Official MOTC press release published 2025-02-14; cumulative drone flight-activity applications cited by the Civil Aviation Administration",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch16-004",
@@ -61,7 +73,11 @@
       },
       "context": "AARO's FY2023 annual report documented 801 cumulative UAP reports (510 from prior years plus 291 new reports in FY2023). The U.S. model is useful less because it validates extraordinary claims and more because it demonstrates how a defense bureaucracy can normalize reporting, triage, and interagency data management around anomalous events.",
       "verified": true,
-      "verification_note": "AARO Annual Report to Congress FY2023; publicly available via AARO.mil"
+      "verification_note": "AARO Annual Report to Congress FY2023; publicly available via AARO.mil",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "registry_case_check"
     },
     {
       "id": "ch16-005",
@@ -76,7 +92,11 @@
       },
       "context": "NASA convened a 16-member independent study team of scientists, engineers, and aerospace experts to examine how NASA could contribute to UAP research using scientific methodology. For Taiwan, the key lesson is organizational design: unresolved cases should be reviewed through scientific and engineering expertise, not only through military or intelligence channels.",
       "verified": true,
-      "verification_note": "NASA UAP Independent Study Team Report, September 14, 2023; publicly available"
+      "verification_note": "NASA UAP Independent Study Team Report, September 14, 2023; publicly available",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch16-006",
@@ -91,7 +111,11 @@
       },
       "context": "France's GEIPAN reported 3,320 published cases in its dynamic statistics as of March 3, 2026. This provides a long-running public-sector benchmark showing that anomaly investigation can be institutionalized as a transparent evidentiary process rather than as a rhetorical or speculative exercise.",
       "verified": true,
-      "verification_note": "Official GEIPAN statistics page showing 3,320 published cases as of 2026-03-03"
+      "verification_note": "Official GEIPAN statistics page showing 3,320 published cases as of 2026-03-03",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "registry_case_check"
     },
     {
       "id": "ch16-007",
@@ -106,7 +130,11 @@
       },
       "context": "GEIPAN's statistics page shows that only 106 of its 3,320 published cases remained unexplained after investigation as of March 3, 2026, equivalent to 3.2 percent. The policy implication for Taiwan is that most anomaly work should focus on rapid elimination of conventional explanations and on improving data quality, not on privileging extraordinary interpretations.",
       "verified": true,
-      "verification_note": "Official GEIPAN statistics page listing 106 category-D cases (3.2 percent) as of 2026-03-03"
+      "verification_note": "Official GEIPAN statistics page listing 106 category-D cases (3.2 percent) as of 2026-03-03",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "registry_case_check"
     }
   ]
 }

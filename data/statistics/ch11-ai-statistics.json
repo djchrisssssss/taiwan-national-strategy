@@ -1,7 +1,7 @@
 {
   "chapter": "11",
   "title": "AI, Distributed Computing, and Brain-Computer Interfaces",
-  "last_updated": "2026-03-19",
+  "last_updated": "2026-03-31",
   "statistics": [
     {
       "id": "ch11-001",
@@ -16,7 +16,11 @@
       },
       "context": "Taiwania 2, located at NCHC, provides approximately 9 PFLOPS of computing power using 252 Nvidia V100 GPU nodes and additional CPU nodes. It supports AI research, scientific simulation, and climate modeling for Taiwan's academic and research communities. NCHC has announced plans for a next-generation system to maintain competitiveness.",
       "verified": true,
-      "verification_note": "NCHC facility specifications; listed on TOP500 supercomputer rankings"
+      "verification_note": "NCHC facility specifications; listed on TOP500 supercomputer rankings",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch11-002",
@@ -31,7 +35,11 @@
       },
       "context": "Taiwan's government AI investment spans multiple programs under the 'Taiwan AI Action Plan 2.0' launched in 2024, covering AI infrastructure, talent development, industry applications, and regulation. The budget includes NCHC computing upgrades, AI research grants, and support for AI startup incubation.",
       "verified": true,
-      "verification_note": "NSTC and Executive Yuan AI policy announcements; budget figures from Legislative Yuan records"
+      "verification_note": "NSTC and Executive Yuan AI policy announcements; budget figures from Legislative Yuan records",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch11-003",
@@ -46,7 +54,11 @@
       },
       "context": "Taiwan produces approximately 5,000-5,500 AI-related research publications annually according to Scopus data, ranking in the top 15 globally. Key institutions include National Taiwan University, Academia Sinica, NTHU, NCTU/NYCU, and ITRI. Taiwan's research strengths are in computer vision, NLP, and semiconductor-AI integration.",
       "verified": true,
-      "verification_note": "Scopus bibliometric analysis for Taiwan-affiliated AI/ML publications; consistent with Stanford AI Index country data"
+      "verification_note": "Scopus bibliometric analysis for Taiwan-affiliated AI/ML publications; consistent with Stanford AI Index country data",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "cross_source_check"
     },
     {
       "id": "ch11-004",
@@ -61,7 +73,11 @@
       },
       "context": "Taiwan serves as a major GPU deployment hub due to its cloud service providers and the presence of companies like Quanta Cloud Technology (QCT), Wistron, and Foxconn/Hon Hai which are major NVIDIA GPU server manufacturers. Taiwan's hyperscale data centers have deployed thousands of NVIDIA A100 and H100 GPUs for AI workloads. TSMC manufactures the chips themselves.",
       "verified": true,
-      "verification_note": "Industry reports from DigiTimes and Taiwan server ODM shipping data"
+      "verification_note": "Industry reports from DigiTimes and Taiwan server ODM shipping data",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "case_count",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch11-005",
@@ -76,7 +92,11 @@
       },
       "context": "Taiwan has approximately 400 AI-focused startups, with concentrations in manufacturing AI (smart factory), healthcare AI (medical imaging, drug discovery), semiconductor design AI, and fintech. Key incubators include Taiwan AI Academy, Appworks, and government-supported AI parks in Taoyuan and Kaohsiung.",
       "verified": true,
-      "verification_note": "Estimated from Taiwan Startup Ecosystem reports, Appworks portfolio data, and NSTC AI industry surveys"
+      "verification_note": "Estimated from Taiwan Startup Ecosystem reports, Appworks portfolio data, and NSTC AI industry surveys",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch11-006",
@@ -91,7 +111,11 @@
       },
       "context": "TSMC produces over 90% of the world's most advanced semiconductors (sub-10nm nodes), including virtually all cutting-edge AI accelerator chips (NVIDIA H100/B100, Apple M-series, AMD MI300). This gives Taiwan enormous strategic leverage but also makes it a critical single point of failure for global AI infrastructure.",
       "verified": true,
-      "verification_note": "SIA data and TrendForce foundry market share analysis; widely cited in industry reports"
+      "verification_note": "SIA data and TrendForce foundry market share analysis; widely cited in industry reports",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "market_estimate",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch11-007",
@@ -106,7 +130,11 @@
       },
       "context": "Taiwan AI Academy, founded by Ethan Tu in 2018 with support from the Appier/PTT communities, has trained over 10,000 professionals in AI/ML skills across technical and manager tracks. The program addresses Taiwan's AI talent gap and has become a key pipeline for industry AI adoption.",
       "verified": true,
-      "verification_note": "Taiwan AI Academy program reports and media coverage of enrollment milestones"
+      "verification_note": "Taiwan AI Academy program reports and media coverage of enrollment milestones",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch11-008",
@@ -121,7 +149,11 @@
       },
       "context": "Foxconn's AI server business grew approximately 40% in 2024, driven by massive demand from hyperscalers for NVIDIA GPU-based AI training and inference servers. Taiwan-based ODMs (Foxconn, Quanta, Wistron, Inventec) collectively manufacture the majority of the world's AI servers.",
       "verified": true,
-      "verification_note": "Foxconn quarterly investor calls and DigiTimes/TrendForce server market analysis"
+      "verification_note": "Foxconn quarterly investor calls and DigiTimes/TrendForce server market analysis",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "market_estimate",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch11-009",
@@ -136,7 +168,11 @@
       },
       "context": "Taiwan's data center market is projected at approximately USD 1.8 billion in 2024, growing driven by cloud adoption, AI workloads, and regional hub positioning. Major operators include Chunghwa Telecom IDC, Chief Telecom, and international operators expanding into Taiwan. New AI-focused data centers are being built in Changhua and Taoyuan.",
       "verified": true,
-      "verification_note": "Market research estimates from Arizton and Research and Markets Taiwan data center reports"
+      "verification_note": "Market research estimates from Arizton and Research and Markets Taiwan data center reports",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "market_estimate",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch11-010",
@@ -151,7 +187,11 @@
       },
       "context": "Taiwan consistently ranks in the top 15 globally for AI vibrancy metrics including research output, AI talent concentration, and private investment in AI, according to Stanford's AI Index. Taiwan's unique position at the intersection of semiconductor manufacturing and AI development gives it distinctive advantages.",
       "verified": true,
-      "verification_note": "Stanford HAI AI Index Annual Report; Taiwan-specific data extracted from global rankings"
+      "verification_note": "Stanford HAI AI Index Annual Report; Taiwan-specific data extracted from global rankings",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch11-011",
@@ -166,7 +206,11 @@
       },
       "context": "The global BCI market is projected to exceed $5.8 billion by 2030, driven by medical applications (paralysis, neurological disorders), consumer neurotechnology, and military/defense applications. Military and defense applications represent a significant growth segment due to cognitive enhancement and unmanned system control requirements.",
       "verified": true,
-      "verification_note": "Market projections from multiple research firms (Grand View Research, Allied Market Research); estimates range from $4.8B to $6.2B depending on methodology"
+      "verification_note": "Market projections from multiple research firms (Grand View Research, Allied Market Research); estimates range from $4.8B to $6.2B depending on methodology",
+      "evidence_tier": "tier_4_forward_looking",
+      "claim_type": "scenario_or_timeline",
+      "confidence_level": "low",
+      "verification_mode": "policy_document_check"
     },
     {
       "id": "ch11-012",
@@ -181,7 +225,11 @@
       },
       "context": "DARPA's N3 program has invested over $100 million in developing high-resolution, bidirectional brain-computer interface systems that do not require surgery. The program aims to create non-invasive or minimally invasive neural interfaces with performance approaching that of implanted systems, with military applications including cognitive enhancement and direct neural control of unmanned platforms.",
       "verified": true,
-      "verification_note": "DARPA N3 program documentation; funding level confirmed through DARPA budget documents and program announcements"
+      "verification_note": "DARPA N3 program documentation; funding level confirmed through DARPA budget documents and program announcements",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch11-013",
@@ -196,7 +244,11 @@
       },
       "context": "Neuralink has initiated human clinical trials of its N1 invasive brain-computer interface implant under FDA Investigational Device Exemption. The first implant (January 2024) demonstrated the ability to control a computer cursor through thought alone. While primarily targeting medical applications (paralysis), the technology has significant defense and security implications for brain-to-machine control of autonomous systems.",
       "verified": true,
-      "verification_note": "Neuralink public announcements and FDA regulatory filings; trial progress reported in medical and technology media"
+      "verification_note": "Neuralink public announcements and FDA regulatory filings; trial progress reported in medical and technology media",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "case_count",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch11-014",
@@ -211,7 +263,11 @@
       },
       "context": "Global BCI-related patent filings have grown rapidly, exceeding approximately 5,000 per year by 2024. The United States and China lead in patent filings, with significant activity from the EU, Japan, and South Korea. Taiwan's patent activity in BCI is growing but modest relative to its semiconductor capabilities, representing an opportunity for strategic expansion.",
       "verified": true,
-      "verification_note": "WIPO patent statistics and academic patent landscape analyses; approximation based on BCI-related classification codes"
+      "verification_note": "WIPO patent statistics and academic patent landscape analyses; approximation based on BCI-related classification codes",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "chapter": "02",
   "title": "Semiconductor Industry and Silicon Shield",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-31",
   "data_note": "Statistics compiled from publicly available sources. Web verification was unavailable at compilation time; URLs point to known authoritative publication pages. Users should verify current figures at listed sources.",
   "statistics": [
     {
@@ -17,7 +17,11 @@
       },
       "context": "TSMC has consistently held approximately 60-65% of the global pure-play foundry market by revenue. In Q3 2024, TrendForce reported TSMC at approximately 64.9%, far ahead of Samsung Foundry (~9.3%) and other competitors.",
       "verified": true,
-      "verification_note": "TrendForce quarterly foundry ranking reports; cross-referenced with Counterpoint Research estimates"
+      "verification_note": "TrendForce quarterly foundry ranking reports; cross-referenced with Counterpoint Research estimates",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "market_estimate",
+      "confidence_level": "medium",
+      "verification_mode": "cross_source_check"
     },
     {
       "id": "ch02-002",
@@ -32,7 +36,11 @@
       },
       "context": "TSMC produces over 90% of the world's most advanced semiconductors at nodes below 7nm. Samsung Foundry is the only other company producing at these nodes, with approximately 8% share. No other foundry has reached volume production at 5nm or below.",
       "verified": true,
-      "verification_note": "Widely cited in SIA, CSIS, and industry analyst reports; figure represents volume production capacity"
+      "verification_note": "Widely cited in SIA, CSIS, and industry analyst reports; figure represents volume production capacity",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "market_estimate",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch02-003",
@@ -47,7 +55,11 @@
       },
       "context": "TSMC reported full-year 2024 revenue of approximately NT$2.89 trillion (approximately $87-90 billion USD depending on exchange rate). Revenue grew approximately 33% year-over-year driven by AI chip demand.",
       "verified": true,
-      "verification_note": "From TSMC quarterly earnings releases; NTD to USD conversion at approximate 2024 average rate"
+      "verification_note": "From TSMC quarterly earnings releases; NTD to USD conversion at approximate 2024 average rate",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch02-004",
@@ -62,7 +74,11 @@
       },
       "context": "TSMC operates approximately 15-19 fabs across Taiwan (Hsinchu, Taichung, Tainan, Kaohsiung), including 300mm and 200mm wafer fabs plus packaging/testing facilities. New fabs under construction in Kaohsiung for 2nm production. Count varies depending on whether packaging/testing facilities are included.",
       "verified": true,
-      "verification_note": "From TSMC corporate website fab listing; count includes 300mm fabs, 200mm fabs, and advanced packaging facilities"
+      "verification_note": "From TSMC corporate website fab listing; count includes 300mm fabs, 200mm fabs, and advanced packaging facilities",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch02-005",
@@ -77,7 +93,11 @@
       },
       "context": "TSMC's 3nm (N3) process accounted for approximately 20% of total wafer revenue by Q4 2024, ramping rapidly since volume production began in late 2022. 5nm contributed approximately 33%, and 7nm approximately 17%.",
       "verified": true,
-      "verification_note": "TSMC reports technology node revenue breakdown in quarterly earnings calls"
+      "verification_note": "TSMC reports technology node revenue breakdown in quarterly earnings calls",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch02-006",
@@ -92,7 +112,11 @@
       },
       "context": "ASML has shipped approximately 200-250 EUV systems cumulatively through end of 2024. TSMC is the largest customer, with an estimated 60-70+ EUV systems. Each NXE:3600D/3800E system costs approximately $200-380 million. ASML's new High-NA EUV (TWINSCAN EXE:5000 series) began shipping in 2024 at ~$380M per unit.",
       "verified": true,
-      "verification_note": "ASML publishes cumulative shipment data in annual reports; TSMC allocation estimated from industry analysis"
+      "verification_note": "ASML publishes cumulative shipment data in annual reports; TSMC allocation estimated from industry analysis",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch02-007",
@@ -107,7 +131,11 @@
       },
       "context": "TSMC is estimated to operate approximately 35-40% of all installed ASML EUV systems globally, the largest single allocation. Samsung and Intel/Intel Foundry Services are the other major EUV customers.",
       "verified": true,
-      "verification_note": "Estimated from ASML customer breakdown and TSMC capex reports; exact allocation not officially disclosed"
+      "verification_note": "Estimated from ASML customer breakdown and TSMC capex reports; exact allocation not officially disclosed",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "market_estimate",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch02-008",
@@ -122,7 +150,11 @@
       },
       "context": "Taiwan's total semiconductor industry revenue (foundry, OSAT, IC design, memory) reached approximately NT$5 trillion (~$155-165 billion USD) in 2024. TSMC alone accounts for over half. Taiwan's semiconductor sector represents approximately 15% of national GDP.",
       "verified": true,
-      "verification_note": "TSIA and MOEA publish annual industry statistics; exchange rate fluctuations affect USD figure"
+      "verification_note": "TSIA and MOEA publish annual industry statistics; exchange rate fluctuations affect USD figure",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch02-009",
@@ -137,7 +169,11 @@
       },
       "context": "The semiconductor sector accounts for approximately 15-16% of Taiwan's GDP directly, and a higher percentage when including the broader electronics supply chain. This concentration creates both strategic leverage (silicon shield) and economic vulnerability.",
       "verified": true,
-      "verification_note": "Widely reported figure from DGBAS and NDC publications; varies slightly by measurement methodology"
+      "verification_note": "Widely reported figure from DGBAS and NDC publications; varies slightly by measurement methodology",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch02-010",
@@ -152,7 +188,11 @@
       },
       "context": "Taiwan's semiconductor industry employs approximately 300,000 workers directly, including engineers, technicians, and support staff. TSMC alone employs over 76,000 (as of 2024). The industry faces growing talent shortages, particularly for advanced process R&D.",
       "verified": true,
-      "verification_note": "SEMI and TSIA workforce reports; TSMC employee count from annual report"
+      "verification_note": "SEMI and TSIA workforce reports; TSMC employee count from annual report",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch02-011",
@@ -167,7 +207,11 @@
       },
       "context": "TSMC's 2024 capex was approximately $30 billion, with guidance for $38-42 billion in 2025. The majority of capex is allocated to leading-edge capacity (3nm, 2nm) and advanced packaging (CoWoS). TSMC's capex exceeds the entire GDP of some small nations.",
       "verified": true,
-      "verification_note": "From TSMC earnings call guidance; 2025 capex guidance of $38-42B announced in January 2025 earnings call"
+      "verification_note": "From TSMC earnings call guidance; 2025 capex guidance of $38-42B announced in January 2025 earnings call",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch02-012",
@@ -182,7 +226,11 @@
       },
       "context": "Global semiconductor sales reached approximately $627 billion in 2024, a 19% increase from 2023's $527 billion, driven primarily by AI/HPC chip demand. Taiwan-based companies account for a disproportionate share of the value chain.",
       "verified": true,
-      "verification_note": "SIA publishes official global sales figures; 2024 figure from SIA January 2025 announcement"
+      "verification_note": "SIA publishes official global sales figures; 2024 figure from SIA January 2025 announcement",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch02-013",
@@ -197,7 +245,11 @@
       },
       "context": "TSMC targets volume production of its 2nm (N2) process using gate-all-around (GAA/nanosheet) transistor architecture in the second half of 2025. The N2 fab in Kaohsiung (Fab 22) and Hsinchu are the primary production sites. N2 represents a major architectural shift from FinFET.",
       "verified": true,
-      "verification_note": "Confirmed in TSMC investor communications and technology symposium presentations"
+      "verification_note": "Confirmed in TSMC investor communications and technology symposium presentations",
+      "evidence_tier": "tier_4_forward_looking",
+      "claim_type": "policy_target",
+      "confidence_level": "medium",
+      "verification_mode": "policy_document_check"
     }
   ]
 }

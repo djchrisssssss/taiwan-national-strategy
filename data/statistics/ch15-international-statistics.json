@@ -1,7 +1,7 @@
 {
   "chapter": "15",
   "title": "International Linkages",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-31",
   "statistics": [
     {
       "id": "ch15-001",
@@ -16,7 +16,11 @@
       },
       "context": "Taiwan's semiconductor industry accounts for approximately 20% of global semiconductor revenue, with TSMC alone generating over USD 87 billion in 2024 revenue. When including downstream packaging and testing (ASE Group, SPIL), Taiwan's total semiconductor supply chain share is even larger.",
       "verified": true,
-      "verification_note": "SIA World Semiconductor Trade Statistics (WSTS) and TSMC annual revenue reports"
+      "verification_note": "SIA World Semiconductor Trade Statistics (WSTS) and TSMC annual revenue reports",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "market_estimate",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch15-002",
@@ -31,7 +35,11 @@
       },
       "context": "TSMC commands approximately 62% of the global semiconductor foundry market by revenue. Combined with UMC (approximately 6%), Taiwan-based foundries account for approximately 68% of global foundry revenue. This dominance creates immense strategic leverage ('silicon shield') but also makes Taiwan a focal point of great power competition.",
       "verified": true,
-      "verification_note": "TrendForce quarterly foundry revenue rankings; consistent with IC Insights and Counterpoint data"
+      "verification_note": "TrendForce quarterly foundry revenue rankings; consistent with IC Insights and Counterpoint data",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "market_estimate",
+      "confidence_level": "medium",
+      "verification_mode": "cross_source_check"
     },
     {
       "id": "ch15-003",
@@ -46,7 +54,11 @@
       },
       "context": "As of 2024, 12 countries maintain formal diplomatic relations with Taiwan: Belize, Eswatini, Guatemala, Haiti, Marshall Islands, Palau, Paraguay, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Tuvalu, and the Vatican. Nauru switched recognition back to PRC in January 2024. Despite limited formal relations, Taiwan maintains substantive relations with over 60 countries through unofficial offices.",
       "verified": true,
-      "verification_note": "Taiwan MOFA official allies list; Nauru switch confirmed January 15, 2024"
+      "verification_note": "Taiwan MOFA official allies list; Nauru switch confirmed January 15, 2024",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch15-004",
@@ -61,7 +73,11 @@
       },
       "context": "US arms sales to Taiwan during 2017-2024 totaled approximately USD 23 billion across multiple packages including F-16V fighters ($8B), M1A2T Abrams tanks ($2B), Harpoon anti-ship missiles ($2.4B), HIMARS rocket systems, Patriot missile upgrades, and various munitions. The pace accelerated under the Taiwan Enhanced Resilience Act framework.",
       "verified": true,
-      "verification_note": "DSCA major arms sales notifications are public; compiled by Congressional Research Service in RL30957"
+      "verification_note": "DSCA major arms sales notifications are public; compiled by Congressional Research Service in RL30957",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch15-005",
@@ -76,7 +92,11 @@
       },
       "context": "The United States receives approximately 22% of Taiwan's semiconductor exports by value, making it the largest single-country destination. Other major destinations include China/Hong Kong (~35% combined, though much is re-exported), Japan (~8%), South Korea (~7%), and Europe (~10%). The high China/HK share reflects supply chain integration.",
       "verified": true,
-      "verification_note": "Bureau of Foreign Trade export statistics by commodity and destination; cross-referenced with US Census Bureau import data"
+      "verification_note": "Bureau of Foreign Trade export statistics by commodity and destination; cross-referenced with US Census Bureau import data",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch15-006",
@@ -91,7 +111,11 @@
       },
       "context": "Taiwan is not a member of Five Eyes or other formal intelligence alliances but maintains informal intelligence cooperation with the US, Japan, Australia, and others. The Taiwan Relations Act provides the framework for US-Taiwan defense and intelligence cooperation. Japan's 2022 National Security Strategy explicitly identified Taiwan Strait stability as critical to Japan's security.",
       "verified": true,
-      "verification_note": "CSIS and Brookings analyses of Taiwan's informal intelligence partnerships; Japan NSS 2022 publicly available"
+      "verification_note": "CSIS and Brookings analyses of Taiwan's informal intelligence partnerships; Japan NSS 2022 publicly available",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch15-007",
@@ -106,7 +130,11 @@
       },
       "context": "Taiwan has signed approximately 33 bilateral investment agreements despite its limited formal diplomatic relations. Key economic agreements include the Taiwan-Singapore ASTEP, Taiwan-New Zealand ECA, Taiwan-Japan investment arrangement, and the US-Taiwan Initiative on 21st-Century Trade (signed first agreement June 2023). These agreements provide institutional frameworks for economic resilience.",
       "verified": true,
-      "verification_note": "Bureau of Foreign Trade treaty database; US-Taiwan Initiative on 21st-Century Trade signed June 1, 2023"
+      "verification_note": "Bureau of Foreign Trade treaty database; US-Taiwan Initiative on 21st-Century Trade signed June 1, 2023",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch15-008",
@@ -121,7 +149,11 @@
       },
       "context": "TSMC has committed approximately USD 65 billion for three fabs in Phoenix, Arizona (first fab 4nm, second 3nm/2nm, third 2nm advanced packaging). Additional investments include a Japan fab (~$8.6B in Kumamoto, operational 2024), a second Japan fab planned, and a European fab in Dresden, Germany (~EUR 10B). These investments deepen Taiwan's technology integration with allies.",
       "verified": true,
-      "verification_note": "TSMC investor presentations and DSCA notifications; Arizona investment expanded to $65B announced in November 2024"
+      "verification_note": "TSMC investor presentations and DSCA notifications; Arizona investment expanded to $65B announced in November 2024",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch15-009",
@@ -136,7 +168,11 @@
       },
       "context": "US-Taiwan bilateral goods trade reached approximately USD 116 billion in 2024, making Taiwan the US's 8th-largest trading partner. Taiwan's exports to the US are heavily concentrated in semiconductors and electronics. The US-Taiwan Initiative on 21st-Century Trade aims to strengthen trade ties across supply chains, digital trade, and labor standards.",
       "verified": true,
-      "verification_note": "US Census Bureau foreign trade statistics for Taiwan; consistent with Bureau of Foreign Trade data"
+      "verification_note": "US Census Bureau foreign trade statistics for Taiwan; consistent with Bureau of Foreign Trade data",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch15-010",
@@ -151,7 +187,11 @@
       },
       "context": "At least 9 countries have conducted naval transits through the Taiwan Strait since 2022 to demonstrate commitment to freedom of navigation: the United States, Canada, United Kingdom, France, Germany, Netherlands, Australia, Japan (JMSDF), and New Zealand. The frequency of these transits increased significantly after China's August 2022 military exercises around Taiwan.",
       "verified": true,
-      "verification_note": "CSIS AMTI transit tracker; individual transits confirmed by respective defense ministry announcements"
+      "verification_note": "CSIS AMTI transit tracker; individual transits confirmed by respective defense ministry announcements",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     }
   ]
 }
