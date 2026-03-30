@@ -1,7 +1,7 @@
 {
   "chapter": "12",
   "title": "Quantum Security",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-31",
   "statistics": [
     {
       "id": "ch12-001",
@@ -16,7 +16,11 @@
       },
       "context": "NIST published three post-quantum cryptography standards in August 2024: FIPS 203 (ML-KEM, based on CRYSTALS-Kyber for key encapsulation), FIPS 204 (ML-DSA, based on CRYSTALS-Dilithium for digital signatures), and FIPS 205 (SLH-DSA, based on SPHINCS+ for stateless hash-based signatures). A fourth algorithm (FALCON/FN-DSA) is expected as FIPS 206.",
       "verified": true,
-      "verification_note": "NIST official announcement on August 13, 2024; FIPS documents published at csrc.nist.gov"
+      "verification_note": "NIST official announcement on August 13, 2024; FIPS documents published at csrc.nist.gov",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch12-002",
@@ -31,7 +35,11 @@
       },
       "context": "NIST initiated its PQC standardization competition in December 2016 with a call for proposals. After 4 rounds of evaluation involving 82 initial submissions, the first 3 standards were finalized in August 2024. This timeline underscores the urgency of beginning migration planning now.",
       "verified": true,
-      "verification_note": "NIST PQC project timeline documented at csrc.nist.gov"
+      "verification_note": "NIST PQC project timeline documented at csrc.nist.gov",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch12-003",
@@ -46,7 +54,11 @@
       },
       "context": "The Global Risk Institute's annual survey of quantum computing experts estimates a significant probability (>50% according to some respondents) that a quantum computer capable of breaking RSA-2048 will exist within 10-15 years. The 'harvest now, decrypt later' threat means adversaries may already be collecting encrypted data for future decryption.",
       "verified": true,
-      "verification_note": "GRI Quantum Threat Timeline Report surveys leading quantum computing researchers annually"
+      "verification_note": "GRI Quantum Threat Timeline Report surveys leading quantum computing researchers annually",
+      "evidence_tier": "tier_4_forward_looking",
+      "claim_type": "scenario_or_timeline",
+      "confidence_level": "low",
+      "verification_mode": "policy_document_check"
     },
     {
       "id": "ch12-004",
@@ -61,7 +73,11 @@
       },
       "context": "Taiwan launched a 5-year quantum computing national program in 2022 with approximately TWD 8 billion in funding. The program focuses on quantum hardware (superconducting and trapped-ion qubits), quantum software/algorithms, and quantum applications. Key institutions include Academia Sinica, National Taiwan University, and ITRI.",
       "verified": true,
-      "verification_note": "NSTC and Executive Yuan announcements on the National Quantum Science and Technology Program"
+      "verification_note": "NSTC and Executive Yuan announcements on the National Quantum Science and Technology Program",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch12-005",
@@ -76,7 +92,11 @@
       },
       "context": "Taiwan's Academia Sinica and NTU demonstrated a 5-qubit superconducting quantum processor as part of the national quantum program. While modest compared to IBM (1,000+ qubits) or Google systems, this represents an important milestone in developing indigenous quantum hardware capability. Roadmap targets larger systems by 2027.",
       "verified": true,
-      "verification_note": "Reported by Academia Sinica and covered in Taiwan research institution announcements"
+      "verification_note": "Reported by Academia Sinica and covered in Taiwan research institution announcements",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch12-006",
@@ -91,7 +111,11 @@
       },
       "context": "China operates the world's longest QKD backbone network spanning over 2,000 km from Beijing to Shanghai, integrated with the Micius quantum satellite for intercity key distribution. This represents the most advanced national-scale QKD deployment and is relevant to Taiwan's security planning as a potential adversary capability.",
       "verified": true,
-      "verification_note": "Published in Nature (2021); subsequent expansions documented in Chinese Academy of Sciences publications"
+      "verification_note": "Published in Nature (2021); subsequent expansions documented in Chinese Academy of Sciences publications",
+      "evidence_tier": "tier_4_forward_looking",
+      "claim_type": "policy_target",
+      "confidence_level": "medium",
+      "verification_mode": "policy_document_check"
     },
     {
       "id": "ch12-007",
@@ -106,7 +130,11 @@
       },
       "context": "Over 30 countries have published national quantum strategies or dedicated significant funding to quantum technology development, with combined global investment exceeding USD 40 billion. Major programs include the US National Quantum Initiative (reauthorized 2024), EU Quantum Flagship (EUR 1B), and China's estimated $15B+ investment.",
       "verified": true,
-      "verification_note": "QED-C and OECD quantum policy landscape surveys; individual country announcements compiled by qureca.com"
+      "verification_note": "QED-C and OECD quantum policy landscape surveys; individual country announcements compiled by qureca.com",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch12-008",
@@ -121,7 +149,11 @@
       },
       "context": "Migration from current public-key cryptography (RSA, ECC) to post-quantum algorithms will require updating billions of devices, certificates, and protocols globally. Estimates for total migration costs range from tens to hundreds of billions of dollars over 10-20 years. Taiwan's critical semiconductor and financial infrastructure will require early migration.",
       "verified": true,
-      "verification_note": "Cost estimates vary widely; Hudson Institute and RAND analyses provide order-of-magnitude assessments"
+      "verification_note": "Cost estimates vary widely; Hudson Institute and RAND analyses provide order-of-magnitude assessments",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch12-009",
@@ -136,7 +168,11 @@
       },
       "context": "IBM unveiled its 1,121-qubit Condor processor in December 2023 and its error-corrected Heron processor architecture. IBM's roadmap targets 100,000+ qubit systems by 2033. Google demonstrated 'beyond classical' quantum computation with its Willow processor (105 qubits) in December 2024. Progress is accelerating toward cryptographically relevant systems.",
       "verified": true,
-      "verification_note": "IBM quantum roadmap published on research.ibm.com; Google Willow paper published in Nature"
+      "verification_note": "IBM quantum roadmap published on research.ibm.com; Google Willow paper published in Nature",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch12-010",
@@ -151,7 +187,11 @@
       },
       "context": "The NSA's CNSA 2.0 guidance mandates that all US national security systems must transition to post-quantum cryptography by 2035, with software/firmware systems transitioning by 2030. This timeline is relevant for Taiwan's defense systems that interoperate with US military equipment and protocols.",
       "verified": true,
-      "verification_note": "NSA CNSA 2.0 advisory published September 2022; official document available at media.defense.gov"
+      "verification_note": "NSA CNSA 2.0 advisory published September 2022; official document available at media.defense.gov",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     }
   ]
 }

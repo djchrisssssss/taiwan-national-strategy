@@ -26,7 +26,7 @@ Statistics and data points require source verification:
 
 1. Fork the repository / Fork 本倉庫
 2. Update the relevant JSON file in `data/statistics/` / 更新 `data/statistics/` 中的相關 JSON 檔案
-3. Ensure every data point includes: metric, value, unit, date, and source URL / 確保每個資料點包含：指標、數值、單位、日期與來源 URL
+3. Ensure every data point includes: metric, value, unit, date, source URL, `evidence_tier`, `claim_type`, `confidence_level`, and `verification_mode` / 確保每個資料點包含：指標、數值、單位、日期、來源 URL，以及 `evidence_tier`、`claim_type`、`confidence_level`、`verification_mode`
 4. Update the corresponding entry in `references/bibliography.json` / 更新 `references/bibliography.json` 中的對應條目
 5. Submit a pull request with a clear description / 提交 Pull Request 並附上清晰說明
 
@@ -80,6 +80,14 @@ All statistics files must conform to `data/schemas/statistics-schema.json`.
 
 所有統計檔案須符合 `data/schemas/statistics-schema.json` 定義。
 
+Recommended evidence metadata 建議證據欄位:
+
+- `verified`: whether source traceability has been checked / 是否已完成來源可追溯性檢查
+- `evidence_tier`: evidence strength tier / 證據層級
+- `claim_type`: measured statistic, estimate, target, scenario, etc. / 論點類型，例如硬統計、估計值、目標值、情境值
+- `confidence_level`: high, medium, low / 信心等級
+- `verification_mode`: official publication check, cross-source check, policy document check, etc. / 驗證方式
+
 ### Timeline CSV / 時間線 CSV
 
 Columns 欄位: `date`, `event`, `category`, `significance`, `source_id`, `notes`
@@ -87,6 +95,24 @@ Columns 欄位: `date`, `event`, `category`, `significance`, `source_id`, `notes
 ### Bibliography JSON / 參考文獻 JSON
 
 Each entry requires 每筆條目需包含: `id`, `type`, `title`, `authors`, `date`, `url`, `verified`
+
+---
+
+## AI Collaboration Disclosure / AI 協作揭露
+
+If AI tools are used in a material way, disclose them in the pull request description.
+
+若有實質使用 AI 工具，請在 Pull Request 說明中揭露。
+
+Suggested disclosure 建議揭露內容:
+
+1. Tool names / 工具名稱
+2. Usage scope / 使用範圍
+3. Human review performed afterward / 後續人工覆核內容
+
+AI tools may assist with drafting, translation, schema maintenance, validator refactoring, citation checking, or repository hygiene. They must not be treated as authoritative evidence sources, and they do not replace contributor responsibility for factual accuracy.
+
+AI 工具可用於草稿整理、翻譯、schema 維護、validator 重構、引用檢查或 repo 整理，但不得被視為權威證據來源，也不取代貢獻者對事實正確性的責任。
 
 ---
 

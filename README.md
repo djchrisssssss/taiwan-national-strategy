@@ -26,6 +26,20 @@ Employing a systems engineering methodology grounded in interdependency analysis
 
 ---
 
+## Strategic Layering / 戰略分層
+
+This repository distinguishes between the chapters that drive near-term national strategy, those that extend governance capacity, and those that serve strategic foresight. Not every chapter carries equal weight for immediate force design or budget prioritization.
+
+本專案區分近期國家戰略主軸、治理延伸模組，以及前瞻模組。不是每一章都對近期兵力設計或預算配置具有相同權重。
+
+| Layer 分層 | Chapters 章節 | Purpose 說明 |
+|----------|-------------|-------------|
+| Core Strategy Modules 核心主戰略模組 | Ch01--Ch13, Ch15, Ch17 | Core deterrence, resilience, critical infrastructure, technology leverage, external strategy, and execution sequencing. 核心嚇阻、韌性、關鍵基礎設施、技術槓桿、對外戰略與執行排序。 |
+| Governance Extension 治理延伸模組 | Ch14 | Governance design for emerging technologies, demographic security, and wartime medical/legal continuity. 新興科技、人口安全與戰時醫療／法律延續性的治理設計。 |
+| Foresight Module 前瞻模組 | Ch16 | Low-probability, high-impact anomaly governance and future-work planning; useful for preparedness, but not a driver of near-term force design. 低機率高衝擊異常治理與 future work 規劃，可供預備，但不主導近期兵力設計。 |
+
+---
+
 ## Chapters Overview / 章節總覽
 
 ### I. Overview / 一、總論
@@ -88,6 +102,10 @@ Employing a systems engineering methodology grounded in interdependency analysis
 This project maintains a structured data layer to support reproducibility and verification of all analytical claims.
 
 本專案維護結構化數據層，以支持所有分析論述的可重現性與可驗證性。
+
+Structured statistics in this repository now distinguish source traceability from evidence strength. Each data point can carry `verified`, `evidence_tier`, `claim_type`, `confidence_level`, and `verification_mode` metadata.
+
+本專案的結構化統計現在區分「來源可追溯性」與「證據強度」。每筆資料點可包含 `verified`、`evidence_tier`、`claim_type`、`confidence_level` 與 `verification_mode` 等欄位。
 
 | Resource 資源 | Path 路徑 | Description 說明 |
 |----------|------|-------------|
@@ -180,6 +198,26 @@ A machine-readable citation is available in [CITATION.cff](CITATION.cff).
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on reporting errors, updating data, improving translations, and adding new analysis. All contributions must follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
 
 歡迎各界貢獻。請閱讀 [CONTRIBUTING.md](CONTRIBUTING.md) 以了解錯誤回報、數據更新、翻譯改善與新增分析的相關規範。所有貢獻須遵循 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) 規範。
+
+---
+
+## AI Collaboration Disclosure / AI 協作揭露
+
+This project may use AI collaboration tools for drafting support, translation support, repository maintenance, schema or validator refactoring, citation cross-checking, and structural editing. AI systems are not treated as primary evidence sources. Final claims, citations, policy judgments, and publication decisions remain subject to human review and responsibility.
+
+本專案可能在文稿編修、翻譯輔助、儲存庫維護、schema 或 validator 重構、引用交叉檢查與結構整理過程中使用 AI 協作工具。AI 系統不被視為主要證據來源；所有最終論點、引文、政策判斷與發布決策，均由人工審閱並承擔責任。
+
+Contributors who materially use AI tools should disclose:
+
+使用 AI 工具進行實質協作的貢獻者應揭露：
+
+- Which tools were used. 使用了哪些工具。
+- What they were used for. 用於哪些環節。
+- What was manually reviewed afterward. 後續哪些部分經過人工覆核。
+
+Examples include, but are not limited to: ChatGPT, Claude, Codex, GitHub Copilot, and Perplexity.
+
+例如但不限於：ChatGPT、Claude、Codex、GitHub Copilot、Perplexity。
 
 ---
 

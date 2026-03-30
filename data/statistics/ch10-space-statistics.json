@@ -1,7 +1,7 @@
 {
   "chapter": "10",
   "title": "Space Capabilities",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-31",
   "statistics": [
     {
       "id": "ch10-001",
@@ -16,7 +16,11 @@
       },
       "context": "TASA (formerly NSPO, reorganized as an administrative legal entity in 2023) received approximately TWD 5.9 billion for FY2024. The third-phase National Space Program (2019-2028) has a total budget of approximately TWD 25.1 billion (~USD 780 million) over 10 years.",
       "verified": true,
-      "verification_note": "TASA/NSTC budget documents presented to the Legislative Yuan; third-phase program budget confirmed via Executive Yuan announcements"
+      "verification_note": "TASA/NSTC budget documents presented to the Legislative Yuan; third-phase program budget confirmed via Executive Yuan announcements",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch10-002",
@@ -31,7 +35,11 @@
       },
       "context": "FORMOSAT-5 was launched on August 25, 2017 on a SpaceX Falcon 9 rocket. It carries an optical remote sensing instrument (RSI) with 2-meter panchromatic and 4-meter multispectral resolution. It is Taiwan's first fully domestically designed and built remote sensing satellite, orbiting at 720 km altitude in a sun-synchronous orbit.",
       "verified": true,
-      "verification_note": "TASA official project page and launch records from SpaceX"
+      "verification_note": "TASA official project page and launch records from SpaceX",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch10-003",
@@ -46,7 +54,11 @@
       },
       "context": "FORMOSAT-7/COSMIC-2 is a joint Taiwan-US constellation of 6 satellites for GPS radio occultation weather observation, launched June 25, 2019 on a SpaceX Falcon Heavy. The constellation provides approximately 5,000 atmospheric profiles daily, significantly improving tropical weather forecasting, particularly for typhoon prediction critical to Taiwan.",
       "verified": true,
-      "verification_note": "UCAR/COSMIC program office data; NOAA and TASA joint program documentation"
+      "verification_note": "UCAR/COSMIC program office data; NOAA and TASA joint program documentation",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch10-004",
@@ -61,7 +73,11 @@
       },
       "context": "The FORMOSAT-8 program plans a constellation of 6 high-resolution optical remote sensing microsatellites (each ~300 kg) to provide near-real-time Earth observation with higher revisit rates. The program is part of Taiwan's third-phase National Space Program. First launch is expected around 2025-2026.",
       "verified": true,
-      "verification_note": "TASA third-phase National Space Program documentation and NSTC announcements"
+      "verification_note": "TASA third-phase National Space Program documentation and NSTC announcements",
+      "evidence_tier": "tier_4_forward_looking",
+      "claim_type": "policy_target",
+      "confidence_level": "medium",
+      "verification_mode": "policy_document_check"
     },
     {
       "id": "ch10-005",
@@ -76,7 +92,11 @@
       },
       "context": "TASA is developing the Triton satellite (also called the B5G satellite) as a technology demonstrator for beyond-5G/6G communications from low-Earth orbit. This is part of Taiwan's effort to develop indigenous satellite communication capabilities for resilience against submarine cable disruptions.",
       "verified": true,
-      "verification_note": "TASA program announcements and NSTC space technology development roadmap"
+      "verification_note": "TASA program announcements and NSTC space technology development roadmap",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch10-006",
@@ -91,7 +111,11 @@
       },
       "context": "Taiwan has approximately 80 companies involved in the space industry supply chain, including satellite component manufacturers, ground station operators, and space application service providers. Key companies include TSMC (radiation-hardened chips), Microsat Systems (microsatellite platforms), and several companies involved in satellite ground equipment.",
       "verified": true,
-      "verification_note": "Estimated from TASA industry survey data and Taiwan Space Industry Development Association membership"
+      "verification_note": "Estimated from TASA industry survey data and Taiwan Space Industry Development Association membership",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch10-007",
@@ -106,7 +130,11 @@
       },
       "context": "Taiwan's domestic space industry revenue remains modest compared to semiconductor or electronics sectors, but is targeted for significant growth under the third-phase National Space Program. The government aims to build a self-sustaining space industry ecosystem leveraging Taiwan's existing strengths in electronics, semiconductors, and precision manufacturing.",
       "verified": true,
-      "verification_note": "NSTC industry statistics and TASA annual reports on space industry development"
+      "verification_note": "NSTC industry statistics and TASA annual reports on space industry development",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch10-008",
@@ -121,7 +149,11 @@
       },
       "context": "TASA operates satellite ground stations in Chungli (Taoyuan), Tainan, and other locations. Additional stations are operated by Chunghwa Telecom for commercial satellite services and by the military for defense communications. Ground station redundancy is critical for satellite communication resilience.",
       "verified": true,
-      "verification_note": "TASA facility descriptions and Chunghwa Telecom satellite services information"
+      "verification_note": "TASA facility descriptions and Chunghwa Telecom satellite services information",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch10-009",
@@ -136,7 +168,11 @@
       },
       "context": "FORMOSAT-2, Taiwan's first remote sensing satellite, operated from 2004 to 2016, far exceeding its 5-year design life. It provided 2-meter resolution imagery and demonstrated Taiwan's ability to operate space assets for extended periods. It was decommissioned after attitude control system degradation.",
       "verified": true,
-      "verification_note": "TASA mission history records and decommission announcement"
+      "verification_note": "TASA mission history records and decommission announcement",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch10-010",
@@ -151,7 +187,11 @@
       },
       "context": "The global space economy reached approximately USD 570 billion in 2023/2024. Taiwan's share is less than 0.02%, but the strategic value of space capabilities for communications resilience, Earth observation, and military awareness far exceeds the direct economic contribution.",
       "verified": true,
-      "verification_note": "Space Foundation annual Space Report; corroborated by Euroconsult and Bryce Tech estimates"
+      "verification_note": "Space Foundation annual Space Report; corroborated by Euroconsult and Bryce Tech estimates",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     }
   ]
 }

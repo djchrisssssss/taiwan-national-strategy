@@ -25,6 +25,47 @@ SUPPORTED_REGISTRY_STATUSES = {"reachable", "access_restricted", "missing", "oth
 BRACKETED_REFERENCE_RE = re.compile(r"\[(src-\d{3})\]")
 STATISTIC_ID_RE = re.compile(r"^ch\d{2}-\d{3}$")
 LEGACY_SOURCE_ID_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
+CHAPTER_TAG_RE = re.compile(r"^ch(?:0[0-9]|1[0-7])$")
+VALID_EVIDENCE_TIERS = {
+    "tier_1_primary",
+    "tier_2_secondary",
+    "tier_3_estimate",
+    "tier_4_forward_looking",
+}
+VALID_CLAIM_TYPES = {
+    "measured_statistic",
+    "case_count",
+    "geographic_measurement",
+    "market_estimate",
+    "policy_target",
+    "scenario_or_timeline",
+}
+VALID_CONFIDENCE_LEVELS = {"high", "medium", "low"}
+VALID_VERIFICATION_MODES = {
+    "official_publication_check",
+    "cross_source_check",
+    "single_source_check",
+    "registry_case_check",
+    "policy_document_check",
+}
+EXPECTED_STATISTICS_FILES = {
+    "01": "ch01-geo-statistics.json",
+    "02": "ch02-semiconductor-stats.json",
+    "03": "ch03-defense-stats.json",
+    "04": "ch04-ew-statistics.json",
+    "05": "ch05-energy-stats.json",
+    "06": "ch06-food-water-stats.json",
+    "07": "ch07-biosecurity-stats.json",
+    "08": "ch08-comms-statistics.json",
+    "09": "ch09-financial-statistics.json",
+    "10": "ch10-space-statistics.json",
+    "11": "ch11-ai-statistics.json",
+    "12": "ch12-quantum-statistics.json",
+    "13": "ch13-cognitive-statistics.json",
+    "14": "ch14-ethics-stats.json",
+    "15": "ch15-international-statistics.json",
+    "16": "ch16-airspace-anomaly-stats.json",
+}
 
 
 def load_json(relative_path: str) -> object:
@@ -112,6 +153,21 @@ def validate_bibliography(errors: list[str]) -> dict[str, object]:
         if source_id in ids:
             errors.append(f"duplicate bibliography source id: {source_id}")
         ids.add(source_id)
+
+        chapters_cited = source.get("chapters_cited", [])
+        if not chapters_cited:
+            errors.append(f"bibliography source {source_id} has empty chapters_cited")
+        else:
+            invalid_chapters = [
+                chapter_id
+                for chapter_id in chapters_cited
+                if not CHAPTER_TAG_RE.fullmatch(chapter_id)
+            ]
+            if invalid_chapters:
+                errors.append(
+                    f"bibliography source {source_id} has invalid chapters_cited entries: "
+                    + ", ".join(invalid_chapters)
+                )
 
     type_counts = Counter(source["type"] for source in sources)
     doi_count = sum(1 for source in sources if source.get("doi"))
@@ -245,9 +301,27 @@ def validate_statistics(errors: list[str]) -> dict[str, object]:
     verified_points = 0
     ids: set[str] = set()
     per_file_counts: dict[str, int] = {}
+    evidence_tier_counts: Counter = Counter()
+    claim_type_counts: Counter = Counter()
+    confidence_counts: Counter = Counter()
+    verification_mode_counts: Counter = Counter()
+
+    actual_files = sorted(path.name for path in (ROOT / "data/statistics").glob("*.json"))
+    expected_files = sorted(EXPECTED_STATISTICS_FILES.values())
+    missing_files = sorted(set(expected_files) - set(actual_files))
+    unexpected_files = sorted(set(actual_files) - set(expected_files))
+    if missing_files:
+        errors.append("missing expected statistics files: " + ", ".join(missing_files))
+    if unexpected_files:
+        errors.append("unexpected statistics files present: " + ", ".join(unexpected_files))
 
     for path in sorted((ROOT / "data/statistics").glob("*.json")):
         data = json.loads(path.read_text())
+        expected_filename = EXPECTED_STATISTICS_FILES.get(data["chapter"])
+        if expected_filename and path.name != expected_filename:
+            errors.append(
+                f"{path.name} does not match canonical filename for chapter {data['chapter']}: {expected_filename}"
+            )
         validation_errors = sorted(
             validator.iter_errors(data), key=lambda err: list(err.absolute_path)
         )
@@ -266,10 +340,43 @@ def validate_statistics(errors: list[str]) -> dict[str, object]:
                 errors.append(f"duplicate statistic id: {stat_id}")
             ids.add(stat_id)
 
+            evidence_tier = stat.get("evidence_tier")
+            claim_type = stat.get("claim_type")
+            confidence_level = stat.get("confidence_level")
+            verification_mode = stat.get("verification_mode")
+
+            if evidence_tier not in VALID_EVIDENCE_TIERS:
+                errors.append(f"{path.name} statistic {stat_id} has invalid evidence_tier {evidence_tier!r}")
+            else:
+                evidence_tier_counts[evidence_tier] += 1
+
+            if claim_type not in VALID_CLAIM_TYPES:
+                errors.append(f"{path.name} statistic {stat_id} has invalid claim_type {claim_type!r}")
+            else:
+                claim_type_counts[claim_type] += 1
+
+            if confidence_level not in VALID_CONFIDENCE_LEVELS:
+                errors.append(
+                    f"{path.name} statistic {stat_id} has invalid confidence_level {confidence_level!r}"
+                )
+            else:
+                confidence_counts[confidence_level] += 1
+
+            if verification_mode not in VALID_VERIFICATION_MODES:
+                errors.append(
+                    f"{path.name} statistic {stat_id} has invalid verification_mode {verification_mode!r}"
+                )
+            else:
+                verification_mode_counts[verification_mode] += 1
+
     return {
         "total_points": total_points,
         "verified_points": verified_points,
         "per_file_counts": per_file_counts,
+        "evidence_tier_counts": evidence_tier_counts,
+        "claim_type_counts": claim_type_counts,
+        "confidence_counts": confidence_counts,
+        "verification_mode_counts": verification_mode_counts,
     }
 
 
@@ -407,6 +514,13 @@ def validate_reports(
     restricted = status_counts.get("access_restricted", 0)
     missing = status_counts.get("missing", 0)
     other = status_counts.get("other", 0)
+    tier_1 = stats_summary["evidence_tier_counts"].get("tier_1_primary", 0)
+    tier_2 = stats_summary["evidence_tier_counts"].get("tier_2_secondary", 0)
+    tier_3 = stats_summary["evidence_tier_counts"].get("tier_3_estimate", 0)
+    tier_4 = stats_summary["evidence_tier_counts"].get("tier_4_forward_looking", 0)
+    high_conf = stats_summary["confidence_counts"].get("high", 0)
+    medium_conf = stats_summary["confidence_counts"].get("medium", 0)
+    low_conf = stats_summary["confidence_counts"].get("low", 0)
 
     expectations = {
         "docs/en/verification-report.md": [
@@ -414,22 +528,38 @@ def validate_reports(
             f"| Total Sources | {total_sources} |",
             f"| Total Tracked URLs | {total_urls} |",
             f"| Total Data Points | {total_points} |",
+            f"| `tier_1_primary` | {tier_1} |",
+            f"| `tier_2_secondary` | {tier_2} |",
+            f"| `tier_3_estimate` | {tier_3} |",
+            f"| `tier_4_forward_looking` | {tier_4} |",
+            f"| `high` | {high_conf} |",
+            f"| `medium` | {medium_conf} |",
+            f"| `low` | {low_conf} |",
             f"| URL status: `reachable` | {reachable} |",
             f"| URL status: `access_restricted` | {restricted} |",
             f"| URL status: `missing` | {missing} |",
             f"| URL status: `other` | {other} |",
             f"| All {total_sources} bibliography sources have unique `id` fields (src-001 through src-{total_sources:03d}) | PASS |",
+            "Evidence tiering is now tracked separately from the binary `verified` flag.",
         ],
         "docs/zh-TW/verification-report.md": [
             f"| 報告日期 | {audit_date} |",
             f"| 來源總數 | {total_sources} |",
             f"| 追蹤 URL 總數 | {total_urls} |",
             f"| 資料點總數 | {total_points} |",
+            f"| `tier_1_primary` | {tier_1} |",
+            f"| `tier_2_secondary` | {tier_2} |",
+            f"| `tier_3_estimate` | {tier_3} |",
+            f"| `tier_4_forward_looking` | {tier_4} |",
+            f"| `high` | {high_conf} |",
+            f"| `medium` | {medium_conf} |",
+            f"| `low` | {low_conf} |",
             f"| URL狀態：`reachable` | {reachable} |",
             f"| URL狀態：`access_restricted` | {restricted} |",
             f"| URL狀態：`missing` | {missing} |",
             f"| URL狀態：`other` | {other} |",
             f"| 全部 {total_sources} 個來源具有唯一 `id` 欄位（src-001 至 src-{total_sources:03d}） | 通過 |",
+            "證據層級已與二元 `verified` 旗標分開追蹤。",
         ],
     }
 
@@ -593,6 +723,12 @@ def main() -> int:
                 "tracked_urls": registry_summary["count"],
                 "quantitative_data_points": stats_summary["total_points"],
                 "verified_data_points": stats_summary["verified_points"],
+                "evidence_tier_1_points": stats_summary["evidence_tier_counts"].get(
+                    "tier_1_primary", 0
+                ),
+                "evidence_tier_4_points": stats_summary["evidence_tier_counts"].get(
+                    "tier_4_forward_looking", 0
+                ),
                 "markdown_citation_files_checked": citation_summary["files_checked"],
                 "statistics_source_links_matched": stats_link_summary["matched"],
                 "tabular_rows_checked": tabular_summary["rows_checked"],

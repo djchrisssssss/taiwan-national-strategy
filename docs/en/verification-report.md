@@ -15,7 +15,7 @@
 
 ## 1. Executive Summary
 
-This report documents the current verification methodology and results for all structured quantitative data points used in the Taiwan National Strategy project. The repository currently tracks 180 bibliography sources, 180 auditable URLs, and 204 individually sourced statistics across 16 data-bearing chapters. All data points carry a `verified: true` flag with an accompanying verification note, and the source registry now reflects live HTTP audit categories rather than assumed validity.
+This report documents the current verification methodology and results for all structured quantitative data points used in the Taiwan National Strategy project. The repository currently tracks 180 bibliography sources, 180 auditable URLs, and 204 individually sourced statistics across 16 data-bearing chapters. All data points carry a `verified: true` flag with an accompanying verification note, but evidence strength is now tracked separately through `evidence_tier`, `claim_type`, `confidence_level`, and `verification_mode`. The source registry now reflects live HTTP audit categories rather than assumed validity.
 
 > **Note (2026-03-30)**: This report reflects the current 17-chapter full-text structure, including the new synthesis conclusion chapter, while the structured statistics layer continues to cover Ch01--Ch16. Bibliography / registry reconciliation, citation-integrity validation, and the refreshed live URL audit are all already represented in the current bibliography, statistics files, and source registry.
 
@@ -23,7 +23,8 @@ Key findings:
 
 - **Source quality is strong but concentrated.** Government and report-type sources account for 156 of 180 bibliography entries (86.7%), giving the project a heavily institutional evidence base.
 - **Live URL audit is now implemented.** The 2026-03-30 audit recorded 126 `reachable`, 27 `access_restricted`, 15 `missing`, and 12 `other` URL states.
-- **Structured data integrity is high.** All 204 statistics currently pass schema validation and remain marked `verified: true`.
+- **Structured data integrity is high.** All 204 statistics currently pass schema validation, remain marked `verified: true`, and now carry evidence-tier metadata.
+- **Evidence tiering is now explicit.** The current distribution is 124 `tier_1_primary`, 55 `tier_2_secondary`, 16 `tier_3_estimate`, and 9 `tier_4_forward_looking` data points.
 - **The main maintenance burden is link decay and gated access, not missing citations.** The biggest current verification gaps now come from 404s, redirects, timeouts, and access-restricted sources rather than absent source documentation.
 
 ---
@@ -58,12 +59,27 @@ Each data point underwent a four-step verification process:
 
 All statistics files conform to the schema defined in `data/schemas/statistics-schema.json`. The schema enforces:
 
-- Required fields: `id`, `metric`, `value`, `unit`, `date`, `source` (with `name` and `url` sub-fields)
+- Required fields: `id`, `metric`, `value`, `unit`, `date`, `source` (with `name` and `url` sub-fields), `evidence_tier`, `claim_type`, `confidence_level`, and `verification_mode`
 - ID pattern: `^ch[0-9]{2}-[0-9]{3}$`
 - Value type: `number` or `string` (accommodating both quantitative values and qualitative descriptors)
 - Optional fields: `context`, `verified`, `verification_note`, `source.doi`, `source.accessed`
 
-### 2.4 Cross-Referencing Methodology
+### 2.4 Evidence Tiering and Confidence Labels
+
+Evidence tiering is now tracked separately from the binary `verified` flag.
+
+| Field | Meaning |
+|------|---------|
+| `verified` | Source traceability has been checked and documented |
+| `tier_1_primary` | Primary official or first-party institutional record |
+| `tier_2_secondary` | Secondary analysis, think-tank material, academic synthesis, or curated database |
+| `tier_3_estimate` | Journalistic aggregation, market estimate, or third-party tracking figure |
+| `tier_4_forward_looking` | Policy target, roadmap, or forward-looking scenario benchmark |
+| `high` | Strongly anchored to the cited source, with limited ambiguity |
+| `medium` | Usable figure with caveats, estimate language, or contextual uncertainty |
+| `low` | Forward-looking or scenario-shaped figure where uncertainty is explicit |
+
+### 2.5 Cross-Referencing Methodology
 
 The bibliography (`references/bibliography.json`) and source registry (`references/source-registry.json`) serve as the dual backbone of source management:
 
@@ -88,6 +104,13 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 | Sources with DOI | 4 |
 | Sources with live URL status recorded | 180 / 180 |
 | Data points marked `verified: true` | 204 / 204 |
+| `tier_1_primary` | 124 |
+| `tier_2_secondary` | 55 |
+| `tier_3_estimate` | 16 |
+| `tier_4_forward_looking` | 9 |
+| `high` | 89 |
+| `medium` | 112 |
+| `low` | 3 |
 
 ### 3.2 Breakdown by Source Type
 
@@ -103,12 +126,29 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 
 | Status | Count | Notes |
 |--------|-------|-------|
-| `verified: true` | 204 | All data points carry verification flags |
+| `verified: true` | 204 | All data points carry source-traceability flags |
 | `verified: false` | 0 | No unverified data points remain in the dataset |
 | URL status: `reachable` | 126 | HTTP 2xx/3xx during 2026-03-30 audit |
 | URL status: `access_restricted` | 27 | HTTP 401/403 or equivalent access gating |
 | URL status: `missing` | 15 | HTTP 404 during live audit |
 | URL status: `other` | 12 | Timeouts, server errors, or unstable responses |
+
+### 3.4 Breakdown by Evidence Tier
+
+| Evidence Tier | Count | Notes |
+|---------------|-------|-------|
+| `tier_1_primary` | 124 | Government, official, or first-party institutional records |
+| `tier_2_secondary` | 55 | Think tanks, academic synthesis, curated databases, and secondary reporting layers |
+| `tier_3_estimate` | 16 | Market estimates, journalistic aggregation, or third-party trackers |
+| `tier_4_forward_looking` | 9 | Targets, projections, or forward-looking scenario benchmarks |
+
+### 3.5 Breakdown by Confidence Level
+
+| Confidence Level | Count | Notes |
+|------------------|-------|-------|
+| `high` | 89 | Limited ambiguity in the cited figure |
+| `medium` | 112 | Estimate language, methodological caveats, or bounded uncertainty |
+| `low` | 3 | Explicitly forward-looking or scenario-shaped figure |
 
 ---
 
@@ -232,9 +272,9 @@ Commercial market research with proprietary methodology; figures should be treat
 
 | Risk Category | URLs Affected | Notes |
 |---------------|:------------:|-------|
-| Access-restricted or login-gated sources | 17 | Subscription services, bot protection, and document portals can return 401/403 even when the source remains valid |
-| Missing pages | 12 | Several legacy URLs now return 404 and should be replaced with current landing pages, archives, or updated reports |
-| Other / transient failures | 8 | Timeouts, redirects, and server-side failures require periodic manual follow-up |
+| Access-restricted or login-gated sources | 27 | Subscription services, bot protection, and document portals can return 401/403 even when the source remains valid |
+| Missing pages | 15 | Several legacy URLs now return 404 and should be replaced with current landing pages, archives, or updated reports |
+| Other / transient failures | 12 | Timeouts, redirects, and server-side failures require periodic manual follow-up |
 | External tracker / third-party hosting | 1 | The Gerald C. Brown ADIZ tracker remains externally hosted and therefore more fragile than government archives |
 
 ### 6.4 Translation Accuracy
@@ -246,7 +286,7 @@ All data points were originally sourced in their language of publication (primar
 | Limitation | Impact |
 |-----------|--------|
 | Live HTTP checks are point-in-time | URL status can change because of paywalls, bot protection, redirects, or transient outages even when a source remains substantively valid |
-| Single-point-in-time audit | The bibliography, source registry, and statistics reflect the 2026-03-25 audit snapshot; data drift is expected |
+| Single-point-in-time audit | The bibliography, source registry, and statistics reflect the 2026-03-30 audit snapshot; data drift is expected |
 | Qualitative data points | Several data points use string values rather than numeric (e.g., "multiple documented", "informal but expanding") where precise quantification was not possible |
 | Estimation ranges | Some figures represent ranges (e.g., "3-5 EW brigades", "2029-2035 CRQC timeline") reflecting genuine uncertainty in the underlying data |
 
@@ -297,7 +337,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 |------|-------------|
 | Maintain live URL checking | Keep automated URL audits in CI and periodically sync `source-registry.json` with current status categories |
 | Repair or archive missing URLs | Replace current 404s with updated official pages, stable archives, or better landing pages where possible |
-| Add DOI coverage | Currently only 1 source has a DOI; seek DOI-linked versions of academic and report sources |
+| Add DOI coverage | Currently 4 sources have a DOI; seek DOI-linked versions of academic and report sources |
 | Add ISBN/ISSN identifiers | Improve long-term discoverability for book and serial sources |
 | Schema versioning | Add schema version field to enable migration tracking |
 
@@ -315,7 +355,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 | 4 | Every data point has a non-empty `source.url` field | PASS |
 | 5 | Every data point has a `date` field indicating measurement period | PASS |
 | 6 | Every data point has a `context` field providing interpretive background | PASS |
-| 7 | Every data point has `verified: true` with a `verification_note` | PASS |
+| 7 | Every data point carries `verified`, `verification_note`, `evidence_tier`, `claim_type`, `confidence_level`, and `verification_mode` metadata | PASS |
 | 8 | No duplicate IDs exist across any statistics file | PASS |
 | 9 | All statistics files are present for Ch01--Ch16 | PASS |
 | 10 | Structured verification counts are synchronized with bibliography and source registry metadata | PASS |

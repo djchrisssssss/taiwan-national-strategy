@@ -1,7 +1,7 @@
 {
   "chapter": "07",
   "title": "Biological Security — Biowarfare Threats, Biosurveillance, and Pandemic Resilience",
-  "last_updated": "2026-03-19",
+  "last_updated": "2026-03-31",
   "statistics": [
     {
       "id": "ch07-001",
@@ -16,7 +16,11 @@
       },
       "context": "The BWC, opened for signature in 1972 and entering into force in 1975, has 187 states parties as of 2024. It prohibits the development, production, and stockpiling of biological and toxin weapons. However, the BWC lacks a verification mechanism, making compliance difficult to confirm. Taiwan is not a party due to its exclusion from the United Nations system.",
       "verified": true,
-      "verification_note": "UN Office for Disarmament Affairs official records; state party count confirmed through BWC Implementation Support Unit"
+      "verification_note": "UN Office for Disarmament Affairs official records; state party count confirmed through BWC Implementation Support Unit",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch07-002",
@@ -31,7 +35,11 @@
       },
       "context": "China operates BSL-4 (Biosafety Level 4, maximum containment) laboratories in Wuhan (Wuhan Institute of Virology, operational since 2018), Harbin (Harbin Veterinary Research Institute, CAAS), and Kunming (Chinese Academy of Sciences). Additional BSL-4 facilities are under construction or planned. These laboratories handle the most dangerous known pathogens. The Wuhan BSL-4 facility is notable for its proximity to the initial COVID-19 outbreak cluster.",
       "verified": true,
-      "verification_note": "Nature reports on global BSL-4 mapping; Wuhan BSL-4 operational date confirmed by Chinese Academy of Sciences publications; Harbin facility confirmed through CAAS records"
+      "verification_note": "Nature reports on global BSL-4 mapping; Wuhan BSL-4 operational date confirmed by Chinese Academy of Sciences publications; Harbin facility confirmed through CAAS records",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "case_count",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch07-003",
@@ -46,7 +54,11 @@
       },
       "context": "The WHO reports over 7 million confirmed COVID-19 deaths globally. Excess mortality estimates from The Economist and IHME suggest the true toll may be 2-4 times higher (14-28 million). This single pathogen event caused approximately $12.5 trillion in global economic losses (IMF estimate), demonstrating the civilizational-scale impact of biological threats.",
       "verified": true,
-      "verification_note": "WHO COVID-19 Dashboard official cumulative figures; excess mortality estimates from peer-reviewed sources and IHME Global Burden of Disease"
+      "verification_note": "WHO COVID-19 Dashboard official cumulative figures; excess mortality estimates from peer-reviewed sources and IHME Global Burden of Disease",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch07-004",
@@ -61,7 +73,11 @@
       },
       "context": "Taiwan maintained community transmission near zero for approximately 15 months (January 2020 to May 2021) without a general lockdown, using border controls, contact tracing, quarantine enforcement, and mask mandates. This initial success was enabled by institutional lessons from the 2003 SARS outbreak. The subsequent Omicron wave (2022) challenged this containment model, leading to a shift toward mitigation strategy.",
       "verified": true,
-      "verification_note": "Taiwan CDC daily case reports; containment period documented in multiple peer-reviewed public health analyses (The Lancet, JAMA)"
+      "verification_note": "Taiwan CDC daily case reports; containment period documented in multiple peer-reviewed public health analyses (The Lancet, JAMA)",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch07-005",
@@ -76,7 +92,11 @@
       },
       "context": "Taiwan maintains approximately 28.9 ICU beds per 100,000 population, comparable to Germany and above the OECD average. However, during a cross-strait biological or military crisis, ICU surge capacity would face severe constraints due to potential disruption of medical supply imports, pharmaceutical supply chains, and healthcare worker availability.",
       "verified": true,
-      "verification_note": "MOHW annual healthcare statistics; OECD Health Statistics for international comparison"
+      "verification_note": "MOHW annual healthcare statistics; OECD Health Statistics for international comparison",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch07-006",
@@ -91,7 +111,11 @@
       },
       "context": "The cost of synthesizing DNA has declined approximately 10-fold per decade since the early 2000s, from over $10 per base pair to under $0.10 per base pair by 2024. This democratization of gene synthesis technology means that pathogen reconstruction and novel pathogen design become increasingly accessible to smaller state programs and non-state actors, fundamentally changing the biosecurity threat landscape.",
       "verified": true,
-      "verification_note": "National Academies report (2018); cost trends tracked by Rob Carlson's synthesis cost curves and industry benchmarks"
+      "verification_note": "National Academies report (2018); cost trends tracked by Rob Carlson's synthesis cost curves and industry benchmarks",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch07-007",
@@ -106,7 +130,11 @@
       },
       "context": "As of the 2023 ODNI declassified assessment, two US intelligence agencies (FBI with moderate confidence, DOE with low confidence) assessed that a laboratory-associated incident was the most likely origin of COVID-19. Four agencies and the National Intelligence Council assessed natural transmission as more likely (with low confidence). The CIA and another agency remained undecided. The intelligence community unanimously agreed that COVID-19 was not developed as a biological weapon.",
       "verified": true,
-      "verification_note": "ODNI publicly released declassified report (2023); Senate Select Committee on Intelligence hearings; FBI Director Christopher Wray public testimony (2023)"
+      "verification_note": "ODNI publicly released declassified report (2023); Senate Select Committee on Intelligence hearings; FBI Director Christopher Wray public testimony (2023)",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch07-008",
@@ -121,7 +149,11 @@
       },
       "context": "In March 2023, an unauthorized biological laboratory was discovered in a warehouse in Reedley, California (Fresno County), operated by Prestige Biotech Inc. with links to a Chinese national. The facility contained over 800 biological agent samples (including labeled samples of HIV, hepatitis, herpes, COVID-19, and malaria), approximately 1,000 lab mice (some genetically engineered), and inadequate biosafety containment. The U.S. House Select Committee on the CCP investigated the incident, raising broader questions about unauthorized biological research activity on US soil.",
       "verified": true,
-      "verification_note": "Fresno County Department of Public Health inspection reports; CDC investigation records; House Select Committee on the CCP public hearings and reports (2023)"
+      "verification_note": "Fresno County Department of Public Health inspection reports; CDC investigation records; House Select Committee on the CCP public hearings and reports (2023)",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch07-009",
@@ -136,7 +168,11 @@
       },
       "context": "Moved from original ch15-003 (now Ch14). Over 100 CRISPR-based clinical trials were registered globally by 2024, covering sickle cell disease, beta-thalassemia, various cancers, HIV, and genetic blindness. The first CRISPR therapy (Casgevy for sickle cell disease) received FDA approval in December 2023. While primarily therapeutic, CRISPR capabilities also represent dual-use biosecurity concerns when applied to germline modification or pathogen enhancement.",
       "verified": true,
-      "verification_note": "ClinicalTrials.gov registry search for CRISPR-related trials; FDA approval of Casgevy confirmed in December 2023"
+      "verification_note": "ClinicalTrials.gov registry search for CRISPR-related trials; FDA approval of Casgevy confirmed in December 2023",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "case_count",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch07-010",
@@ -151,7 +187,11 @@
       },
       "context": "Moved from original ch15-007 (now Ch14). Approximately 70 countries have enacted legislation prohibiting reproductive human cloning. However, no binding international treaty exists (a non-binding UN Declaration on Human Cloning was adopted in 2005), and enforcement mechanisms vary widely. The absence of enforceable international norms creates governance gaps exploitable by state actors with less restrictive regulatory environments.",
       "verified": true,
-      "verification_note": "Country counts approximate and vary by survey methodology; UNESCO Universal Declaration on the Human Genome and Human Rights (1997) provides normative framework"
+      "verification_note": "Country counts approximate and vary by survey methodology; UNESCO Universal Declaration on the Human Genome and Human Rights (1997) provides normative framework",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch07-011",
@@ -166,7 +206,11 @@
       },
       "context": "In June 2025, the DOJ unsealed an indictment charging Yunqing Jian (33, University of Michigan postdoctoral fellow) and Zunyong Liu (34) with conspiracy and smuggling Fusarium graminearum — a fungal pathogen causing head blight in wheat, barley, maize, and rice — into the United States. Customs agents discovered 10 concealed strains at Detroit Metropolitan Airport on July 27, 2024. Jian's electronics contained information describing CCP membership and loyalty. WeChat messages from 2022 revealed prior planning of smuggling methods. A related case involved Chengxuan Han, a Ph.D. student from Wuhan's Huazhong University, who admitted sending concealed biological material to the same University of Michigan laboratory. The case demonstrates the intersection of CCP-affiliated researchers, agricultural pathogen acquisition, and exploitation of the U.S. research university system.",
       "verified": true,
-      "verification_note": "DOJ Eastern District of Michigan official press release (June 2025); corroborated by ABC News, NBC News, Washington Post, and Al Jazeera reporting; FBI Counterintelligence Division conducted investigation"
+      "verification_note": "DOJ Eastern District of Michigan official press release (June 2025); corroborated by ABC News, NBC News, Washington Post, and Al Jazeera reporting; FBI Counterintelligence Division conducted investigation",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     }
   ]
 }

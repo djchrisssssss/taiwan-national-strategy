@@ -8,6 +8,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Added
 
+- `docs/revision-plan.md` as the repository-level remediation roadmap
+- AI collaboration disclosure expectations in `README.md`, `CONTRIBUTING.md`, and a PR template
+
+### Changed
+
+- Statistics schema now distinguishes source traceability from evidence strength through `evidence_tier`, `claim_type`, `confidence_level`, and `verification_mode`
+- Ch16 statistics file renamed to align with the current chapter title
+- Bibliography chapter mappings refreshed from current per-chapter references to remove legacy supplement residue
+- Validator extended to check evidence metadata, chapter tag residue, and canonical statistics filenames
+
 - **Chapter 3 expansion: Missile Defense and Hardened Infrastructure** — Two new sections added to Asymmetric Defense chapter:
   - Section 3.5: Missile Defense and Hypersonic Threats — DF-17/DF-27 threat assessment, multi-layer defense architecture analysis (Tien Kung III, PAC-3), counter-hypersonic strategies (GPI, directed energy), detection and early warning, offensive counterforce
   - Section 3.6: Hardened Infrastructure and Underground Strategy — Chiashan AFB model, eastern strategic depth, underground munitions/fuel storage, decentralized command architecture, highway runway strips, civil defense shelter modernization (Swiss/Israeli models), critical infrastructure hardening standards

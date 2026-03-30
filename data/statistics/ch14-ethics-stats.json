@@ -1,7 +1,7 @@
 {
   "chapter": "14",
   "title": "Technology Ethics — Consciousness Engineering, Reproductive Ethics, and Emerging Technology Governance",
-  "last_updated": "2026-03-19",
+  "last_updated": "2026-03-31",
   "statistics": [
     {
       "id": "ch14-001",
@@ -16,7 +16,11 @@
       },
       "context": "Approximately 10 countries have legalized some form of euthanasia or assisted dying as of 2024, including the Netherlands, Belgium, Luxembourg, Canada, Spain, Colombia, New Zealand, Australia (most states), and select US states (physician-assisted dying only). The global trend is toward expansion of eligibility criteria.",
       "verified": true,
-      "verification_note": "Country counts vary by definition (active euthanasia vs. assisted dying vs. passive euthanasia); approximate figure from legal surveys"
+      "verification_note": "Country counts vary by definition (active euthanasia vs. assisted dying vs. passive euthanasia); approximate figure from legal surveys",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch14-002",
@@ -31,7 +35,11 @@
       },
       "context": "Chile became the first country in the world to constitutionally protect neurorights in 2021, establishing protections for mental integrity, cognitive liberty, and protection from neurotechnology manipulation. This precedent is cited globally as the model for neurorights legislation.",
       "verified": true,
-      "verification_note": "Chilean constitutional amendment confirmed by Senate records; widely reported in international legal and neuroscience literature"
+      "verification_note": "Chilean constitutional amendment confirmed by Senate records; widely reported in international legal and neuroscience literature",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch14-003",
@@ -46,7 +54,11 @@
       },
       "context": "Cross-referenced from ch11-011. The global BCI market is projected to exceed $5.8 billion by 2030, encompassing medical, consumer, and military applications. Ethical governance of this market is a central concern of Chapter 14.",
       "verified": true,
-      "verification_note": "Market projections from multiple research firms; cross-referenced with ch11-011"
+      "verification_note": "Market projections from multiple research firms; cross-referenced with ch11-011",
+      "evidence_tier": "tier_4_forward_looking",
+      "claim_type": "scenario_or_timeline",
+      "confidence_level": "low",
+      "verification_mode": "policy_document_check"
     },
     {
       "id": "ch14-004",
@@ -61,7 +73,11 @@
       },
       "context": "The Convention on Certain Conventional Weapons (CCW) has discussed lethal autonomous weapons systems since 2013, producing no binding international agreement in over 11 years. This governance failure highlights the need for national-level LAWS policies.",
       "verified": true,
-      "verification_note": "UN CCW meeting records; LAWS Group of Governmental Experts established 2017"
+      "verification_note": "UN CCW meeting records; LAWS Group of Governmental Experts established 2017",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch14-005",
@@ -76,7 +92,11 @@
       },
       "context": "Taiwan's Patient Autonomy Act (病人自主權利法) was enacted in 2019, making Taiwan the first country in Asia to establish a legal framework for advance directive-based end-of-life decisions. The Act allows advance directives but does not legalize active euthanasia.",
       "verified": true,
-      "verification_note": "Ministry of Health and Welfare official implementation records; first Asian jurisdiction with such legislation"
+      "verification_note": "Ministry of Health and Welfare official implementation records; first Asian jurisdiction with such legislation",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch14-006",
@@ -91,7 +111,11 @@
       },
       "context": "Cross-referenced from ch11-013. Neuralink has implanted its N1 BCI device in human participants under FDA Investigational Device Exemption. The ethical implications of invasive BCI deployment are a central concern of Section 14.2.",
       "verified": true,
-      "verification_note": "Cross-referenced with ch11-013; Neuralink public announcements"
+      "verification_note": "Cross-referenced with ch11-013; Neuralink public announcements",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "case_count",
+      "confidence_level": "medium",
+      "verification_mode": "cross_source_check"
     },
     {
       "id": "ch14-007",
@@ -106,7 +130,11 @@
       },
       "context": "Taiwan's total fertility rate of approximately 0.87 in 2024 is among the lowest globally. This demographic crisis intersects with surrogacy and reproductive technology policy (Section 15.4) as part of a comprehensive demographic security strategy.",
       "verified": true,
-      "verification_note": "Ministry of the Interior population statistics; Taiwan consistently ranks among the world's lowest fertility countries"
+      "verification_note": "Ministry of the Interior population statistics; Taiwan consistently ranks among the world's lowest fertility countries",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch14-008",
@@ -121,7 +149,11 @@
       },
       "context": "Only a limited number of jurisdictions worldwide permit commercial surrogacy with regulatory frameworks, including some US states, Georgia, and (until 2022) Ukraine. The Hague Conference has been working on an international framework since 2015 but no convention has been adopted. Taiwan currently prohibits commercial surrogacy.",
       "verified": true,
-      "verification_note": "Hague Conference Parentage/Surrogacy Project documentation; comparative legal analysis of surrogacy regulation"
+      "verification_note": "Hague Conference Parentage/Surrogacy Project documentation; comparative legal analysis of surrogacy regulation",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "chapter": "05",
   "title": "Energy Security and Infrastructure Vulnerability",
-  "last_updated": "2026-03-19",
+  "last_updated": "2026-03-31",
   "data_note": "Statistics compiled from publicly available sources. Web verification was unavailable at compilation time; URLs point to known authoritative publication pages. Users should verify current figures at listed sources.",
   "statistics": [
     {
@@ -17,7 +17,11 @@
       },
       "context": "Taiwan imports approximately 97-98% of its primary energy, making it one of the most energy-import-dependent economies in the world. Virtually all coal, oil, natural gas, and uranium are imported. Only hydropower, solar, wind, and biomass are domestic sources.",
       "verified": true,
-      "verification_note": "BOE Energy Statistics Data Book; figure has been consistently 97-98% for the past decade"
+      "verification_note": "BOE Energy Statistics Data Book; figure has been consistently 97-98% for the past decade",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch05-002",
@@ -32,7 +36,11 @@
       },
       "context": "Natural gas has become Taiwan's largest source of electricity, surpassing coal. Under the government's energy transition policy (targeting 50% gas, 30% coal, 20% renewables by 2025), gas generation has risen from ~33% in 2017 to ~43% in 2024. This growing gas dependence increases vulnerability to supply disruptions.",
       "verified": true,
-      "verification_note": "Taipower and BOE publish monthly generation statistics; target mix is official policy"
+      "verification_note": "Taipower and BOE publish monthly generation statistics; target mix is official policy",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch05-003",
@@ -47,7 +55,11 @@
       },
       "context": "Taiwan's LNG storage capacity provides only approximately 7-11 days of national consumption, depending on seasonal demand. This is critically low compared to Japan (approximately 20+ days) and South Korea (approximately 30+ days). Taiwan operates two LNG receiving terminals: Yung-An (Kaohsiung) and Taichung. A third terminal at Guantang (Taoyuan) has been controversial. The extremely short reserve duration means any naval blockade could create energy crises within days.",
       "verified": true,
-      "verification_note": "Storage duration widely cited in energy security analyses; varies seasonally (summer peak demand reduces reserve days)"
+      "verification_note": "Storage duration widely cited in energy security analyses; varies seasonally (summer peak demand reduces reserve days)",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch05-004",
@@ -62,7 +74,11 @@
       },
       "context": "Coal reserves at power plants provide approximately 36 days of generation capacity. Coal is stored at plant sites. While longer than LNG reserves, this still represents a vulnerability in a prolonged blockade scenario.",
       "verified": true,
-      "verification_note": "Taipower reports coal stockpile levels; exact reserve days fluctuate seasonally"
+      "verification_note": "Taipower reports coal stockpile levels; exact reserve days fluctuate seasonally",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch05-005",
@@ -77,7 +93,11 @@
       },
       "context": "Taiwan maintains a combined government and industry petroleum reserve of approximately 100-146 days of net imports (government mandate is 60 days minimum for industry, plus CPC strategic stocks). This is the most resilient of Taiwan's energy reserves, partly because Taiwan has refining capacity.",
       "verified": true,
-      "verification_note": "IEA tracks oil security for non-member associate countries including Taiwan; exact figure depends on methodology"
+      "verification_note": "IEA tracks oil security for non-member associate countries including Taiwan; exact figure depends on methodology",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch05-006",
@@ -92,7 +112,11 @@
       },
       "context": "Taiwan had approximately 2.3-2.5 GW of offshore wind installed by end of 2024, making it the largest offshore wind market in Asia-Pacific outside China. Major operational wind farms include Formosa 1 (128 MW), Formosa 2 (376 MW), Greater Changhua 1&2a (900 MW, Orsted), and Yunlin (640 MW, wpd). The government targets 5.6 GW by 2025 (likely to be missed) and 20.5 GW by 2035.",
       "verified": true,
-      "verification_note": "GWEC Global Offshore Wind Report tracks installed capacity; individual project capacities from developer announcements"
+      "verification_note": "GWEC Global Offshore Wind Report tracks installed capacity; individual project capacities from developer announcements",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch05-007",
@@ -107,7 +131,11 @@
       },
       "context": "Taiwan's offshore wind roadmap: Phase I demonstration (completed), Phase II site allocation 5.6 GW by 2025 (behind schedule), Phase III zonal development targeting 15 GW additional capacity from 2026-2035, for a total of approximately 20.5 GW by 2035.",
       "verified": true,
-      "verification_note": "Official policy target from BOE; actual deployment is behind original schedule"
+      "verification_note": "Official policy target from BOE; actual deployment is behind original schedule",
+      "evidence_tier": "tier_4_forward_looking",
+      "claim_type": "policy_target",
+      "confidence_level": "medium",
+      "verification_mode": "policy_document_check"
     },
     {
       "id": "ch05-008",
@@ -122,7 +150,11 @@
       },
       "context": "Taiwan's cumulative installed solar PV capacity reached approximately 12-13 GW by end of 2024. The government's original target was 20 GW solar by 2025, which will not be met. Solar deployment has faced challenges including limited land area, typhoon damage risk, farmland use restrictions, and grid connection issues. Fishery-solar and rooftop installations are expanding.",
       "verified": true,
-      "verification_note": "BOE publishes monthly renewable energy statistics; figure approximate pending final 2024 data"
+      "verification_note": "BOE publishes monthly renewable energy statistics; figure approximate pending final 2024 data",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch05-009",
@@ -137,7 +169,11 @@
       },
       "context": "Taiwan's total installed electricity generation capacity is approximately 59-60 GW, including thermal (coal, gas, oil), nuclear, hydro, solar, and wind. Peak demand typically reaches 38-40 GW in summer, leaving a reserve margin that has occasionally dropped below the target 15%.",
       "verified": true,
-      "verification_note": "Taipower publishes system capacity and reserve margin data"
+      "verification_note": "Taipower publishes system capacity and reserve margin data",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch05-010",
@@ -152,7 +188,11 @@
       },
       "context": "Nuclear power's share has declined as plants are decommissioned under the nuclear-free 2025 policy. Jinshan NPP (1&2) was decommissioned 2018-2019. Kuosheng NPP Unit 2 license expired in March 2023. Maanshan NPP units scheduled for decommission by 2025. As of 2024, only Maanshan units remain operational, contributing approximately 6% of generation. The nuclear phase-out policy has been politically controversial, with the KMT advocating for nuclear energy extension.",
       "verified": true,
-      "verification_note": "Nuclear generation percentage from Taipower monthly reports; decommission timeline from Atomic Energy Council"
+      "verification_note": "Nuclear generation percentage from Taipower monthly reports; decommission timeline from Atomic Energy Council",
+      "evidence_tier": "tier_4_forward_looking",
+      "claim_type": "scenario_or_timeline",
+      "confidence_level": "medium",
+      "verification_mode": "policy_document_check"
     },
     {
       "id": "ch05-011",
@@ -167,7 +207,11 @@
       },
       "context": "Industry accounts for over half of Taiwan's electricity consumption, reflecting the energy-intensive semiconductor, petrochemical, and steel industries. Services consume approximately 18-19%, residential approximately 18-19%, and transportation/other approximately 6-7%.",
       "verified": true,
-      "verification_note": "BOE Energy Statistics Data Book published annually"
+      "verification_note": "BOE Energy Statistics Data Book published annually",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch05-012",
@@ -182,7 +226,11 @@
       },
       "context": "TSMC consumed approximately 23.6 TWh in 2023, representing roughly 7-9% of Taiwan's total electricity consumption (~270 TWh). This share is projected to grow as TSMC expands 3nm and 2nm capacity, which use more power per wafer. By some estimates, TSMC's consumption could reach 12-15% of Taiwan's total by 2030.",
       "verified": true,
-      "verification_note": "TSMC publishes electricity consumption in ESG reports; share calculation based on Taiwan total from BOE"
+      "verification_note": "TSMC publishes electricity consumption in ESG reports; share calculation based on Taiwan total from BOE",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch05-013",
@@ -197,7 +245,11 @@
       },
       "context": "Taiwan's total electricity consumption has grown steadily, reaching approximately 270-280 TWh annually. Growth is driven primarily by semiconductor manufacturing expansion and data center construction.",
       "verified": true,
-      "verification_note": "Taipower and BOE publish annual consumption figures"
+      "verification_note": "Taipower and BOE publish annual consumption figures",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch05-014",
@@ -212,7 +264,11 @@
       },
       "context": "The IAEA tracks over 80 SMR designs at various stages of development worldwide. These range from light-water designs (NuScale, BWRX-300) to advanced concepts (molten salt, lead-cooled, high-temperature gas-cooled). Key milestones include NuScale receiving US NRC design certification in 2023 and China's HTR-PM demonstration reactor connecting to the grid.",
       "verified": true,
-      "verification_note": "IAEA SMR Booklet updated annually; exact count varies by inclusion criteria"
+      "verification_note": "IAEA SMR Booklet updated annually; exact count varies by inclusion criteria",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch05-015",
@@ -227,7 +283,11 @@
       },
       "context": "SMRs are defined by the IAEA as reactors with electrical output below 300 MWe. Designs range from micro-reactors (1-10 MWe, suitable for remote locations) to mid-range SMRs (50-300 MWe, suitable for grid-scale power). NuScale VOYGR is 77 MWe per module (up to 12 modules = 924 MWe). GE-Hitachi BWRX-300 is 300 MWe. The modular nature allows scaling to match grid requirements.",
       "verified": true,
-      "verification_note": "IAEA and WNA definitions consistent; individual design specifications from vendor publications"
+      "verification_note": "IAEA and WNA definitions consistent; individual design specifications from vendor publications",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "cross_source_check"
     },
     {
       "id": "ch05-016",
@@ -242,7 +302,11 @@
       },
       "context": "Most SMR designs feature fuel cycles of 18-24 months between refueling, with some advanced designs (e.g., micro-reactors) extending to 10-20 years without refueling. This contrasts sharply with Taiwan's LNG reserve of 7-11 days, making nuclear fuel the most blockade-resilient energy source by a wide margin.",
       "verified": true,
-      "verification_note": "Fuel cycle durations from vendor specifications; varies significantly by design type"
+      "verification_note": "Fuel cycle durations from vendor specifications; varies significantly by design type",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch05-017",
@@ -257,7 +321,11 @@
       },
       "context": "ITER is the world's largest fusion experiment, a collaboration of 35 nations under construction in southern France. Originally estimated at EUR 5 billion, costs have escalated to approximately USD 22 billion. First plasma has been delayed to the early 2030s. ITER aims to demonstrate net energy gain (Q≥10) from a magnetically confined deuterium-tritium plasma.",
       "verified": true,
-      "verification_note": "ITER Organization official cost and schedule updates; confirmed by ITER Council reports and GAO assessments"
+      "verification_note": "ITER Organization official cost and schedule updates; confirmed by ITER Council reports and GAO assessments",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch05-018",
@@ -272,7 +340,11 @@
       },
       "context": "The Fusion Industry Association's 2024 survey reports over USD 6.2 billion in cumulative private investment across 43+ fusion companies worldwide. Major recipients include Commonwealth Fusion Systems (~$2B), Helion Energy (~$577M+), TAE Technologies (~$1.2B), and Tokamak Energy. Investment accelerated significantly after the NIF ignition milestone in December 2022.",
       "verified": true,
-      "verification_note": "Fusion Industry Association annual survey; cross-referenced with Crunchbase and PitchBook funding data"
+      "verification_note": "Fusion Industry Association annual survey; cross-referenced with Crunchbase and PitchBook funding data",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "cross_source_check"
     },
     {
       "id": "ch05-019",
@@ -287,7 +359,11 @@
       },
       "context": "On December 5, 2022, the National Ignition Facility achieved fusion ignition for the first time in a laboratory setting. The experiment delivered 2.05 MJ of laser energy to a deuterium-tritium target and produced approximately 3.15 MJ of fusion energy output — a gain factor of ~1.5. This was a scientific milestone; the total facility energy consumption (~300 MJ) far exceeded the output, so commercial viability requires a fundamentally different approach.",
       "verified": true,
-      "verification_note": "Published in Physical Review Letters; confirmed by DOE and LLNL press releases"
+      "verification_note": "Published in Physical Review Letters; confirmed by DOE and LLNL press releases",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch05-020",
@@ -302,7 +378,11 @@
       },
       "context": "The fusion industry has grown from fewer than 10 private companies in 2015 to over 43 in 2024, pursuing diverse approaches including tokamaks, stellarators, field-reversed configurations, inertial confinement, and magnetized target fusion. This private sector surge complements government programs and accelerates the timeline toward commercial fusion.",
       "verified": true,
-      "verification_note": "Fusion Industry Association member directory and annual survey"
+      "verification_note": "Fusion Industry Association member directory and annual survey",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch05-021",
@@ -317,7 +397,11 @@
       },
       "context": "The NorNed cable between Norway and the Netherlands is 580 km long, transmitting 700 MW at ±450 kV DC. It has been operational since 2008. Even longer HVDC projects are under development, including the North Sea Link (Norway-UK, 720 km, operational 2021) and proposed Australia-Singapore Sun Cable (~4,200 km). These demonstrate the technical feasibility of long-distance submarine power transmission relevant to a potential Taiwan-Japan or Taiwan-Philippines interconnection.",
       "verified": true,
-      "verification_note": "TenneT and Statnett public documentation; NorNed operational data"
+      "verification_note": "TenneT and Statnett public documentation; NorNed operational data",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch05-022",
@@ -332,7 +416,11 @@
       },
       "context": "Yonaguni Island (Japan's westernmost territory) is approximately 111 km from Taiwan's northeastern coast, making a Taiwan-Japan HVDC submarine cable interconnection technically straightforward by modern standards. Existing HVDC cables (NorNed 580 km, North Sea Link 720 km) far exceed this distance. A 1-2 GW interconnection could provide mutual emergency power backup and enhance both nations' energy resilience.",
       "verified": true,
-      "verification_note": "Geographic distance calculation; consistent with maritime charts"
+      "verification_note": "Geographic distance calculation; consistent with maritime charts",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "geographic_measurement",
+      "confidence_level": "medium",
+      "verification_mode": "cross_source_check"
     },
     {
       "id": "ch05-023",
@@ -347,7 +435,11 @@
       },
       "context": "JAXA has been developing space-based solar power (SBSP) technology since the 2000s. Their roadmap targets a ground-based wireless power transmission demonstration and aims for a 1 GW commercial SBSP system. In 2024, JAXA successfully demonstrated microwave power transmission over a distance of approximately 50 meters. While commercial deployment remains decades away, SBSP represents a theoretically blockade-immune energy source for island nations like Japan and Taiwan.",
       "verified": true,
-      "verification_note": "JAXA SBSP research program documentation; ground demonstration results reported in Japanese media and JAXA press releases"
+      "verification_note": "JAXA SBSP research program documentation; ground demonstration results reported in Japanese media and JAXA press releases",
+      "evidence_tier": "tier_4_forward_looking",
+      "claim_type": "policy_target",
+      "confidence_level": "medium",
+      "verification_mode": "policy_document_check"
     }
   ]
 }

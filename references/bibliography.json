@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Taiwan National Strategy — Master Bibliography",
     "total_sources": 180,
-    "last_updated": "2026-03-30"
+    "last_updated": "2026-03-31"
   },
   "sources": [
     {
@@ -165,7 +165,7 @@
       "doi": null,
       "chapters_cited": [
         "ch01",
-        "ch12"
+        "ch15"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -199,8 +199,8 @@
       "doi": null,
       "chapters_cited": [
         "ch02",
-        "ch10",
-        "ch12"
+        "ch11",
+        "ch15"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -233,7 +233,7 @@
       "doi": null,
       "chapters_cited": [
         "ch02",
-        "ch12"
+        "ch15"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -316,7 +316,7 @@
       "doi": null,
       "chapters_cited": [
         "ch02",
-        "ch05"
+        "ch08"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -350,8 +350,8 @@
       "doi": null,
       "chapters_cited": [
         "ch02",
-        "ch10",
-        "ch12"
+        "ch11",
+        "ch15"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -452,7 +452,7 @@
       "chapters_cited": [
         "ch03",
         "ch04",
-        "ch12"
+        "ch15"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -468,8 +468,7 @@
       "url": "https://crsreports.congress.gov/",
       "doi": null,
       "chapters_cited": [
-        "ch03",
-        "ch04"
+        "ch03"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -534,7 +533,7 @@
       "doi": null,
       "chapters_cited": [
         "ch04",
-        "ch05"
+        "ch08"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -567,7 +566,7 @@
       "url": "https://www.submarinecablemap.com/",
       "doi": null,
       "chapters_cited": [
-        "ch05"
+        "ch08"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -583,7 +582,7 @@
       "url": "https://www.reuters.com/world/asia-pacific/taiwans-matsu-islands-cut-off-internet-after-subsea-cables-severed-2023-03-07/",
       "doi": null,
       "chapters_cited": [
-        "ch05"
+        "ch08"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -599,7 +598,7 @@
       "url": "https://www.cht.com.tw/en/home/cht/about-cht/news-center",
       "doi": null,
       "chapters_cited": [
-        "ch05"
+        "ch08"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -615,7 +614,7 @@
       "url": "https://www.twnic.tw/en/",
       "doi": null,
       "chapters_cited": [
-        "ch05"
+        "ch08"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -632,7 +631,7 @@
       "url": "https://planet4589.org/space/con/star/stats.html",
       "doi": null,
       "chapters_cited": [
-        "ch05"
+        "ch08"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -648,7 +647,7 @@
       "url": "https://www.iscpc.org/",
       "doi": null,
       "chapters_cited": [
-        "ch05"
+        "ch08"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -664,7 +663,7 @@
       "url": "https://www.cbc.gov.tw/en/cp-495-157937-5a498-2.html",
       "doi": null,
       "chapters_cited": [
-        "ch06"
+        "ch09"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -680,7 +679,7 @@
       "url": "https://www.cbc.gov.tw/en/cp-915-158412-4c5dd-2.html",
       "doi": null,
       "chapters_cited": [
-        "ch06"
+        "ch09"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -696,7 +695,7 @@
       "url": "https://www.fsc.gov.tw/en/",
       "doi": null,
       "chapters_cited": [
-        "ch06"
+        "ch09"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -713,7 +712,7 @@
       "url": "https://www.triple-a.io/crypto-ownership-data",
       "doi": null,
       "chapters_cited": [
-        "ch06"
+        "ch09"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -729,7 +728,7 @@
       "url": "https://www.twse.com.tw/en/",
       "doi": null,
       "chapters_cited": [
-        "ch06"
+        "ch09"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -745,7 +744,7 @@
       "url": "https://www.swift.com/",
       "doi": null,
       "chapters_cited": [
-        "ch06"
+        "ch09"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -761,8 +760,8 @@
       "url": "https://www.trade.gov.tw/english/",
       "doi": null,
       "chapters_cited": [
-        "ch06",
-        "ch12"
+        "ch09",
+        "ch15"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -778,7 +777,7 @@
       "url": "https://www.cbc.gov.tw/en/cp-864-135422-2f07b-2.html",
       "doi": null,
       "chapters_cited": [
-        "ch06"
+        "ch09"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -794,7 +793,7 @@
       "url": "https://www.gold.org/goldhub/data/monthly-central-bank-statistics",
       "doi": null,
       "chapters_cited": [
-        "ch06"
+        "ch09"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -811,7 +810,7 @@
       "url": "https://www.moeaboe.gov.tw/ECW_WEBPAGE/FlipBook/2024EnergyStatisticalDataBook/",
       "doi": null,
       "chapters_cited": [
-        "ch07"
+        "ch05"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -827,7 +826,7 @@
       "url": "https://www.taipower.com.tw/en/page.aspx?mid=4494",
       "doi": null,
       "chapters_cited": [
-        "ch07"
+        "ch05"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -843,7 +842,7 @@
       "url": "https://www.cpc.com.tw/en/",
       "doi": null,
       "chapters_cited": [
-        "ch07"
+        "ch05"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -859,7 +858,7 @@
       "url": "https://www.iea.org/articles/oil-security-in-non-iea-countries",
       "doi": null,
       "chapters_cited": [
-        "ch07"
+        "ch05"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -875,7 +874,7 @@
       "url": "https://gwec.net/global-offshore-wind-report/",
       "doi": null,
       "chapters_cited": [
-        "ch07"
+        "ch05"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -892,7 +891,7 @@
       "url": "https://www.moeaboe.gov.tw/",
       "doi": null,
       "chapters_cited": [
-        "ch07"
+        "ch05"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -908,8 +907,8 @@
       "url": "https://esg.tsmc.com/en/resources/documents.html",
       "doi": null,
       "chapters_cited": [
-        "ch07",
-        "S1"
+        "ch05",
+        "ch06"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -925,7 +924,7 @@
       "url": "https://www.tasa.org.tw/en/",
       "doi": null,
       "chapters_cited": [
-        "ch08"
+        "ch10"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -942,7 +941,7 @@
       "url": "https://www.cosmic.ucar.edu/what-we-do/cosmic-2/",
       "doi": null,
       "chapters_cited": [
-        "ch08"
+        "ch10"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -958,9 +957,9 @@
       "url": "https://www.nstc.gov.tw/",
       "doi": null,
       "chapters_cited": [
-        "ch08",
-        "ch09",
-        "ch10"
+        "ch10",
+        "ch11",
+        "ch12"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -976,7 +975,7 @@
       "url": "https://www.spacefoundation.org/2024/07/30/the-space-report-2024/",
       "doi": null,
       "chapters_cited": [
-        "ch08"
+        "ch10"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -992,7 +991,7 @@
       "url": "https://csrc.nist.gov/projects/post-quantum-cryptography",
       "doi": null,
       "chapters_cited": [
-        "ch09"
+        "ch12"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1008,7 +1007,7 @@
       "url": "https://globalriskinstitute.org/publication/quantum-threat-timeline-report-2023/",
       "doi": null,
       "chapters_cited": [
-        "ch09"
+        "ch12"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1025,7 +1024,7 @@
       "url": "https://www.sinica.edu.tw/en",
       "doi": null,
       "chapters_cited": [
-        "ch09"
+        "ch12"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1041,7 +1040,7 @@
       "url": "https://doi.org/10.1038/s41586-020-03093-8",
       "doi": "10.1038/s41586-020-03093-8",
       "chapters_cited": [
-        "ch09"
+        "ch12"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1057,7 +1056,7 @@
       "url": "https://quantumconsortium.org/",
       "doi": null,
       "chapters_cited": [
-        "ch09"
+        "ch12"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1073,7 +1072,7 @@
       "url": "https://www.hudson.org/technology/quantum-computing-and-post-quantum-cryptography",
       "doi": null,
       "chapters_cited": [
-        "ch09"
+        "ch12"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1089,7 +1088,7 @@
       "url": "https://research.ibm.com/blog/ibm-quantum-roadmap-2025",
       "doi": null,
       "chapters_cited": [
-        "ch09"
+        "ch12"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1105,7 +1104,7 @@
       "url": "https://media.defense.gov/2022/Sep/07/2003071834/-1/-1/0/CSA_CNSA_2.0_ALGORITHMS_.PDF",
       "doi": null,
       "chapters_cited": [
-        "ch09"
+        "ch12"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1121,7 +1120,7 @@
       "url": "https://www.nchc.org.tw/en/",
       "doi": null,
       "chapters_cited": [
-        "ch10"
+        "ch11"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1138,7 +1137,7 @@
       "url": "https://www.scopus.com/",
       "doi": null,
       "chapters_cited": [
-        "ch10"
+        "ch11"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1154,7 +1153,7 @@
       "url": "https://www.digitimes.com/",
       "doi": null,
       "chapters_cited": [
-        "ch10"
+        "ch11"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1170,7 +1169,7 @@
       "url": "https://aiacademy.tw/en/",
       "doi": null,
       "chapters_cited": [
-        "ch10"
+        "ch11"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1186,7 +1185,7 @@
       "url": "https://www.honhai.com/en-us/investor-relations",
       "doi": null,
       "chapters_cited": [
-        "ch10"
+        "ch11"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1202,7 +1201,7 @@
       "url": "https://www.arizton.com/",
       "doi": null,
       "chapters_cited": [
-        "ch10"
+        "ch11"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1218,7 +1217,7 @@
       "url": "https://aiindex.stanford.edu/report/",
       "doi": null,
       "chapters_cited": [
-        "ch10"
+        "ch11"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1235,7 +1234,7 @@
       "url": "https://doublethinklab.org/",
       "doi": null,
       "chapters_cited": [
-        "ch11"
+        "ch13"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1252,7 +1251,7 @@
       "url": "https://datareportal.com/reports/digital-2024-taiwan",
       "doi": null,
       "chapters_cited": [
-        "ch11"
+        "ch13"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1268,7 +1267,7 @@
       "url": "https://linecorp.com/en/",
       "doi": null,
       "chapters_cited": [
-        "ch11"
+        "ch13"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1285,7 +1284,7 @@
       "url": "https://www.poynter.org/ifcn/",
       "doi": null,
       "chapters_cited": [
-        "ch11"
+        "ch13"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1301,7 +1300,7 @@
       "url": "https://www.edu.tw/",
       "doi": null,
       "chapters_cited": [
-        "ch11"
+        "ch13"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1317,7 +1316,7 @@
       "url": "https://iorg.tw/en",
       "doi": null,
       "chapters_cited": [
-        "ch11"
+        "ch13"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1333,7 +1332,7 @@
       "url": "https://tfc-taiwan.org.tw/",
       "doi": null,
       "chapters_cited": [
-        "ch11"
+        "ch13"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1349,7 +1348,7 @@
       "url": "https://www.nics.nat.gov.tw/",
       "doi": null,
       "chapters_cited": [
-        "ch11"
+        "ch13"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1365,7 +1364,7 @@
       "url": "https://www.v-dem.net/",
       "doi": null,
       "chapters_cited": [
-        "ch11"
+        "ch13"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1381,7 +1380,7 @@
       "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024",
       "doi": null,
       "chapters_cited": [
-        "ch11"
+        "ch13"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1397,7 +1396,7 @@
       "url": "https://www.mofa.gov.tw/en/AlliesIndex.aspx",
       "doi": null,
       "chapters_cited": [
-        "ch12"
+        "ch15"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1413,7 +1412,7 @@
       "url": "https://www.csis.org/analysis/taiwan-intelligence-sharing-and-us-policy",
       "doi": null,
       "chapters_cited": [
-        "ch12"
+        "ch15"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1429,7 +1428,7 @@
       "url": "https://www.census.gov/foreign-trade/balance/c5830.html",
       "doi": null,
       "chapters_cited": [
-        "ch12"
+        "ch15"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1445,7 +1444,7 @@
       "url": "https://agrstat.coa.gov.tw/sdweb/public/trade/tradereport.aspx",
       "doi": null,
       "chapters_cited": [
-        "S1"
+        "ch06"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1461,7 +1460,7 @@
       "url": "https://agrstat.coa.gov.tw/",
       "doi": null,
       "chapters_cited": [
-        "S1"
+        "ch06"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1477,7 +1476,7 @@
       "url": "https://fas.usda.gov/data/taiwan",
       "doi": null,
       "chapters_cited": [
-        "S1"
+        "ch06"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1494,7 +1493,7 @@
       "url": "https://www.wra.gov.tw/en/",
       "doi": null,
       "chapters_cited": [
-        "S1"
+        "ch06"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1510,7 +1509,7 @@
       "url": "https://www.cwa.gov.tw/V8E/",
       "doi": null,
       "chapters_cited": [
-        "S1"
+        "ch06"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1526,7 +1525,7 @@
       "url": "https://www.fao.org/aquastat/en/databases/",
       "doi": null,
       "chapters_cited": [
-        "S1"
+        "ch06"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1542,7 +1541,7 @@
       "url": "https://www.afa.gov.tw/en/",
       "doi": null,
       "chapters_cited": [
-        "S1"
+        "ch06"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -1559,7 +1558,7 @@
       "url": "https://agrstat.coa.gov.tw/",
       "doi": null,
       "chapters_cited": [
-        "S1"
+        "ch06"
       ],
       "verified": true,
       "last_checked": "2025-07-15"
@@ -2145,6 +2144,7 @@
       "url": "https://clinicaltrials.gov/",
       "doi": null,
       "chapters_cited": [
+        "ch07",
         "ch14"
       ],
       "id": "src-131",
@@ -2193,6 +2193,7 @@
       "url": "https://www.unesco.org/",
       "doi": null,
       "chapters_cited": [
+        "ch07",
         "ch14"
       ],
       "id": "src-134",
@@ -2257,6 +2258,7 @@
       "url": "https://www.nature.com/articles/d41586-019-01786-3",
       "doi": null,
       "chapters_cited": [
+        "ch07",
         "ch14"
       ],
       "id": "src-138",
@@ -2503,7 +2505,8 @@
       "url": "https://clinicaltrials.gov/",
       "doi": null,
       "chapters_cited": [
-        "ch07"
+        "ch07",
+        "ch14"
       ],
       "id": "src-153",
       "verified": true,
@@ -2519,7 +2522,8 @@
       "url": "https://www.unesco.org/",
       "doi": null,
       "chapters_cited": [
-        "ch07"
+        "ch07",
+        "ch14"
       ],
       "id": "src-154",
       "verified": true,
@@ -2535,7 +2539,8 @@
       "url": "https://www.nature.com/articles/d41586-019-01786-3",
       "doi": null,
       "chapters_cited": [
-        "ch07"
+        "ch07",
+        "ch14"
       ],
       "id": "src-155",
       "verified": true,

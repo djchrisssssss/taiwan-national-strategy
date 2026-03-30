@@ -94,25 +94,27 @@ The risks described above do not exist in isolation. Energy disruption leads to 
 
 ## Multi-Domain Overview
 
-| Chapter | Domain | Core Issues |
-|---------|--------|-------------|
-| Chapter 1 | Geostrategic Position | First Island Chain node value, Bashi Channel control, role as regional public good |
-| Chapter 2 | Semiconductor Leverage | Advanced node irreplaceability, industrial concentration risk, technology interdependency networks |
-| Chapter 3 | Asymmetric Defense | Cost-exchange ratios, submarine denial, unmanned systems, indigenous mass production, missile defense and counter-hypersonic strategy, hardened infrastructure and underground facilities |
-| Chapter 4 | Electromagnetic Spectrum Warfare | Spectrum dominance, anti-jamming communications, electronic countermeasure systems |
-| Chapter 5 | Energy Security and Power Resilience | Import dependence, insufficient reserves, nuclear power and fusion, advanced energy transmission, microgrid decentralization, renewable energy transition |
-| Chapter 6 | Food & Water Security | Food self-sufficiency, water resource constraints, semiconductor ultrapure water demands, critical infrastructure protection |
-| Chapter 7 | Biological Security | Biowarfare threats, CCP biological programs, agricultural bioterrorism, genetic modification security, synthetic biology dual-use risks, pandemic preparedness |
-| Chapter 8 | Communications Resilience | Submarine cable vulnerability, LEO satellite backup, high-frequency radio, mesh networks |
-| Chapter 9 | Financial & Digital Resilience | Sanctions defense, digital assets, blockchain data preservation, sovereign blockchain infrastructure, CBDC |
-| Chapter 10 | Space Capabilities | Indigenous small satellite constellation, space situational awareness, space-based communications integration |
-| Chapter 11 | AI & Distributed Computing | Intelligence fusion, autonomous defense, distributed computing architectures, blockchain-AI integration |
-| Chapter 12 | Quantum Security | Post-quantum cryptography migration, quantum key distribution, long-term data confidentiality protection |
-| Chapter 13 | Cognitive Defense | CCP cognitive warfare command structure, deepfake threats, platform infiltration, economic coercion, institutional infiltration, media literacy, social trust infrastructure |
-| Chapter 14 | Technology Ethics | BCI consciousness engineering ethics, euthanasia, surrogacy, autonomous weapons governance, anticipatory technology governance |
-| Chapter 15 | International Linkages | Building indispensability through technological interdependence, intelligence cooperation, democratic values |
-| Chapter 16 | Airspace Anomaly Governance and Strategic Foresight | UAP investigation, sensor integration, airspace anomaly governance, low-probability high-impact contingencies |
-| Chapter 17 | Whole-of-Strategy Conclusion | National priority stack, sequencing, cross-ministerial responsibility allocation, and execution discipline |
+| Chapter | Domain | Layer | Core Issues |
+|---------|--------|-------|-------------|
+| Chapter 1 | Geostrategic Position | Core | First Island Chain node value, Bashi Channel control, role as regional public good |
+| Chapter 2 | Semiconductor Leverage | Core | Advanced node irreplaceability, industrial concentration risk, technology interdependency networks |
+| Chapter 3 | Asymmetric Defense | Core | Cost-exchange ratios, submarine denial, unmanned systems, indigenous mass production, missile defense and counter-hypersonic strategy, hardened infrastructure and underground facilities |
+| Chapter 4 | Electromagnetic Spectrum Warfare | Core | Spectrum dominance, anti-jamming communications, electronic countermeasure systems |
+| Chapter 5 | Energy Security and Power Resilience | Core | Import dependence, insufficient reserves, nuclear power and fusion, advanced energy transmission, microgrid decentralization, renewable energy transition |
+| Chapter 6 | Food & Water Security | Core | Food self-sufficiency, water resource constraints, semiconductor ultrapure water demands, critical infrastructure protection |
+| Chapter 7 | Biological Security | Core | Biowarfare threats, CCP biological programs, agricultural bioterrorism, genetic modification security, synthetic biology dual-use risks, pandemic preparedness |
+| Chapter 8 | Communications Resilience | Core | Submarine cable vulnerability, LEO satellite backup, high-frequency radio, mesh networks |
+| Chapter 9 | Financial & Digital Resilience | Core | Sanctions defense, digital assets, blockchain data preservation, sovereign blockchain infrastructure, CBDC |
+| Chapter 10 | Space Capabilities | Core | Indigenous small satellite constellation, space situational awareness, space-based communications integration |
+| Chapter 11 | AI & Distributed Computing | Core | Intelligence fusion, autonomous defense, distributed computing architectures, blockchain-AI integration |
+| Chapter 12 | Quantum Security | Core | Post-quantum cryptography migration, quantum key distribution, long-term data confidentiality protection |
+| Chapter 13 | Cognitive Defense | Core | CCP cognitive warfare command structure, deepfake threats, platform infiltration, economic coercion, institutional infiltration, media literacy, social trust infrastructure |
+| Chapter 14 | Technology Ethics | Governance Extension | BCI consciousness engineering ethics, euthanasia, surrogacy, autonomous weapons governance, anticipatory technology governance |
+| Chapter 15 | International Linkages | Core | Building indispensability through technological interdependence, intelligence cooperation, democratic values |
+| Chapter 16 | Airspace Anomaly Governance and Strategic Foresight | Foresight Module | UAP investigation, sensor integration, airspace anomaly governance, low-probability high-impact contingencies |
+| Chapter 17 | Whole-of-Strategy Conclusion | Core | National priority stack, sequencing, cross-ministerial responsibility allocation, and execution discipline |
+
+**Reading Layers**: Chapters 1-13, 15, and 17 form the core national-security strategy modules; Chapter 14 functions as a governance and social-resilience extension; Chapter 16 is a foresight and low-probability high-impact module. This layering does not reduce the importance of any chapter, but it helps readers distinguish near-term priorities, institutional-governance questions, and future-work planning.
 
 Each chapter follows the same decision template: background/current state, structural risks, policy recommendations, and cross-chapter linkages. Some chapters merge the first two steps when the subject demands it, but the analytical logic remains consistent. Policy recommendations in each chapter are categorized by time horizon — short-term (1-2 years), medium-term (3-5 years), and long-term (5-10 years) — and annotated with priority levels and estimated resource requirements.
 
@@ -1849,6 +1851,10 @@ Establish a continuous monitoring and early warning system for food and water re
 
 > **Key Takeaway**: Biological threats represent one of the most asymmetric and strategically consequential risk domains facing Taiwan. The convergence of synthetic biology capabilities, the CCP's documented dual-use biological infrastructure, the civilizational-scale vulnerabilities exposed by COVID-19, and Taiwan's geographic and demographic exposure demand a dedicated biological security framework spanning threat assessment, biosurveillance, agricultural defense, pandemic preparedness, and international cooperation.
 
+**Evidence Boundary Note**: This chapter combines official data, international-organization reporting, academic literature, intelligence assessments, and policy inference. Wherever possible, confirmed facts are anchored to direct sources; where the text moves into strategic judgment or contested narratives, it should be read as risk assessment under public-information constraints rather than as proof of a single conclusive story.
+
+**How to Read This Chapter**: Separate verified facts, reasonable inference, scenario assumptions, and policy implications. The early sections lean on public records and institutional evidence; passages on COVID origins, PLA intent, and future threat pathways are risk inferences; discussion of future outbreak patterns is scenario framing; and the policy recommendations translate that risk picture into institutional design.
+
 ---
 
 ## 7.1 The Biological Threat Landscape
@@ -1890,6 +1896,8 @@ The PLA Academy of Military Medical Sciences (AMMS) is the primary institution r
 **COVID-19 Origins: Structural Evidence and Strategic Implications**
 
 The origin of SARS-CoV-2 remains one of the most consequential unresolved scientific questions of the 21st century, with direct implications for biological security threat assessment.
+
+For policy purposes, the point of this section is not to claim a single definitive conclusion. It is to show that when origin questions remain unresolved and PRC transparency is incomplete, Taiwan's biological-security planning cannot exclude low-probability but high-consequence risks such as laboratory accidents or governance failures.
 
 **The furin cleavage site anomaly**: SARS-CoV-2 possesses a polybasic furin cleavage site (FCS) at the S1/S2 boundary of its spike protein — a feature absent in all other known sarbecoviruses (the subgenus that includes SARS-CoV and its relatives). This FCS enhances the virus's ability to infect human cells and is a key determinant of its pathogenicity. The presence of this feature has been central to the scientific debate: proponents of a natural origin hypothesis argue that similar insertions have occurred in other coronavirus genera through recombination, while proponents of a laboratory-associated hypothesis note that FCS insertion is a standard technique in gain-of-function research and that the Wuhan Institute of Virology (WIV) was conducting research on bat coronaviruses involving chimeric virus construction.
 
@@ -3889,6 +3897,10 @@ Cognitive defense is not a standalone domain. The CCP's cognitive warfare operat
 
 **Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
 
+**Evidence Boundary Note**: This chapter treats BCI, euthanasia, and surrogacy as issues of demographic security, medical governance, family law, civil-military boundaries, and wartime resilience. Compared with the military or energy chapters, the evidence base here relies more heavily on comparative law, normative analysis, and anticipatory governance; the aim is to clarify institutional logic and preparedness requirements, not to imply that every ethical risk is already quantified.
+
+**How to Read This Chapter**: Comparative law and current institutions provide the factual baseline; linking euthanasia, surrogacy, and BCI to demographic security, medical governance, and wartime legal continuity is a layer of reasonable inference; discussion of artificial wombs, consciousness engineering, or crisis parentage disputes belongs to scenario planning; and the policy section turns those risks into governance preparation.
+
 ---
 
 ## 14.1 The Ethics Imperative for a Technology Democracy
@@ -4395,6 +4407,10 @@ The purpose of this architecture is not to distribute diplomatic attention evenl
 
 **Framing Statement**: This chapter addresses unidentified anomalous phenomena (UAP) as an operational problem of airspace safety, sovereignty, and evidence management. Taiwan's Taipei FIR provided approximately 1.64 million air traffic control services in 2024 [192], while Taiwan's drone-management regime covered more than 38,000 registered corporate drones and more than 23,000 cumulative activity applications as of early 2025 [193]. In such a dense environment, the first analytical task is not extraordinary interpretation but disciplined triage of aircraft, drones, balloons, atmospheric effects, electronic artifacts, gray-zone incursions, and genuinely unresolved cases.
 
+**Evidence Boundary Note**: This chapter prioritizes airspace-governance questions that have official records or clear institutional analogues. When it discusses ontologically unresolved or extremely low-probability high-impact scenarios, those sections should be read as foresight planning and contingency thinking, not as definitive claims about the underlying phenomena.
+
+**How to Read This Chapter**: Taiwan airspace data, international institutions, and drone-governance figures are the verified baseline; linking anomalous reports to gray-zone probing, sensor gaps, and cognitive risk is a layer of reasonable inference; low-probability high-impact cases are scenario assumptions; and the chapter's recommendations are meant to convert uncertainty into durable airspace-governance capacity.
+
 ---
 
 ## 16.1 International Institutional Landscape
@@ -4507,6 +4523,8 @@ The distinction matters. Keeping these topics in a future-work lane prevents spe
 > **Core Thesis**: The value of this strategy does not lie in presenting seventeen separate policy wish lists. It lies in collapsing them into executable national programs. What Taiwan needs is a clear priority stack, sequenced implementation, and a cross-ministerial structure in which the Executive Yuan, National Security Council, and line ministries share responsibility for delivery.
 
 **Template**: Background/current state -> structural risks -> policy recommendations -> cross-chapter linkages. Some chapters merge the first two steps where needed, but the decision logic remains consistent.
+
+**Layering Closure**: This chapter consolidates Chapters 1-13 and 15 into a core national-security program stack. Chapter 14 is retained as a governance-extension module within demographic, medical, and institutional resilience, while Chapter 16 remains a foresight module that informs sensor, reporting, and contingency planning without displacing the core strategy.
 
 ---
 

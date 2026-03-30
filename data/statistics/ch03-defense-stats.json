@@ -1,7 +1,7 @@
 {
   "chapter": "03",
   "title": "Defense Capabilities and Military Modernization",
-  "last_updated": "2026-03-20",
+  "last_updated": "2026-03-31",
   "data_note": "Statistics compiled from publicly available sources. Web verification was unavailable at compilation time; URLs point to known authoritative publication pages. Users should verify current figures at listed sources.",
   "statistics": [
     {
@@ -17,7 +17,11 @@
       },
       "context": "Taiwan's FY2025 defense budget was approximately NT$647 billion (including special budgets), representing about 2.45% of GDP. The base MND budget was approximately NT$471 billion, with additional special procurement budgets. This represents a significant increase from FY2024's NT$606 billion.",
       "verified": true,
-      "verification_note": "Figures from Executive Yuan budget submission and MND public statements; includes special budgets for asymmetric capabilities"
+      "verification_note": "Figures from Executive Yuan budget submission and MND public statements; includes special budgets for asymmetric capabilities",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch03-002",
@@ -32,7 +36,11 @@
       },
       "context": "When including special procurement budgets, Taiwan's defense spending reaches approximately 2.4-2.5% of GDP. The base MND budget alone is approximately 1.7-1.8% of GDP. Taiwan has been increasing defense spending annually in response to growing PLA threats.",
       "verified": true,
-      "verification_note": "Calculation depends on inclusion/exclusion of special budgets; base budget alone is lower"
+      "verification_note": "Calculation depends on inclusion/exclusion of special budgets; base budget alone is lower",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch03-003",
@@ -47,7 +55,11 @@
       },
       "context": "The first IDS submarine, Hai Kun (SS-711), was launched on September 28, 2023, at CSBC's Kaohsiung shipyard. The 2,500-ton diesel-electric submarine is undergoing sea trials. Taiwan plans to build a total of 8 indigenous submarines to replace its aging fleet of 2 Hai Lung-class (Dutch-built, 1980s) and 2 WWII-era Guppy-class boats. Total program cost is estimated at approximately NT$493.6 billion ($16 billion USD).",
       "verified": true,
-      "verification_note": "Hai Kun launch widely reported by international media; program details from MND and Legislative Yuan budget documents"
+      "verification_note": "Hai Kun launch widely reported by international media; program details from MND and Legislative Yuan budget documents",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch03-004",
@@ -62,7 +74,11 @@
       },
       "context": "The Hai Kun has an estimated submerged displacement of approximately 2,500-3,000 tons. Specific capabilities are classified but it is reported to feature modern sonar, torpedoes, and potentially submarine-launched anti-ship missiles (Harpoon variants).",
       "verified": true,
-      "verification_note": "Displacement figures from CSBC unveiling and defense media reporting; exact specifications classified"
+      "verification_note": "Displacement figures from CSBC unveiling and defense media reporting; exact specifications classified",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch03-005",
@@ -77,7 +93,11 @@
       },
       "context": "Taiwan's active-duty military has approximately 170,000-188,000 personnel across Army (~94,000), Navy (~40,000), Air Force (~35,000), and other services. The force has been transitioning from conscription to an all-volunteer force since 2018, though mandatory military service was extended back to one year starting January 2024.",
       "verified": true,
-      "verification_note": "IISS Military Balance is the standard reference; figures also reported by SIPRI and Taiwan MND"
+      "verification_note": "IISS Military Balance is the standard reference; figures also reported by SIPRI and Taiwan MND",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch03-006",
@@ -92,7 +112,11 @@
       },
       "context": "Taiwan maintains a registered reserve force of approximately 2.3 million. However, actual combat-ready reserves are significantly fewer, estimated at 300,000-500,000 with adequate training. Taiwan has been reforming its reserve system since 2022, extending reserve training from 5-7 days to 14 days annually.",
       "verified": true,
-      "verification_note": "Total registered reserve widely cited; combat-ready subset is an estimate from defense analysts"
+      "verification_note": "Total registered reserve widely cited; combat-ready subset is an estimate from defense analysts",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch03-007",
@@ -107,7 +131,11 @@
       },
       "context": "President Tsai Ing-wen announced in December 2022 that mandatory military service would be extended from 4 months to 1 year, effective January 1, 2024, for men born after 2005. The extended service includes enhanced combat training modeled partly on U.S. Marine Corps and Ukrainian asymmetric warfare lessons.",
       "verified": true,
-      "verification_note": "Announced by President Tsai on December 27, 2022; implemented January 1, 2024"
+      "verification_note": "Announced by President Tsai on December 27, 2022; implemented January 1, 2024",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch03-008",
@@ -122,7 +150,11 @@
       },
       "context": "Taiwan has accelerated drone procurement following lessons from the Ukraine-Russia war. Plans include procurement of approximately 3,400+ military UAVs across attack, surveillance, and loitering munition categories from 2024-2028. NCSIST is developing indigenous models including the Chien Hsiang (Brave Eagle) loitering munition and Teng Yun MALE UAV. A civilian drone national team of companies has also been established.",
       "verified": true,
-      "verification_note": "Drone numbers from MND budget documents and media briefings; exact procurement numbers evolve with annual budget allocations"
+      "verification_note": "Drone numbers from MND budget documents and media briefings; exact procurement numbers evolve with annual budget allocations",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "case_count",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch03-009",
@@ -137,7 +169,11 @@
       },
       "context": "In October 2020, DSCA notified Congress of a $2.37 billion sale of 400 Harpoon Coastal Defense Systems (HCDS) and associated equipment to Taiwan. This includes 400 RGM-84L-4 Harpoon Block II surface-launched missiles, 100 Harpoon Block II missiles for air launch, 4 mobile coastal defense batteries, plus radar, C2, and logistics support. Delivery timeline extends through mid-2020s.",
       "verified": true,
-      "verification_note": "DSCA notification to Congress is public record; delivery timeline subject to production schedules"
+      "verification_note": "DSCA notification to Congress is public record; delivery timeline subject to production schedules",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch03-010",
@@ -152,7 +188,11 @@
       },
       "context": "U.S. arms sales to Taiwan have accelerated significantly. Major packages include F-16V upgrades ($8B, 2019), Harpoon HCDS ($2.37B, 2020), M1A2T Abrams tanks ($2B, 2019), and various missile defense, drone, and asymmetric systems. The U.S. maintains a substantial backlog of undelivered orders to Taiwan.",
       "verified": true,
-      "verification_note": "Cumulative figure from DSCA notifications; actual deliveries lag behind approved sales"
+      "verification_note": "Cumulative figure from DSCA notifications; actual deliveries lag behind approved sales",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch03-011",
@@ -167,7 +207,11 @@
       },
       "context": "As of 2024, the backlog of approved but undelivered U.S. arms to Taiwan is estimated at approximately $19-20 billion. This backlog has drawn significant political attention and concerns about Taiwan's readiness. Key delayed items include F-16V deliveries and various missile systems.",
       "verified": true,
-      "verification_note": "Backlog estimates from CRS reports and CSIS analysis; exact figure varies by source and counting methodology"
+      "verification_note": "Backlog estimates from CRS reports and CSIS analysis; exact figure varies by source and counting methodology",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch03-012",
@@ -182,7 +226,11 @@
       },
       "context": "The HF-III is a Mach 2+ ramjet-powered supersonic anti-ship cruise missile developed by NCSIST. It is deployed on multiple naval platforms and coastal launchers. Range is estimated at 300+ km. Taiwan also deploys the subsonic Hsiung Feng II (150 km range) and is developing the Hsiung Feng IIE land-attack variant (1,000+ km range, reported).",
       "verified": true,
-      "verification_note": "Exact specifications classified; range estimates from defense publications and NCSIST exhibitions"
+      "verification_note": "Exact specifications classified; range estimates from defense publications and NCSIST exhibitions",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch03-013",
@@ -197,7 +245,11 @@
       },
       "context": "The PLA Rocket Force deploys an estimated 1,000-1,500 SRBMs within range of Taiwan, concentrated in bases in Fujian, Jiangxi, and Guangdong provinces. This estimate includes DF-11A (CSS-7 Mod 2), DF-15B (CSS-6 Mod 2), and DF-16 (CSS-11) variants. The total number has remained roughly stable as the PLARF shifts emphasis toward more capable medium-range and hypersonic systems.",
       "verified": true,
-      "verification_note": "Estimate range from DoD annual report to Congress and IISS Military Balance; exact figures classified"
+      "verification_note": "Estimate range from DoD annual report to Congress and IISS Military Balance; exact figures classified",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch03-014",
@@ -212,7 +264,11 @@
       },
       "context": "The DF-17 is a medium-range ballistic missile with a hypersonic glide vehicle (HGV) payload, first paraded in October 2019. It has an estimated range of 1,800-2,500 km and can maneuver at speeds exceeding Mach 5 during its glide phase. The HGV's ability to perform lateral maneuvers during terminal approach makes it significantly harder to intercept than conventional ballistic reentry vehicles.",
       "verified": true,
-      "verification_note": "Speed and range estimates from CSIS Missile Threat Project, IISS, and DoD reports; exact specifications classified"
+      "verification_note": "Speed and range estimates from CSIS Missile Threat Project, IISS, and DoD reports; exact specifications classified",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch03-015",
@@ -227,7 +283,11 @@
       },
       "context": "PAC-3 MSE (Missile Segment Enhanced) interceptors cost approximately $3-4 million per unit. Taiwan has received PAC-3 systems as part of multiple arms sales packages. The cost-exchange ratio is unfavorable for missile defense: a $3-4M interceptor against a $500K-$1M attacking SRBM, compounded by the need for multiple interceptors per target for acceptable kill probability.",
       "verified": true,
-      "verification_note": "Cost estimates from CRS reports and DSCA notifications; costs vary by contract and configuration"
+      "verification_note": "Cost estimates from CRS reports and DSCA notifications; costs vary by contract and configuration",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch03-016",
@@ -242,7 +302,11 @@
       },
       "context": "Chiashan AFB in Hualien County is Taiwan's premier hardened air base, with underground hangars carved into mountain rock. Capable of sheltering fighter aircraft (F-16V, Mirage 2000) from missile strikes with blast doors and tunnel runway access. Its east coast location provides geographic shielding from direct missile trajectories from the Chinese mainland.",
       "verified": true,
-      "verification_note": "Existence and general capability widely reported; specific capacity classified"
+      "verification_note": "Existence and general capability widely reported; specific capacity classified",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch03-017",
@@ -257,7 +321,11 @@
       },
       "context": "Taiwan has designated over 90,000 locations as civil defense shelters, including building basements, underground parking structures, MRT stations, and other underground spaces. Total shelter capacity is estimated to accommodate the majority of the population in major urban areas. However, most are improvised designations rather than purpose-built shelters and lack NBC filtration, medical supplies, and independent communications.",
       "verified": true,
-      "verification_note": "Shelter count from National Police Agency and Ministry of the Interior public data; quality assessment from civil defense analyst reports"
+      "verification_note": "Shelter count from National Police Agency and Ministry of the Interior public data; quality assessment from civil defense analyst reports",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch03-018",
@@ -272,7 +340,11 @@
       },
       "context": "The Hsiung Sheng (雄昇) is a reported ground-launched land-attack cruise missile developed by NCSIST. Estimated range exceeds 1,000 km, potentially reaching targets deep in eastern China including PLARF bases and command facilities. Development of this offensive counterforce capability represents a significant shift in Taiwan's defense posture from pure defense to credible counter-strike.",
       "verified": true,
-      "verification_note": "Existence widely reported in Taiwanese and international defense media; exact specifications classified; range estimates vary by source"
+      "verification_note": "Existence widely reported in Taiwanese and international defense media; exact specifications classified; range estimates vary by source",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch03-019",
@@ -287,7 +359,11 @@
       },
       "context": "The Central Mountain Range runs approximately 340 km north-south through Taiwan, with over 200 peaks exceeding 3,000 meters. Yushan (Jade Mountain) at 3,952 meters is the highest point. This terrain provides natural shielding for east coast military facilities, significant radar shadowing effects against western-approach threats, and extensive opportunities for underground facility construction.",
       "verified": true,
-      "verification_note": "Geographic data well-established and publicly available"
+      "verification_note": "Geographic data well-established and publicly available",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     }
   ]
 }

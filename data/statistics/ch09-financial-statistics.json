@@ -1,7 +1,7 @@
 {
   "chapter": "09",
   "title": "Financial and Digital Resilience",
-  "last_updated": "2026-03-19",
+  "last_updated": "2026-03-31",
   "statistics": [
     {
       "id": "ch09-001",
@@ -16,7 +16,11 @@
       },
       "context": "Taiwan's foreign exchange reserves stood at approximately USD 577 billion as of December 2024, ranking 5th globally after China, Japan, Switzerland, and India. These reserves provide critical financial buffer capacity in a crisis scenario.",
       "verified": true,
-      "verification_note": "Central Bank of ROC publishes monthly reserves data; figure cross-referenced with IMF COFER database"
+      "verification_note": "Central Bank of ROC publishes monthly reserves data; figure cross-referenced with IMF COFER database",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch09-002",
@@ -31,7 +35,11 @@
       },
       "context": "At approximately 74.5% of GDP, Taiwan's reserve-to-GDP ratio is among the highest globally, reflecting both export competitiveness and deliberate accumulation as a strategic buffer. The reserves could fund approximately 18 months of imports.",
       "verified": true,
-      "verification_note": "Calculated from CBC reserves data and DGBAS GDP figures"
+      "verification_note": "Calculated from CBC reserves data and DGBAS GDP figures",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch09-003",
@@ -46,7 +54,11 @@
       },
       "context": "The Central Bank of Taiwan completed Phase 2 of its CBDC pilot in 2024, testing a two-tier wholesale/retail digital NT dollar system. The pilot involved select financial institutions and simulated retail transactions. No firm timeline for full deployment has been announced; the bank is evaluating results and international CBDC developments.",
       "verified": true,
-      "verification_note": "Confirmed via CBC CBDC research reports and governor statements at Legislative Yuan hearings"
+      "verification_note": "Confirmed via CBC CBDC research reports and governor statements at Legislative Yuan hearings",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch09-004",
@@ -61,7 +73,11 @@
       },
       "context": "Taiwan's banking sector held approximately TWD 63.4 trillion in total assets as of Q3 2024. The sector includes 37 domestic banks and 28 foreign bank branches. The financial system is well-capitalized with average capital adequacy ratios exceeding Basel III requirements.",
       "verified": true,
-      "verification_note": "FSC publishes quarterly banking statistics; figures consistent with CBC Financial Stability Report"
+      "verification_note": "FSC publishes quarterly banking statistics; figures consistent with CBC Financial Stability Report",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch09-005",
@@ -76,7 +92,11 @@
       },
       "context": "Approximately 5-6% of Taiwan's adult population holds cryptocurrency, representing roughly 1.34 million people. Taiwan ranks moderately in global crypto adoption. The FSC has implemented registration requirements for virtual asset service providers (VASPs) and anti-money laundering regulations for crypto exchanges.",
       "verified": true,
-      "verification_note": "Triple-A and Chainalysis estimates; consistent with FSC VASP registration data showing ~26 registered exchanges"
+      "verification_note": "Triple-A and Chainalysis estimates; consistent with FSC VASP registration data showing ~26 registered exchanges",
+      "evidence_tier": "tier_3_estimate",
+      "claim_type": "market_estimate",
+      "confidence_level": "medium",
+      "verification_mode": "cross_source_check"
     },
     {
       "id": "ch09-006",
@@ -91,7 +111,11 @@
       },
       "context": "The TWSE reached approximately USD 2.2 trillion market capitalization by end of 2024, driven significantly by the semiconductor sector. TSMC alone accounts for approximately 30% of the total index weight, creating concentration risk.",
       "verified": true,
-      "verification_note": "TWSE publishes daily market statistics; market cap figures widely reported by financial media"
+      "verification_note": "TWSE publishes daily market statistics; market cap figures widely reported by financial media",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch09-007",
@@ -106,7 +130,11 @@
       },
       "context": "All major Taiwan domestic banks are connected to SWIFT for international payment messaging. Taiwan processes significant cross-border payment volumes, particularly for trade settlement. Disruption to SWIFT access (whether through technical attack or sanctions-like exclusion) would severely impact Taiwan's trade-dependent economy.",
       "verified": true,
-      "verification_note": "Based on FSC domestic bank count and SWIFT BIC directory listings for Taiwan entities"
+      "verification_note": "Based on FSC domestic bank count and SWIFT BIC directory listings for Taiwan entities",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch09-008",
@@ -121,7 +149,11 @@
       },
       "context": "Taiwan's total goods trade exceeded USD 900 billion in 2024, with exports around USD 480 billion and imports around USD 427 billion. The trade surplus underscores Taiwan's export dependency and the critical role of financial infrastructure in processing international payments.",
       "verified": true,
-      "verification_note": "Bureau of Foreign Trade monthly trade statistics; consistent with customs data from DGBAS"
+      "verification_note": "Bureau of Foreign Trade monthly trade statistics; consistent with customs data from DGBAS",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch09-009",
@@ -136,7 +168,11 @@
       },
       "context": "Taiwan's real-time gross settlement (RTGS) system and other payment systems process trillions of TWD daily. The CBC operates the CBC Interbank Funds Transfer System (CIFS) and manages the Financial Information Service Co. (FISC) infrastructure for interbank clearing.",
       "verified": true,
-      "verification_note": "CBC payment systems annual report provides transaction volume statistics"
+      "verification_note": "CBC payment systems annual report provides transaction volume statistics",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch09-010",
@@ -151,7 +187,11 @@
       },
       "context": "Taiwan holds approximately 422 tonnes of gold reserves, ranking 13th globally. Gold represents approximately 4-5% of total reserves. Gold provides a sanctions-resistant store of value that does not depend on any single country's financial infrastructure.",
       "verified": true,
-      "verification_note": "World Gold Council publishes quarterly central bank gold holdings data; CBC confirms holdings"
+      "verification_note": "World Gold Council publishes quarterly central bank gold holdings data; CBC confirms holdings",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     },
     {
       "id": "ch09-011",
@@ -166,7 +206,11 @@
       },
       "context": "Estonia's e-Residency program has enrolled over 110,000 digital residents from 180+ countries since launch in 2014. Estonia's X-Road platform underpins 99% of government services digitally, and the country's KSI Blockchain secures government data integrity. This model demonstrates a small nation leveraging digital sovereignty as a strategic asset — directly relevant to Taiwan's positioning.",
       "verified": true,
-      "verification_note": "e-Estonia official statistics; e-Residency dashboard public data"
+      "verification_note": "e-Estonia official statistics; e-Residency dashboard public data",
+      "evidence_tier": "tier_2_secondary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "medium",
+      "verification_mode": "single_source_check"
     },
     {
       "id": "ch09-012",
@@ -181,7 +225,11 @@
       },
       "context": "The European Blockchain Services Infrastructure (EBSI) involves all 27 EU member states plus Norway and Liechtenstein (29 total). EBSI provides cross-border public services including verifiable credentials, document traceability, and trusted data sharing. The multi-national architecture demonstrates how sovereign blockchain can facilitate international interoperability — a model for Taiwan's regional integration strategy.",
       "verified": true,
-      "verification_note": "European Commission EBSI official documentation and European Blockchain Partnership membership list"
+      "verification_note": "European Commission EBSI official documentation and European Blockchain Partnership membership list",
+      "evidence_tier": "tier_1_primary",
+      "claim_type": "measured_statistic",
+      "confidence_level": "high",
+      "verification_mode": "official_publication_check"
     }
   ]
 }
