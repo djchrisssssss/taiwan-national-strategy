@@ -106,13 +106,17 @@ If AI tools are used in a material way, disclose them in the pull request descri
 
 Suggested disclosure 建議揭露內容:
 
-1. Tool names / 工具名稱
+1. Tool and model names / 工具與模型名稱
 2. Usage scope / 使用範圍
 3. Human review performed afterward / 後續人工覆核內容
 
-AI tools may assist with drafting, translation, schema maintenance, validator refactoring, citation checking, or repository hygiene. They must not be treated as authoritative evidence sources, and they do not replace contributor responsibility for factual accuracy.
+Recommended naming format: `Claude Code (Opus 4)`, `Codex (GPT-5.4)`.
 
-AI 工具可用於草稿整理、翻譯、schema 維護、validator 重構、引用檢查或 repo 整理，但不得被視為權威證據來源，也不取代貢獻者對事實正確性的責任。
+建議命名格式：`Claude Code (Opus 4)`、`Codex (GPT-5.4)`。
+
+AI tools may assist with drafting, translation, schema maintenance, validator refactoring, citation checking, or repository hygiene. Recent repository work has used `Claude Code (Opus 4)` and `Codex (GPT-5.4)` in exactly these support roles. They must not be treated as authoritative evidence sources, and they do not replace contributor responsibility for factual accuracy.
+
+AI 工具可用於草稿整理、翻譯、schema 維護、validator 重構、引用檢查或 repo 整理；近期儲存庫修訂亦曾以 `Claude Code (Opus 4)` 與 `Codex (GPT-5.4)` 扮演這類輔助角色。但它們不得被視為權威證據來源，也不取代貢獻者對事實正確性的責任。
 
 ---
 

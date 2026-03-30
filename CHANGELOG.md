@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Ch16 statistics file renamed to align with the current chapter title
 - Bibliography chapter mappings refreshed from current per-chapter references to remove legacy supplement residue
 - Validator extended to check evidence metadata, chapter tag residue, and canonical statistics filenames
+- AI collaboration disclosure text now records `Claude Code (Opus 4)` and `Codex (GPT-5.4)` as concrete repository-assistance examples
 
 - **Chapter 3 expansion: Missile Defense and Hardened Infrastructure** — Two new sections added to Asymmetric Defense chapter:
   - Section 3.5: Missile Defense and Hypersonic Threats — DF-17/DF-27 threat assessment, multi-layer defense architecture analysis (Tien Kung III, PAC-3), counter-hypersonic strategies (GPI, directed energy), detection and early warning, offensive counterforce

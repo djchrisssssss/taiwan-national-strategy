@@ -203,21 +203,21 @@ Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 
 ## AI Collaboration Disclosure / AI 協作揭露
 
-This project may use AI collaboration tools for drafting support, translation support, repository maintenance, schema or validator refactoring, citation cross-checking, and structural editing. AI systems are not treated as primary evidence sources. Final claims, citations, policy judgments, and publication decisions remain subject to human review and responsibility.
+This project may use AI collaboration tools for drafting support, translation support, repository maintenance, schema or validator refactoring, citation cross-checking, and structural editing. Recent repository work has specifically used `Claude Code (Opus 4)` and `Codex (GPT-5.4)` as editing and implementation assistants. AI systems are not treated as primary evidence sources. Final claims, citations, policy judgments, and publication decisions remain subject to human review and responsibility.
 
-本專案可能在文稿編修、翻譯輔助、儲存庫維護、schema 或 validator 重構、引用交叉檢查與結構整理過程中使用 AI 協作工具。AI 系統不被視為主要證據來源；所有最終論點、引文、政策判斷與發布決策，均由人工審閱並承擔責任。
+本專案可能在文稿編修、翻譯輔助、儲存庫維護、schema 或 validator 重構、引用交叉檢查與結構整理過程中使用 AI 協作工具。近期儲存庫修訂曾明確使用 `Claude Code (Opus 4)` 與 `Codex (GPT-5.4)` 作為編修與實作輔助。AI 系統不被視為主要證據來源；所有最終論點、引文、政策判斷與發布決策，均由人工審閱並承擔責任。
 
 Contributors who materially use AI tools should disclose:
 
 使用 AI 工具進行實質協作的貢獻者應揭露：
 
-- Which tools were used. 使用了哪些工具。
+- Which tools and model variants were used. 使用了哪些工具與模型版本。
 - What they were used for. 用於哪些環節。
 - What was manually reviewed afterward. 後續哪些部分經過人工覆核。
 
-Examples include, but are not limited to: ChatGPT, Claude, Codex, GitHub Copilot, and Perplexity.
+Preferred disclosure format includes exact names such as `Claude Code (Opus 4)` or `Codex (GPT-5.4)`.
 
-例如但不限於：ChatGPT、Claude、Codex、GitHub Copilot、Perplexity。
+建議直接揭露精確名稱，例如 `Claude Code (Opus 4)` 或 `Codex (GPT-5.4)`。
 
 ---
 

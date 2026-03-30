@@ -10,7 +10,7 @@
 
 ## AI Collaboration Disclosure
 
-- AI tools used:
+- AI tools and models used (for example: `Claude Code (Opus 4)`, `Codex (GPT-5.4)`):
 - Usage scope:
 - Human review performed:
 
