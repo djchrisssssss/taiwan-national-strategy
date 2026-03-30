@@ -4,10 +4,10 @@
 
 | Field | Value |
 |-------|-------|
-| Report Date | 2026-03-25 |
-| Data Audit Date | 2026-03-25 (bibliography, source registry, statistics) |
-| Total Sources | 95 |
-| Total Tracked URLs | 95 |
+| Report Date | 2026-03-30 |
+| Data Audit Date | 2026-03-30 (bibliography, source registry, statistics) |
+| Total Sources | 169 |
+| Total Tracked URLs | 169 |
 | Total Data Points | 200 |
 | Chapters Covered | 16 (Ch01--Ch16) |
 
@@ -15,16 +15,16 @@
 
 ## 1. Executive Summary
 
-This report documents the current verification methodology and results for all structured quantitative data points used in the Taiwan National Strategy project. The repository currently tracks 95 bibliography sources, 95 auditable URLs, and 200 individually sourced statistics across 16 chapters. All data points carry a `verified: true` flag with an accompanying verification note, and the source registry now reflects live HTTP audit categories rather than assumed validity.
+This report documents the current verification methodology and results for all structured quantitative data points used in the Taiwan National Strategy project. The repository currently tracks 169 bibliography sources, 169 auditable URLs, and 200 individually sourced statistics across 16 chapters. All data points carry a `verified: true` flag with an accompanying verification note, and the source registry now reflects live HTTP audit categories rather than assumed validity.
 
-> **Note (2026-03-25)**: This report reflects the current 16-chapter structure and the first automated live URL audit / validator rollout. Historical chapter reordering and source consolidation are already represented in the current bibliography, statistics files, and source registry.
+> **Note (2026-03-30)**: This report reflects the current 16-chapter structure after bibliography / registry reconciliation, citation-integrity validation, and a refreshed live URL audit. Historical chapter reordering and source consolidation are already represented in the current bibliography, statistics files, and source registry.
 
 Key findings:
 
-- **Source quality is strong but concentrated.** Government and report-type sources account for 78 of 95 bibliography entries (82.1%), giving the project a heavily institutional evidence base.
-- **Live URL audit is now implemented.** The 2026-03-25 audit recorded 58 `reachable`, 17 `access_restricted`, 12 `missing`, and 8 `other` URL states.
+- **Source quality is strong but concentrated.** Government and report-type sources account for 145 of 169 bibliography entries (85.8%), giving the project a heavily institutional evidence base.
+- **Live URL audit is now implemented.** The 2026-03-30 audit recorded 115 `reachable`, 27 `access_restricted`, 15 `missing`, and 12 `other` URL states.
 - **Structured data integrity is high.** All 200 statistics currently pass schema validation and remain marked `verified: true`.
-- **The main maintenance burden is stale links, not missing metadata.** The biggest current verification gaps come from 404s, redirects, timeouts, and access-restricted sources rather than absent source documentation.
+- **The main maintenance burden is link decay and gated access, not missing citations.** The biggest current verification gaps now come from 404s, redirects, timeouts, and access-restricted sources rather than absent source documentation.
 
 ---
 
@@ -67,8 +67,9 @@ All statistics files conform to the schema defined in `data/schemas/statistics-s
 
 The bibliography (`references/bibliography.json`) and source registry (`references/source-registry.json`) serve as the dual backbone of source management:
 
-- **Bibliography**: Records 95 sources with metadata including type, authors, publication date, URL, DOI (where available), chapters cited, and verification status.
+- **Bibliography**: Records 169 sources with metadata including type, authors, publication date, URL, DOI (where available), chapters cited, and verification status.
 - **Source Registry**: Tracks URL-level verification with status flags (`reachable`, `access_restricted`, `missing`, `other`), last-checked dates, and per-URL notes on access restrictions or stability risks.
+- **Citation Integrity Validation**: The validator now cross-checks `src-*` citations in per-chapter reference documents and full-text chapters, and verifies statistics JSON source URLs against cited registry entries whenever a chapter reference table provides explicit source mappings.
 
 Cross-referencing between these two registries and the per-chapter statistics files ensures traceability from any data point back to its authoritative source.
 
@@ -80,23 +81,23 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 
 | Metric | Count |
 |--------|-------|
-| Total unique sources in bibliography | 95 |
-| Total tracked URLs in source registry | 95 |
+| Total unique sources in bibliography | 169 |
+| Total tracked URLs in source registry | 169 |
 | Total data points across all chapters | 200 |
 | Chapters with statistics files | 16 |
-| Sources with DOI | 1 |
-| Sources with live URL status recorded | 95 / 95 |
+| Sources with DOI | 4 |
+| Sources with live URL status recorded | 169 / 169 |
 | Data points marked `verified: true` | 200 / 200 |
 
 ### 3.2 Breakdown by Source Type
 
 | Source Type | Count | Percentage |
 |-------------|-------|------------|
-| Government | 37 | 38.9% |
-| Report | 41 | 43.2% |
-| Database | 11 | 11.6% |
-| Academic | 3 | 3.2% |
-| News | 3 | 3.2% |
+| Government | 71 | 42.0% |
+| Report | 74 | 43.8% |
+| Database | 13 | 7.7% |
+| Academic | 8 | 4.7% |
+| News | 3 | 1.8% |
 
 ### 3.3 Breakdown by Verification Status
 
@@ -104,10 +105,10 @@ Cross-referencing between these two registries and the per-chapter statistics fi
 |--------|-------|-------|
 | `verified: true` | 200 | All data points carry verification flags |
 | `verified: false` | 0 | No unverified data points remain in the dataset |
-| URL status: `reachable` | 58 | HTTP 2xx/3xx during 2026-03-25 audit |
-| URL status: `access_restricted` | 17 | HTTP 401/403 or equivalent access gating |
-| URL status: `missing` | 12 | HTTP 404 during live audit |
-| URL status: `other` | 8 | Timeouts, server errors, or unstable responses |
+| URL status: `reachable` | 115 | HTTP 2xx/3xx during 2026-03-30 audit |
+| URL status: `access_restricted` | 27 | HTTP 401/403 or equivalent access gating |
+| URL status: `missing` | 15 | HTTP 404 during live audit |
+| URL status: `other` | 12 | Timeouts, server errors, or unstable responses |
 
 ---
 
@@ -323,7 +324,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 | # | Check | Status |
 |---|-------|--------|
-| 1 | All 95 bibliography sources have unique `id` fields (src-001 through src-095) | PASS |
+| 1 | All 169 bibliography sources have unique `id` fields (src-001 through src-169) | PASS |
 | 2 | All sources have a `type` classification | PASS |
 | 3 | All sources have `chapters_cited` arrays linking to specific chapters | PASS |
 | 4 | All sources have `verified: true` and `last_checked` dates | PASS |
@@ -333,7 +334,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 | # | Check | Status |
 |---|-------|--------|
-| 1 | All 95 URLs are present in the registry | PASS |
+| 1 | All 169 URLs are present in the registry | PASS |
 | 2 | Each URL entry has a `source_id` linking back to bibliography | PASS |
 | 3 | Each URL entry uses one of `reachable`, `access_restricted`, `missing`, or `other` | PASS |
 | 4 | Each URL entry has a `last_checked` date | PASS |
@@ -344,7 +345,7 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 | # | Check | Status |
 |---|-------|--------|
-| 1 | Live URL audit executed on 2026-03-25 and synchronized to `source-registry.json` | PASS |
+| 1 | Live URL audit executed on 2026-03-30 and synchronized to `source-registry.json` | PASS |
 | 2 | Numeric values are plausible within stated context | PASS |
 | 3 | Units are consistently formatted across chapters | PASS |
 | 4 | Date fields use consistent formatting | PASS |
@@ -352,4 +353,4 @@ These data points change frequently and should be updated on a quarterly cycle:
 
 ---
 
-*This verification report was last updated on 2026-03-25. It should be treated as a point-in-time audit. Periodic re-verification is recommended according to the update schedule in Section 7.*
+*This verification report was last updated on 2026-03-30. It should be treated as a point-in-time audit. Periodic re-verification is recommended according to the update schedule in Section 7.*
