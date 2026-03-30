@@ -201,23 +201,30 @@ Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 
 ---
 
-## AI Collaboration Disclosure / AI 協作揭露
+## AI Collaboration & Data Verification / AI 協作與資料驗證
 
-This project may use AI collaboration tools for drafting support, translation support, repository maintenance, schema or validator refactoring, citation cross-checking, and structural editing. Recent repository work has specifically used `Claude Code (Opus 4)` and `Codex (GPT-5.4)` as editing and implementation assistants. AI systems are not treated as primary evidence sources. Final claims, citations, policy judgments, and publication decisions remain subject to human review and responsibility.
+This repository's recent revision work was completed through structured collaboration between the human author and AI systems, specifically `Claude Code (Opus 4)` and `Codex (GPT-5.4)`. `Claude Code (Opus 4)` supported drafting, structural editing, and bilingual refinement; `Codex (GPT-5.4)` supported repository maintenance, validation hardening, metadata consistency checks, and disclosure/report updates. AI systems are not treated as primary evidence sources.
 
-本專案可能在文稿編修、翻譯輔助、儲存庫維護、schema 或 validator 重構、引用交叉檢查與結構整理過程中使用 AI 協作工具。近期儲存庫修訂曾明確使用 `Claude Code (Opus 4)` 與 `Codex (GPT-5.4)` 作為編修與實作輔助。AI 系統不被視為主要證據來源；所有最終論點、引文、政策判斷與發布決策，均由人工審閱並承擔責任。
+本儲存庫近期的修訂工作，是由人類作者與 AI 系統進行結構化協作完成，這一輪修訂明確使用了 `Claude Code (Opus 4)` 與 `Codex (GPT-5.4)`。其中 `Claude Code (Opus 4)` 主要協助文稿整理、結構編修與雙語文字細化；`Codex (GPT-5.4)` 主要協助儲存庫維護、驗證補強、metadata 一致性檢查，以及揭露與報告更新。AI 系統不被視為主要證據來源。
 
-Contributors who materially use AI tools should disclose:
+AI contributions included:
 
-使用 AI 工具進行實質協作的貢獻者應揭露：
+AI 之協作內容包括：
 
-- Which tools and model variants were used. 使用了哪些工具與模型版本。
-- What they were used for. 用於哪些環節。
-- What was manually reviewed afterward. 後續哪些部分經過人工覆核。
+| Contribution / 協作項目 | Description / 說明 |
+|-------------------------|-------------------|
+| Drafting and editing / 文稿整理與編修 | Structural editing, chapter sequencing, wording refinement / 結構編排、章節順序調整、文字修訂 |
+| Translation support / 翻譯輔助 | Bilingual parity, Chinese-English wording alignment / 中英雙語對照與語句對齊 |
+| Repository engineering / repo 維護 | Validator refactoring, schema updates, citation integrity, metadata consistency / validator 重構、schema 更新、citation integrity 與 metadata 一致性檢查 |
+| Verification support / 驗證支援 | Cross-check workflow design, report synchronization, disclosure/report updates / 交叉核對流程設計、驗證報告同步、揭露與報告更新 |
 
-Preferred disclosure format includes exact names such as `Claude Code (Opus 4)` or `Codex (GPT-5.4)`.
+All analytical judgments, assessments, and conclusions remain the responsibility of the human author.
 
-建議直接揭露精確名稱，例如 `Claude Code (Opus 4)` 或 `Codex (GPT-5.4)`。
+所有分析判斷、評估與結論，仍由人類作者負責。
+
+Current audit details are documented in the verification reports.
+
+目前的資料稽核細節請參見 verification reports。
 
 ---
 
